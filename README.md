@@ -8,6 +8,7 @@ In this project, privacy policies are scraped using:
 - Google;
 - Alexa (https://www.alexa.com/topsites/), and; 
 - MOZ (https://moz.com/top500).
+
 From each of these sources we try to extract URLs and its respective privacy policy.
 
 ## Topic Modeling

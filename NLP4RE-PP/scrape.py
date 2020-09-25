@@ -1,4 +1,5 @@
 import socket
+import re
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
 from googlesearch import search
@@ -8,7 +9,6 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from simplified_scrapy.simplified_doc import SimplifiedDoc
-
 
 '''
 Author: Abdel-Jaouad Aberkane, Ghent University
@@ -31,13 +31,14 @@ class Scrape:
 	"""
 	Goal: search policies from Google
 	Args: search-query, number of desired policies
-	Output: list of parsed policies
+	Output: list of parsed policies as newspaper objects
 	"""
-	def scrape_policies_google(query, n_policies):
+	
+	def scrape_policies_google(self, query, n_policies):
 		policies = []
 		for url in search(query, tld='com', lang='en', start=0, stop=n_policies):
 			try:
-				print(url)
+				# print(url)
 				article = Article(url)
 				# Downloads the link’s HTML content
 				article.download()
@@ -47,10 +48,10 @@ class Scrape:
 			except:
 				pass
 		return policies
-
+	
 	# Source https://gist.github.com/graham-thomson/e9bf65ff17d214b144f91680cb81d438
 	# Alexa doesn't provide us anymore with categorization
-	def get_top_alexa_sites(category):
+	def get_top_alexa_sites(self, category):
 		category = category.title()
 		categories = ['Adult', 'Arts', 'Business', 'Computers', 'Games', 'Health', 'Home',
 		              'Kids and Teens', 'News', 'Recreation', 'Reference', 'Regional', 'Science',
@@ -81,24 +82,19 @@ class Scrape:
 				return str(url.lower())
 		
 		return [format_url(ts_url) for ts_url in top_sites]
-
-
-# Extract corresponding privacy policies from a list of URLs
-	def extract_policies_url_from_sites(websites):
+	
+	# Extract corresponding privacy policies from a list of URLs
+	def extract_policies_url_from_sites(self, websites):
 		print("Extract policies ..")
 		potential_policies = []
 		policies = []
 		for url in websites:
 			print(url + "\n")
 			try:
-				
 				r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-				
 				doc = SimplifiedDoc(r.content.decode('utf-8'))  # incoming HTML string
-				
 				lst = doc.listA(url=url)  # get all links
 				
-				print(len(lst))
 				for a in lst:
 					if (("policy" in a['url']) or ("policies" in a['url']) or ("privacy" in a['url'])):
 						# save all potential candidates
@@ -115,10 +111,9 @@ class Scrape:
 			print("policies: ")
 			print(policies)
 		return policies
-
-
+	
 	# Scrape html content from URLs
-	def scrape_policies(policies):
+	def scrape_policies_url(self, policies):
 		parsed_policies = []
 		for url in policies:
 			try:
@@ -135,8 +130,7 @@ class Scrape:
 		# avoid too many requests error from Google
 		
 		return parsed_policies
-
-
+	
 	def collect_policies(scraped_urls):
 		policies = []
 		counter = 0
@@ -150,7 +144,7 @@ class Scrape:
 		return policies
 	
 	# Extracts headers from parsed privacy policies and return dataframe
-	def find_headers(policies):
+	def find_headers(self, policies):
 		pre_dataframe = [[]]
 		for policy in policies:
 			
@@ -186,3 +180,16 @@ class Scrape:
 		
 		policies_dataframe = pd.DataFrame(pre_dataframe)
 		return policies_dataframe
+	
+	def urls_from_excel(self, doc, sheet):
+		PPcomp = pd.read_excel(doc, sheet_name=sheet)
+		PPlist = PPcomp.iloc[:, 0].to_list()
+		cleanPP = [re.sub('[,!?&“”():"]', '', str(x)) for x in PPlist if x is not None]
+		cleanPP = [re.sub('[" "]', '', str(x)) for x in cleanPP if x is not None]
+		cleanPP = [re.sub('[0-9]', '', str(x)) for x in cleanPP if x is not None]
+		
+		for i, s in enumerate(cleanPP):
+			if not ('http' in s):
+				cleanPP[i] = "https://" + s
+		
+		return cleanPP

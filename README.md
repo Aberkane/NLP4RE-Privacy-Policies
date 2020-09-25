@@ -4,7 +4,7 @@
 Abdel-Jaouad Aberkane (abdeljaouad.aberkane@ugent.be)
 
 ## Scraping
-In this project, privacy policies are scraped using:
+In this project, privacy policies are scraped using the following sources:
 - Google;
 - Alexa (https://www.alexa.com/topsites/), and; 
 - MOZ (https://moz.com/top500).

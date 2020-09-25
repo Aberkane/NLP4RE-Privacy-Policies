@@ -8,7 +8,7 @@ In this project, privacy policies are scraped using:
 - Google;
 - Alexa (https://www.alexa.com/topsites/), and; 
 - MOZ (https://moz.com/top500).
-as a source for collecting URLs. For each of these URLs we try to extract the privacy privacy of the website. 
+From each of these sources we try to extract URLs and its respective privacy policy.
 
 ## Topic Modeling
 In this project, topic modeling is conducted using Latent Semantic Analysis (LSA). The output is a set of topics and for each of them, a number of most-frequent occurring words (or bigrams or trigrams) is given. 

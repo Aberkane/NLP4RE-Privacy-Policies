@@ -180,17 +180,3 @@ class Scrape:
 		
 		policies_dataframe = pd.DataFrame(pre_dataframe)
 		return policies_dataframe
-	
-	@staticmethod
-	def urls_from_excel(doc, sheet):
-		PPcomp = pd.read_excel(doc, sheet_name=sheet)
-		PPlist = PPcomp.iloc[:, 0].to_list()
-		cleanPP = [re.sub('[,!?&“”():"]', '', str(x)) for x in PPlist if x is not None]
-		cleanPP = [re.sub('[" "]', '', str(x)) for x in cleanPP if x is not None]
-		cleanPP = [re.sub('[0-9]', '', str(x)) for x in cleanPP if x is not None]
-		
-		for i, s in enumerate(cleanPP):
-			if not ('http' in s):
-				cleanPP[i] = "https://" + s
-		
-		return cleanPP

@@ -9,10 +9,12 @@ Author: Abdel-Jaouad Aberkane, Ghent University
 - This class consists of methods that focus reading policies or URLs from files.
 '''
 
+
 class ReadPolicies:
 	
 	@staticmethod
 	def urls_from_excel(doc, sheet):
+		print("Extracting URLs from XLSX-file")
 		PPcomp = pd.read_excel(doc, sheet_name=sheet)
 		PPlist = PPcomp.iloc[:, 0].to_list()
 		cleanPP = [re.sub('[,!?&“”():"]', '', str(x)) for x in PPlist if x is not None]
@@ -40,6 +42,7 @@ class ReadPolicies:
 	
 	@staticmethod
 	def read_texts(dir, n_words_policy):
+		print("Extracting headers from XLSX-file")
 		all_files = os.listdir(dir)
 		policies_list = []
 		titles = []
@@ -77,8 +80,29 @@ class ReadPolicies:
 		# titles.append(text[0:min(len(text), 100)])
 		return policies_list, titles
 	
+	"""
+	Goal: read rows from Excel file and parse it to a string
+	Args: directory of the Excel file
+	Output: list of parsed header policies
+	"""
+	
 	@staticmethod
-	def read_headers(dir):
-		dfread = pd.read_excel(r'..\Scraper\policy_headers.xlsx')
-		df = pd.DataFrame(columns=['url', 'headers'])
-		df['url'] = dfread['URL']
+	def read_headers(dir_headers, n_words_policy):
+		print("Extracting headers from XLSX-file ...")
+		# dfread = pd.read_excel(r'data\policy_headers.xlsx')
+		dfread = pd.read_excel(dir_headers)
+		
+		# Create an empty list
+		header_list = []
+		
+		# Iterate over each row
+		for index, rows in dfread.iterrows():
+			row_tmp = ""
+			for element in rows:
+				if len(str(element)) > 3 and "txt" not in element:
+					row_tmp = row_tmp + " " + str(element)
+			
+			if len(row_tmp) > n_words_policy:
+				header_list.append(row_tmp)
+		
+		return header_list

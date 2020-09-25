@@ -1,0 +1,62 @@
+Title: Privacy Policy
+URL: https://www.activision.com/legal/privacy-policy
+Date of publishing: None
+Keywords: advertising, policy, andor, services, media, properties, activision, social, account, privacy, information, mobile
+Policy: 
+Activision collects Information about you from you and other sources. As set out below in more detail, we use and in specific cases combine that Information to operate, tailor content, personalize, adjust and improve our Properties, and to send you messages or personalized information about our games, your scores, new features and more, including for marketing and promotional purposes.
+
+Information Provided by You
+
+As set out in more detail in the following, Activision may collect Information from you when you: (A) create an Activision account with a Property; (B) use our Properties; (C) participate in sweepstakes, contests and promotions; (D) use Activision customer service; (E) choose to receive newsletters on products and services, receive marketing emails, and/or participate in surveys; (F) receive mobile advertising; (G) buy Activision services or products online; or (H) allow sharing through Social Media.
+
+A. Creation of an Activision Account
+
+Activision will collect certain Information from you when you register with a Property. Personal information collected during registration includes your first and last name, email address, username, and in specific cases, phone number. This personal information is combined with other Information such as your date of birth, country and information about your interests in and use of various products, programs and services and marketing preferences. Additionally, we collect and combine Information when you link a third party account (e.g., XBOX Live, PlayStation Network, Steam and Battle.net) to your Activision account, such as the username associated with you third party account, and the use of certain Properties may require you to link a third party account to your Activision account.
+
+B. Use of Our Properties
+
+When you visit or use our Properties we collect, process and/or combine Information about your use of those Properties, such as websites you visited before and after you used a Property, browser type and language, IP address, hardware and software information, advertising ID, third party account information (e.g., the username associated with your XBOX Live, PlayStation Network, Steam or Battle.net account), gameplay data, communications, usage data, purchase histories, and Social Media data. We use Cookies and/or similar technologies (collectively called “Cookies”) to do this. In addition, we or our partners also use Cookies and advertising IDs to serve ads in our Properties. Please see our Cookie Policy for more details.
+
+Activision collects, processes, and combines data such as your age, gender, interests, name, email address, gameplay, marketing preferences, customer service, and device-related information.
+
+Activision also publicly displays certain Information about you, including third party account information and gameplay information, on the Properties. For example, your PlayStation username will be displayed on leaderboards if you are a top player in a certain Activision game, whether or not you have an Activision account. If you have synced a third party account with your Activision account, we may make your username available to be searched by other users if you have not opted out of this feature. You may unlink the third party account or prevent it from being searched at any time through your Activision profile settings.
+
+To provide fair gaming experience to all players, Activision uses anti-fraud technologies to prevent any cheating and bad behavior in our games, including monitoring of game play and in-game communications as specified in the applicable terms of use.
+
+C. Sweepstakes, Contests, and Promotions
+
+When Activision runs contests or promotions on our Properties, we collect certain Information from participants such as their name, address, postal code, email address, phone number, age and/or date of birth, or other information or content submitted by you. We may also need to collect additional information in order for you to claim a prize. That Information will be combined with other account information and will be used and shared under this Privacy Policy.
+
+D. Interact with Customer Service
+
+To be able to provide you with customer service and assist you with resolving any issues you may have, Activision collects Information from you including your contact details, together with details of your customer service issue and its resolution.
+
+E. Receive Newsletters on Products and Services, Receive Marketing, and/or Surveys
+
+Activision offers you the ability to receive newsletters or marketing periodically by email, in-app notifications, or SMS in eligible countries, about our products and services, or products or services that may be of interest to you. We also, may occasionally send you surveys to improve player experience with our games. At any time, you can manage your preferences from your account settings and stop receiving further newsletters by unsubscribing from the link in the footer of each email we send to you, by opting out of in-app notifications, or by following the instructions in the SMS we send to you. If you are a US resident, you are subject to the SMS Terms of Use.
+
+F. Mobile Advertising
+
+Our mobile games include advertising for third party products and services. By accepting this Privacy Policy and downloading or continuing to play our mobile games, and unless you opt out of interest-based advertising as explained in our Cookie Policy, you consent to us and our advertising partners collecting, sharing and using information about you to show you relevant third party ads that might interest you in our mobile games, and to improve advertising, targeting and measurement systems.
+
+When you play our mobile games, we collect and share Information, including advertising IDs, non-personal identifiers and other information from your mobile device with advertising partners to enable the technical delivery of ads to your device. Our advertising partners may combine this Information with information which they have collected about you when you use their services (or the websites or services of third parties) to serve you more relevant ads in our mobile games or to improve the accuracy of their targeting and measurement systems. We recommend that you review our advertising partners’ privacy policies for more information, accessible in our Cookie Policy.
+
+You can review your options to manage and opt-out of mobile advertising by (1) visiting your mobile device developer's website or reviewing your device manual. Most mobile device developers will tell you how you can manage the settings on your mobile device to opt out of and/or delete Cookies from your mobile device, or to limit the use of your advertising ID, reset your advertising ID, and/or opt out of targeted advertising; or (2) by visiting http://networkadvertising.org/managing/opt_out.asp and/or http://youronlinechoices.com, or if you are in the EU http://www.youronlinechoices.eu/, for choices to opt out of advertising. You can also click on the AdChoices logo within an advertisement (where available).
+
+Please note: adjusting your preferences as described in this section does not mean you will no longer receive advertisements, it only means the ads you do see will be less relevant to your interests. We will also still use your device’s advertising ID to serve you with ads that may be less relevant to you; for example, we may use this for frequency capping (in other words, to control the maximum number of times you see the same ad from us).
+
+G. Buy Activision Products or Services Online
+
+Activision does not collect credit card and/or billing information when you purchase products or services (such as digital content) online. However, you may have to provide credit card and/or billing information to one of our third-party vendors to complete a purchase. We encourage you to review the privacy policy of our third-party vendors before providing them with your personal information, as their privacy practices may vary from ours. At the time of purchase, in specific cases, you also have the option to provide Information (such as your email address) to Activision to send you additional information or offers.
+
+H. Social Media
+
+You can interact with some Properties through social networking sites, such as Facebook and Twitter (or social media plug-ins and applications) ("Social Media"). When you interact with Activision and/or the Properties through Social Media you acknowledge that we access your Information, such as name, username or profile picture, solely under your Social Media privacy settings, and use it to tailor content, marketing, and improve and adjust user experience relating to Activision Properties, and (1) give you exclusive content; (2) personalize your online experience with us within and outside our Properties; and (3) contact you under applicable marketing preferences through Social Media, including through providing tailored marketing, or directly by sending you the latest news, special offerings, and rewards.
+
+When you post personal information publicly through the Properties, or on Social Media, it will be viewable by other users of these sites and we cannot prevent further use of the personal information by third parties. For more information about how your Social Media uses and protects your personal information, please refer to their privacy policies and terms of use.
+
+Information Provided by Other Sources
+
+We may also obtain Information, such as contact details (for example, name and email address), country, IP address, purchase histories, marketing preferences, cookie information, hardware and software information and other technical information about you from other sources, such as Activision Blizzard group companies, Social Media, our vendors (for example, event ticket providers and merchandise vendors), or partners (for example, advertisers, media partners or platform providers (e.g., Microsoft, Sony, Nintendo and Steam)), and combine that Information with Information we have collected from or about you. We only collect Information from other sources where they have confirmed to us they are legally entitled to share it with us.
+
+

@@ -1,0 +1,15 @@
+Title: Cookies Policy
+URL: https://pastebin.com/doc_cookies_policy
+Date of publishing: None
+Keywords: pastebin, policy, google, tracking, services, users, party, track, analytics, information, cookies
+
+Policy: Pastebin.com Cookies Policy
+
+Which cookies get stored and why
+
+Our use of cookies and tracking
+
+Pastebin uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Pastebin.We use Google Analytics as a third party tracking service, but we don’t use it to track you individually or collect your User Personal Information. We use Google Analytics to collect information about how our website performs and how our users, in general, navigate through and use Pastebin. This helps us evaluate our users' use of Pastebin; compile statistical reports on activity; and improve our content and website performance.Google Analytics gathers certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, time stamp, and similar data about your use of Pastebin. We do not link this information to any of your personal information such as your user name.Pastebin will not, nor will we allow any third party to, use the Google Analytics tool to track our users individually; collect any User Personal Information other than IP address; or correlate your IP address with your identity. Google provides further information about its own privacy practices and offers a browser add-on to opt out of Google Analytics tracking Certain pages on our site may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets. Do Not Track " is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. We do not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic Google Analytics tracking, which you may opt out of here . Because we do not share this kind of data with third party services or permit this kind of third party data collection on Pastebin for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.If you are interested in turning on your browser’s privacy and Do Not Track settings, the Do Not Track website has browser-specific instructions.
+***************************************************************
+
+

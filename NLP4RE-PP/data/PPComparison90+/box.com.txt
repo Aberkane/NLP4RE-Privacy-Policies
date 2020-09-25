@@ -1,0 +1,15 @@
+Title: Box Privacy Notice
+URL: https://box.com/legal/privacypolicy
+Date of publishing: None
+Keywords: notice, terms, used, personal, box, privacy, services, products, information, organization
+
+Policy: Overview
+
+At Box, we respect the privacy rights of users and recognize the importance of protecting your information. We provide a cloud-based content management platform and our products make it easier for people to share ideas, collaborate and help get work done. This Privacy Notice explains how information (including personal data as defined under GDPR) is collected, retained, used, disclosed, and transferred by Box and the available choices you have with regard to your personal information. This Privacy Notice applies to information collected, used or shared by Box when you use or access our websites, products, mobile applications or services (collectively, the "Box Services"), including when you attend a Box event or otherwise interact with us.
+
+Business Accounts
+
+If you use the Box Services as part of a business, an entity, or a non-profit (collectively, “Organization”) that has an agreement with Box, then the terms of that agreement between the Organization and Box will supersede the Privacy Notice where the terms overlap.
+***************************************************************
+
+

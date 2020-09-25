@@ -1,0 +1,46 @@
+Title: Privacy, cookies and data protection
+URL: https://www.eaton.com/us/en-us/company/policies-and-statements/privacy-cookies-and-data-protection.html
+Date of publishing: None
+Keywords: browser, protection, website, thirdparty, channels, data, web, recognize, cookies, preferences, privacy, information, set
+Policy: 
+Like many companies, Eaton uses “cookies” and other similar tracking technology (collectively "Cookies"). Eaton's server will query your browser to see if there are Cookies previously set by our electronic Information Channels.
+
+
+
+What are cookies?
+
+A cookie is a small text file which is placed on your device. Cookies help to analyze web traffic and allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. Certain cookies may contain Personal Data – for example, if you click “Remember me” when logging in, a cookie may store your username. Cookies may collect information, including a unique identifier, user preferences, profile information, membership information and general usage and volume statistical information. Cookies may also be used to collect individualized website use data, provide electronic Information Channel personalization or conduct and measure the effectiveness of advertising in accordance with this Notice.
+
+
+
+Cookies set by the website owner (in this case, Eaton) are called "first-party cookies". Cookies set by parties other than the website owner are called "third-party cookies." Third-party cookies enable third-party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third-party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites.
+
+
+
+What do we use cookies for?
+
+We use first-party and third-party cookies for several reasons. Some cookies are required for technical reasons in order for our Information Channels to operate, and we refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable us to track and target the interests of our users to enhance the experience on our Information Channels. Third parties serve cookies through our Information Channels for advertising, analytics and other purposes.
+
+
+
+We may place cookies or similar files on your device for security purposes, to tell us whether you have visited the Information Channels before, to remember your language preferences, to determine if you are new visitor or to otherwise facilitate site navigation, and to personalize your experience on our Information Channels. Cookies allow us to collect technical and navigational information, such as browser type, time spent on our Information Channels and pages visited. Cookies also allow us to select which of our advertisements or offers are most likely to appeal to you and display them to you. Cookies may enhance your online experience by saving your preferences while you are visiting a website.
+
+
+
+The specific types of first- and third-party cookies served through our Information Channels and the purposes they perform are described via the link below (please note that the specific cookies served may vary depending on the specific Information Channel you visit).
+
+
+
+What about other tracking technologies, like web beacons?
+
+Cookies are not the only way to recognize or track visitors to a website. We may use other similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphic files that contain a unique identifier that enable us to recognize when someone has visited our websites or opened an email we have sent them. This allows us, for example, to monitor the traffic patterns of users from one page within our websites to another, to deliver or communicate with cookies, to understand whether you have come to our websites from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of email marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their function.
+
+How can you manage your cookies?
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) to disable existing cookies; or (iii) to set your browser to automatically reject any cookies. However, please be aware that if you disable or reject cookies, some features and services may not work properly because we may not be able to recognize and associate you with your Eaton Account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+
+
+
+For more information on which cookies we use, click here.
+
+

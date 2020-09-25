@@ -1,0 +1,146 @@
+Title: Check Point Software
+URL: https://www.checkpoint.com/privacy/
+Date of publishing: None
+Keywords: check, materials, andor, services, point, cookies, terms, site, information, including, software
+Policy: 
+Privacy Policy
+
+We are usually able to resolve privacy questions or concerns promptly and effectively. If you are not satisfied with the response you receive from our Privacy Officer, you may escalate concerns to the applicable privacy regulator in your jurisdiction. Upon request, Check Point’s Privacy Officer will provide you with the contact information for that regulator.
+
+The list below sets out what is covered in this Privacy Policy and you can click on the headings to go to a specific section.
+
+This Privacy Policy explains how we use the personal information that Check Point collects or generates both in relation to the Check Point website ( www.checkpoint.com ) and our products and services.
+
+Cookies Notice
+
+Questions, comments and requests regarding this Cookies Notice can be sent to us using the contact details set out below:
+
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices if you are in the United States, or youronlinechoices.eu if you are outside the United States.
+
+The browsers of most computers, smartphones and other web-enabled devices are typically set up to accept cookies. If you wish to amend your cookie preferences for the Webpages, you can do this at any time by changing your browser settings. Your browser’s ‘help’ function will tell you how to do this. You do not have to accept cookies, however, please note that cookies are often used to enable and improve certain functions on the Webpages. If you choose to block cookies through your browser settings, it is likely to affect how the Webpages work and you may not be able to access all or parts of the Webpages.
+
+By using the Webpages and/or closing the pop-up cookie notice, you consent to the use of cookies on the Webpages. If you do not consent to the use of cookies on the Webpages, you should immediately leave the Webpages and/or change your browser settings to block cookies.
+
+We use this collected data for the purposes of troubleshooting, internet based advertising, informing you about products or services that may be of interest to you and improving the services offered.
+
+Where you have provided us with information about you as an individual (for example, by registering with us), we may use information collected using cookies to identify you as an individual and to inform you about products or services that may be of interest to you.
+
+Most of the cookies we use do not save any information that can identify you as an individual. Instead, we receive general and anonymized information from these cookies regarding all users of our Webpages and Services, including, but not limited to: the services accessed, the browser and operating systems used, activity data relating to the use of documents, time and date stamps, the type of user device and the cities that users are located in. We only collect part of your IP address in a form that does not permit recognition of or mapping to a specific individual.
+
+For more information about interest-based ads, or to opt out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices if you are in the United States, or youronlinechoices.eu if you are outside the United States.
+
+These cookies allow us to display promotions and advertisements from external websites that may be of interest to you. We have also signed a written data processing agreement with Google based on a template created by Google in association with data protection authorities. For further information on this, please contact Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland or visit www.google.com/analytics/terms/de.html and/or www.google.de/intl/de/policies/privacy .
+
+Cookies are small text files that are sent to and temporarily stored on your computer, smartphone or other device for accessing the internet whenever you visit a website.
+
+Unless otherwise stated, the definitions used in the Check Point Website Terms and Conditions are adopted in this Cookies Notice.
+
+References to “We” and “Us” in this Cookies Notice means Check Point Software Technologies Ltd., 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel, and other affiliates or companies within the Check Point international group.
+
+This Cookies Notice also applies to cookies used on any Check Point service including these listed below, which may not be an exhaustive list (each a “ Service ” and together the “ Services ”):
+
+This Cookies Notice applies to cookies used on any Check Point website with the Check Point domain and the Check Point operated websites listed below including (each a “Webpage” and together the “Webpages” ):
+
+This Cookies Notice provides you with information about the cookies we use and why we use them. It should be read together with the Check Point Website Terms and Conditions (governing your use of the Webpages and Services) and the Check Point Privacy Policy (outlining our practices regarding your personal data).
+
+Website Terms And Conditions
+
+CHECK POINT WEBSITE TERMS AND CONDITIONS
+
+PLEASE READ THESE TERMS CAREFULLY BEFORE YOU USE THIS SITE.
+
+A. DEFINITIONS
+
+“Check Point” means Check Point Software Technologies Ltd and any affiliated entities within the Check Point Group.
+
+“Materials” means any information and/or software available via the Site.
+
+“Intellectual Property” means (i) patents, patent disclosures and inventions (whether patentable or not); (ii) trademarks, service marks, trade dress, trade names, logos, corporate names and domain names, together with all of the goodwill associated therewith; (iii) copyrights and copyrightable works (including computer programs), mask works, and rights in data and databases; (iv) trade secrets, know-how and other confidential information; and (v) all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, renewals or extensions of, such rights, and all similar or equivalent rights or forms of protection in any part of the world.
+
+“Products” shall include all software tools created and/or utilized by Check Point to deliver the Services, and shall include any online or offline applications, application plug-ins running on any platform or device, and application programming interfaces, used for this purpose.
+
+“Services” means all professional data security and IT security services which may be performed by Check Point including, but not limited to product support, vulnerability scanning, security consultation, system hardening, incident response, penetration testing, and consulting services.
+
+“Site” means all content, including the Materials, included on this website (checkpoint.com).
+
+In these Terms, the words “you” and “your” refer to all visitors and users of this Site, and the words “we”, “us”, “our”, and “Check Point” refer to Check Point (as defined above), a company registered in the State of Israel at Check Point Software Technologies Ltd., 5 Shlomo Kaplan Street, Tel Aviv 67897, Israel.
+
+B. ACCEPTANCE OF TERMS
+
+By accessing and using this Site, you accept and agree to be bound by these Terms. If you are using this Site on behalf of a company or other corporate entity or institution, you represent that you have the legal authority to bind such entity to these Terms, in which case the terms “you” or “your” shall refer to such entity.
+
+If you do not agree to these terms, now or at any time, please do not use this site, our products and/or our services.
+
+C. LIMITED LICENSE
+
+The Materials on this Site are provided by Check Point as a service to its customers and those persons visiting the Site and may be used for informational and non-commercial purposes only.
+
+All the content on this Site is protected by Intellectual Property belonging to Check Point. Check Point reserves all of its rights in and pertaining to such copyright. No portion of this Site may be reproduced in any form, or by any means, without prior written permission from Check Point.
+
+Check Point hereby grants you a limited, non-exclusive, non-sublicensable, non-transferable, revocable right to access and use the Site and related Intellectual Property copyrights to:
+
+(1) View, download or print one copy of the information found on the Site solely for your personal, non-commercial use in support of the use or marketing of Check Point and its Products; or
+
+View, download or print one copy of the information found on the Site solely for your personal, non-commercial use in support of the use or marketing of Check Point and its Products; or (2) If you have a pre-existing business relationship with Check Point, you may download Materials for use in the furtherance of, and subject to the terms and conditions of, the provisions of your separate written agreement with Check Point. Please see the General User License Agreement detailed on our website for further details.
+
+Additionally, some Materials may be made available only subject to certain additional license terms which may accompany or are provided with such Materials, and your download and use of those Materials will be subject to those additional terms and conditions.
+
+This is a license, not a transfer of title in any Intellectual Property, the contents of this Site and/or the Materials. The license is also subject to the following restrictions: you may not: (a) modify the Materials or other contents of this Site or use them for any commercial purpose; (b) decompile, reverse engineer, or disassemble Materials except and only to the extent required to be permitted by applicable law; (c) remove any copyright or other proprietary notices from the Materials; (d) use the Materials or other contents of this Site in a manner inconsistent with the scope of the license granted in these terms.
+
+The trademarks, logos and service marks (“Marks”) displayed on this Site are the property of Check Point or its licensors. You are not permitted to use these Marks without the prior written consent of Check Point.
+
+D. USER SUBMISSIONS
+
+Any comments, information or other materials posted to this Site or transmitted to Check Point such as questions, comments, suggestions, or the like regarding Check Point Products, this Site and the Materials (“Feedback”) will be considered non-confidential and non-proprietary unless expressly agreed otherwise in writing by Check Point prior to your submission.
+
+Check Point shall have no obligations to you with regard to its use or disclosure of such Feedback, and Check Point shall have a worldwide, perpetual, irrevocable and fully-paid right to use, reproduce, prepare derivative works of, perform, display and distribute the Feedback, including any ideas, concepts, know-how or techniques contained in such Feedback, for any and all purposes without limitation, and to authorize others to do so as well. You are prohibited from posting or transmitting to or from this Site any unlawful, threatening, libelous, defamatory, obscene, pornographic, or other material that would violate any law. Check Point may, in its sole discretion, remove or delete any Feedback, for any reason, without prior notice.
+
+E. ELIGIBILITY TO USE THE SITE
+
+By using the Site, you represent that (i) your use of the Site is solely for your internal, personal and non-commercial purposes, and in order to learn about Check Point Products and Services, and (ii) your use of the Site does not (and will not) violate any applicable law or regulation and is (and will be) in strict compliance with these Terms. If Check Point is informed or has reason to believe that you are not eligible or that you become ineligible to use the Site, your use may be terminated or suspended without notice, at Check Point’s sole discretion.
+
+By accessing and using the Site, you agree that you will not, and will not permit any third party, in any way, to:
+
+• Use the Site and/or any Materials in violation of these Terms and/or any applicable law or regulation;
+
+Use the Site and/or any Materials in violation of these Terms and/or any applicable law or regulation; • Use the Site in connection with any commercial activity;
+
+Use the Site in connection with any commercial activity; • Use or launch any automated system, including without limitation, any “robots”, “spiders”, or “offline readers”, that accesses the Site in a manner that sends more request messages to the Check Point servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser;
+
+Use or launch any automated system, including without limitation, any “robots”, “spiders”, or “offline readers”, that accesses the Site in a manner that sends more request messages to the Check Point servers in a given period of time than a human can reasonably produce in the same period by using a conventional on-line web browser; • Use or launch any data mining or any similar data gathering and extraction tools, in connection with the Site (including by using software, scripts or automated agents and bots);
+
+Use or launch any data mining or any similar data gathering and extraction tools, in connection with the Site (including by using software, scripts or automated agents and bots); • Use the Site in any manner that damages, disables, overburdens, or impairs the Site, or Check Point systems or servers, and/or otherwise interferes with any other party’s use and enjoyment of the Site;
+
+Use the Site in any manner that damages, disables, overburdens, or impairs the Site, or Check Point systems or servers, and/or otherwise interferes with any other party’s use and enjoyment of the Site; • Mirror or frame the Site or any part of it on any other website or web page.
+
+Mirror or frame the Site or any part of it on any other website or web page. • Attempt to gain unauthorized access to any part of the Site and/or Materials;
+
+Check Point reserves the right to terminate or suspend your use of the Site and/or Materials, without prior notice, if it has reason to believe that you are not using the Site and/or Materials in accordance with these Terms.
+
+F. GENERAL DISCLAIMER
+
+Although Check Point has attempted to provide accurate information on the Site and in the Materials, Check Point assumes no responsibility for the accuracy of any such information.
+
+All information and Materials provided on this Site are provided “as is” without warranty of any kind, express, implied, statutory or otherwise, including without limitation any warranty of suitability, non-infringement or fitness for any particular purpose. Check Point shall have no liability for any damages whatsoever (including without limitation any lost profits, lost data, loss of use, or costs of procurement of substituted goods or services, whether direct, indirect , special or consequential in nature) arising out of or in connection with the Site and/or Materials.
+
+G. THIRD PARTY LINKS
+
+This Site may contain links to third party sites. The linked sites are not under the control of Check Point, and Check Point is not responsible for the accuracy or reliability of any information, opinions, advice or statements made on these linked sites. Access to any of these linked sites is at the user’s own risk.
+
+H. APPLICABLE LAW
+
+This site is controlled by Check Point from its offices within the United States. Check Point makes no representation that Products and/or Services offered by the Site are appropriate or available for use in other locations, and access to them from territories where their content is illegal is prohibited. Those who choose to access this Site from other locations do so under their own initiative and are responsible for compliance with applicable local laws. Not all Products or Services mentioned may be available in your country. Please contact your local sales representative for information as to Products and Services available in your country.
+
+I. TERMINATION
+
+Check Point shall have the right to terminate the license granted to you to use, interact with, download and use the Site, Materials made available from this Site at any time if you are found to be in breach any of these terms and conditions, or for any other reason. Upon a termination, you agree to immediately destroy any Materials in your possession or control.
+
+I. GOVERNING LAW
+
+Check Point reserves the right to change these terms and conditions at any time without notice by altering or updating this posting. Some of the Services or Materials available on this Site (e.g. software downloadable from this Site) may be superseded by expressly designated legal notices or terms located on particular pages at this Site. These Terms, including any claim arising out of these terms, shall be governed by the laws of the State of Israel and any proceedings arising out or in connection with this Site shall be subject to the exclusive jurisdiction of Tel-Aviv, Israel.
+
+J. MODIFICATIONS OF THE TERMS
+
+We may modify these Terms at any time at our sole discretion, and such modifications shall be effective immediately upon posting of the modified Terms. Your continued use of the Site shall be deemed as acceptance of the modified Terms.
+
+

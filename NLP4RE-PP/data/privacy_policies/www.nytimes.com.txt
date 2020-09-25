@@ -1,0 +1,98 @@
+Title: The New York Times
+URL: https://www.nytimes.com/privacy/privacy-policy
+Date of publishing: None
+Keywords: advertising, times, opt, providers, vendors, york, data, services, ads, information, users
+Policy: 
+What Do We Do With the Information We Gather?
+
+A) We provide the Times Services.
+
+We use your information to help you use and navigate Times Services, such as:
+
+Making a Times Service available to you
+
+Arranging access to your account
+
+Providing customer service
+
+Responding to your inquiries, requests, suggestions or complaints
+
+Completing your payments and transactions
+
+Sending service-related messages (e.g., a change in our terms and conditions)
+
+Saving your reading list, recipes or property searches
+
+Displaying your Crossword stats
+
+Letting you take part in paid services, polls, promotions, surveys, panels, research and comments.
+
+B) We Personalize Your Experience.
+
+We track your interests and reading habits (e.g., the articles you read) to personalize your reading experience using technology like algorithmic recommendations and machine learning. This is how we highlight articles you might be interested in and de-emphasize articles you’ve already read. For more information about content personalization on Times Services, you can read the Personalization F.A.Q. We also show you prices, promotions, products or services we believe you’ll find interesting, based on demographic and usage data.
+
+C) We Allow You to Share User-Generated Content.
+
+Any information you disclose in your content becomes public — along with your chosen screen name and uploaded photo.
+
+D) We Develop Products and Services, and Do Analysis.
+
+We analyze data on our users’ subscription, purchase and usage behaviors. This helps us make business and marketing decisions.
+
+For example, our analysis lets us predict preferences and price points for our products and services. It helps us determine whether our marketing is successful. It also shows us characteristics about our readers, which we sometimes share in aggregate with advertisers.
+
+Google Analytics is one of the analytics providers we use. You can find out how Google Analytics uses data and how to opt out of Google Analytics.
+
+E) We Carry Out Administrative Tasks.
+
+For auditing: We verify that our internal processes work as intended and comply with legal, regulatory and contractual requirements.
+
+For fraud and security monitoring: We detect and prevent cyberattacks or unauthorized robot activities.
+
+For customer satisfaction: We assess users’ satisfaction with Times Services and our customer care team.
+
+The above activities can involve outside companies, agents or contractors (“service providers”) with whom we share your personal information for these purposes (discussed further below).
+
+F) We Offer Sweepstakes, Contests and Other Promotions.
+
+You can take part in our sweepstakes, contests and other promotions. Some might have additional rules about how we use and disclose your personal information.
+
+G) We Allow for Personalized Advertising on Times Services and Create Audiences for Third Party Advertisers.
+
+We gather data and work with third parties to show you personalized ads. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of Times Services (e.g., your reading history), information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.
+
+For example, we use Google to serve ads on Times Services. Google uses cookies or unique device identifiers, in combination with their own data, to show you ads based on you visiting nytimes.com and other sites. You can opt out of the use of the Google cookie by visiting the related Google privacy policy.
+
+We also create specific audiences that allow us to serve you personalized advertising on our sites and apps, on behalf of advertisers. To do this, we combine information we collect through surveys (from subscribers, registered users and non-registered visitors) with information we collect automatically using tracking technologies as you use the Times Services. This combined information is used to build models for measuring users against demographic and interest-based attributes. With the help of service providers, these measurements are then transformed into pools of users grouped by common attributes. Each group is associated with a random ID that is then passed to our ad server for us in targeting advertising campaigns on Times Services.
+
+Another example is our affiliate link vendors, which we use in our guides and product recommendations. Times Services include links that will send you to affiliate vendor URLs and other services not operated or controlled by us. These affiliate vendors use cookies and other technologies to collect information about your navigation from the Times Services to the merchant you are visiting. If you buy a product after following a link to an affiliate link vendor’s URL, we may earn a commission.
+
+Additional notes:
+
+For more about targeted advertising, and how to opt out with your specific browser and device, go to the DAA Webchoices Browser Check and NAI Opt Out of Interest-Based Advertising. You can download the AppChoices app to opt out in mobile apps. You can also follow the instructions in the “What Are Your Rights?” section below.
+
+We try to limit how our third-party advertising technology vendors use the information they gather from you. Many of these providers require us to enter into contracts that allow them to optimize their own services and products, or that help them create their own.
+
+
+
+Essentially, these providers combine any information they gather about you through Times Services with information they receive from their other clients. This helps them target ads to you on behalf of their other clients, not just us.
+
+Essentially, these providers combine any information they gather about you through Times Services with information they receive from their other clients. This helps them target ads to you on behalf of their other clients, not just us. These third parties sometimes use other services in order to serve ads; check their privacy policies for more details. For further information on tracking technologies and your rights and choices regarding them, see the applicable Cookie Policy.
+
+H) We Advertise Times Services to You.
+
+We market our properties to you. Sometimes we use marketing vendors to do this.
+
+We serve ads through websites, locations, platforms and services operated and owned by third parties. Often these ads are targeted at people who have visited or registered for a Times Service but have not subscribed or purchased anything. The ads are also targeted at people with similar traits or behaviors to our subscribers or customers.
+
+We target our advertising to these users by uploading an encrypted customer list to a third party, or by incorporating a tracking technology from a third party onto our Times Service. The third party then matches individuals who appear in both our data and their data. Because of how this matching process works, the third party can’t read our encrypted customer list if they don’t already have it.
+
+To opt out of receiving these matched ads, contact the applicable third parties. For example, when we use “Custom Audience” to serve you our ad through Facebook, you should be able to hover over the box in the right corner of that Facebook ad and opt out. We are not responsible for any third party’s failure to comply with opt-out requests.
+
+We periodically send you targeted email newsletters or promotional emails. For information on opting out of these emails, see “What Are Your Rights?”
+
+I) We Aggregate (or De-identify) Personal Information Into Larger Findings.
+
+Sometimes we aggregate or de-identify information so that it can no longer identify you, under applicable laws. This helps us better understand and represent our users, such as when we measure ad performance, create advertising interest-based segments or compile survey results. We can use and disclose this aggregated or de-identified information for any purpose, unless an applicable law says otherwise.
+
+

@@ -1,0 +1,213 @@
+Title: Charte d’utilisation des donnees personnelles
+URL: https://legal.ubi.com/privacypolicy
+Date of publishing: None
+Keywords: ou, donnees, dutilisation, vous, à, données, personnelles, vos, et, la, charte, des, les, votre
+
+Policy: Charte d’utilisation des donnees personnelles
+
+05/2020
+
+«Your privacy is not a game» [1]
+
+Nos équipes Ubisoft créent des expériences originales et mémorables, pour que nos joueurs se divertissent, partagent et s’épanouissent à travers des jeux, des applications, des sites internet et des services en ligne (c’est ce que nous appelons nos « Services »).
+
+Pour vous permettre de profiter de nos Services, nous utilisons des données qui vous concernent et nous mettons un point d’honneur à respecter les règles du jeu !
+
+Pour comprendre comment nous utilisons vos données, connaître vos droits et les exercer : rien de plus simple, tout se passe ici.
+
+1. Une donnée personnelle, qu’est-ce que c’est ?
+
+Une « Donnée Personnelle » (ou « Donnée »), c’est toute information qui vous identifie :
+
+directement, par exemple votre nom, prénom, adresse email et numéro de téléphone ;
+
+indirectement, par exemple votre identifiant de compte, adresse IP, identifiant cookie ou données de jeux.
+
+Pour savoir quelles sont plus précisément les Données qu’Ubisoft collecte sur vous, rendez-vous à la section 3 « Dans quels cas Ubisoft collecte vos Données et dans quel but ? ».
+
+2. Les mineurs peuvent-ils accéder à nos Services ?
+
+Si vous êtes mineur, l’âge auquel vous pouvez créer un compte Ubisoft ou accéder à certains de nos Services change en fonction de la loi de votre pays en matière de données personnelles. Pour en savoir plus, rendez-vous à l’article consacré à l’accès à nos Services aux mineurs dans nos Conditions d’Utilisation des Services.
+
+3. Dans quels cas Ubisoft collecte vos Données et dans quel but ?
+
+Nous recueillons vos Données quand :
+
+a) Vous créez un compte Ubisoft (votre « Compte »).
+
+Nous collectons votre pseudonyme, mot de passe, adresse email, date de naissance et pays. Certaines Données, comme votre pseudonyme, sont rendues publiques pour permettre à votre communauté de vous retrouver dans nos Services.
+
+Lors de la création de votre Compte, vous avez la possibilité de gérer votre inscription à la newsletter d’Ubisoft par email. À tout moment, vous pouvez vous désabonner soit :
+
+en cliquant sur le lien de désabonnement à la fin de chaque newsletter,
+
+sur la page de gestion de votre Compte dans la section « Confidentialité et communication ».
+
+Rassurez-vous, même en cas de désinscription, vous recevrez toujours les emails nécessaires au fonctionnement de votre Compte (par exemple en cas de mot de passe oublié).
+
+b) Vous vous connectez à nos Services en utilisant vos identifiants d’un réseau social ou d’une plateforme externe (ex : Facebook, Twitch).
+
+Nous collectons les Données que vous avez acceptées de partager via le réseau social ou la plateforme externe en question.
+
+c) Vous faites un achat dans nos jeux et sur nos services en ligne.
+
+Nous collectons les Données nécessaires pour traiter cet achat, par exemple votre nom, prénom, adresses postale et email, pays, coordonnées bancaires et historique d’achats. Ces Données sont envoyées à nos partenaires prestataires qui s’occupent du paiement et de la livraison (pour en savoir plus, rendez-vous à la section 5 « Avec qui Ubisoft partage vos Données Personnelles ? »).
+
+d) Vous utilisez nos jeux, applications, sites internet et services en ligne sur ordinateur ou téléphone mobile.
+
+Nous collectons par exemple :
+
+Vos données de jeux, pour améliorer votre expérience et la sécurité de nos Services, par exemple : niveaux de jeu atteints, récompenses, classements, missions de jeu réalisées, statistiques comme le temps de jeu ou l’utilisation des différentes fonctionnalités ainsi que les données liées aux bugs et dysfonctionnements éventuels.
+
+Vos données de connexion et de navigation, pour permettre le fonctionnement et la sécurité de nos Services, par exemple : pages visitées, identifiant de votre appareil et de la connexion (adresse IP, adresse MAC), dates et heures de connexion, informations sur le navigateur et sur le système d'exploitation utilisés.
+
+Nous utilisons différentes technologies telles que des cookies pour recueillir ces Données lorsque vous utilisez nos Services ou visitez un site tiers sur lequel nous et nos partenaires affichons du contenu ou en analysons l’utilisation.
+
+Nous permettons à certains de nos partenaires de déposer des Cookies et d’accéder aux Cookies de votre terminal. Leur utilisation est soumise aux chartes d’utilisation des données personnelles des partenaires en question et non à cette Charte.
+
+Pour vous opposer au dépôt des Cookies ou demander leur suppression, ainsi que pour trouver la liste des partenaires qui peuvent stocker et/ou accéder à ces Cookies, rendez-vous sur la page de gestion des Cookies.
+
+Vous pouvez aussi configurer votre navigateur pour être informé(e) lorsque des Cookies sont déposés sur votre terminal ou désactiver ce dépôt de Cookies en consultant le menu "Aide" de votre navigateur. Cette configuration pourra affecter votre capacité à acheter en ligne ou accéder à certaines fonctionnalités de nos Services lorsque ces Cookies sont nécessaires à leur bon fonctionnement.
+
+e) Vous jouez à un jeu Ubisoft sur une console.
+
+Nous pouvons collecter par exemple votre âge, pays, pseudonyme et adresse email, renseignés sur vos consoles pour vous simplifier la création de compte.
+
+Nous collectons aussi des données transmises par les fabricants de consoles comme par exemple votre identifiant de console, vos données de jeux ainsi que les données liées aux bugs et dysfonctionnements éventuels.
+
+f) Vous discutez avec d’autres joueurs (forum, chat, pages Ubisoft sur les réseaux sociaux).
+
+Nous collectons par exemple votre pseudonyme, adresse IP, la date, l'heure et sauvegardons le contenu de vos messages pour vous permettre de communiquer avec d’autres joueurs dans un environnement sécurisé.
+
+g) Vous êtes exposés à des publicités ou contenus personnalisés sur nos Services ou ceux de nos partenaires.
+
+Nous collectons par exemple votre âge et sexe, la publicité diffusée et le nombre de fois où vous l’avez visionnée, son emplacement dans le jeu et l’identifiant de votre terminal. Nous collectons également des informations sur vos actions en lien avec la publicité, comme par exemple les sites visités, les heures et temps de visite.
+
+Nous pouvons combiner avec nos partenaires les Données collectées lorsque vous utilisez nos Services. Nous combinons aussi ces Données avec des études démographiques, publicitaires, de marché ou avec d’autres enquêtes analytiques.
+
+Nous pouvons utiliser l’ensemble de vos Données que nous avons collectées pour vous proposer des publicités, produits, services ou contenus personnalisés (« Contenus personnalisés ») via nos Services ou ceux de nos partenaires.
+
+Vous voulez retirer votre consentement ou vous opposer à la personnalisation des publicités ? Rendez-vous à la section 6 « Quels sont vos droits et comment les exercer ? », puis au paragraphe « Choisir et changer d’avis ».
+
+h) Vous participez à un jeu-concours ou sondage organisé par Ubisoft.
+
+Nous collectons par exemple votre nom, prénom, date de naissance, adresses postale et email.
+
+Nous utilisons ces Données pour organiser le jeu concours ou le sondage, vous envoyer des offres promotionnelles et/ou réaliser des statistiques internes.
+
+i) Vous nous contactez via le portail du Service Client Ubisoft ou via les réseaux sociaux.
+
+Si vous nous contactez via le portail du Service Client, nous collectons par exemple votre nom, prénom, pseudonyme, adresse email, date de naissance, pays, identifiant console et jeux enregistrés sur votre Compte, en fonction de vos demandes.
+
+Si vous nous contactez via les réseaux sociaux, nous collectons certaines Données présentes sur votre profil.
+
+Nous utilisons ces Données uniquement pour répondre au mieux à vos demandes.
+
+j) Vous ne respectez pas les règles du jeu.
+
+Lorsque vous utilisez nos Services, nous vous demandons de respecter nos Conditions d’Utilisation des Services et les codes de conduite associés à nos Services qui ont pour but de protéger nos utilisateurs, nos salariés et plus généralement les droits d’Ubisoft.
+
+Si vous ne respectez pas ces règles, vous pouvez être sanctionné(e) notamment en cas d’anti-jeu, de triche ou de toxicité. Nous conservons vos données le temps nécessaire pour appliquer ces sanctions, par exemple votre identifiant de Compte, vos données de jeu, votre adresse IP, l’identifiant de votre terminal et vos historiques de discussions.
+
+4. Combien de temps Ubisoft conserve vos Données Personnelles ?
+
+Nous ne conservons vos Données que le temps nécessaire pour réaliser les opérations pour lesquelles elles ont été collectées, sauf lorsque la loi prévoit une durée de conservation différente.
+
+Par exemple, nous conservons les Données qui sont liées à votre Compte jusqu’à sa clôture. Dans certains cas, les Données peuvent être conservées plus longtemps, par exemple lorsqu’elles nous permettent d’appliquer une sanction.
+
+5. Avec qui Ubisoft partage vos Données Personnelles ?
+
+Nous pouvons partager vos Données avec :
+
+Les filiales d’Ubisoft qui participent à la fourniture des Services. Vous pouvez trouver plus d’informations sur le groupe sur notre site web dédié : https://www.ubisoft.com/en-us/company/overview.aspx
+
+Les prestataires techniques qui participent à la fourniture des Services (ex : livraison de produits, promotion des Services, paiement en ligne, lutte contre l’anti-jeu, la triche et toxicité). En tant que sous-traitants, ces prestataires ont les mêmes obligations qu’Ubisoft de respecter les lois applicables en matière de protection des données personnelles.
+
+Les partenaires qui utilisent vos Données, pour vous proposer des publicités ou Contenus personnalisés. Vous voulez savoir qui sont les partenaires d’Ubisoft ? Rendez-vous sur la page de gestion des Cookies. Vous voulez retirer votre consentement à ce partage de Données ? Rendez-vous à la section 6 « Quels sont vos droits et comment les exercer ? », puis au paragraphe « Choisir et changer d’avis ».
+
+
+
+D’autres sociétés, uniquement en cas de transfert des activités d’Ubisoft.
+
+Les autorités administratives ou judiciaires, pour vérifier la bonne utilisation des Données par Ubisoft ou pour les besoins d’une enquête, dans le respect des conditions prévues par la loi. Ubisoft vérifie toujours la légitimité de la demande.
+
+Dans ces cas, vos Données peuvent être transférées vers des pays situés en dehors de l’Union européenne qui assurent un niveau de protection équivalent. En cas de transfert vers d’autres pays, la protection de vos Données est notamment assurée par la signature de clauses contractuelles types approuvées par la Commission européenne.
+
+6. Quels sont vos droits et comment les exercer ?
+
+Obtenir une copie de vos Données – « Accès et portabilité » : Vous pouvez demander une copie des Données liées à votre Compte à tout moment, par exemple pour les consulter, les utiliser vous-mêmes ou les transmettre à un autre prestataire. Comment faire ? Ubisoft a simplifié la procédure pour exercer votre droit :
+
+Rendez-vous sur la page de gestion de votre Compte, dans la section « Confidentialité et communication » puis « Télécharger vos données ».
+
+Si vous avez été sanctionné(e) sur nos Services, nous ne pourrons pas vous donner accès aux Données liées à votre sanction afin de maintenir notre capacité à détecter ou agir contre ces comportements.
+
+Corriger une de vos Données – « Rectification » : Vous avez le droit de rectifier vos Données lorsqu’elles sont inexactes ou incomplètes (ex : modifier votre adresse de livraison). Comment faire ?
+
+Rendez-vous sur la page de gestion de votre Compte, dans la section « Information du compte ».
+
+Choisir et changer d’avis – « Opposition et retrait » : Vous pouvez à tout moment retirer votre consentement ou vous opposer à la réception de newsletters ou d’emails publicitaires, à la personnalisation des publicités ou au partage de vos Données avec nos partenaires (hors filiales et prestataires techniques) : sur la page de gestion de votre Compte, dans la section « Confidentialité et communication », sur la page de gestion des Cookies pour paramétrer les Cookies, pour certains de nos jeux mobiles, dans les paramètres de confidentialité, sur votre téléphone ou votre tablette, dans les paramètres en activant « Limit Ad Tracking » sur les téléphones Apple ou en activant « Opt-out of Ads Personalization » sur les téléphones Android.
+
+Vous pouvez à tout moment retirer votre consentement ou vous opposer à la réception de ou d’emails publicitaires, à la personnalisation des publicités ou au partage de vos Données avec nos partenaires (hors filiales et prestataires techniques) :
+
+Supprimer votre Compte – « Droit à l’oubli » : Vous pouvez demander la clôture de votre Compte, et donc la suppression des Données qui y sont associées. Comment faire ?
+
+Rendez-vous sur la page de gestion de votre Compte, dans la section « Information du compte » puis « Clôturer votre compte Ubisoft ».
+
+Si vous avez été sanctionné(e) sur nos Services, nous ne pourrons pas supprimer les Données liées à votre sanction pour nous permettre de la maintenir.
+
+Limiter l’utilisation de vos données – « Limitation du traitement » : Vous avez aussi le droit de demander que vos Données ne soient plus utilisées ou ne soient pas supprimées le temps que votre demande soit traitée. Pour cela, contactez le Service Clients Ubisoft ici.
+
+Pour exercer vos droits si vous n’avez pas de Compte ou pour toute question concernant l’exercice de ces droits, vous pouvez à tout moment contactez le Service Client d’Ubisoft.
+
+Si vous estimez, après nous avoir contacté, que vos droits n’ont pas été respectés, vous avez la possibilité d’adresser une réclamation à l’autorité de contrôle de votre pays.
+
+7. Pourquoi Ubisoft peut utiliser vos Données ?
+
+Nous pouvons utiliser vos Données dans l’un des cas suivants :
+
+L’existence d’un contrat entre vous et Ubisoft pour vous fournir des Services. Vous concluez ce contrat avec Ubisoft en acceptant les Conditions d’Utilisation des Services.
+
+L’intérêt légitime d’Ubisoft (ou attente raisonnable des utilisateurs), pour vous fournir la meilleure expérience possible, par exemple pour assurer la sécurité des Services, modérer la communauté, répondre à vos demandes ou vous envoyer des newsletters.
+
+Le consentement pour vous proposer des publicités, produits, services ou contenus personnalisés en fonction de votre profil utilisateur.
+
+Ubisoft peut modifier ce document à tout moment. Nous vous informerons des principales mises à jour et nous vous invitons à consulter ce document régulièrement ou à nous contacter pour toute question. En continuant à utiliser nos Services, vous acceptez les modifications.
+
+8. Contacts
+
+Si vous avez une question concernant ce document, vous pouvez contacter :
+
+Le Délégué à la Protection des Données et son équipe ici.
+
+Par courrier : UBISOFT ENTERTAINMENT SA (responsable de traitement), 17, avenue Henri Fréville – 35200 Rennes (France)
+
+Pour toute autre question, notamment si votre question concerne le piratage de votre compte, un problème de paiement en ligne ou l'utilisation de nos produits et services, contactez le Service Client d’Ubisoft.
+
+Contacts locaux
+
+Canada
+
+Attention : Legal Department (Service Juridique)
+
+Adresse : Ubisoft : 5505 St-Laurent Blvd., Suite 5000, Montréal, Québec, H2T 1S6, Canada
+
+Corée du Sud
+
+Attention : Young-Soo Kim
+
+Adresse : 28 Saemunan-ro 5ga-gil, Jongno-gu, Seoul
+
+Email : Ubisoft_Privacy_Korea@generalagent.co.kr
+
+Numéro de téléphone : 02-736-8275
+
+Etats-Unis
+
+Attention : Ubisoft, Inc. Attn : Privacy Rights Administrator c/o Legal Department
+
+Adresse : 625ird Street San Francisco, 94107 CA, USA
+
+[1] “Votre vie privée n’est pas un jeu”
+***************************************************************
+
+

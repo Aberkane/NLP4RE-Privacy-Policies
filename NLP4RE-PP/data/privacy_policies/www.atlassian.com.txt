@@ -1,0 +1,40 @@
+Title: Privacy Policy
+URL: https://www.atlassian.com/legal/privacy-policy
+Date of publishing: None
+Keywords: policy, services, service, legal, improve, communications, provide, features, example, privacy, information, including
+Policy: 
+How we use information we collect
+
+How we use the information we collect depends in part on which Services you use, how you use them, and any preferences you have communicated to us. Below are the specific purposes for which we use the information we collect about you.
+
+To provide the Services and personalize your experience: We use information about you to provide the Services to you, including to process transactions with you, authenticate you when you log in, provide customer support, and operate, maintain, and improve the Services. For example, we use the name and picture you provide in your account to identify you to other Service users. Our Services also include tailored features that personalize your experience, enhance your productivity, and improve your ability to collaborate effectively with others by automatically analyzing the activities of your team to provide search results, activity feeds, notifications, connections and recommendations that are most relevant for you and your team. For example, we may use your stated job title and activity to return search results we think are relevant to your job function. We also use information about you to connect you with other team members seeking your subject matter expertise. We may use your email domain to infer your affiliation with a particular organization or industry to personalize the content and experience you receive on our websites. Where you use multiple Services, we combine information about you and your activities to provide an integrated experience, such as to allow you to find information from one Service while searching from another or to present relevant product information as you travel across our websites. Based on your interactions with different Atlassian products and advertisements, we will personalize your experience and tailor our communications and offers to you. To opt out of this personalization, please contact privacy@atlassian.com.
+
+For research and development: We are always looking for ways to make our Services smarter, faster, secure, integrated, and useful. We use information and collective learnings (including feedback) about how people use our Services to troubleshoot, to identify trends, usage, activity patterns, and areas for integration and to improve our Services and to develop new products, features and technologies that benefit our users and the public. For example, to improve the @mention feature, we automatically analyze recent interactions among users and how often they @mention one another to surface the most relevant connections for users. We automatically analyze and aggregate frequently used search terms to improve the accuracy and relevance of suggested topics that auto-populate when you use the search feature. In some cases, we apply these learnings across our Services to improve and develop similar features, to better integrate the Services you use, or to provide you with insights based on how others use our Services. We also test and analyze certain new features with some users before rolling the feature out to all users.
+
+To communicate with you about the Services: We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages. We send you email notifications when you or others interact with you on the Services, for example, when you are @mentioned on a page or ticket, when a task is assigned to you, or when you are added to a Trello board. We also provide tailored communications based on your activity and interactions with us. For example, certain actions you take in the Services may automatically trigger a feature or third-party app suggestion within the Services that would make that task easier. We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service. These communications are part of the Services and in most cases you cannot opt out of them. If an opt out is available, you will find that option within the communication itself or in your account settings.
+
+To market, promote and drive engagement with the Services: We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying Atlassian ads on other companies' websites and applications. These communications may be informed by audits of interactions (like counting ad impressions), and are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you. We also communicate with you about new Services, product offers, promotions, and contests. You can control whether you receive these communications as described below under "Opt-out of communications."
+
+Customer support: We use your information to resolve technical issues you encounter, to respond to your requests for assistance, to analyze crash information, and to repair and improve the Services. Where you give us express permission to do so, we share information with a third party expert for the purpose of responding to support-related requests.
+
+For safety and security: We use information about you and your Service use to verify accounts and activity, to detect, prevent, and respond to potential or actual security incidents and to monitor and protect against other malicious, deceptive, fraudulent or illegal activity, including violations of Service policies.
+
+To protect our legitimate business interests and legal rights: Where required by law or where we believe it is necessary to protect our legal rights, interests and the interests of others, we use information about you in connection with legal claims, compliance, regulatory, and audit functions, and disclosures in connection with the acquisition, merger or sale of a business.
+
+With your consent: We use information about you where you have given us consent to do so for a specific purpose not listed above. For example, we may publish testimonials or featured customer stories to promote the Services, with your permission.
+
+Legal bases for processing (for EEA users):
+
+If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws. The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
+
+We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+
+It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+
+You give us consent to do so for a specific purpose; or
+
+We need to process your data to comply with a legal obligation.
+
+If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
+
+

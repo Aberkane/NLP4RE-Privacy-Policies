@@ -1,0 +1,172 @@
+Title: Privacy Policy – Homa Games
+URL: https://homagames.com/privacy/
+Date of publishing: None
+Keywords: policy, right, information, collect, data, personal, services, consent, provide, games, privacy, homa
+Policy: 
+Homa Games Privacy Policy
+
+Effective Date: November 10th, 2019
+
+HOMA GAMES SAS (collectively, “Homa”, “us”, “our” or “we”) provides this Privacy Policy (this “Policy”) to describe the types of information we collect online and the ways we collect, store, use, and manage these information, including personal information, and data that our users (“users”, “your” or “you”) provide or we collect in connection with your activity on the Homa website available at http://homagames.com/ and any Homa game provided on a mobile platform (each a “Service,” collectively, the “Services”). The Data Controller of the data processing concerned by this Privacy Policy is: HOMA GAMES SAS, 76, rue Faubourg Saint-Denis, 75010 Paris Please note that the scope of this Policy is limited to information and data collected or received by Homa through your use of the Services. Homa is not responsible for the actions of individuals with no relationship to Homa or third-party companies, the content of their sites, the use of information or data you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those individuals or companies.
+
+Information and Data We Collect from You
+
+Personal Data You Provide When Visiting the Homa website
+
+- We collect personal data that you provide on the Homa website when you use our website Service. This could include:
+
+- contact Information such as your name, address, the browser settings - We collect personal data that you provide on the Homa website when you use our website Service. This could include:- contact Information such as your name, address, the browser settings Personal Data You Provide When Playing our games
+
+When you play our games, we collect information that helps us identify your device, such as:
+
+- the technical features of your terminal equipment and software used by you, such as the browser settings, the installed plug-ins, the time zone, the screen size of your device, unique device ID, Advertising ID*, device type, the type and version of your operating system (“OS”), and your general (city/country) location (based on your IP address).
+
+- Gameplay data - session time, in-app purchases (provided that we never receive your payment or credit card information), resource events such as the acquisition or spend of Game virtual currencies by you, progression events that are used to mark your progress or movement in the Game, Install timestamp: it is the timestamp of the first event received from the app.
+
+- We may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings by going to the settings for the app itself. Advertising ID means Apple Identifier for Advertisers (“IDFA”) on Apple and Google Advertising Identity (“GAID”). These are unique identifiers for mobile devices that advertisers use for personalized advertising. They are consistent across all mobile applications and thus allow cross-app tracking. Device identifier / information means device type, device model, device maker, device operating system and its language or other technical data like screen size or processor, or combination of this data available from a device for a developer for checking the device compatibility with a particular application. Opt-Out of interest based advertising
+
+On Apple, you can opt out of it by choosing “limit ad tracking” option in your privacy settings. On Google Android, you can opt out of these ads by choosing “Opt-out of personalized ads”. Advertising IDs are non-permanent, non-personal identifiers, which are uniquely associated with your device.
+
+Legal Base for Processing
+
+Under the data protection laws applicable, Homa must have a legal basis to process your personal data. The legal basis that applies in a particular instance will depend on the specific purposes for which Homa is processing your personal data:
+
+- In certain cases, Homa will ask for your consent to collect and process your personal data. Should you choose to provide your consent, you may later withdraw your consent by contacting us as described in the “Your Privacy Rights” section. or by opting-out in the settings of the app. Please note that the withdrawal of consent will not affect processing which has already occurred.
+
+- In other instances, the processing of your Personal Data may be necessary in order to comply with any applicable law or regulation or for the performance of a contract to which you are subject. You may not be able to opt-out of this processing, or your choice to opt-out may impact our ability to perform a contractual obligation otherwise owed to you.
+
+How We Use Your Information
+
+
+
+With your consent, we will also collect your information to troubleshoot, improve and optimize our services and games, contact you, conduct research and create reports for internal use to make sure we provide you with the best experience. Homa’s primary goals in using your information are to deliver services and games to you, based on your acceptance of our terms and conditions.With your consent, we will also collect your information to troubleshoot, improve and optimize our services and games, contact you, conduct research and create reports for internal use to make sure we provide you with the best experience. In addition, we use your information, with your consent, to promote our services and Games in our Apps and also in other publisher’s apps and to display third-party advertisements to you. Such advertisements allow us to offer you our Services for free. We use information collected through our service and games, with your consent, for purposes described in this Policy or disclosed to you in connection with our service. For example, we may use your information to:
+
+- Understand you and your preferences and provide you with new game content and services, tailor our products
+
+- Provide game updates, technical troubleshooting, understanding and analyzing trends in connection with usage of the Games, and administering the Games.
+
+- Respond to your comments and questions and provide customer service
+
+- Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by Homa and our selected partners
+
+- Conduct and administer contests promoted by Homa
+
+- Link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services
+
+- Deliver advertisements and promotional information to you in our Apps
+
+- Cross promote our Apps and services, meaning we may promote one of our Apps while you are playing a different App of ours
+
+- Analyze gameplay data, improve the content and track potential problems or trends with our Games and services, or to test our new game features and content
+
+Other things that we do without any necessary cookies are cross promote our Apps and services, meaning we may promote one of our Apps while you are playing a different App of ours
+
+Use of Your Information by Others
+
+Our Services contain third party tracking and data collection and analytics tools from our service providers. Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device-related data and information on our behalf. The third parties may have access to and collect data and information about you. Such information includes the following:
+
+- Application usage, access and session times
+
+- Your viewing of and interactions with advertising or the purpose of providing their services, including, for example, enabling, providing and delivering advertising
+
+- Device make, model and operating system;
+
+- Device properties related to screen size & orientation, audio volume and battery;
+
+- Carrier;
+
+- Operating system;
+
+- Name and properties of mobile application through which a consumer interacts with the Services;
+
+Country, time zone and locale settings (country and preferred language);
+
+Network connection type and speed;
+
+IP Address;
+
+Internet browser user-agent used to access the Services
+
+Identifier for advertisers (IDFA).
+
+
+
+- Auditing, researching, and analyzing data in order to provide, protect, and improve the Ad Services and to ensure that our technologies function properly - Serving Ads: To allow Publishers to offer advertising inventory in their apps, and Advertisers to bid on and display ads in that inventory.- Auditing, researching, and analyzing data in order to provide, protect, and improve the Ad Services and to ensure that our technologies function properly We also use these companies to automatically collect data from you, provided you gave your consent, when you use our apps in order to help us identify the advertising that are served to you and what you do after seeing those advertising. In addition, we share data with providers of analytic tools which we use to analyse your use of the apps. The privacy policies of our partners may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and we encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies. Check out the list of third parties we use on our website/in our games: Gameanalytics - https://gameanalytics.com/privacy Google analytics - https://www.google.com/analytics/terms/us.html
+
+http://www.google.com/intl/en/policies/privacy/partners/. Firebase - https://firebase.google.com/support/privacy/ Appsflyer - https://www.appsflyer.com/privacy-policy/ Tenjin - https://www.tenjin.io/privacy/ Facebook - https://www.facebook.com/privacy/explanation Iron source - https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/ Mopub - https://www.mopub.com/legal/privacy/ Admob - https://support.google.com/admob/answer/7665968; https://support.google.com/dfp_premium/answer/9012903 Applovin - https://www.applovin.com/privacy/ Vungle - http://vungle.com/privacy/ Unityads - https://unity3d.com/legal/privacy-policy Facebook Audiance Network - https://www.facebook.com/about/privacy/update?ref=old_policy Adcolony - https://www.adcolony.com/privacy-policy/ Tapjoy - https://www.tapjoy.com/legal/#privacy-policy While we strive to protect the information provided to our Partners, we have no direct control over their use of the collected information and therefore you acknowledge that we are not liable for any third party privacy breach and that our liability for our Partner breaches is limited to the amount we are able to receive as indemnification from our Partners (legal costs exempted).
+
+How We May Disclose Your Information to Third Parties
+
+Homa does not share your personal information except as approved by you or as described herein. We may share information we collect or derive with third parties for the following purposes:
+
+With service providers that perform services on our behalf, including the ones referenced above under “Third Party Services”;
+
+- With our affiliates;
+
+- For analytics and research purposes in order to analyze our games and their performances;
+
+- In response to subpoenas, court orders, or other legal processes with the competent courts and regulatory authorities;
+
+- To protect our or a third party’s legal rights, investigate fraud, or to defend against a legal claim;
+
+- As part of a business transfer such as a merger, acquisition, or a bankruptcy;
+
+- With your consent, we may share anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties;
+
+- We may use analytics services provided by third parties, including Google Analytics. These service providers may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes.
+
+Your Privacy Rights
+
+
+
+- Accessing and Correcting Your Personal Information. Homa may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, then please provide Homa with the necessary information to correct it.
+
+- Withdrawing Your Consent. Contact us if you would like to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal.
+
+- Erasing or Restricting Access to Your Information. You may request to delete or restrict access to your personal data. We may postpone or deny your request if your personal data is in current use for providing Services or for other legitimate purposes, in which case we will let you know if we are unable to do so and why.
+
+- Transferring your Personal Data (Otherwise known as Your Right to Data Portability). You have the right to receive your personal data that you have provided us in a structured, commonly used and machine-readable format and the right to transmit that data to another party of your choice, where technically feasible. However, this right shall not apply where it would adversely affect the rights and freedoms of others.
+
+- Post Mortem Right to privacy. You have the right to set instructions regarding the storage, deletion or communication of your personal data after your death.
+
+- Right to Make Complaint: if you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement. You have certain rights in connection with your personal information and how we handle it. Some of these rights may be subject to some exceptions or limitations. At any time, you may contact Homa at the address provided in the “Contact Homa Games” section herein and request to access the personal data that Homa holds about you.- Accessing and Correcting Your Personal Information. Homa may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, then please provide Homa with the necessary information to correct it.- Withdrawing Your Consent. Contact us if you would like to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal.- Erasing or Restricting Access to Your Information. You may request to delete or restrict access to your personal data. We may postpone or deny your request if your personal data is in current use for providing Services or for other legitimate purposes, in which case we will let you know if we are unable to do so and why.- Transferring your Personal Data (Otherwise known as Your Right to Data Portability). You have the right to receive your personal data that you have provided us in a structured, commonly used and machine-readable format and the right to transmit that data to another party of your choice, where technically feasible. However, this right shall not apply where it would adversely affect the rights and freedoms of others.- Post Mortem Right to privacy. You have the right to set instructions regarding the storage, deletion or communication of your personal data after your death.- Right to Make Complaint: if you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement. If you have any concerns about the way we process your personal data, you are welcome to contact our data protection officer at dpo@homagames.com or write to us at the address set forth in the “Contact Homa Games” section. We will look into your request and make good faith efforts to resolve any concern you may have.
+
+Data Retention
+
+Homa retains your personal data that are strictly necessary for the functioning of the Services for as long as needed to provide you with our Services and for an additional period of 5 years from the end of the Services in case we need to resolve any dispute before the competent courts and authorities, unless we are required by law to delete it or if Homa accepts your request to delete the information.
+
+If we have concluded a contract concerning a service which value is of a minimum of 120 Euros, we will retain the contract and related-data for 10 years from the conclusion of the contract.
+
+We will retain your personal data, and enforce our agreements.The data collected, with your consent, by cookies or related-tracking technology are kept for a maximum of 13 months. Please report to the “How we use your Information” and “Use of Your Information by Others” sections to consult in details the data retention period per cookie or related-tracking technology.
+
+Security
+
+Homa takes reasonable measures to protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, destruction and or any form of unlawful use. Although we make good faith efforts to store the information collected on the Services in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.
+
+Children's Privacy
+
+Our Policy Regarding Children. We do not knowingly collect or solicit personal data from anyone under the age of 16 or knowingly allow such persons to use our Services without the authorization of the holder of the parental responsibility for the child.
+
+If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address, without the authorization of your parents. No one under the age of 16 may provide any personal data without such authorization.
+
+In the event that we learn that we have collected personal data from a child under the age of 16 without the authorization of the holder of the parental responsibility, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 16 without the aforementioned authorization, please contact us.
+
+Transfer of Personal Data Outside of the European Economic Area
+
+We may transfer information that we collect about you to affiliated entities, or to other third parties located in countries or jurisdictions which are not part of the European Economic Area. We use the “Model contracts for the transfer of personal data to third countries” agreed by the European Commission as adequate safeguards to secure the transfer of your data and their processing outside of the European Economic Area. You can obtain a copy of these adequate safeguards by requesting them to the following address: contact@homagames.com In addition, we may transfer your personal data to a State which is not considered by the European Commission or the CNIL as offering a level of legal protection of personal data that is equivalent of the one in force in France, if you have expressly consented to their transfer or if the transfer is necessary under one of the following conditions: - To the safeguarding of your life;
+
+- To protect the public interest;
+
+- To Comply with obligations to ensure the establishment, exercise or defence of a legal claim;
+
+- to the consultation, under regular conditions, of a public register which, by virtue of legislative or regulatory provisions, is intended for the information of the public and is open to consultation by the public or by any person proving a legitimate interest;
+
+- the performance of a contract between Homa Games and you, or pre-contractual measures taken at your request;
+
+- The conclusion or performance of a contract concluded or to be concluded, in your interest, between Homa and a third party.
+
+- by decision of the Commission nationale de l'informatique et des libertés
+
+Changes to This Policy
+
+

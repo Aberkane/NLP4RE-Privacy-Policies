@@ -1,0 +1,24 @@
+Title: NVIDIA Privacy Policy
+URL: https://www.nvidia.com/en-us/about-nvidia/privacy-policy/
+Date of publishing: None
+Keywords: ship, policy, using, contact, collect, nvidia, data, personal, products, privacy, information, software
+Policy: 
+We collect personal data to provide many of our gaming products and services. This is an overview of the types of data we collect, and how we use that data. Visit privacy.nvidia.com to review information about specific NVIDIA products and services.
+
+Types of data. We may ask for personal information when you make purchases from the online NVIDIA Store, or when we need to configure GeForce Experience, GeForce NOW, and SHIELD TV. We’ll only ask for the minimum data we need, depending on the products you use. If you don't want to share your data, you may not be able to use some of our products, or they may not work as well. Here is some information we might need:
+
+
+
+Your contact information, including name, email address, phone number, and shipping address, so that we can contact you or ship items you have requested;
+
+Your birthdate and geographic region in which you reside, so we can comply with local laws;
+
+Details on your device and network configurations, how you are using our products or services (including the software you are using), and details on how your system is performing, so we can optimize hardware and software configurations.
+
+Additional data can help us improve our products. Depending on the products you use, we might request your error or crash data so we can find and fix bugs. But we won't collect this information unless you consent.
+
+Uses of data. We use personal data to contact you, ship products to you, comply with local laws, optimize your hardware and software configurations, and fix bugs. We also use personal data for our legitimate interests in business forecasting, usage analytics, and new product development.
+
+Finally, and only if you consent, we use personal data to make recommendations for you. For example, we might personalize your experience on NVIDIA.com based on the games you play, or we might personalize NVIDIA advertising to promote content you’ve engaged with previously.
+
+

@@ -1,0 +1,282 @@
+Title: Privacy Policy
+URL: https://sagomini.com/privacy-policy/
+Date of publishing: None
+Keywords: policy, sites, collect, data, personal, services, parties, privacy, information, sago
+Policy: 
+About Our Privacy Policy
+
+Hello! Welcome to the SAGO SAGO Privacy Policy.
+
+Sago Sago (owned and operated by Spin Master Ltd.) is committed to protecting your privacy. While our apps are designed for young kids and parents, our websites (www.sagomini.com, www.sagominibox.com) are intended for adult use only. We take privacy seriously at Sago Sago and this policy is designed to share the information we collect and how we use it.
+
+This Privacy Policy is also part of the Terms of Use that explain your rights and responsibilities, as well as Sago Sago’s, when using our services and sites.
+
+If you don’t agree with this Privacy Policy or the Terms of Use, you should not use these sites and services.
+
+Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification
+
+
+
+Sago Sago (owned and operated by Spin Master Ltd) is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certification Program (“the Program”). The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO Seal. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. The PRIVO COPPA certification Seal posted on this page indicates Sago Sago has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process.
+
+If you have questions or concerns about our privacy practices, please contact us at (416) 703-6459 or privacy@sagosago.com. If you have further concerns after you have contacted us, you can contact PRIVO directly by emailing privacy@privo.com.
+
+Information We Collect
+
+We collect the following personal data from parents and grownups:
+
+Name (screen or nickname)
+
+
+
+Billing address
+
+
+
+Shipping name and address (physical subscriptions only)
+
+
+
+Password
+
+
+
+Phone number
+
+
+
+Payment details
+
+
+
+Email address
+
+Sago Mini School collects user generated content from children, including drawings and audio recordings, and saves them on our servers to display back to parents in the Sago Mini School Parent’s app. This content is not shared publicly at any time.
+
+If a parent purchases the physical subscription box on behalf of a child, they additionally provide:
+
+Child’s first name
+
+
+
+Month and year of birth
+
+
+
+Information about the child’s interests, if they choose to do so
+
+We collect the following non-personal information when you install and/or use one of our apps:
+
+Unique device identifier
+
+
+
+IP address
+
+
+
+Browser type and version
+
+
+
+Mobile phone carrier
+
+
+
+Game progress
+
+
+
+Time spent playing
+
+
+
+Achievements
+
+Additionally, we may use cookies and web beacons to help deliver and analyze our services (e.g., counting the number of times a page or advert has been viewed). We also use cookies to personalize content and ads.
+
+How We Collect and Process Your Information
+
+We collect and process personal data when parents and grownups voluntarily:
+
+Register for a Sago Mini account online
+
+
+
+Subscribe to one of our physical or digital subscriptions
+
+
+
+Pay for one of our services or products
+
+
+
+Complete a customer survey or provide feedback on any of our products
+
+
+
+Subscribe to a newsletter or alert
+
+
+
+Request technical support
+
+When a child is using Sago Mini School, they can save their user generated content in the form of drawings and audio recordings.
+
+We collect and process personal data using the following third party services for functions such as technical support, transactional (i.e., shipping notices) or marketing emails, order management, and payment processing:
+
+Amazon Web Services (aws.amazon.com/privacy)
+
+
+
+Avalara (avalara.com/us/en/legal/privacy-policy.html)
+
+
+
+Chargebee (chargebee.com/privacy)
+
+
+
+dotDigital (dotdigitalgroup.com/privacy-policy)
+
+
+
+Helpscout (helpscout.com/company/legal/privacy)
+
+
+
+SendGrid by Twilio (twilio.com/legal/privacy)
+
+
+
+Shopify (physical subscriptions only) (shopify.com/legal/privacy)
+
+
+
+Stripe (stripe.com/privacy)
+
+We collect and process non-personal data when you:
+
+Use our websites
+
+
+
+Use our apps
+
+We may receive your non-personal data indirectly from the following third party analytics providers. These third parties do not share your user data; they are used to support the operation of our apps (respective privacy policies are noted below):
+
+Facebook Analytics (facebook.com/policy.php)
+
+
+
+Google Analytics (policies.google.com/privacy)
+
+
+
+Mixpanel (mixpanel.com/privacy)
+
+
+
+Unity (unity3d.com/legal/privacy-policy)
+
+We use the below third party attribution platform to record installs of our apps in relation to the parent experience, as well as to track in-app events in the parent’s section of our apps (privacy policy noted below):
+
+Appsflyer (appsflyer.com/privacy-policy)
+
+How We Use Your Information
+
+We work with companies that follow this privacy policy and agree not to use your information for any other purposes.
+
+We use the information we collect to:
+
+Process your order(s) and manage your account
+
+
+
+Provide technical support
+
+
+
+Understand your use of our sites and apps
+
+
+
+Help us operate, analyze, and improve our sites and services
+
+
+
+Contact you about new services and features
+
+
+
+Send push notifications if consent has been given
+
+
+
+Let you know about specials offers on other products we think you might like
+
+How We Store Your Information
+
+Sago Sago uses generally accepted security measures and safeguards to keep the data it collects secure. We require that the third parties we work with do the same.
+
+These measures and safeguards include:
+
+Limiting access to the data to those persons who need it to complete their work for Sago Sago
+
+Using a fire-wall protected environment
+
+Storing personal information in secure operating environments
+
+Your information is retained as long as necessary or relevant for the practices described in this Privacy Policy. We also keep information as otherwise required by law.
+
+Sago Sago cannot and does not guarantee and does not accept liability for unintentional disclosure.
+
+Where We Store Your Information
+
+The information we maintain may be stored both within and outside of the United States and Canada. As part of the services and products we offer and the third party services we use (e.g., payment processors), the information you provide to us may be transferred to countries outside these areas.
+
+If we transfer your information outside of these areas, we will take appropriate steps to ensure that any personal data relating to you will continue to be adequately protected. By using our sites and services, you consent to such transfer(s) as necessary.
+
+Privacy Policies of Other Websites
+
+We may include links to third parties from our website or services. Sago Sago isn’t responsible for these companies and including a link to them doesn’t mean that Sago Sago endorses them. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+
+Your use of Sago Sago’s sites and services may also be subject to the terms and conditions and privacy policies of other services that Sago Sago doesn’t control. This includes mobile application stores, mobile software platforms, online social media sites, and payment processors.
+
+How to Update or Remove Your Information
+
+Sago Sago keeps your content for as long as necessary to provide its services. If you want to opt out of services, or review or delete you or your child’s information, please contact us at privacy@sagosago.com.
+
+Notice to California Residents
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain members of Sago Sago to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Privacy Policy applies only to their activities within the State of California.
+
+To make such a request, please send an email to privacy@sagosago.com.
+
+Legal Disclosure
+
+As you can see, we collect minimal personal data from parents and grownups who wish to provide it, and some non-personal data for internal use only or in conjunction with third parties to help us operate, analyze, and improve our sites and services. In addition, we may disclose your personal or non-personal information to additional parties if we believe we are required to by law, by a judicial proceeding, to protect Sago Sago’s rights and properties, or to investigate fraud, intellectual property infringement, and any other conduct that might be illegal or expose Sago Sago or a user of its services to legal liability.
+
+In addition, Sago Sago may disclose your information in the event of a change or proposed change in the ownership of the company; for example, a sale, a merger, or a bankruptcy.
+
+Changes to our Privacy Policy
+
+This policy was last updated March 26, 2020.
+
+Sago Sago may change or update the Privacy Policy at any time as we add new or different features, or as the law changes. Unless another date is given, the changes are effective upon posting. If we make a material change to this policy and we have your email address, we may contact you to notify you before making the changes. You should review the Privacy Policy frequently.
+
+How to Contact Us
+
+If you have questions, please contact us at privacy@sagosago.com.
+
+You can also write to us at:
+
+Sago Sago Toys Inc.
+
+487 Adelaide St. W., Suite 301
+
+Toronto, ON M5V 1T4
+
+CANADA
+
+

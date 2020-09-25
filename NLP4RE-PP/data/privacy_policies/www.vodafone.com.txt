@@ -1,0 +1,268 @@
+Title: Our privacy policy
+URL: https://www.vodafone.com/about/privacy-centre/our-privacy-policy
+Date of publishing: None
+Keywords: advertising, policy, cookie, id, web, targeted, online, provide, privacy, used, user, set
+Policy: 
+Where it appears What it’s called What it’s used for Type
+
+nr-data.net JSESSIONID Cookie set by New Relic: provides a platform for monitoring the performance of web and mobile applications. 2
+
+mc.yandex.ru yabs-sid Analytics cookie used to understand how a visitor uses a website, which are the popular pages, which have issues etc. 2
+
+nebula-cdn.kampyle.com kampyle_userid Medallia website survey/feedback tool cookie. 2
+
+nebula-cdn.kampyle.com kampyleUserSessionsCount Medallia website survey/feedback tool cookie. 2
+
+swiftype.com __st_user_uuid Cookie used for website search. 2
+
+chatlingual.com vodafoneciot.connect.cid ChatLingual cookie: lets support agents communicate instantly with customers in any language. 2
+
+boldchat.com bc-visit-id Cookie set by the BoldChat live chat service. 3
+
+vodafone.de umdid Functional cookie for identification of a user's device. 3
+
+boldchat.com bc-visitor-id Cookie set by the BoldChat live chat service. 3
+
+boldchat.com bc.visitor_token Cookie set by the BoldChat live chat service. 3
+
+highcharts.com __cfduid Cookie used to set a visitor id for CloudFlare to help speed up page load times. However it is set by Highcharts which is used to set-up interactive charts on web pages. 3
+
+js-cdn.
+
+dynatrace.com dtCookie This cookie name is associated with, software from Dynatrace, an application performance management (APM) software company. Their software manages the availability and performance of software applications and the impact on user experience in the form of deep transaction tracing, synthetic monitoring, real user monitoring, and network monitoring. 3
+
+fullstory.com dtPC Dynatrace web analytics/performance cookie. 3
+
+tags.tiqcdn.com VF-SID Cookie set by the SMAPI web performance monitoring tool. 3
+
+tags.tiqcdn.com dtPC Dynatrace web analytics/performance cookie. 3
+
+scripts.demand
+
+base.com dtPC Dynatrace web analytics/performance cookie. 3
+
+js-cdn.dynatrace.com dtLatC Dynatrace web analytics/performance cookie. 3
+
+js-cdn.dynatrace.com rxvt Dynatrace web analytics/performance cookie. 3
+
+script.hotjar.com _hjCachedUserAttributes Cookie used by Hotjar: a behaviour analytics company that analyses website use, providing feedback through tools such as heatmaps, session recordings, and surveys. 3
+
+d2oh4tlt9mrke9.
+
+cloudfront.net sc.ASP.NET_SESSIONID Session recording analytics cookie. 3
+
+az416426.vo.
+
+msecnd.net ai_user Azure Application Insights cookie used for user tracking. 3
+
+script.crazyegg.com dtPC Dynatrace web analytics/performance cookie. 3
+
+d2oh4tlt9mrke9.
+
+cloudfront.net SessionCamTestCookie Session recording analytics cookie. 3
+
+az416426.vo.
+
+msecnd.net ai_session Azure Application Insights cookie used for session tracking. 3
+
+vodafone.es womtp_a2bc Walmeric phone call management tool analytics cookie. 3
+
+tags.tiqcdn.com VF-OPT Cookie set by the SMAPI web performance monitoring tool. 3
+
+thomsonreuters
+
+corporategroupweb.
+
+d2.sc.omtrdc.net s_vi Adobe Analytics cookie used to store the Adobe Visitor ID: set by Thomson Reuters. 3
+
+tags.tiqcdn.com rxvt Dynatrace web analytics/performance cookie. 3
+
+js-cdn.dynatrace.com dtPC Dynatrace web analytics/performance cookie. 3
+
+fullstory.com rxvt Fullstory cookie used to analyse the visitor browsing experience to help identify issues. 3
+
+script.crazyegg.com rxvt Used by the CrazyEgg analytics tool to understand how visitors interact with a website. 3
+
+js-cdn.dynatrace.com rxVisitor Dynatrace web analytics/performance cookie. 3
+
+vodafone.co.uk dtCookie Dynatrace web analytics/performance cookie. 3
+
+js-cdn.dynatrace.com dtSa Dynatrace web analytics/performance cookie. The dtSa cookie is used to save user action names, such as Click on Login across different pages 3
+
+d2oh4tlt9mrke9.
+
+cloudfront.net sc.InTg SessionCam web session recording analytics cookie. 3
+
+s7.addthis.com __atrfs AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. 4
+
+s7.addthis.com __atuvc AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. 4
+
+s7.addthis.com __atuvs AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. 4
+
+yahoo.com A1 Cookie used by Yahoo for advertising. 4
+
+yahoo.com A1S Cookie used by Yahoo for advertising. 4
+
+yahoo.com A3 Cookie used by Yahoo for advertising. 4
+
+atdmt.com AA003 Atlas Solutions (now owned by Facebook) cookie, used for tracking a user's web activity and target adverts based on profiles generated using Facebook's user data. 4
+
+agkn.com ab Aggregate Knowledge (Neustar) cookie used by its data management platform to enable real time targeting and consumer profiling functionality. 4
+
+serving-sys.com ActivityInfo2 Sizmek (formerly DG MediaMind) cookie used to provide multi-platform targeted advertising services. 4
+
+amazon-adsystem.com ad-id Amazon cookie used as part of its affiliate marketing programme. 4
+
+amazon-adsystem.com ad-privacy Amazon cookie used as part of its affiliate marketing programme. 4
+
+adnxs.com anj AppNexus Inc. cookie used by on-line advertising technology and services. 4
+
+atdmt.com ATN Atlas Solutions (now owned by Facebook) cookie, used for tracking a user's web activity and target adverts based on profiles generated using Facebook's user data. 4
+
+yahoo.com B Cookie used by Yahoo for advertising conversion tracking. 4
+
+linkedin.com bcookie LinkedIn Browser ID cookie used when sending requests to LinkedIn. 4
+
+bluekai.com bkdc BlueKai cookie used to aggregate anonymous activities and enables marketers to provide more targeted online advertising. 4
+
+bluekai.com bkpa BlueKai cookie used to aggregate anonymous activities and enables marketers to provide more targeted online advertising. 4
+
+bluekai.com bku BlueKai cookie used to aggregate anonymous activities and enables marketers to provide more targeted online advertising. 4
+
+www.linkedin.com bscookie LinkedIn secure browser cookie used when sending requests to LinkedIn.
+
+
+
+https://www.linkedin.com/legal/l/cookie-table 4
+
+adform.net cid Adform cookie used to target ads to users, to evaluate how well the ads work, and to see users’ opt-out choices. Sets an unique identifier for the user. https://site.adform.com/privacy-center/adform-cookies/ 4
+
+in.getclicky.com cluid Clicky cookie used to provide web analytics. 4
+
+adform.net CM Adform cookie used to target ads to users, to evaluate how well the ads work, and to see users’ opt-out choices.https://site.adform.com/privacy-center/adform-cookies/ 4
+
+adform.net CM14 Adform cookie used to target ads to users, to evaluate how well the ads work, and to see users’ opt-out choices.https://site.adform.com/privacy-center/adform-cookies/ 4
+
+youtube.com CONSENT Cookie set by YouTube to allow the display of embedded videos. 4
+
+quantserve.com d Quantcast cookie used for audience segmentation to provide targeted advertising services. 4
+
+demdex.net demdex This cookie helps Adobe Audience Manger perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etc. 4
+
+demdex.net dextp This cookie helps Adobe Audience Manger perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etc. 4
+
+dpm.demdex.net dpm This cookie helps Adobe Audience Manger perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etc. 4
+
+eloqua.com ELOQUA Oracle cookie used for the delivery of online marketing services. 4
+
+eloqua.com ELQSTATUS Oracle cookie used for the delivery of online marketing services. 4
+
+everesttech.net ev_sync_dd Adobe cookie that stores information on user engagements with on-line ads. 4
+
+everesttech.net everest_g_v2 Adobe cookie that stores information on user engagements with on-line ads. 4
+
+everesttech.net everest_session_v2 Adobe cookie that stores information on user engagements with on-line ads. 4
+
+serving-sys.com eyeblaster Sizmek (formerly DG MediaMind) cookie used to provide multi-platform targeted advertising services. 4
+
+facebook.com fr Facebook cookie which contains a browser and user unique ID combination, used for targeted advertising. 4
+
+youtube.com GPS YouTube cookie that registers a unique ID on mobile devices to enable tracking based on geographical GPS location. 4
+
+yahoo.com GUC Yahoo cookie used for advertising conversion tracking. 4
+
+yandex.ru i Cookie set by the Russian Yandex search engine for user tracking. 4
+
+mookie1.com id Cookie set by the Media Innovation Group for on-line advertising. 4
+
+doubleclick.net IDE Doubleclick cookie used to determine what areas of a website the user is browsing to determine the type of adverts they would like to see. 4
+
+cdn.syndication.
+
+twimg.com lang Twitter cookie used for user tracking and targeting. Helps determine the language settings of a user’s browser, to better serve relevant information in the right language. 4
+
+linkedin.com lang Used by LinkedIn to set its default locale/language.https://www.linkedin.com/legal/l/cookie-table 4
+
+ads.linkedin.com lang Cookie related to LinkedIn's marketing services to gain insight into types of users on the site based on LinkedIn profile data, to improve targeting. Used to set the default locale/language. https://www.linkedin.com/legal/l/cookie-table 4
+
+linkedin.com lidc Used by LinkedIn for request routing. https://www.linkedin.com/legal/l/cookie-table 4
+
+linkedin.com lissc LinkedIn cookie used for authentication. 4
+
+addthis.com loc AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. This cookie stores the geolocation of the link's sharer. 4
+
+quantserve.com mc Quantcast cookie used for audience segmentation to provide targeted advertising services. 4
+
+mookie1.com mdata Cookie set by the Media Innovation Group for on-line advertising. 4
+
+bing.com MUID Cookie used by Microsoft Advertising's click measurement processes. 4
+
+mookie1.com ov Cookie set by the Media Innovation Group for on-line advertising. 4
+
+twitter.com personalization_id Cookie used by Twitter for tracking and targeting. 4
+
+eloqua.com SAMESITESET Oracle cookie used for the delivery of online marketing services. 4
+
+tidaltv.com sync-his Cookie set by Videology for on-line advertising. 4
+
+taboola.com t_gid Cookie set by Taboola to assign an unique user ID used for advertising attribution and reporting purposes. 4
+
+taboola.com taboola_session_id Cookie set by Taboola to assign a temporary per session User ID for advertising attribution and reporting purposes. 4
+
+adsrvr.org TDCPM Cookie set by TheTradeDesk ad serving platform. 4
+
+adsrvr.org TDID Cookie set by TheTradeDesk ad serving platform. 4
+
+doubleclick.net test_cookie Doubleclick cookie used to determine what areas of a website the user is browsing to determine the type of adverts they would like to see. 4
+
+tidaltv.com tidal_ttid Cookie set by Videology for on-line advertising. 4
+
+agkn.com u Aggregate Knowledge (Neustar) cookie used by its data management platform to enable real time targeting and consumer profiling functionality. 4
+
+serving-sys.com u2 Sizmek (formerly DG MediaMind) cookie used to provide multi-platform targeted advertising services. 4
+
+criteo.com uid Cookie that stores an user id set by the Criteo advertising platform. 4
+
+adform.net uid Adform cookie used to target ads to users, to evaluate how well the ads work, and to see users’ opt-out choices. Sets an unique identifier for the user.https://site.adform.com/privacy-center/adform-cookies/ 4
+
+linkedin.com UserMatchHistory Used by LinkedIn for ad ID syncing. https://www.linkedin.com/legal/l/cookie-table 4
+
+mathtag.com uuid Cookie set up MediaMath Inc. a US based digital advertising business. 4
+
+adnxs.com uuid2 AppNexus Inc. cookie used by on-line advertising technology and services. 4
+
+addthis.com uvc AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. This cookie is used to check how often the user interacts with AddThis. 4
+
+youtube.com VISITOR_INFO1_LIVE Cookie used by YouTube to store an user unique identifier to track the viewing of embedded videos. 4
+
+w55c.net wfivefivec Cookie used by Dataxu for on-line advertising. 4
+
+addthis.com xtc AddThis provides web widgets to enable visitors to create and share links to content across social networks. They also make use of the data collected to provide advertisers and marketers with profile information for targeted, behavioural advertising. 4
+
+yandex.ru yandexuid Cookie set by the Russian Yandex search engine for user tracking. 4
+
+yandex.ru ymex Cookie set by the Russian Yandex search engine for user tracking. 4
+
+youtube.com YSC Cookie set by YouTube when displaying embedded videos. 4
+
+vodafonecomprod.
+
+tt.omtrdc.net mboxPC Adobe Target personalisation cookie. 4
+
+cdn.taboola.com trctestcookie Advertising cookie delivered by Taboola. 4
+
+server.seadform.net cid Adform advertising cookie. 4
+
+m.exactag.com exactag_new_uk Cookie used to analyse the effectiveness of marketing campaigns. 4
+
+scripts.demand
+
+base.com rxvt Demandbase marketing cookie. 4
+
+vodafonecomprod.
+
+tt.omtrdc.net mboxSession Adobe Target personalisation cookie. 4
+
+vodafone.co.uk s_ecid Adobe Experience Cloud Manager cookie set after the AMCV cookie is set by the client. The purpose of this cookie is to allow persistent ID tracking in the 1st-party state and is used as a reference ID if the AMCV cookie has expired. 4
+
+

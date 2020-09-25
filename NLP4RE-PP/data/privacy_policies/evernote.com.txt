@@ -1,0 +1,38 @@
+Title: Privacy Policy
+URL: https://evernote.com/privacy/policy
+Date of publishing: None
+Keywords: policy, business, evernote, end, collect, data, access, address, account, privacy, information, service
+Policy: 
+Effective Date: January 1, 2020 – What’s New >>
+
+For a prior version of our Privacy Policy, click here.
+
+In the event of a conflict, the English language version shall govern.
+
+Return to Privacy Center
+
+Introduction
+
+As we state in our 3 Laws of Data Protection, we are committed to protecting the privacy of your data. This Privacy Policy explains more specifically what information Evernote Corporation and its Group Companies (together, “Evernote,” “we” or “us”) collect, use, and disclose about you when you access or use our websites and applications, which we refer to collectively as “the Service,” contact our customer service team, engage with us on social media, or otherwise interact with us. The Service includes the Evernote Software.
+
+Please note, if you use Evernote Basic, Plus, or Premium, you are both the Account Holder and End User of an Evernote Service account. If you use Evernote Business, the Account Holder is the Customer who has contracted with Evernote as defined in our Evernote Business Agreement and the End Users are the individuals whose user accounts are linked to that Evernote Business account. You can find these and other defined terms used in this policy in our Glossary at the end of this page.
+
+If you are an End User of an Evernote Business account, please note that the Account Holder of your Evernote Business account (such as your employer or organization) may have established its own rules regarding End Users’ access, use, disclosure, or retention of data stored in that account. Also note that while an Administrator of an Evernote Business account has access to the End User accounts linked to that Evernote Business account, an Administrator cannot access any other accounts that are not linked to the Evernote Business account. You can find more information on how your personal Evernote Service account works with your Evernote Business account by visiting https://help.evernote.com/hc/en-us/articles/209005287.
+
+Although significant changes are rare, this policy may be amended as new features, technology, or legal requirements arise, so please check back from time to time. We’ll notify you if we make a significant change and, where required, seek your consent.
+
+What information does Evernote collect?
+
+We built Evernote to help you remember and organize your ideas, thoughts, and memories. That means you can input, upload, or store in Evernote any text, images, and other data that you choose—we refer to that information as“Content”. We also collect and receive the following types of information:
+
+Basic subscriber information . To open your account and process payments, we collect and receive identifiers like your email address and, depending on how you purchase a subscription to Evernote Plus, Evernote Premium or Evernote Business (each a “Paid Service”), your billing address and other payment information.
+
+. To open your account and process payments, we collect and receive identifiers like your email address and, depending on how you purchase a subscription to Evernote Plus, Evernote Premium or Evernote Business (each a “Paid Service”), your billing address and other payment information. Usage data. We collect and log Internet or other electronic network information on how you and others access and use Evernote, for example, the act of creating a note or sharing a note. Usage data may be collected through cookies, and similar technologies. For more information, including how to opt-out, visit our Cookie Information page .
+
+Location information. We collect the IP address you use to connect to the Service and — if you choose to share it — your location information from a mobile device.
+
+Device information. We collect information about the number and type of devices you use to connect to the Service, as well as information about the operating systems on those devices (e.g., iOS, Android, Windows). Learn more about information our applications collect from your device on our Data Usage page .
+
+We also may link your subscriber information with data we receive from our partners and other third parties to help understand your needs and provide you with a better experience. For example, if you create or log into an Evernote account using your Google Apps credentials via single sign-on, we will have access to certain information such as your name and email address as authorized in your Google Apps profile settings.
+
+

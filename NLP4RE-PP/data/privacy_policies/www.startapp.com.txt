@@ -1,0 +1,280 @@
+Title: StartApp End User Privacy Policy
+URL: https://www.startapp.com/policy/privacy-policy/
+Date of publishing: None
+Keywords: policy, shared, end, andor, data, personal, rights, startapp, privacy, information, mobile, user, partners
+Policy: 
+StartApp End User Privacy Policy
+
+
+
+
+
+StartApp Inc. and its Affiliates (“we,” “us,” “our” or “StartApp”) respects your privacy. This privacy policy (the “Policy”) explains StartApp’s privacy practices with respect to your personal information throughout the entire StartApp Network, the ways your personal information and data is collected, used and shared and the rights and options available to you with respect to your personal data.
+
+Who we are?
+
+StartApp is a mobile advertising and data company that develops, operates and supports an advertising platform, solution and network (“StartApp Solution”) for the purpose of serving targeted and personalized advertisements to individuals (“End Users”) based on their profile.
+
+For more information about StartApp, you may visit our website at: www.startapp.com or contact us at support@startapp.com.
+
+Introduction with StartApp Network.
+
+StartApp Solution collects and processes your personal data, location and other data from several sources (such as through StartApp SDK (software development kit) embedded or integrated in variety of mobile apps , StartApp RTB (real time bidding) platform used for placement of ads on real time (RTB), supply side platforms or partners, advertisers, and other data providers; together: “Data Sources”).
+
+StartApp shares or makes available such data (or part of it) with the following third parties (i) advertisers which run their campaigns on StartApp inventory (mobile apps engaged directly with StartApp or indirectly through other advertising networks or platforms; “Advertisers”); (ii) advertising agencies and other business partners, which run their campaigns on StartApp inventory or on their independent inventory, and can be “processors” or “controllers” of the data (together: “Business Partners”); and (iii) third parties which run or operate their own data bases, solutions or platforms which may act as “controllers” of data and may use your data together with other data they process about you (“Data Partners”).
+
+“StartApp Network” means the advertising network of StartApp which includes Data sources on the one hand and Advertisers, Business Partners and Data Partners on the other hand, whereby your data is collected, processed, used, made available and shared for the Purpose (as defined below).
+
+Purpose of Data Processing.
+
+Your data is collected, processed, used and shared by StartApp throughout StartApp Network for the purpose of serving you targeted and personalized advertisements based on your profile; provided however that, if we anonymize your data, we may use it for other purposes as well (together: the “Purpose”).
+
+Non-personal and/or anonymized data, is a data which neither identifies you personally nor is identifiable. Anonymization may be made by deleting, hashing or encrypting your Advertising ID (or MAID), which is your unique identifier used by us to differentiate your data from data of other users, and make it identifiable thereof.
+
+When we share your data with third parties (Advertisers, Business Partners and/or Data Partners) we will contractually obligate them to use the data for the Purpose only, other than if they represent that they can use it for other purposes subject to your consent or other lawful basis.
+
+Stop Receiving Advertisements; contact our support at support@startapp.com
+
+Please note that it is not StartApp’s decision to display ads within the mobile app you use, but the app’s developer or publisher who uses our services (directly or indirectly). However, we believe that you benefit from these apps, since in most cases, displaying Advertisements is essential for keeping publishers’ apps and services free of charge. Moreover, when app’s developer or publisher uses our services (directly or indirectly) Advertisements provided to you may be optimized and/or customized to you, which improves your experience with the app.
+
+If you wish to stop receiving Advertisements, you should contact the app’s developer or publisher, whose details you can find on Google Play or Apple App Store, and submit your request to it. Alternatively, you may change your mobile phone settings (IOS / Android).
+
+You may contact us at support@startapp.com and we will do our best to help you.
+
+Opting out.
+
+You have the choice to opt-out from the entire StartApp Network and/or from sharing of your personal data with our Data Partners, by clicking your preferred choice under Section 12 (Opt-out Rights) below. By opting out, your experience with Advertisements provided to you within StartApp Network will not be optimized or customized to you.
+
+StartApp may be a controller or processor of your personal data, considering the way data is collected by or through each Data Source and its usage by us or each of our Advertisers, Business Partners or Data Partners.
+
+You hereby agree to the use of: (a) electronic means to consent to and complete this Policy and to provide you with any notices given pursuant to this Policy; and (b) electronic records to store information related to this Policy.
+
+Our Privacy Policy in a Glance
+
+Section Summary 2 Information we collect directly or indirectly from you We will collect, process, use and share (pursuant to this Policy) the following data if available to us: your Advertising ID, Internet Protocol addresses, Location, name of app (where our SDK is installed), gender and age (if shared with or assumed by us), data of a query of installed apps, device properties, Bluetooth paired devices, device sensors, carrier, ISP, network connection details and Wi-Fi data, roaming, local time zone, language settings, your interests and behavioral data assumed from keywords shared with us. 3 Collection of your Location We will collect, process, use and share (pursuant to this Policy) the following data if available to us: exact location (if you provide a permission to the App where our SDK is installed or embedded). We will assume your location if you are connected to Wi-Fi and/or mobile network cell whose assumed location is known to us. Your country, city and region may be available to us from your IP or other Data Sources. 4 Information we collect from your interaction with Advertisements or from Advertisers When you interact with an Advertisement, advertising attribution and measurement will be shared with us. We may receive post click usage and/or activity within mobile apps which Advertisement leads to these apps or the app services. 5 Collection of Sensitive Information StartApp does not require nor does it knowingly or intentionally collect or solicit any Sensitive Information from or of End Users. 6 Children’s Privacy StartApp does not knowingly or intentionally collect or solicit personal information from children (as they are defined under applicable law). 7 Use of your personal information for personalized, targeted Advertisements We will use (including: sell, license or share) the information collected by or shared with us for the Purpose, i.e.: serving targeted and personalized advertisements to you based on your profile and activity. 8 Use of your information for other purposes We will use the information collected by or shared with us for other purposes as well, such as: improve StartApp Solution, develop new services update or upgrade existing services; operate, maintain, protect and manage StartApp Solution; audit and track usage statistics and traffic flow; detect fraud in connection with StartApp Solution; enforce this Policy and prevent unlawful activities; and comply with any applicable laws. 9 Sharing Data with third parties We may share your data (or part of it) with Advertisers, advertising networks, Business Partners and/or Data Partners; attribution partners; competent authorities; our affiliated corporate group entities; and in the event of merger, sale or transfer of all or a portion of our assets or shares or other reorganization or reconstruction in our ongoing business. 10 Cookies and Data Collection by Third Party If you open a mobile webpage from an App where our SDK is installed or embedded, we may place a cookie on your device mobile browser with your Advertising ID which will be used by us for the Purpose. 11 Non-personal and/or anonymized data Non-personal and/or anonymized data may be collected, processed and used by us in any way. 12 Opt-Out Rights (and “Do Not Sell My Personal Information” for California end users) You may easily opt-out of certain data collection, sharing process and targeted advertising related to StartApp Network, by sending us an email to privacy@startapp.com, and elaborating what service you choose to opt-out from. In addition, California end users may call 1-866-I-OPT-OUT (1-866-4678688), (service code: 234) to opt out. 13 Your Choices and Controls You have the right to exercise any of the following rights, subject to and in accordance with the laws apply to you, by sending us an email to dpo@startapp.com or privacy@startapp.com, which elaborates the right(s) you would like to exercise: withdraw consent; object, erasure (be forgotten), access your data, data portability. 14 Data Security We have implemented physical, technical and administrative security measures for the Services that comply with applicable laws and industry standards. 15 Data Retention We retain personal data we collected, in accordance and compliance with applicable laws, but in any event, we will not use your personal information for the Purpose during more than 12 months. 16 Transfer of data outside your territory We may store or process your personal data in the United States or in other territories. Subject to the laws apply to you, your consent to this Privacy Policy includes your express consent for such transfer of your data. 17 California End Users – CCPA General information for end users who are subject to CCPA. 18 Changes to The Policy This Policy may be updated by us from time to time. The most up-to-date Policy as well as any updated to this Policy will be published and will be available in the following link: https://www.startapp.com/policy/privacy-policy/. 19 Contact Us You can also contact us via email at: Support@startapp.com. 20 Data Protection Officer You may contact our Data Protection Officer at: dpo@startapp.com.
+
+Information we collect directly or indirectly from you through our Data Sources
+
+We will collect and process the following data (or part of it – considering the technology or integration used, the data available to us and other permissions), if you download an App, which our StartApp SDK is installed or embedded in, and/or if your data is shared with us, when we are integrated with or connected to other advertising networks, agencies or platforms (such as RTBs):
+
+
+
+
+
+Please note that, while ADID and IP address are considered as personally identifiable data in many jurisdictions (such as the EEA), there are some jurisdictions in which such data is not considered as Personal Data.
+
+Location – as detailed in Section 3 below.
+
+Name of App (where the SDK is installed) and its category; for non SDK: name of the mobile application through which you interact with StartApp Network.
+
+Gender and age (whether as conclusion made by us or strictly shared with us by other Data Source)
+
+Data of a query which asks whether certain apps are already installed in your mobile device (one-way hash representation).
+
+Other general data: device properties (operating system, operating system version and device type), Bluetooth paired devices, device sensors (such as the accelerometer), your carrier, ISP, network connection details and Wi-Fi data, roaming, local time zone, language settings.
+
+StartApp SDK is a piece of software which is integrated into or embedded in mobile apps which enable these apps’ developers, owners or operators to provide you as well as other end users with personalized Advertisements.
+
+“Advertisement” or “Ad” means any sort of advertising materials, including text, images, video, ads, content, photo, sounds, graphics, music, logos and any other materials or content promoting the goods and services or mobile application, software, etc., provided, enabled, supported or facilitated by StartApp Network.
+
+“RTB” means “real time bidding” platform or solution whereby advertising inventory is bought and sold on a per-impression basis, via programmatic instantaneous auction, which is based, in most cases, on the user’s data which is shared with the bidder (advertiser or advertising network, such as StartApp). Advertiser who wins the bid display its advertisement to that user on the bidding inventory.
+
+Collection of your location
+
+Your location may be available to us through any of the following instances (together: your “Location”):
+
+We may collect your exact location, via your mobile phone, if you provide permission and consent to share your location with an App (which StartApp SDK is installed or embedded in). Please note that we do not collect a real time location but your last known location which is available to our SDK.
+
+We may assume your location, if you are connected to a Wi-Fi whose assumed location is known to us.
+
+Please note that we will not be able to collect your location in accordance with subsections (a) and (b) above if you cancel the permission you granted to the App(s) (which are SDK is installed or embedded in) to collect your location.
+
+We may assume your location by collecting the data with respect to the mobile network cell which you are connected to, if the location of that cell is known to us.
+
+Your country, city and region may be available to us from your IP collected by the SDK or other Data Sources or from other data shared with us by third parties (for example through RTB integration).
+
+Please note that by disabling your geo-location permission to an App (through the mobile device operating system), your location may still be assumed and/or collected by us from other available sources detailed in sub-sections (b), (c) and (d).
+
+You may opt-out of location-based services at any time by editing your device’s settings. In addition, you may opt-out from sharing your location with us by all sources, as detailed in Section 12 (Opt-out Rights) below.
+
+Information we collect from your interaction with Advertisements or from Advertisers
+
+When you interact with an Advertisement provided, supported or enabled by us, the advertising attribution and measurement will be shared with us by third party services (known as “attribution partners”). We will use this data for frequency cap (e.g.: if and when to present you a similar Advertisement) and advertising attribution and measurement.
+
+In addition, mobile apps publishers, developers and/or owners, which the Advertisement leads to their mobile apps (including incentivize installation of the mobile app) and/or services may share with us your post click usage and/or activity within their mobile apps or services following your interaction with the Advertisement. Such usage and/or activity may include purchases you make (including amount), subscriptions you purchase and level progress (in games). This information will be used by us for optimizing future advertising campaigns of these mobile apps’ publishers, developers and/or owners through StartApp Network, as well for the Purpose detailed in Section 8 below.
+
+StartApp does not require nor does it knowingly or intentionally collect or solicit any Sensitive Information from or of End Users.
+
+The term “Sensitive Information” shall have the meaning as defined in the jurisdiction, whose privacy laws apply to you.
+
+Please note that, the definition of the term “Sensitive Information” may be significantly different in different jurisdictions. In some jurisdictions, sensitive information may include: racial, ethnic or communal origin; political affiliations or opinions; religious or philosophical beliefs or other beliefs of a similar nature; intimate affairs or sexual life; financial data, credit worthiness data, financial account, payment card number; criminal record; political parties or trade-union membership; and physical or mental health or condition, health insurance, medical and/or biometric data.
+
+If you become aware or have any reason to believe that you were requested to provide your Sensitive Information, or that StartApp Network processed your information which is considered Sensitive Information, pursuant to the privacy laws apply to you, please contact us at privacy@startapp.com and we will take steps to ensure that such Sensitive Information will be immediately deleted from our files.
+
+StartApp complies with applicable legislation related to children’s privacy protection, including the US Children’s Online Privacy Protection Act (“COPPA”). Thus, we do not knowingly or intentionally collect or solicit personal information from children, as they are defined under applicable law, and specifically: under the age of 13 years old, if they are located in the US, or under the age of 16 years old, if they are located in the EU; (collectively: “Child” or “Children”), except as permitted under applicable law.
+
+If we obtain actual knowledge that an End User is considered as a child under applicable law, and we processed personal information with respect to that End User (other than as permitted under applicable law) we will take immediate steps to delete his/her personal information. In addition, we request that Children will not voluntarily provide us with any personal information through StartApp Network.
+
+If you become aware or have any reason to believe that a Child has shared any Personal Information with us, please contact us at privacy@startapp.com and we will take steps to ensure that such personal information is immediately deleted from our files, to the extent required under applicable law.
+
+Use of your personal information for personalized, targeted Advertisements
+
+We will use (including: sell, license or share) the information collected by or shared with us for the Purpose, i.e.: serving targeted and personalized advertisements to you based on your profile and activity.
+
+Your profile is a probabilistic output of our analysis, assumptions and conclusions in regard of your behavior, interests and intentions, based on the information we collected by or shared with us from all Data Sources, as detailed above, and unified by us to a single database about you.
+
+Please note that targeted and personalized Advertisements may be served to you by us on our inventory and/or by our Business Partners or Data Partners, which we share your data with.Please note that once we share your data with a third party, the data becomes subject to that third-party privacy practices.
+
+The list of Business Partners or Data Partners which asked us make their privacy policy available to you is available at: https://www.startapp.com/startapp-data-partners-list/.
+
+In those jurisdictions which require lawful basis for process of personal information: the legal basis for processing of your personal information for the Purpose is your consent, which may be provided by you directly to us or indirectly through third parties (such as by RTB signal or signals). Your consent to us may be general (for all data we collect, process use and/or share) or in regard of specific data shared with us in certain event(s) (such as data shared together with RTB signal or signals). We will comply with the scope of your consent provided to or shared with us.
+
+Please note that when certain data is shared with us by a third party with a “no consent” signal (or equivalent signal), it does not affect your consent to us in general or through other signals (with a “consent” signal), nor is it considered by us as exercising your rights under section 12 (Opt-Out Rights) or section 13 (Your Choices and Controls), which has to be exercised as detailed herein.
+
+Please refer to section 12 (Opt-Out Rights) and section 13 (Your Choices and Controls) section below for opting out from StartApp Network or exercising other rights granted to you in accordance with any applicable law.
+
+Use of your information for other purposes
+
+The information we collect, and which is shared with us will be used for the following additional purposes:
+
+To improve StartApp Solution, develop new services update or upgrade existing services and to enhance your experience with StartApp Solution.
+
+To operate, maintain, protect and manage StartApp Solution, and to manage other administrative and operational aspects of our StartApp Solution.
+
+To audit and track usage statistics and traffic flow, and detect fraud in connection with StartApp Solution.
+
+To protect the rights or property of StartApp or third parties.
+
+To enforce this Policy and prevent unlawful activities and misuse of StartApp Solution.
+
+to establish or exercise our rights to defend against legal claims.
+
+to prevent harm to the rights, property or safety of us, our users, yourself or any third party or for the purpose of collaborating with law enforcement agencies or in case we find it necessary in order to enforce intellectual property or other legal rights.
+
+To comply with any applicable laws and assist law enforcement agencies when we have a good faith belief that our cooperation with them meets the applicable legal standards.
+
+To take any action in any case of dispute involving you with respect to StartApp Solution.
+
+In those jurisdictions which require lawful basis for process of personal information, the usage of your data for the above purpose is based on our legitimate interests of: (i) operating, providing, maintaining, protecting, managing, customizing and improving StartApp Solution (your ADID is not required for performing these actions); (ii) auditing and tracking usage statistics and traffic flow, detect fraud in connection with StartApp Solution and calculate payments (your personal information is not required for performing these actions); and (iii) protect the rights or property of StartApp or third parties.
+
+We may share your data (or part of it) in accordance with the following:
+
+targeted and/or personalized advertisements, as detailed in Section 7 (Use of your personal information) above, and pursuant to your consent as detailed there.
+
+
+
+any other case of dispute, or legal proceeding of any kind involving you with respect to the App, your information may be shared with competent authorities and with any third party, as may be required.
+
+persons if we are required by law to share or disclose your information.
+
+affiliated corporate group entities (entities controlled by, under common control with, or controlling us, directly or indirectly; “ Affiliates ”), but their use of such information must comply with this Policy.
+
+”), but their use of such information must comply with this Policy. the information that we receive, collect or obtain, as outlined in the preceding sections, may be shared with or transferred to, that respective entity to the extent strictly necessary for continued provision of services, provided that it will undertake to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration. Upon such transfer or sharing of information, that entity will assume full and exclusive responsibility for all subsequent use and processing it makes of the information and we will be released from any liability to you, regarding the succeeding entity’s use and processing of the information by it.
+
+In those jurisdictions which require lawful basis for process of personal information, sharing of your data pursuant to subsection (a) is based on your consent, as described in Section 7 (Use of your personal information), and for other subsections is based on our legitimate interests.
+
+If you open a mobile webpage from an App where our SDK is installed or embedded, we may place a cookie on your device mobile browser with your Advertising ID which will be used by us for the Purpose (serving targeted and personalized advertisements to you on that mobile browser) (the “Cookie”). When running advertising campaigns, provided, enabled or supported by us on your mobile browser, the Cookie will enable us to identify you as the user of the mobile browser and personalize you accordingly.
+
+Most browsers will allow you to erase cookies from your device, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your experience may be limited. For more information about cookies and your controls in this regard, you may review the following links:
+
+We may collect, process and use non-personal and/or anonymized data, which does not identify you personally (which includes personal data which has been further anonymized). Such non-personal and/or anonymized data may be collected, processed and used by us in any way, including by posting, disseminating, transmitting, sharing or otherwise communicating or making it available to third parties.
+
+For example: (i) we may use your data, after deleting your ADID, for market research purpose; and (ii) StartApp’s SDK includes Open Measurement Software Development Kit by IAB TECH LAB (“OM SDK”) for the purpose of verifying that ads were actually viewed. We do not share any personal data with IAB or through the OM SDK.
+
+Opt-Out Rights
+
+You may easily opt-out of certain data collection, sharing process and targeted advertising related to StartApp Network, by sending us an email to privacy@startapp.com, and elaborating what service you choose to opt-out from.
+
+Please note that we may have to contact you, if we have to verify your identity, within fourteen (14) days from receiving your application to us. You hereby agree that we will use your email for that purpose.
+
+We will exercise your request within thirty (30) days from receiving it or verifying your identity (as applicable).
+
+Opting-out provides you with the choice to receive advertisements that are not targeted to you and to control the data collected on you for the purpose of displaying Advertisements. Please note that even if you opt-out, you may still receive Advertisements from StartApp Network, but subject to your opt-out choice, such Advertising will not be personalized or targeted by us.
+
+Your Choice Effect of opting out Opt-out from StartApp Network. (i) we will (a) anonymize your data by deleting your ADID (which makes sure you cannot be identified personally); and/or (b) delete your personal data – as further described in Section 15 (Data Retention); (ii) Advertisements provided or supported by StartApp Solution will not be customized to you and may be not relevant to you, which will limit your experience with StartApp Solution; (iii) we will share your choice with our Advertisers, Business Partners and Data Partners, and ask them to either delete your personal data or make your data unidentifiable by anonymizing it. “Do Not Sell My Personal Information” – for end users who are subject to CCPA we will not share your personal information with our customers, such as: advertisers, DSPs and Data Partners. Please note that we may continue to support or enable serving of advertisements to you that do not use your personal data (i.e.: not targeted or customized to you based on your profile or personal information). Stop sharing your location with us and with our Advertisers, Business Partners and Data Partners (i) we will stop collecting your location in all means detailed in Section 3 of this Policy; (ii) we will anonymize your Location data; (iii) we will share your choice with our Advertisers, Business Partners and Data Partners, and ask them to either delete your location data or make your location data unidentifiable by anonymizing it. Stop sharing your data with our Data Partners; and/or Opting-out from Data Partners (i) we will not share your ADID with our Data Partners; (ii) we will share your choice with our Data Partners and ask them to either delete your personal data or make your data unidentifiable by anonymizing it. Please note, however, that we are not responsible for the privacy practices of our Data Partners, and other third parties. You are encouraged to review the privacy policies of our Data Partners which are available at: https://www.startapp.com/startapp-data-partners-list/. Opting-out from sharing your data with our Data Partners does not constitute an opt-out from the entire StartApp Network. Therefore, your data may be still processed by StartApp, Advertisers and Business Partners of StartApp. You may choose to opt-out from the entire StartApp Network, as described above. Opt-out from placing our cookie on your mobile browser We will not be able to support, enable or place Advertisements customized to you on your mobile browser. In addition, you may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser (as detailed in the Cookie section above). We do not respond to Do Not Track signals. For more information about Do Not Track signals, please see http://www.allaboutdnt.com/.
+
+In addition to the above, you may limit the disclosure of certain data by your mobile device to us and our Advertisers, Business Partners and Data Partners by adjusting the settings on your mobile device.
+
+For iOS mobile Devices, go to “Settings” from your Device’s home screen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking.”;
+
+For Android mobile Devices, go to “Google Settings” on your Device; select “Ads”; and check the box labeled “Opt-Out of Interest-Based Ads.”
+
+Please read your device specific information to learn more about your personal advertising preferences: Android: https://support.google.com/ads/answer/2662922;
+
+iOS: https://support.apple.com/en-il/HT205223
+
+You may also Contact Us and we will be happy to assist you.
+
+Your Choices and Controls
+
+In addition to your Opt-Out Rights (Section 12 above), you have the right to exercise any of the following rights (or their equivalent), as well as other rights granted to you, subject to and in accordance with the laws apply to you which grant you such right(s) (if any) (“your Right(s)”). You can exercise your Right(s) by sending us an email to dpo@startapp.com or privacy@startapp.com, which elaborates the Right(s) you would like to exercise (such as: “Consent Withdraw”) (a “Request”). We may have to communicate with you in order to process your Request, including to verify your identity. By sending us a Request you hereby agree that we will communicate with you for that purpose.
+
+Your Right StartApp Action A1. Consent withdraw if the lawful basis for collection and processing of your personal information is your consent, you may withdraw your consent granted to us (directly or indirectly) (i) we will (a) anonymize your data by deleting your ADID; or (b) delete your personal data – as described in Section 15 (Data Retention); (iii) we will share your request with our Advertisers, Business Partners and Data Partners, and ask them to anonymize your data We may contact you, if we have to verify your identity, within fourteen (14) days from receiving your Request. We will exercise your Right within thirty (30) days from receiving your Request or verifying your identity (as applicable). A2. Right to object you may object to the processing of your personal data by us A3. Right to erasure (to be forgotten) Right to request us to delete or remove the personal information collected by or shared with us throughout StartApp Network B1. Right of access / B2. data portability Right to receive a copy of the data collected by or shared with us throughout StartApp Network and/or transfer it to third party We will send to your email address a copy of the data collected about you in the course of using StartApp Solution. You hereby agree and authorize us to send you such email and to communicate with you in order to process your Request, including to verify your identity, if required. We will exercise your Right within fourteen (14) days from receiving your Request or verifying your identity (as applicable). Following receipt of a copy of your data, you may ask us to rectify or delete that data (i.e. anonymizing it).
+
+Exercise of above Rights will not affect the lawfulness of processing based on consent before they were exercised. We may continue to process information which your consent is not required for, subject to any applicable law. Note that, data privacy and related laws in your jurisdiction may provide you with different or additional rights related to your data, which may also apply.
+
+Where we are not able to provide you with the data you have requested, we will endeavor to explain the reasoning for this and inform you of your rights, including the right to complain to the supervisor authority.
+
+When we are in a position of a processor of your data, we will exercise the above rights if we receive a request from the data controller without validating your identity. In other circumstances, such validation may be a condition for exercising your Rights(s) by us.
+
+After opting-out from StartApp Network and/exercising any of the rights under categories A1-3 above (i) we may continue to receive data about you from other entities which use StartApp Solution or throughout StartApp Network. Provided however that we will process your personal data for the purpose of serving ads based on data shared with us (i.e.: in our capacity as data processor only); (ii) we may serve you Advertisements that are not based on your profile or not targeted to you; (iii) we will continue with processing of data which does not require your consent; and (iv) if you grant us your reconsent (directly or indirectly, as stated above), we shall process your data pursuant to this Policy, provided that only data collected by or shared with us after your reconsent will be used by us for the Purpose.
+
+Data Security
+
+Your privacy is very important to StartApp and we are committed to protecting your Personal Data from unauthorized access, use or disclosure. We have implemented physical, technical and administrative security measures for the Services that comply with applicable laws and industry standards. For more information on our security measures, please click here.
+
+Although we take reasonable steps to safeguard information, unless stated otherwise by applicable laws, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Services, and we make no warranty, express, implied or otherwise, that we will be able to prevent such access.
+
+Data Retention
+
+We retain the personal data we collect, in accordance and compliance with applicable laws, and in accordance with the following:
+
+In any of the events detailed in Sections 12 (Opt-Out Rights) or 13 (Your Choices and Controls – categories A1-3) we will (i) anonymize your data by deleting your ADID stored in our operational database; and/or (ii) delete the personal data actually collected about you whose collection and process required your consent;
+
+We will not use your personal information for the Purpose during more than 12 months. We shall either delete from our operational database data whose age is more than 12 months or anonymize your data by deleting your ADID from our operational database (and thereafter we will not be able to use the personal data collected and processed about you for the Purpose).
+
+Provided however that, when we delete or anonymize your ADID and/or your data from our operational databases, it will not be deleted from our archive, due to our platform technical design limitation, which makes it impossible to rewrite the entire code which consists your ADID. We have designed our platform in a way that your personal data, which is left in our archive following your request to opt-out from StartApp Network (or equivalent request) will not be processed, used or shared with any third party following such request.
+
+Transfer of data outside your territory
+
+We may store or process your personal data in the United States or in other territories. We may transfer store or process your personal data by third party suppliers and data processors located in the United States or in other territories.
+
+If you are a resident of a jurisdiction where transfer of your Personal Data requires your consent, then your consent to this Privacy Policy includes your express consent for such transfer of your data.
+
+If you are a resident of the European Economic Area (“EEA“) we will take appropriate measures to ensure that your personal data receives an adequate level of data protection upon its transfer outside of the EEA.
+
+Any transfers, whether to third parties or internally, of personal information from the EEA to countries not deemed to provide an adequate level of data protection are governed by European Union (EU) Standard Contractual Clauses and/or equivalent data transfer regulations to protect the security and confidentiality of personal information.
+
+California End Users – CCPA
+
+Without derogating from the provisions of this Policy, please note that:
+
+The categories of personal data collected by StartApp are elaborated in Sections 2, 3 and 4;
+
+Our usage of the data (including sharing of data) is elaborated in Sections 7, 8 and 9;
+
+Your opt out right and other rights are elaborated in Sections 12 and 13.
+
+Changes to The Policy
+
+This Policy may be updated by us from time to time. Substantial changes will take effect 30 days from update. Other changes will take effect 7 days from update. If the Policy is amended to comply with legal requirements, the amendments will become effective immediately. The most up-to-date Policy as well as any updated to this Policy will be published and will be available in the following link: https://www.startapp.com/policy/privacy-policy/. We encourage you to review the Policy periodically to ensure that you understand how we collect, process, use and share your information through StartApp Network.
+
+Contact Us
+
+If you have any questions or comments about this Policy, please write to us at:
+
+StartApp Inc.; 584 Broadway St. 12th Floor Suite 1206 New York, NY, 10012.
+
+You can also contact us via email at: privacy@startapp.com.
+
+Data Protection Officer
+
+If you have any requests regarding the data collected under this Policy, including without limitation, requests to remove, delete, amend, modify or transfer the data, please contact our Data Protection Officer at: dpo@startapp.com
+
+Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
+
+For your convenience, this Policy may be translated from English to several other languages. Please note that in any discrepancies or inconsistencies between the translation available to you (if any) and the English version, the English version (available at: link: https://www.startapp.com/policy/privacy-policy/) shall prevail.
+
+Last update: August 16, 2020
+
+

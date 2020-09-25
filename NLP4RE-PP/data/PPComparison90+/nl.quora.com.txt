@@ -1,0 +1,183 @@
+Title: Privacybeleid
+URL: https://nl.quora.com/about/privacy
+Date of publishing: None
+Keywords: om, op, een, van, te, het, privacybeleid, en, informatie, uw, die
+
+Policy: Voor het laatst bijgewerkt: 20 december 2019
+
+Quora beseft dat uw privacy heel belangrijk is en we nemen dit serieus. Dit privacybeleid (‘Privacybeleid’) beschrijft ons beleid en procedures met betrekking tot de verzameling, het gebruik, de openbaarmaking en het delen van uw persoonsgegevens wanneer u het Quora-platform gebruikt. Quora Inc. is de verantwoordelijke voor de verwerking van uw persoonlijke gegevens die via het Quora-platform worden verzameld. Dit Privacybeleid is van toepassing op activiteiten van Quora, Inc. en haar dochterondernemingen en gelieerde bedrijven (gezamenlijk ‘Quora,’ ‘we’ of ‘ons’). Termen met een hoofdletter die niet in dit Privacybeleid worden gedefinieerd, worden nader beschreven in onze Servicevoorwaarden. Voor de duidelijkheid, persoonlijke informatie of persoonsgegevens betekent informatie die te maken heeft met een geïdentificeerde of identificeerbare natuurlijke persoon.
+
+De informatie die we verzamelen
+
+We verzamelen informatie rechtstreeks van personen, derden en automatisch via het Quora-platform. Als u bepaalde persoonlijke informatie niet wilt vrijgeven, dan kan dit uw toegang van bepaalde diensten of functies beperken, inclusief het aanmaken van een account en het vermogen om andere Quora-gebruikers te volgen of content op andere sites te delen.
+
+Account- en profielinformatie: Wanneer u een account en profiel aanmaakt op het Quora-platform, verzamelen we uw naam, contactgegevens, demografische gegevens en andere informatie die u verstrekt, zoals onderwerpen waar u meer over weet of onderwerpen die u interessant vindt. Uw naam, foto en alle andere informatie die u besluit toe te voegen aan uw openbare profiel is beschikbaar om bekeken te worden door het publiek en andere gebruikers van het Quora-platform. Als u eenmaal een profiel aanmaakt, kunnen andere gebruikers in uw profiel bepaalde informatie over uw activiteit op het Quora-platform zien, zoals de vragen en antwoorden die u plaatst, uw volgers en wie u volgt, onderwerpen die u interesseren, de informatie die u noemt als kwalificaties, en bewerkingen van Uw Content. Voor meer informatie over uw keuzes voor openbare informatie kunt u de sectie hieronder raadplegen over Uw Keuzes.
+
+Uw Content: We verzamelen en slaan de door u geplaatste informatie en content op het Quora-platform op, inclusief uw vragen, antwoorden, foto’s en reacties. Tenzij u bepaalde content anoniem heeft geplaatst, zijn Uw Content, datum- en tijdsaanduidingen en alle reacties die daar mee te maken hebben, publiekelijk zichtbaar op het Quora-platform, samen met uw naam. Dit kan ook geïndexeerd worden door zoekmachines en elders op het internet opnieuw gepubliceerd worden overeenkomstig onze Servicevoorwaarden. Voor meer informatie over wat u kunt wijzigen, kunt u de sectie over Uw Keuzes hieronder raadplegen.
+
+Communicatie: Wanneer u met ons communiceert (via e-mail, het Quora-platform of op andere wijze), behouden we de gegevens met betrekking tot uw communicatie.
+
+Geïntegreerde Serviceprovider en verbonden netwerken: U kunt ervoor kiezen om in te loggen of u aan te melden bij het Quora-platform via een verbonden netwerk (bijv. Twitter of Google) en u kunt uw bestaande Quora-account verbinden met bepaalde netwerken van derden zoals Twitter en Google (elk een ‘Verbonden Netwerk’). Als u kiest voor uw aanmelding via of een verbinding maakt met een Verbonden Netwerk, ontvangen we bepaalde account- en profielgegevens over u van het Verbonden Netwerk. Deze Verbonden Netwerken kunnen ook op uw profiel verschijnen zodat mensen u kunnen vinden op deze Verbonden Netwerken. De specifieke informatie die aan ons verstrekt wordt via Verbonden Netwerken, wordt bepaald door u en deze derden en kan variëren per netwerk. In alle gevallen beschrijft de pagina Machtigingen voor de Verbonden Netwerken de informatie die wordt gedeeld. U moet hun respectievelijke privacybeleid raadplegen voor informatie over hun werkwijzen. U kunt kiezen om informatie van de Verbonden Netwerken te gebruiken om deze op uw profiel op het Quora-platform in te vullen en u te helpen met het vinden en volgen van uw contacten op het Quora-platform. Voor informatie over uw keuzes, inclusief hoe u de verbinding met een Verbonden Netwerk van uw Quora-profiel kunt verbreken, kunt u de sectie ‘Uw Keuzes’ hieronder raadplegen. U kunt er ook voor kiezen verbindingen te maken, en betalingen te doen en van ons betalingen te ontvangen via de netwerken van derden (‘Geïntegreerde Serviceprovider’). Als u dit doet, dan geeft u ons toestemming om, in verband met betalingen, uw inloggegevens en andere gebruikersgegevens te geven aan en te ontvangen van de Geïntegreerde Serviceprovider.
+
+Automatisch verzamelde informatie over uw activiteit. We gebruiken cookies, logbestanden, zogenaamde ‘pixel tags’, lokale opslag en andere tracking-technologieën om automatisch informatie over uw activiteiten te verzamelen zoals uw zoekopdrachten, paginaweergaven, datum en tijd van uw bezoek en andere informatie over uw gebruik van het Quora-platform. We verzamelen ook informatie die uw computer of mobiele apparaten aan ons verstrekken in verband met uw gebruik van het Quora-platform zoals uw browsertype, type computer of mobiel apparaat, browsertaal, IP-adres, mobiele provider, uniek apparaat-ID, locatie en opgevraagde en verwijzende URL’s. We ontvangen ook gegevens wanneer u content bekijkt of op een andere manier actief bent op het Quora-platform, zelfs als u geen account heeft aangemaakt. Voor meer informatie kunt u de sectie ‘Cookies, Pixels en Tracking’ en ons Cookiebeleid raadplegen.
+
+Verbintenis: We verzamelen browse-gegevens, zoals IP-adres en locatie, datum- en tijdsaanduiding, useragent, Quora cookie-ID (indien van toepassing), URL, onderscheidende reclame of content-identificeerders (indien van toepassing), tijdzone en andere informatie over gebruikersactiviteiten op het Quora-platform, en op sites en diensten van derden die onze Quora-pixels (‘Pixels’), widgets, plug-ins, knoppen of gerelateerde diensten hebben geïntegreerd. Zie de sectie hieronder over Quora Ads en personalisatie voor nadere informatie over hoe onze Pixels kunnen worden gebruikt door media of gebruikers van onze advertentiediensten (‘Advertentiediensten’) op het Quora-platform om personalisatie in te schakelen, evenals uw keuzes gerelateerd aan advertenties en personalisatie. Ook kunnen we informatie over u van derden ontvangen, zoals van andere gebruikers, partners (inclusief advertentie-partners) of onze dochterondernemingen.
+
+Doelen en juridische grondslagen voor ons gebruik van uw informatie
+
+We verkopen uw persoonsgegevens – zoals uw naam en contactgegevens – NIET aan derden voor gebruik voor hun eigen marketingdoeleinden. Quora gebruikt de informatie die we verzamelen als volgt:
+
+Verlenen van onze diensten. Om diensten te verlenen die we aanbieden op het Quora-platform en het Quora-platform beschikbaar te maken voor het publiek, communiceren met u over uw gebruik van het Quora-platform, beantwoorden we uw vragen, verstrekken we probleemoplossingen en communiceren we met u voor andere klantenservice-doeleinden.
+
+Personalisatie. Om de content en informatie die we kunnen versturen of aan u laten zien op het Quora-platform personaliseren we deze, om volgers en content aan te bevelen, locatie aan te passen en gepersonaliseerde hulp en instructies te bieden en uw ervaringen met het Quora-platform op andere manieren te personaliseren.
+
+Advertenties. Om op interesse gebaseerde advertenties aan u te laten zien op het Quora-platform, om onze advertentie- en tracking-systemen te verbeteren zodat we u relevante advertenties kunnen laten zien, om formulieren vooraf in te vullen en om de doeltreffendheid en het bereik van advertenties en diensten te meten. Voor meer informatie kunt u de sectie hieronder raadplegen over Quora Ads en personalisatie.
+
+Marketing en aanbiedingen. Voor marketing- en promotionele doeleinden zoals om u nieuws en nieuwsbrieven, speciale aanbiedingen en promoties te sturen of om anderszins contact met u op te nemen over producten of informatie waarvan we denken dat die u mogelijk interesseren, inclusief informatie over producten en diensten van derden.
+
+Analytics. Om informatie te verzamelen zodat we beter begrijpen hoe gebruikers toegang krijgen tot en het Quora-platform gebruiken; om het Quora-platform te analyseren en verbeteren, inclusief advertentiediensten en personalisatie, en om nieuwe producten en diensten te ontwikkelen.
+
+Naleving van de wet. Om wettelijke verplichtingen na te komen als een onderdeel van onze algemene bedrijfsvoering en voor andere doeleinden die daarmee te maken hebben.
+
+Voorkomen van misbruik. Indien we het nodig achten onderzoek uit te voeren, en actie te ondernemen tegen illegale activiteiten, vermoedelijke fraude, mogelijke bedreigingen van de veiligheid van personen of op moeten treden in verband met overtredingen van onze Servicevoorwaarden
+
+Hoe we uw informatie delen
+
+We delen informatie zoals hieronder is uitgelegd, en indien personen hiertoe anderszins mee hebben ingestemd:
+
+Serviceproviders. Mogelijk delen we uw informatie met externe serviceproviders die deze informatie gebruiken om diensten aan ons te verlenen zoals voor het verwerken van betalingen, hosten van providers, accountants, adviseurs, consultants, klantenservice- en ondersteuningsmedewerkers, evenals mensen die ons helpen met de advertentiediensten.
+
+Dochterondernemingen. De informatie die over u wordt verzameld kan worden gebruikt en gedeeld met onze dochterondernemingen en gelieerde bedrijven van Quora, Inc., wiens gebruik en openbaarmaking van uw persoonsgegevens onderhevig is aan het Privacybeleid.
+
+Overdracht van bedrijven. We kunnen informatie vrijgeven en overdragen, inclusief persoonsgegevens, als een onderdeel van een fusie, verkoop en de overdracht van activa, overname of de reorganisatie van het hele of een deel van ons bedrijf, faillissement of een soortgelijke gebeurtenis.
+
+Wettelijke voorschriften. We kunnen uw gegevens vrijgeven indien dit wettelijk vereist is.
+
+Bescherming van rechten. We kunnen informatie vrijgeven indien we dit nodig achten om te reageren op vorderingen door derden op ons of in de context van een juridische procedure (bijv. dagvaardingen of bevelschriften) en om onze overeenkomsten en voorwaarden af te dwingen of beheren, voor fraudepreventie, risicobeoordeling, onderzoek en om de rechten, het eigendom of de veiligheid van Quora, Quora’s gebruikers en anderen te beschermen.
+
+Uw Content en openbare informatie. Uw Content, inclusief uw naam, profielfoto, profielgegevens en bepaalde geassocieerde informatie over uw activiteiten. is beschikbaar voor andere gebruikers van het Quora-platform en deze kan publiekelijk worden weergegeven. Deze openbare weergave omvat ook de beschikbaarheid van deze informatie aan bezoekers die niet zijn aangemeld, en dit kan gebeuren wanneer gebruikers Uw Content op andere sites en diensten delen. Bovendien kan Uw Content worden geïndexeerd door zoekmachines. In sommige gevallen kunnen wij kosten in rekening brengen voor de toegang tot Uw Content en openbare informatie op het Quora-platform. Zie de sectie hieronder over Uw Keuzes voor informatie over hoe u kunt wijzigen hoe bepaalde informatie wordt gedeeld of bekeken door anderen.
+
+Beoordelingsmaatstaven. We kunnen met onze adverteerders of uitgevers het volgende delen: geaggregeerde statistische gegevens, beoordelingsmaatstaven en andere rapporten over de prestaties van onze advertenties of content op het Quora-platform zoals het aantal paginaweergaven van unieke gebruikers, demografische gegevens over de gebruikers die hun advertenties of content hebben gezien, conversieratio’s en datum- en tijdinformatie. Wij delen geen IP-adressen of persoonlijke informatie, maar bepaalde functies kunnen u in staat stellen om uw persoonlijke informatie te delen met adverteerders op ons platform, als u ervoor kiest om dat te doen. We kunnen onze adverteerders of media toestaan Pixels op het Quora-platform te gebruiken om informatie te verzamelen over de prestaties van hun advertenties of content.
+
+Geanonimiseerde en geaggregeerde gegevens. We kunnen geaggregeerde of gede-identificeerde informatie met derden delen voor onderzoek, marketing, analytics en andere doeleinden mits dergelijke informatie een bepaalde persoon niet identificeert.
+
+Cookies, Pixels en Tracking
+
+Wij en onze externe providers gebruiken cookies, transparante GIF’s/pixeltags, JavaScript, lokale opslag, logbestanden en andere mechanismen om automatisch informatie te verzamelen en vast te leggen over uw gebruik en browse-activiteiten op het Quora-platform en ander sites en online diensten van derden. We kunnen deze informatie combineren met andere informatie die we over gebruikers verzamelen. Hieronder geven we een korte samenvatting van deze activiteiten. Voor nadere informatie over deze mechanismen en hoe we dergelijke informatie verzamelen, kunt u ons Cookiebeleid raadplegen.
+
+Cookies. Dit zijn kleine bestanden met een unieke identificatie die op uw browser worden overgedragen via onze websites. Hiermee kunnen we ingelogde gebruikers onthouden en krijgen we inzicht in hoe gebruikers het Quora-platform gebruiken. Bovendien kunnen we gepersonaliseerde content en op gebruikers afgestemde advertenties weergeven (inclusief op de sites en in apps van derden).
+
+Pixels, ‘web beacons’, transparante GIF’s. Dit zijn kleine afbeeldingen met een unieke identificatie, zoals cookies die ook hebben, die we gebruiken om de online bewegingen van gebruikers van het Quora-platform en de webpagina’s van gebruikers van onze advertentiediensten te volgen, en om content te personaliseren. We gebruiken deze ook in onze e-mails om te weten wanneer ze geopend of doorgestuurd zijn, zodat we de doeltreffendheid van onze communicatie kunnen bepalen en verbeteren.
+
+Analytics-tools. We kunnen gebruikmaken van interne en externe analysetools, inclusief Google Analytics. De externe analytics-bedrijven waarmee we samenwerken, kunnen de verzamelde informatie combineren met andere informatie die zij verzameld hebben van andere websites en/of andere online producten en diensten. De verzameling en het gebruik van informatie door hen is onderhevig aan hun eigen privacybeleid.
+
+Quora Ads en personalisatie
+
+Op het Quora-platform kunnen we content van media aan u tonen die is afgestemd op uw interesses of gepersonaliseerde advertenties (inclusief gesponsorde content), gebaseerd op informatie die we hebben verzameld via het Quora-platform en via onze Pixels, widgets en knoppen die geïntegreerd zijn op de sites van derden. Ook kunnen we aan gebruikers van onze advertentiediensten en aan providers van content op het Quora-platform het aantal gebruikers laten zien dat een bepaalde advertentie of content heeft gezien, evenals andere informatie over de betrokkenheid van doelgroepen in een geaggregeerde vorm. Zie Quora’s Pixel privacyvoorwaarden voor meer informatie over hoe onze Pixels worden gebruikt.
+
+Adverteerders die onze advertentieservices gebruiken, kunnen ons ook informatie verstrekken als onderdeel van hun advertentiecampagnes, inclusief klantinformatie (bijvoorbeeld e-mailadressen, telefoonnummers of andere contactinformatie, demografische of interessegegevens) om een aangepast publiek te creëren voor het personaliseren van hun advertentiecampagnes of voor het meten van de effectiviteit van hun advertenties; we gebruiken deze informatie alleen om de campagne van de specifieke adverteerder te vergemakkelijken (inclusief advertentiestatistieken en rapportage aan die adverteerder); en we maken deze informatie niet bekend aan derden (behalve aan onze serviceproviders), tenzij dit bij wet verplicht is. Ook laten we aan de adverteerders die gebruikmaken van onze advertentiediensten geen namen of contactgegevens zien van hun klanten die werden bereikt als een onderdeel van dergelijke campagnes.
+
+Zie de sectie ‘Uw Keuzes’ hieronder voor informatie over uw keuzes met betrekking tot advertenties die afgestemd en gepersonaliseerd zijn voor gebruikers, en hoe u zich kunt afmelden van gepersonaliseerde advertenties van ons of tracking van onze Pixels.
+
+Advertenties van derden op Quora
+
+Zoals beschreven in ons Cookiebeleid kunnen we ook met derden samenwerken zoals netwerkadverteerders om advertenties te laten zien op het Quora-platform en op websites of andere media van derden (bijv. sociale netwerkplatforms), zoals Google AdSense (hier vindt u informatie over privacy en informatie over hoe zich kunt afmelden) en Facebook Audience Network (hier vindt u informatie over privacy en informatie over hoe zich kunt afmelden). U kunt zich afmelden van advertenties die op interesses zijn afgestemd van deze externe advertentienetwerken. Deze derden kunnen cookies, JavaScript, zogenaamde ‘web beacons’ (inclusief transparante GIF;s), Flash LSO’s en andere tracking-technologieën gebruiken om de doeltreffendheid van hun advertenties te bepalen en om de content in advertenties voor u te personaliseren.
+
+Voor meer informatie over hoe zich kunt afmelden van op interesses gebaseerde advertenties van veel advertentienetwerken kunt u ons Cookiebeleid raadplegen. Houd er echter rekening mee dat als u cookies verwijdert of een ander apparaat gebruikt, uw afmelding mogelijk niet meer werkt.
+
+Hoe we uw informatie beschermen
+
+De beveiliging van uw informatie staat bij ons voorop. Quora heeft beveiliging geïmplementeerd om de door ons verzamelde informatie te beschermen. Maar geen enkele website of internetverbinding is 100% veilig. We raden u aan dat u uw persoonsgegevens zelf ook beveiligt, bijvoorbeeld door een sterk wachtwoord te kiezen dat u met niemand deelt en door uit te loggen en uw webbrowser te sluiten wanneer u het Quora-platform niet meer gebruikt op een gedeeld of een onbeveiligd apparaat.
+
+Toegang en wijziging van uw informatie
+
+U kunt op elk moment uw accountgegevens bijwerken of corrigeren door in te loggen bij uw account. Ook kunt u een aantal andere wijzigingen aanbrengen in de instellingen of de weergave van informatie over u zoals nader beschreven in de volgende sectie over Uw Keuzes.
+
+Uw Keuzes
+
+Natuurlijk kunt u weigeren om informatie in te dienen of delen via het Quora-platform en in dat geval kunnen we bepaalde diensten niet aan u verlenen. U kunt verder ook controle hebben over bepaalde meldingen en berichten die we sturen, de op Quora gedeelde informatie over u beperken en anderszins bepaalde privacyinstellingen wijzigen. Hier vindt u nadere informatie over uw keuzes:
+
+Anonieme posts. U kunt bepaalde content anoniem plaatsen, inclusief vragen en antwoorden. In dit geval wordt uw naam niet weergegeven samen met uw content, en Quora associeert dergelijke content niet met uw gebruikers-ID en andere profielgegevens. Raadpleeg Hoe anonimiteit op Quora werkt voor meer informatie.
+
+Uw Content. U kunt de door u geplaatste antwoorden op elk moment bewerken of verwijderen. Alle vragen die u heeft gesteld kunnen op het Quora-platform blijven staan en kunnen worden bewerkt door andere gebruikers. Alle verwijderde content wordt verwijderd van de sites van derden, waar vandaan de content is het gedeeld via Quora’s gebruikelijke functies voor delen. We hebben echter geen controle over het verwijderen of wijzigen van Uw Content als deze handmatig door anderen is gedeeld. Wanneer u Uw Content bewerkt, kunnen andere gebruikers de geschiedenis van deze bewerkingen zien in de activiteiten in uw profielgegevens en in de bewerkingslogboeken.
+
+Content die niet geschikt is voor minderjarigen. In de privacyinstellingen van uw profiel kunt u kiezen of u dergelijke content wel of niet wilt ontvangen.
+
+E-mails en communicatie. Wanneer u zich aansluit bij het Quora-platform door u aan te melden voor een account en het aanmaken van een profiel, ontvangt u, als deel van onze service, Quora’s Uitgelicht die content bevat die overeenkomt met uw interesses. U kunt uw voorkeuren voor e-mail en meldingen beheren in de profielinstellingen van uw account, onder uw instelling ‘E-mails en meldingen’. Als u zich afmeldt van het ontvangen van e-mails met aanbevelingen of andere informatie waarvan wij denken dat deze u interesseert, dan kunt u nog wel transactiemails over uw account of over alle door u aangevraagde en ontvangen diensten van ons ontvangen.
+
+Derden kunnen reageren op uw posts binnen het Quora-platform. Onder de privacyinstellingen in uw profiel, kunt u aanpassen of u mensen toestaat om te reageren op uw antwoorden en posts. U kunt de machtigingen ook aanpassen over wie u toestaat berichten naar u te versturen binnen het Quora-platform.
+
+Volgers. U kunt het vermogen van een andere Quora-gebruiker om u te volgen blokkeren door de instelling hiervoor te selecteren in het profiel van de gebruiker. U kunt wijzigen of u wel of niet andere gebruikers wilt volgen.
+
+Onderwerpen. U kunt de onderwerpen die u volgt of de thema’s waarvan u heeft aangegeven dat u daar meer over weet, wijzigen.
+
+Kwalificaties. U kunt uw kwalificaties die op uw profiel worden getoond of de kwalificaties die getoond worden in verband met een specifiek antwoord, wijzigen.
+
+Geïndexeerde zoekopdracht. In uw privacyinstellingen heeft u controle over of uw profiel en naam worden geïndexeerd door zoekmachines. Wijzigingen van uw privacyinstellingen kunnen alleen van toepassing zijn op de toekomst; bijvoorbeeld, uw naam (bijv. op antwoorden en uw profiel) die al door zoekmachines zijn geïndexeerd, blijven voor een tijdje geïndexeerd, zelfs nadat u dit heeft uitgeschakeld. Omdat we deze zoekmachines niet beheren, kunnen we dit proces niet versnellen.
+
+Verwijderd of gedeactiveerd account. Als u in de privacyinstellingen van uw profiel ervoor kiest om uw account te verwijderen, dan wordt al Uw Content verwijderd en is deze niet meer openbaar zichtbaar op het Quora-platform. Bovendien kan deze content mogelijk niet door ons worden hersteld, zelfs niet als u van gedachten verandert. Als u ervoor kiest om uw account te deactiveren dan wordt de communicatie tussen ons verbroken en kunnen gebruikers geen contact meer met u opnemen. Uw Content daarentegen blijft zichtbaar op het Quora-platform. Als uw account eenmaal is gedeactiveerd, kunt u het op elke moment weer activeren door in te loggen.
+
+Gepersonaliseerde advertenties en Pixels
+
+Om u af te melden van het ontvangen van gepersonaliseerde advertenties op het Quora-platform, bezoekt u quora.com/contact en selecteert u ‘Ik heb hulp nodig met mijn account’ om ons te laten weten dat u van ons geen gepersonaliseerde advertenties meer wilt ontvangen binnen het Platform. Voeg de link toe van uw profiel als u ons schrijft om u af te melden. Niettemin kan Quora u nog steeds gecontextualiseerde advertenties tonen binnen de content die u bekijkt.
+
+Om u af te melden van tracking via de Quora Pixels, bezoekt u deze pagina. Afmelden van pixeltracking kan van invloed zijn op ons vermogen om advertenties en content te personaliseren en af te stemmen op de interesses van de gebruiker. Deze instelling houdt verband met de cookies van de gebruiker, en, tenzij de gebruiker is ingelogd bij het Quora-platform, is dit alleen van toepassing op de browser die is afgemeld.
+
+Advertentienetwerken van derden
+
+Voor informatie over en om u af te melden van op interesse gebaseerde advertenties van veel advertentienetwerken, kunt u de volgende links aanklikken:
+
+Verbonden Netwerken. U kunt de verbinding met Verbonden Netwerken zoals Google verbreken via het tabblad Accountinstellingen in uw Profielinstellingen, en u kunt een groot deel van uw profielgegevens wijzigen en verwijderen via uw Profielinstellingen. Als u de verbinding met Verbonden Netwerken heeft verbroken, ontvangen we geen informatie meer van dat netwerk, tenzij u ervoor kiest om de verbinding weer tot stand te brengen. U kunt ook bepalen of het Verbonden Netwerk zichtbaar is in uw profiel. Zie deze pagina voor meer informatie over Verbonden Netwerken en het Quora-platform.
+
+Uw rechten
+
+Zoals hierboven is opgemerkt, geeft Quora gebruikers verschillende eenvoudige manieren om keuzes te maken over hun persoonsgegevens binnen het Quora-platform.
+
+Toegang, wijziging, verwijdering, gegevensportabiliteit, weigering en andere rechten. Als u zich heeft aangemeld bij ons en u wilt toegang tot uw profiel, het profiel bijwerken, of uw afmeldingsrechten laten gelden, dan kunt u dit online doen door de Profielinstellingen binnen uw account te bezoeken. Bovendien hebben gebruikers ook het recht om bepaalde persoonsgegevens in een algemeen gebruikte vorm te ontvangen als dit technisch haalbaar is, en, onder bepaalde omstandigheden hebben zij ook het recht om bepaalde persoonsgegevens te weigeren of beperken. U kunt ook contact opnemen met onze privacycoördinator (zie hieronder) om toegang tot uw persoonsgegevens te krijgen of deze te wijzigen. Ook kunt u ons vragen om persoonsgegevens te corrigeren, verwijderen of niet meer te verwerken of u kunt uw instemming met het verwerken van uw persoonsgegevens ongedaan maken. Als EER-inwoner heeft u deze rechten ook en u kunt een verzoek voor gegevensportabiliteit indienen.
+
+U kunt een verzoek naar privacy@quora.com sturen (of contact met ons opnemen via de informatie hieronder). Houd er rekening mee dat bepaalde diensten niet beschikbaar zullen zijn als u uw toestemming intrekt of op andere wijze onze verwerking van bepaalde persoonsgegevens verwijdert of weigert. Wij zullen op uw verzoek reageren in overeenstemming met de toepasselijke wetgeving.
+
+Klachten. U heeft ook het recht om een klacht in te dienen bij een toezichthoudende gegevensbeschermingsautoriteit.
+
+Gegevensbewaring
+
+In het algemeen bewaren we uw profiel en gerelateerde informatie zolang u een account bij ons heeft. Als u door Quora ‘vergeten’ wilt worden (bijvoorbeeld door te vragen om de verwijdering van al uw persoonsgegevens van Quora en het Quora-platform), dan dient u uw account te verwijderen (zie de sectie ‘Uw Keuzes’ hierboven). Als u uw account verwijdert dan bewaren we en gebruiken we, voor zover is toegestaan door het toepasselijk recht, uw persoonsgegevens overeenkomstig onze juridische verplichtingen, het oplossen van geschillen, het bijhouden van gepaste bedrijfsgegevens en het afdwingen van onze overeenkomsten. Eveneens, alle vragen die u heeft geplaatst, threads die door u zijn gestart of andere content van u waarop gebruikers gereageerd hebben of anderszins bij betrokken zijn geweest, kunnen blijvend worden weergegeven op het Quora-platform maar uw gebruikersnaam zal worden verwijderd van dergelijke content.
+
+Gegevensoverdracht
+
+Quora is gevestigd in de Verenigde Staten en heeft bedrijven, entiteiten en serviceproviders in de Verenigde Staten en wereldwijd. Als zodanig kunnen onze serviceproviders uw persoonsgegevens overdragen aan of toegankelijk maken in rechtsgebieden (inclusief de Verenigde Staten) die mogelijk niet dezelfde niveaus van gegevensbescherming bieden als de rechtspraak in uw eigen land. We zullen maatregelen treffen om ervoor te zorgen dat uw persoonsgegevens voldoende bescherming krijgen in de rechtsgebieden waarin we de gegevens verwerken, inclusief: gepaste schriftelijke gegevensbeschermingsvoorwaarden en/of gegevensoverdrachtovereenkomsten, met contractuele clausules die goedgekeurd zijn door de Europese Commissie (de standaard contractuele clausules kunt u hier vinden), of die een gelijkwaardigheidsbeschikking van de Europese Commissie volgen.
+
+Privacy van kinderen
+
+We verzamelen of vragen niet bewust om de persoonsgegevens van kinderen onder de 13 jaar (of onder de leeftijd van 14 voor gebruikers die in Spanje of Zuid-Korea wonen); ook geven we niet bewust toestemming zodat dergelijke personen zich aan kunnen melden. Als we merken dat we de persoonsgegevens van een kind onder de bovengenoemde leeftijden hebben verzameld zonder de toestemming van een ouder of voogd, dan ondernemen we stappen om die gegevens te verwijderen.
+
+Links naar andere websites
+
+Het Quora-platform bevat mogelijk links naar de sites of online diensten van derden. Wij zijn niet verantwoordelijk voor de praktijken van dergelijke derde partijen, van wie de informatiepraktijken onderworpen zijn aan hun eigen beleid en procedures, en niet aan dit Privacybeleid.
+
+Uw privacyrechten in Californië
+
+De wet in Californië geeft gebruikers die in Californië wonen toestemming om van ons een keer per jaar een gratis lijst op te vragen van derden aan wie we hun persoonsgegevens (indien van toepassing) hebben vrijgegeven voor directe marketingdoeleinden in het voorafgaande kalenderjaar, evenals de aard van de persoonsgegevens die aan die derden verstrekt zijn. Als u in Californië woont en deze informatie graag zou willen ontvangen dan kunt u dit aanvragen via privacy@quora.com.
+
+Neem contact met ons op
+
+Als u vragen heeft over onze werkwijzen of dit Privacybeleid, neem dan contact met ons op via privacy@quora.com, of stuur een e-mail naar:
+
+Quora, Inc.
+
+Attn: Privacy
+
+605 Castro Street
+
+Mountain View, CA 94041
+
+U kunt ook contact opnemen met onze EU-vertegenwoordiger en contacten.
+
+Wijzigingen van ons privacybeleid
+
+Als we ons privacybeleid en procedures wijzigen dan publiceren we die op deze pagina. Als we wijzigingen aan dit Privacybeleid aanbrengen die aanzienlijk veranderen hoe we omgaan met uw persoonsgegevens, dan zullen we u een redelijke tijd van tevoren op de hoogte stellen van dergelijke wijzigingen, zoals via een duidelijke kennisgeving op het Quora-platform of via het e-mailadres dat bij uw account hoort, en indien vereist door de wet, zullen we om uw toestemming vragen of u de mogelijkheid geven om u af te melden van dergelijke wijzigingen.
+
+Voorafgaande Versies
+***************************************************************
+
+

@@ -1,0 +1,67 @@
+Title: Online privacy statement
+URL: https://www8.hp.com/us/en/privacy/privacy.html
+Date of publishing: None
+Keywords: right, online, data, collection, request, personal, statement, privacy, rights, services, concerns, hp
+
+Policy: You have the right to ask us for a copy of any personal data that you have provided to us or that we maintain about you and to request an explanation about the processing. In addition, you have the right to withdraw any consent previously granted or to request correction, amendment, restriction, anonymization or deletion of your personal data; and to obtain the personal data you provide with your consent or in connection with a contract in a structured, machine readable format and to ask us to transfer this data to another data controller.
+
+You also have the right to object to the processing of your personal data in some circumstances, in particular when we are using your data for direct marketing or to create a marketing profile. Please see the HP Communications Section for guidance on how to exercise your rights with regard to marketing and subscription communications.
+
+In addition to the privacy controls available to you via this Privacy Statement, you can control your device data collection. In some instances, product usage data (not content of files) is collected and processed in order to deliver you the essential functionality of an HP Service, such as remote printing, Instant Ink or other web-enabled service. You can control device data collection yourself through your device settings and preferences. HP is not in a position to adjust your data collection settings without your active participation. Certain product usage data is necessary to provide HP Services and disabling data collection may affect the availability or functionality of such services. Data collected for the fulfilment of such essential functionality will not be processed for direct marketing purposes. If you need assistance in adjusting your data collection settings, please contact HP Customer Support.
+
+In certain cases, these rights may be limited, for example if fulfilling your request would reveal personal data about another person or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests to keep.
+
+We will not discriminate against you for exercising your rights and choices, although some of the functionality and features available on HP Services may change or no longer be available to you. Any difference in the Services are related to the value provided.
+
+To exercise your rights, or if you have any questions or concerns about our Privacy Statement, our collection and use of your data or a possible breach of local privacy laws, you can contact HP’s Chief Privacy and Data Protection Officer or write to us at the appropriate address below:
+
+EU
+
+HP France SAS
+
+Global Legal Affairs
+
+14 rue de la Verrerie
+
+CS 40012 – 92197
+
+Meudon cedex
+
+France
+
+MEXICO
+
+HP Inc.
+
+Global Legal Affairs
+
+ATTN: Privacy Office
+
+Av. Vasco de Quiroga #2999
+
+Col. Santa Fe Peña Blanca
+
+Del. Alvaro Obregon
+
+C.P. 01210 México D.F.
+
+REST OF WORLD
+
+HP Inc.
+
+Global Legal Affairs
+
+ATTN: Privacy Office
+
+1501 Page Mill Road
+
+Palo Alto, California 94304
+
+USA
+
+All communications will be treated confidentially. Upon receipt of your communication, our representative will contact you within a reasonable time to respond to your questions or concerns. In some cases, we may request further information in order to verify your identity. For more information about the verification process, click here. We aim to ensure that your concerns are resolved in a timely and appropriate manner.
+
+If we are unable to resolve your concerns, you have the right to contact a data privacy supervisory authority in the country where you live or work, or where you consider that the data protection rules have been breached or seek a remedy through the courts. For questions, concerns or complaints related to our participation in the EU-US Privacy Shield, APEC CBPRs or application of HP’s BCRs, please read about our International Data Transfers.
+***************************************************************
+
+

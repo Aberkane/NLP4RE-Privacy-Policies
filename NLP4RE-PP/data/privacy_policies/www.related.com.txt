@@ -1,0 +1,362 @@
+Title: Privacy Policy
+URL: https://www.related.com/privacy-policy
+Date of publishing: None
+Keywords: policy, request, sites, data, personal, services, site, privacy, information, including
+Policy: 
+Effective Date: January 1, 2020
+
+Privacy Policy
+
+Introduction
+
+Welcome. You have arrived at a website provided by The Related Companies, L.P. and/or one of its divisions, affiliates, subsidiaries, or joint ventures (“Related,” “Company” or “we,” “our” or “us”). We respect your privacy and want to protect your personal information.
+
+This Privacy Policy governs the Company’s family of brand websites, their subdomains, and all portals, applications, products, services, events, and any interactive features, applications, or other services that post a link to this Privacy Policy (each, a “Site”), as well as in Related Connect (the “App”). This Privacy Policy also applies to information (including the “Personal Information” defined below) that we may collect from you in person at our physical locations (each a “Location” or collectively, “Locations”), via phone calls or other communications with our representatives, by using Company-provided Wi-Fi, by purchasing tickets at Locations, at Company-sponsored events, or in any other instance when you contact us. We refer to all of the above as our “Services.”
+
+If you voluntarily provide your information in the course of interacting with our Sites or App, applying to lease or buy a property managed or owned by us, visiting one of our Locations, or otherwise using our Services, we will take that as your agreement to our collection, use, and disclosure of your information as set forth in this Privacy Policy. This Privacy Policy is part of our Terms of Use, which govern your use of the Site and Services. By using our Sites, contacting us to inquire about our Services or properties, or visiting our Locations, you consent to our Privacy Policy and agree to our Terms of Use.
+
+We are required by law to tell you what information we collect from you, why we collect it, how we use it, under what circumstances we may share it with third parties, how we protect that information, and how you may opt out of the sale of that information. If you have questions about this Privacy Policy, contact us at [email protected].
+
+This Privacy Policy does not apply to any products, services, websites, or content that are offered by third parties (“Third Party Services”), which are governed by their respective privacy policies.
+
+What Information We Collect
+
+Information You Provide to Us
+
+In connection with the Services we provide, we may ask you to provide us with certain information, including (i) your first and last name, email address, home or business address, other shipping or billing addresses, telephone number, mobile number, username, driver’s license, social security number, passport number, your birthdate, your purchase and/or service history, or other information that could reasonably be used to identify you personally or identify your household or device (hereinafter, “Personal Information”); and/or (ii) demographic information, such as your country, state, or county of residence or business operation (“Demographic Information”).
+
+We may collect this information when you:
+
+Request information from us via forms or emails, such as signing up for our newsletter or requesting information about a Location or a future Location;
+
+Contact us regarding a question, concern, or inquiry, such as when you make inquiries concerning our Sites, products and/or Services (including at in-person events such as open houses, or by phone or email);
+
+Register and create an account on our Site(s);
+
+Sign up or request to be placed on our mailing and/or email marketing lists;
+
+Sign up for free Wi-Fi at one of our Locations;
+
+Apply for employment with one of our brands;
+
+Apply for a lease or to purchase a unit at one of the Properties that we own or manage;
+
+Are a resident or visitor of one of the Properties we own or manage;
+
+Use Related Connect;
+
+Request maintenance or concierge support and assistance, or inquire about your maintenance or concierge interactions with us;
+
+Provide billing information to us;
+
+Post user-generated content in your Property’s residential forum;
+
+Participate in a sweepstakes or contest sponsored or co-sponsored by us; and/or
+
+Otherwise interact with the Sites or our representatives.
+
+Your decision to provide us with information is voluntary, but if you choose not to provide any requested information, you may not be able to take advantage of all of the Site’s features or our Services, including ordering products or Services, submitting inquiries, or signing up for newsletters or marketing lists.
+
+General Browsing
+
+In addition to information that you choose to submit to us, we and/or our service providers may automatically collect and/or store certain information when you visit or interact with the Site(s) or use Wi-Fi at any of our Locations (“Usage Information”). This Usage Information may be stored and/or accessed from your personal computer, laptop, tablet, mobile phone or other device (a “Device”) whenever you visit or interact with our Site(s) or with Wi-Fi at one of our Locations. Usage Information may include:
+
+Your IP address, IDFA, Android/Google Advertising ID, IMEI, or another unique identifier (“ Device Identifier ”);
+
+”); Your Device functionality (including browser, browser language, operating system, hardware, mobile network information);
+
+Referring and exit web pages and URLs;
+
+The areas within our Site(s) that you visit and your activities there, including remembering you and your preferences;
+
+Your Device location or other geolocation information, including the zip code, state or country from which you accessed the Services;
+
+Your Device characteristics; and
+
+Certain other Device data, including the time of day you visit our Site(s).
+
+For location information, we may use this information to provide customized Services, content, promotional offers, and other information that may be of interest to you. If you no longer wish for us or our service providers to collect and use location information, you may disable the location features on your device. Consult your device manufacturer settings for instructions. Please note that if you disable such features, your ability to access certain features, Services, content, promotions, or products may be limited or disabled.
+
+Use of Cookies and other Tracking Technologies
+
+We may use various methods and technologies to store or collect Usage Information (“Tracking Technologies”). Tracking Technologies may set, change, alter or modify settings or configurations on your Device. A few of the Tracking Technologies used on the Site(s), include, but are not limited to, the following (as well as future-developed tracking technology or methods that are not listed here):
+
+Cookies. A cookie is a file placed on a Device to uniquely identify your browser or to store information on your Device. Our Site may use HTTP cookies, HTML5 cookies, Flash cookies and other types of cookie technology to store information on local storage.
+
+Web Beacons. A Web Beacon is a small tag (which may be invisible to you) that may be placed on our Site’s pages and messages.
+
+Embedded Scripts . An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on.
+
+. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. ETag, or entity tag . An Etag or entity tag is a feature of the cache in browsers. It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.
+
+. An Etag or entity tag is a feature of the cache in browsers. It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL. Browser Fingerprinting. Collection and analysis of information from your Device, such as, without limitation, your operating system, plug-ins, system fonts and other data, for purposes of identification.
+
+Recognition Technologies. Technologies, including application of statistical probability to data sets, which attempt to recognize or make assumptions about users and devices (e.g., that a user of multiple devices is the same user).
+
+We may use Tracking Technologies for a variety of purposes, including:
+
+To allow you to use and access the Site, including for the prevention of fraudulent activity and improved security functionality or to allow you to make use of cart or payment functionality;
+
+To assess the performance of the Site, including as part of our analytic practices or otherwise to improve the content, products or services offered through the Site;
+
+To offer you enhanced functionality when accessing the Site, including identifying you when you sign into our Site or keeping track of your specified preferences or to track your online activities over time and across third-party sites; and
+
+To deliver content relevant to your interests on our Site and third‑party sites based on how you interact with our advertisements and/or content.
+
+You can get more information about Cookies and Tracking Technologies, and instructions on how to opt out of cookies and certain tracking technologies, in our “Ads and Information About You” section below and in our Cookie Policy.
+
+Information We Collect When You Interact with Third-Party Sites
+
+The Site(s) may include functionality that allows certain kinds of interactions between the Site and your account on a third-party website or application. The use of this functionality may involve the third-party site providing information to us. For example, we may provide links on the Site to facilitate sending a communication from the Site or we may use third parties to facilitate emails or postings to social media (like a “Share” or “Forward” button). We also may provide links to allow third parties to process credit card and/or electronic payments. These third parties may retain any information used or provided in any such communications or activities and these third parties’ practices are not subject to our Privacy Policy. We may not control or have access to your communications through these third parties. Further, when you use third-party sites or services, you are using their services and not our services and they, not we, are responsible for their practices. You should read the applicable third-party privacy policies before using such third-party tools on our Site.
+
+Information from Third Parties.
+
+In addition, we may collect information about you from other sources, including consumer credit reporting agencies, in order to evaluate your lease application and/or application for employment. We may also obtain information about you from marketers and market research firms. We may combine the information we collect from third parties with information that we have collected from you or through your use of the Services.
+
+____________________________________________________________________________________
+
+Why We Collect Information
+
+We may use your information for various purposes, including:
+
+Responding to your requests for information;
+
+Maintaining your account;
+
+Verifying your identity and for fraud prevention;
+
+Processing your payments or purchases;
+
+Analyzing and evaluating your employment application;
+
+Analyzing and evaluating your lease and/or purchase application;
+
+Providing you with maintenance and/or concierge services;
+
+Providing you with updates and information about a Related property, or a service we provide;
+
+Sending you marketing information about Related and our affiliated entities;
+
+Sending you email communications such as electronic newsletters about our products, Services, events, and promotions;
+
+Improving the effectiveness of our Site, our marketing endeavors, and our product and service offerings;
+
+Identifying your product and service preferences, providing personalized content and ads and informing you of new or additional information, products and services that may be of interest to you;
+
+Helping us address problems with and improve our Site and our products and services, including testing and creating new products, features, and services;
+
+Providing mobile marketing messages and other communications and messages;
+
+Protecting the security and integrity of the Site, including understanding and resolving any technical and security issues reported on our Sites;
+
+Engaging in analysis, research, and reports regarding the use of our Sites and Services;
+
+For internal business purposes;
+
+Complying with the law and protecting the safety, rights, property or security or Related, the Services, and the general public; and
+
+For purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
+
+____________________________________________________________________________________
+
+When We Disclose Information
+
+We may aggregate, de-identify, and/or anonymize any information collected through the Site(s) or Services such that such information is no longer linked to your personally identifiable information. We may use and share this aggregated and anonymized information (non-Personal Information) for any purpose, including without limitation, for research and marketing purposes, and may also share such data with our affiliates and third parties, including advertisers, promotional partners and others.
+
+We also may share your information, including your Personal Information, with our affiliates and other third parties, such as companies with whom we have marketing or other relationships, for direct marketing purposes. (If you are a California resident, you have the right to request additional information regarding the “sale” of your information. Please see the Section entitled “Your California Privacy Rights” below about these rights.) In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described in this Privacy Policy.
+
+Examples of when Related may share your information include as follows:
+
+Other Community Members. Certain features of our Site(s) and Services allow you to publicly share comments with other users. Any information that you submit through such features is not confidential and can be used by us for any purpose. In addition, when you use the Site or the Services, we may share certain Personal Information (such as your name, photo, contact information, or other information you have made visible in the App or Site) to other users of the App or Site in order to facilitate contact among residents and/or between residents and our representatives. Note that other users are not bound by Related’s Privacy Policy. You agree that Related is not responsible for the actions of other users with respect to any Personal Information disclosed in the App or Site. It is important that you review the applicable Privacy Policy for the event, sponsoring organization, property or Location before providing your information in connection with that event. We request that you treat all Personal Information received about other Users with the same respect and care you would want for your own information. Third Parties Providing Services to Related. We may use Third-Party Service providers to perform certain services on behalf of us or the Site(s) or Services, such as: (i) creating and updating Site(s) and app functionality; (ii) billing or processing credit cards, and/or electronic or manual payments; (iii) assisting us in Site(s) and app operations; (iv) managing a database of customer and consumer information; (v) hosting the Site(s); (vi) designing and/or operating the Site’s features; (vii) tracking the Site’s activities and analytics, including marketing and market research; (viii) data enhancement (to learn more about our customers); (ix) enabling us to send you special offers or perform other administrative services, such as customer service, security, tech, operational support, email and legal services; and (x) other services designed to assist us in maximizing our business potential. We may provide these vendors with access to user information to carry out the services they are performing for you or for us. Those vendors may have additional or different privacy policies and/or Terms of Service. You should be sure that you read and agree to those policies and Terms. To Protect the Rights of Related and Others. To the fullest extent permitted by applicable law, we may also disclose your information when required to by law or if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Related, its affiliates, third parties or the general public (including through the enforcement of this Privacy Policy, our Terms of Use, and other applicable agreements and policies); (ii) comply with legal and regulatory obligations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders); or (iii) to respond to claims that any content violates the rights of a third party. This includes exchanging information with other companies and organizations for fraud prevention, spam/malware protection, and other similar purposes. To the fullest extent permitted by applicable law, we have complete discretion in electing to make or not make such disclosures, and to contest or not contest any requests for such disclosures, all without notice to you. Affiliates and Business Transfer. We may share your information with our parent, subsidiaries, and affiliates. As part of this sharing of information with our parent, subsidiaries and affiliates, this means that once you provide us with information, any one of our related entities may use your information including for marketing purposes, pursuant to the terms of this Privacy Policy. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Site and/or our Services; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including during any due diligence process.
+
+____________________________________________________________________________________
+
+Ads and Information About You
+
+You may see certain ads on our Site because we participate in advertising networks administered by third parties. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the Tracking Technologies described above, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our Site(s), such as the pages you have viewed. This collection and ad targeting takes place both on our Site(s) and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our communications and marketing efforts.
+
+We may also use Tracking Technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Site. To learn more about how to opt out of Google’s use of the Google analytics cookies, visit, here. To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, here. If you would like more information about behavioral advertising practices, go to the Digital Advertising Alliance’s WebChoices tool at www.aboutads.info. To learn about your choices in connection with these practices on the particular device on which you are accessing this Privacy Policy, please visit http://www.networkadvertising.org/choices and http://www.aboutads.info/choices. You may also click on the informational icon contained within each interest-based ad. We do not control these opt-out links or whether any particular company chooses to participate in these opt-out programs. We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. Please see our Cookie Policy for additional information on your opt-out choices.
+
+Please note that even if you exercise the opt-out choices above, you may continue to receive advertisements, for example, ads based on the particular website you are viewing (e.g., contextually based ads). Also, if your browser (like some Safari browsers) is configured to reject opt-out cookies when you opt out on the DAA or NAI websites, your opt-out may not be effective.
+
+____________________________________________________________________________________
+
+Your Choices About the Information We Collect and “Do Not Sell”
+
+If you would prefer that we not share your name and mailing address with third parties (other than with our affiliates) to receive promotional offers, you have the option to opt out of such sharing. To do so, please email us at [email protected] or click here. Your choice will not affect our ability to share information in the other ways described in this Privacy Policy.
+
+If you do not wish to receive e-mails about special offers, events, and other promotions from us, email us at [email protected] to opt out, or click the link in the email to “unsubscribe.”
+
+Please note that certain of your personal information, such as your name or other identifying information, may remain in our database even after a deletion request in order to maintain the integrity and historical record of our database and systems.
+
+____________________________________________________________________________________
+
+Children’s Privacy
+
+Related recognizes the importance of children’s safety and privacy. The Site(s) are not designed to attract children and are not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13. Minors under the age of 16 (but older than 12) may use the Site(s) only under the supervision of a parent or legal guardian who agrees to be bound by the Site’s Terms of Use. If you are the parent or guardian of a child under 13 who has provided her or his information to us, please contact us at [email protected] to request the deletion of that information.
+
+____________________________________________________________________________________
+
+Do Not Track Disclosures
+
+Do Not Track (“DNT”) is a web browser setting that requests that a web application disable its tracking of an individual user. When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug in providers, and other web services you encounter while browsing to stop tracking your activity. Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third-party websites or online services (e.g., browser do not track signals), but there is no universally-agreed upon standard for what a company should do when it detects a DNT signal. Currently, we do not monitor or take any action with respect to these signals or other mechanisms. You can learn more about Do Not Track here.
+
+____________________________________________________________________________________
+
+Visitors to the Site Outside of the United States
+
+Our Site(s) is not intended for visitors outside of the United States. If you are visiting the Site from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the Site will be created on servers located in the U.S., and all information you provide will be maintained on web servers and systems located within the U.S. The data protection laws in the United States may differ from those of the country in which you are located, and your information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Site or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information in the United States and in other countries, as set forth in this Privacy Policy.
+
+_____________________________________________________________________________________
+
+Updating Personal Information
+
+We prefer to keep your Personal Information accurate and up to date. If you would like to change your contact information, please contact us at [email protected] or click here to delete your information (if applicable).
+
+If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records). Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons, such as a legitimate business reason.
+
+In addition, please note that if you implement a deletion request but later sign up for information or Services, your most recent request will control our information relationship with you.
+
+_____________________________________________________________________________________________
+
+Links
+
+For your convenience, the Site(s) and this Privacy Policy may contain links to other websites. Related is not responsible for the privacy practices, advertising, products, services, or the content of such other websites. None of the links on the Site(s) should be deemed to imply that Related endorses or has any affiliation with the links.
+
+_____________________________________________________________________________________
+
+Security
+
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, mobile networks, wireless transmission, or electronic storage of information can be guaranteed 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit to or from our Site, and you provide us with your information at your own risk.
+
+_____________________________________________________________________________________
+
+International Data Transfers
+
+Because Related works with global companies and technologies, we may transfer your Personal Information outside of the country in which it was originally provided. This may include transfers to third parties, such as service providers or affiliated entities who are location outside the United States or the European Union, where data protection laws may not offer the same level of protection as those in the U.S., E.U. or European Economic Area (“EEA”). When we transfer personal data outside of these areas, we take steps to make sure that appropriate safeguards are in place to protect your Personal Information. Our transfers of your personal data outside of the E.U. are safeguarded by data processing agreements (“DPAs”) incorporating Standard Contractual Clauses. You may request a copy of the relevant portions of such agreements by contacting us at [email protected]. Please include the nature of your request in the subject line.
+
+____________________________________________________________________________________
+
+Your Data Protection Rights Under the General Data Protection Regulation (GDPR)
+
+If you are a resident of or located within the European Economic Area (EEA), you have certain additional data protection rights. These rights include:
+
+The right to access, update or delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Information directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+The right to object. You have the right to object to our processing of your Personal Information.
+
+The right of restriction. You have the right to request that we restrict the processing of your personal information.
+
+The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+The right to withdraw consent. You also have the right to withdraw your consent at any time where Related relied on your consent to process your personal information.
+
+Legal Basis for Processing Personal Information Under GDPR
+
+Related’s legal basis for collecting and using the Personal Information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect it.
+
+Related may process your Personal Information because:
+
+We need to perform a contract with you;
+
+You have given us permission to do so;
+
+The processing is in our legitimate interests and it is not overridden by your rights; or
+
+To comply with the law.
+
+Retention of Information
+
+Related will retain your Personal Information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your Information to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+
+Related will also retain Usage Data for internal analysis purposes. Usage Data is data collected automatically either generated by the use of the Site or from the Site infrastructure itself (for example, the duration of a page visit). Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Site or we are legally obligated to retain this data for longer periods.
+
+Transfer of Information
+
+Your information, including Personal Information, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Related will take all the steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Information will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+Disclosure of Personal Information
+
+Disclosure for Law Enforcement - Under certain circumstances, Related may be required to disclose your Personal Information if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Legal Requirements
+
+Related may disclose your Personal Information in the good faith belief that such action is necessary to:
+
+To comply with a legal obligation
+
+To protect and defend the rights or property of Related.
+
+To prevent or investigate possible wrongdoing in connection with the Service
+
+To protect the personal safety of users of the Service or the public
+
+To protect against legal liability
+
+Security of Information
+
+The security of your Personal Information is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+Should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority; however, we hope that we can assist with any queries or concerns you may have about our use of your Personal Information first.
+
+For more information, please contact your local data protection authority in the EEA.
+
+_____________________________________________________________________________________
+
+Your California Privacy Rights – Privacy Notice for California Residents
+
+Related collects certain types of personal information about you during your relationship with Related as a user, resident, owner, or visitor. Under California law, if you are a resident of California, you have the right to request certain information that we collect about you, including:
+
+The categories of Personal Information we have collected from you; The categories of sources from which we collected the Personal Information; The business purpose we have for collecting or sharing that Personal Information; The categories of third parties with whom we share such Personal Information; and The specific pieces of Personal Information we have collected about you.
+
+In addition, you may request that we provide you with:
+
+The categories of Personal Information that we sold about you, and the categories of third parties to whom the personal information was sold, by category or categories of Personal Information for each category of third parties to whom the information was sold; The categories of Personal Information that we have disclosed about you for a business purpose; The category or categories of consumers’ Personal Information that we have sold, or if we have not sold consumers’ Personal Information; and The category or categories of consumers’ Personal Information that we have disclosed for a business purpose, or if we have not disclosed that information for a business purpose.
+
+Please note that if we collected information about you for a single one-time transaction and do not keep that information in the ordinary course of business, that information will not be retained for purposes of a request under this section. In addition, if we have de-identified or anonymized data about you, we are not required to re-identify or otherwise link your identity to that data if it is not otherwise maintained that way in our records.
+
+As a California resident, you also have the right, at any time, to tell us not to sell Personal Information – this is called the “right to opt-out” of the sale of Personal Information. You also have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
+
+You may make a written request to us here to request this information. We may require you to confirm your identity and your residency in order to obtain the information, and you are only entitled to make this request twice a year. You may call, email or write us with your request at the contact information below. Please include “California Privacy Rights” as the subject line. You must include your full name, email address, and attest to the fact that you are a California resident by including a California postal address in your request. We will respond to your request within 45 days or let you know if we need additional time.
+
+Web Form for Access/Deletion/Do Not Sell Requests:
+
+Click here
+
+Email Address:
+
+[email protected]
+
+Toll-Free Number:
+
+(888) 914-9661 (Reference PIN 813513)
+
+We may be unable to respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+
+____________________________________________________________________________________
+
+Your Nevada Privacy Rights
+
+If you are a Nevada resident, you have the right to request certain information from us regarding the collection and sale of your personal information (as defined in Nevada Revised Statutes 603A.320) during your visit to our websites or when you otherwise interact with us online. If you have sought or acquired, by purchase or lease, any goods or services for personal, family, or household purposes from the Related Site(s), you may ask us to disclose whether we have sold (for monetary consideration) certain information about you (including your first and last name, physical address, email address, telephone number, social security number, an identifier that allows you to be contacted either physically or online, or other contact information that allows us to identify you personally).
+
+As a Nevada resident, you may also request to opt out of us sharing such information about you. To make this inquiry, please submit a request in writing to [email protected] with “Nevada Privacy Rights” in the subject line. You must include your full name, email address, and attest that you are a Nevada resident by providing a Nevada postal address in your request. Please state whether you are requesting information and/or opting out. [You must complete a separate request for each Related company.]
+
+We will process your request within 60 days, or we will let you know if we need additional time. We may require additional information to verify your identity before we can respond.
+
+_____________________________________________________________________________________
+
+Questions / Changes in Privacy Policy
+
+If you have questions or concerns with respect to our Privacy Policy, you may contact us at [email protected]. We may elect to change or amend our Privacy Policy; in such event, we will post the policy changes in our Privacy Policy on the Site, and they will become effective on the date posted. If you are concerned about how your personal information is used, please visit our Site often for this and other important announcements and updates.
+
+

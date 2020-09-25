@@ -1,0 +1,50 @@
+Title: October 15, 2020
+URL: https://www.redditinc.com/policies/privacy-policy
+Date of publishing: None
+Keywords: thirdparty, opt, delete, reddit, services, 15, cookies, account, settings, information, advertisements, 2020
+Policy: 
+
+
+Accessing and Changing Your Information
+
+You can access and change certain information through the Services. See our Help Center page for more information. You can also request a copy of the personal information Reddit maintains about you by following the process described here.
+
+Deleting Your Account
+
+You may delete your account information at any time from the user preferences page. You can also submit a request to delete the personal information Reddit maintains about you by following the process described in the “Your Rights - Data Subject and Consumer Information Requests” section below. When you delete your account, your profile is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others unless you first delete the specific content. We may also retain certain information about you as required by law or for legitimate business purposes after you delete your account.
+
+Controlling Linked Services’ Access to Your Account
+
+You can review the services you have permitted to access your account and revoke access to individual services by visiting your account’s Apps page (for third-party app authorizations) and the Connected Accounts section of your Account Settings (for Google Sign-In, Sign in with Apple, and connected Twitter accounts).
+
+Controlling the Use of Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information on controlling how cookies and similar technologies are used on Reddit, see our Cookie Notice.
+
+Controlling Advertising and Analytics
+
+Some analytics providers we partner with may provide specific opt-out mechanisms and we may provide, as needed and as available, additional tools and third-party services that allow you to better understand cookies and how you can opt out. For example, you may manage the use and collection of certain information by Google Analytics via the Google Analytics Opt-out Browser Add-on. You can opt out of the Audience Measurement services provided by Nielsen and Quantcast.
+
+
+
+We also offer you choices about receiving personalized advertisements. You can adjust how we personalize advertisements for you by visiting your ads preferences in your account settings, or here if you use Reddit in a web browser. You can also use device-level settings to control personalized advertisements on Android (“Reset advertising ID” and “Opt out of Ads Personalization”) and iOS (“Limit Ad Tracking”) devices. You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the sites of the Digital Advertising Alliance and the Network Advertising Initiative, or if you are a user in the European Economic Area, Your Online Choices.
+
+Do Not Track
+
+Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked. However, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal. Instead, in addition to publicly available third-party tools, we offer you the choices described in this policy to manage the collection and use of information about you.
+
+Controlling Promotional Communications
+
+You may opt out of receiving some or all categories of promotional communications from us by following the instructions in those communications or by updating your email options in your account preferences here. If you opt out of promotional communications, we may still send you non-promotional communications, such as information about your account or your use of the Services.
+
+Controlling Mobile Notifications
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+Controlling Location Information
+
+You can control how we use location information inferred from your IP address for content recommendation purposes via the Safety and Privacy settings on your account. If you initially consent to our collection of more precise location information from your device, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.
+
+
+
+

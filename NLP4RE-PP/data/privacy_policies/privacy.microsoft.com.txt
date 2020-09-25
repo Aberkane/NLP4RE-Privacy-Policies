@@ -1,0 +1,50 @@
+Title: Microsoft Privacy Statement – Microsoft privacy
+URL: https://privacy.microsoft.com/en-us/privacystatement
+Date of publishing: None
+Keywords: videos, photos, data, services, microsoft, account, privacy, apps, location, statement, narrator, app
+Policy: 
+Windows apps
+
+Windows apps
+
+mainwindowsappsmodule
+
+Summary
+
+A number of Microsoft apps are included with Windows and others are available in Microsoft Store. Some of those apps include:
+
+Maps app. The Maps app provides location-based services and uses Bing services to process your searches within the Maps app. When the Maps app has access to your location, and you have enabled location-based services in Windows, when you use the “@” key to initiate a search in supported text boxes in Windows apps, Bing services collects the text you type after the “@” key to provide location-based suggestions. To learn more about these Bing-powered experiences, see the Bing section of this privacy statement. When the Maps app has access to your location, even when the app is not in use, Microsoft may collect de-identified location data from your device to improve Microsoft services. You can disable the Maps app's access to your location by turning off the location service or turning off the Maps app's access to the location service.
+
+You can keep track of your favorite places and recent map searches in the Maps app. Your favorite places and search history will be included as search suggestions. If you're signed in with your Microsoft account, your favorite places, search history, and certain app settings will be synced across other devices and services (for example, Cortana). For more information, see the Sync settings section of this privacy statement.
+
+Camera and Photos apps. Both the Camera and Photos apps can utilize location data. If you allow the Camera app to use your location, location data is embedded in the photos you take with your device. Other descriptive data, such as camera model and the date that the picture was taken, is also embedded in photos and videos. If you choose to share a photo or video, any embedded data will be accessible to the people and services you share with. You can disable the Camera app's access to your location by turning off all access to the location service in your device's Settings menu or turning off the Camera app's access to the location service. The Photos app can group your photos and videos by time and location when you import photos and videos that include location data. To do so, the Photos app sends location data in your photos and videos to Microsoft to determine the names of locations, such as "Seattle, Washington".
+
+The Camera app enables face detection technology to optimize the device camera settings, such as assisting with the automatic focus, white balance, and exposure of photo captures. The Camera app does not use identifiers to group people or identify who the person is in a focal frame. The Camera app does not retain any face detection data.
+
+The Photos app presents different tabs to group photos and videos by time, location, tags, and faces. The Collection tab displays photos and videos according to their time. The Album tab helps users organize their photos and videos by location and common tags. The People tab helps you organize your photos and videos by grouping photos and videos with similar faces, which you can then associate with contacts.
+
+If you enable the People setting on the Photos app's settings page, the app will use both face detection and recognition technologies to organize your photos and videos into groups. The grouping feature uses facial detection to identify photos and videos containing faces and facial recognition to group photos and videos associated with a given person. Once grouped, you may associate a facial grouping with a contact from your People App.
+
+Photos' facial groupings and associated data are only accessible to you within the Photos app. Microsoft does not access or use this facial data for any purpose outside the Photos app. You, and not Microsoft, are responsible for ensuring you have appropriate permissions from the people in your photos and videos to use facial grouping technology to group your photos and videos in your personal albums.
+
+Your groupings will be stored on your device for as long as you elect to keep the groupings or the photos or videos. If the People setting is turned on, you will be prompted to allow the Photos app to continue to permit facial groupings after three years of non-interaction with the Photos app. At any time, you can go to the Settings page in the Photos app to turn the People setting on or off. Learn more about the Photos app, facial recognition, and grouping
+
+People app. The People app lets you see and interact with all your contacts in one place. When you add an account to the People app, your contacts from your account will be automatically added to the People app. You can add other accounts to the People app, including your social networks (such as Facebook and Twitter) and email accounts. When you add an account, we tell you what data the People app can import or sync with the particular service and let you choose what you want to add. Other apps you install may also sync data to the People app, including providing additional details to existing contacts. When you view a contact in the People app, information about your recent interactions with the contact (such as emails and calendar events, including from apps that the People app syncs data from) will be retrieved and displayed to you. You can remove an account from the People app at any time.
+
+Mail and Calendar app. The Mail and Calendar app allows you to connect all your email, calendars, and files in one place, including those from third-party email and file storage providers. The app provides location-based services, such as weather information in your calendar, but you can disable the app’s use of your location. When you add an account to the Mail and Calendar app, your email, calendar items, files, contacts, and other settings from your account will automatically sync to your device and to Microsoft servers. At any time, you can remove an account or make changes to the data that’s synced from your account. To configure an account, you must provide the app with the account credentials (such as user name and password), which will be sent over the internet to the third-party provider’s server. The app will first attempt to use a secure (SSL) connection to configure your account but will send this information unencrypted if your email provider does not support SSL. If you add an account provided by an organization (such as a company email address), the owner of the organizational domain can implement certain policies and controls (for example, multi-factor authentication or the ability to remotely wipe data from your device) that may affect your use of the app.
+
+Messaging app. When you sign in with a Microsoft account on your device, you can choose to back up your information, which will sync your SMS and MMS messages and store them in your Microsoft account. This allows you to retrieve the messages if you lose or change phones. After your initial device set-up, you can manage your messaging settings at any time. Turning off your SMS/MMS backup will not delete messages that have been previously backed up to your Microsoft account. To delete such messages, you must first delete them from your device prior to turning off backup. If you allow the Messaging app to use your location, you can attach a link to your current location to an outgoing message. Location information will be collected by Microsoft as described in the Windows Location services section of this privacy statement.
+
+Narrator. Narrator is a screen-reading app that helps you use Windows without a screen. Narrator offers intelligent image and page title description and web page summaries when you encounter undescribed images and ambiguous links.
+
+When you choose to get an image description by pressing Narrator + Ctrl + D, the image will be sent to Microsoft to perform analysis of the image and generate a description. Images are used only to generate the description and are not stored by Microsoft.
+
+When you choose to get page title descriptions by pressing Narrator + Ctrl + D, the URL of the site you are visiting will be sent to Microsoft to generate the page title description and to provide and improve Microsoft services, such as Bing services as described in the Bing section above.
+
+When you choose to get a list of popular links for a web page by pressing Narrator + double press of S, the URL of the site you are visiting will be sent to Microsoft to generate the summary of popular links and to provide and improve Microsoft services, such as Bing.
+
+You can disable these features at any time by going to Settings > Ease of Access > Narrator > Get image descriptions, page titles and popular links.
+
+You can also send feedback about Narrator to help Microsoft diagnose and resolve problems with Narrator and improve Microsoft products and services, such as Windows. Verbal feedback can be submitted at any time in Narrator by using Narrator Key + Alt + F. When you use this command, the Feedback Hub app will launch, giving you the opportunity to submit verbal feedback. If you enable the setting “Help Make Narrator Better” in Settings > Ease of Access > Narrator and submit verbal feedback through Feedback Hub, recent device and usage data, including event trace log (ETL) data, will be submitted along with your verbal feedback to improve Microsoft products and services, such as Windows.
+
+

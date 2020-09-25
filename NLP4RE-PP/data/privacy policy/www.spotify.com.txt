@@ -1,0 +1,253 @@
+Title: Privacybeleid
+URL: https://www.spotify.com/legal/privacy-policy/
+Date of publishing: None
+Keywords: het, te, persoonsgegevens, en, om, spotify, je, van, een, die, privacybeleid
+
+Policy: Privacybeleid
+
+Deze tabel ziet op persoonsgegevens die we verzamelen door jouw gebruik van de Spotify Dienst:
+
+Categorieën persoonsgegevens Beschrijving van de categorie Gebruiksgegevens Dit zijn de persoonsgegevens die over je worden verzameld wanneer je je inlogt bij of gebruik maakt van de Spotify Dienst, waaronder:
+
+
+
+Informatie over het door jou gekozen abonnement op de Spotify Dienst.
+
+Informatie over je gebruik van de Spotify Dienst, zoals je zoekopdrachten (incl. de datum en de tijd van opdrachten), je streaminggeschiedenis, door jou gemaakte afspeellijsten, je bibliotheek, je browsegeschiedenis, en je interactie met de Spotify Dienst, inhoud en andere Spotify-gebruikers. Het kan hierbij ook gaan om gegevens over je gebruik van applicaties van derden die verbinding maken met de Spotify Dienst.
+
+Gevolgtrekkingen over je interesses en voorkeuren op basis van je gebruik van de Spotify Dienst.
+
+Gebruikersinhoud (zoals omschreven in de Gebruiksvoorwaarden) die je op Spotify plaatst, zoals foto's, titels van afspeellijsten, en je communicatie met de klantenservice van Spotify. Wij hebben enkel toegang tot de camera of de foto's op je apparaat als je ons daarvoor toestemming geeft, en we bekijken alleen afbeeldingen die je specifiek met ons hebt gedeeld, samen met de metadata van die afbeeldingen, zoals het soort bestand en de bestandsgrootte. Wij gaan nooit over tot het scannen of importeren van de fotogalerij of filmrol van je apparaat.
+
+Bepaalde technische gegevens, zoals:
+
+URL-gegevens;
+
+
+
+online-identifiers, waaronder cookiegegevens en IP-adressen;
+
+
+
+informatie over de soorten apparaten die je gebruikt, zoals unieke apparaatidentificatiekenmerken, het type netwerkverbinding (bijv. wifi, 3G, LTE of Bluetooth), je netwerkprovider, prestatiegegevens over je netwerk en je apparaat, browsertype, taalkeuze, informatie bedoeld voor digitaal rechtenbeheer, je besturingssysteem en de versie van de Spotify-app;
+
+
+
+de kenmerken van apparaten op je wifi-netwerk die verbinding kunnen maken met de Spotify Dienst (bijv. luidsprekers);
+
+
+
+je locatie bij benadering, die we zouden kunnen afleiden uit bepaalde technische gegevens (zoals je IP-adres, de taalinstellingen van je apparaat of de valuta waarmee je betaalt) zodat we kunnen voldoen aan geografische restricties in onze licentieovereenkomsten en je gepersonaliseerde inhoud en advertenties kunnen leveren; en
+
+
+
+mobiele sensorgegevens op basis van beweging of oriëntatie (bijv. van een accelerometer or gyroscoop) die nodig zijn om specifieke functies van de Spotify Dienst te laten werken. Verificatiegegevens voor abonnementen Voor gebruikers met bepaalde abonnementen zoals 'Spotify Premium for Family' of 'Premium Duo' kunnen wij een beroep doen op externe dienstverleners van kaartgegevens (zoals Google Maps) en/of de locatieservice van je apparaat, om je adres te verifiëren. Deze gegevens worden uitsluitend verzameld met als doel om na te gaan of je in aanmerking komt voor een abonnement 'Spotify Premium for Family' of 'Premium Duo'. Deze gegevens worden niet gebruikt voor advertenties of andere doeleinden.
+
+De volgende tabel ziet op persoonsgegevens die je ons naar eigen keuze kunt verstrekken en waarmee we je bijkomende functies kunnen bieden
+
+Categorieën persoonsgegevens Beschrijving van de categorie Spraakgegevens Indien spraakfunctionaliteit voor jouw markt beschikbaar is, verzamelen we met jouw toestemming spraakgegevens om je bijkomende functies aan te kunnen bieden, zoals het besturen van de Spotify Dienst met je stem. Voor meer informatie verwijzen we je naar ons Beleid inzake Spraakopdrachten. Gegevens over aankopen en betalingen Als je een proefabonnement of een van onze betaalde abonnementen afsluit (zoals dat wordt gedefinieerd in de Gebruiksvoorwaarden) of iets koopt via de Spotify Dienst, kunnen we bepaalde persoonsgegevens verzamelen. Welke persoonsgegevens we precies verzamelen, hangt af van de betaalmethode (bijv. betalen via je telefoonrekening of op factuur). Het zal daarbij gaan om onder meer de volgende gegevens:
+
+Naam;
+
+Geboortedatum;
+
+Type betaalkaart of creditcard, vervaldatum, en bepaalde cijfers van je kaartnummer;
+
+Postcode;
+
+Mobiel telefoonnummer; en
+
+Aankoop- en betalingsgeschiedenis
+
+Gegevens over prijsvragen, enquêtes en sweepstakes Wanneer je een formulier, een enquête of een vragenlijst invult of meedoet aan een prijsvraag, verzamelen we de persoonsgegevens die je daarbij verstrekt.
+
+Onderstaande tabel ziet op persoonsgegevens die we verkrijgen van derden:
+
+We ontvangen persoonsgegevens over jou van verschillende derde partijen. Wie deze derden precies zijn, kan van tijd tot tijd verschillen. Het gaat onder meer om:
+
+Categorieën gegevensbronnen van derden Beschrijving van de categorie Partners voor authenticatie Als je je aanmeldt voor onze diensten of op onze diensten inlogt met een gebruikersnaam en wachtwoord van een derde (bijv. Facebook), halen wij je gegevens op bij die derde om je te helpen een account bij ons aan te maken. Technische dienstverleners Wij werken met verschillende technische dienstverleners die ons bepaalde gegevens verstrekken, bijvoorbeeld een locatie bij benadering (bijv. de stad of de provincie) op basis van een IP-adres, zodat wij de Spotify Dienst, content en functies kunnen leveren. Betalingspartners Als je ervoor kiest een dienst of functie op factuur te betalen, kunnen wij van onze betalingspartners gegevens ontvangen die we nodig hebben om je facturen te sturen, je betaling te verwerken, en je te leveren wat je hebt gekocht. Adverteerders en andere advertentiepartners We kunnen bepaalde gegevens over jou ontvangen van bepaalde adverteerders en advertentiepartners, waarmee we je meer relevante advertenties kunnen tonen en kunnen opvolgen hoe doeltreffend die zijn. Het gaat daarbij bijvoorbeeld om cookie-ID's, het ID-nummer van je mobiele apparaat, je e-mailadres, en gevolgtrekkingen over je interesses en voorkeuren.
+
+5. Waar we je persoonsgegevens voor gebruiken
+
+Wanneer je de Spotify Dienst gebruikt of er verbinding mee maakt, maken wij gebruik van verschillende technologieën om de persoonsgegevens die we voor verschillende doeleinden over je verzamelen, te verwerken. In het overzicht hieronder lees je de doeleinden waarvoor we je persoonsgegevens verwerken, de grondslag waarop we ons daarvoor baseren, en de categorieën persoonsgegevens (opgesomd in Afdeling 4 'Welke persoonsgegevens we over je verzamelen') die in dat kader worden gebruikt.
+
+Waarom Spotify je persoonsgegevens verwerkt (‘doel van de verwerking’) Grondslag voor de verwerking Categorieën persoonsgegevens die door Spotify worden gebruikt voor het doel van de verwerking Om je de Spotify Dienst te leveren en die te personaliseren. Uitvoering van een overeenkomst
+
+Gerechtvaardigd belang
+
+Toestemming Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen
+
+Verificatiegegevens voor abonnementen
+
+Spraakgegevens Om problemen met de Spotify Dienst te begrijpen, te diagnosticeren, op te lossen en te verhelpen. Uitvoering van een overeenkomst
+
+Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens Om nieuwe functies, technologieën en verbeteringen aan de Spotify Dienst te ontwikkelen en te evalueren. Gerechtvaardigd belang
+
+Toestemming Gebruikersgegevens
+
+Gebruiksgegevens
+
+Spraakgegevens Voor marketing, promotionele en advertentie doeleinden. Gerechtvaardigd belang
+
+Toestemming Gebruikersgegevens
+
+Gebruiksgegevens
+
+Spraakgegevens Om te voldoen aan wettelijke verplichtingen en verzoeken van opsporingsinstanties. Voldoen aan een wettelijke verplichting
+
+Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen
+
+Verificatiegegevens voor abonnementen
+
+Spraakgegevens
+
+Gegevens over prijsvragen, enquêtes en sweepstakes Om te voldoen aan contractuele verplichtingen die wij hebben tegenover derden, zoals in het kader van licentieovereenkomsten, en om passend te reageren op rapporten over inbreuken op intellectuele eigendom of ongeoorloofde content. Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen Om juridische claims vast te stellen, ten uitvoer te leggen, of om ons daartegen te verweren. Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen
+
+Verificatiegegevens voor abonnementen
+
+Spraakgegevens
+
+Gegevens over prijsvragen, enquêtes en sweepstakes Voor bedrijfsplanning, rapportage en prognoses. Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen Om je betaling te verwerken. Uitvoering van een overeenkomst
+
+Voldoen aan een wettelijke verplichting Gebruikersgegevens
+
+Gegevens over aankopen en betalingen Om fraude op te sporen, zoals frauduleuze betalingen en frauduleus gebruik van de Spotify Dienst. Uitvoering van een overeenkomst
+
+Voldoen aan een wettelijke verplichting
+
+Gerechtvaardigd belang Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over aankopen en betalingen
+
+Verificatiegegevens voor abonnementen Voor onderzoek, prijsvragen, enquêtes en sweepstakes. Uitvoering van een overeenkomst
+
+Gerechtvaardigd belang
+
+Toestemming Gebruikersgegevens
+
+Gebruiksgegevens
+
+Gegevens over prijsvragen, enquêtes en sweepstakes
+
+Als je meer wilt weten over de afwegingen die Spotify heeft gemaakt bij het inroepen van gerechtvaardigde belangen als grondslag in het kader van de AVG, neem dan contact met ons op. Hoe dat moet, lees je in Afdeling 13 'Contact opnemen'.
+
+6. Met wie we je persoonsgegevens delen
+
+Hierna lees je welke categorieën ontvangers toegang krijgen tot de persoonsgegevens die zijn verzameld of gegenereerd in verband met je gebruik van de Spotify Dienst.
+
+Openbare informatie
+
+De volgende persoonsgegevens zijn altijd voor iedereen zichtbaar in de Spotify Dienst: je naam en/of gebruikersnaam, je profielfoto, wie je volgt en wie jou volgt binnen de Spotify Dienst, de artiesten die je recent hebt afgespeeld, en je openbaar gemaakte afspeellijsten.
+
+Persoonsgegevens die je eventueel zelf kan delen
+
+De volgende persoonsgegevens worden gedeeld met de categorieën ontvangers die staan opgesomd in de tabel hieronder, maar uitsluitend:
+
+als je ervoor kiest een specifieke functie van de Spotify Dienst te gebruiken waarvoor het nodig is dat je bepaalde persoonsgegevens deelt; of
+
+als je ons toestemming geeft om de persoonsgegevens te delen, bijvoorbeeld door bepaalde instellingen te kiezen binnen de Spotify Dienst of door Spotify toestemming te geven via een ander aangeboden mechanisme.
+
+Categorieën ontvangers Reden voor het delen Applicaties en apparaten van derden die je koppelt met je Spotify-account Als je je Spotify-account koppelt met een applicatie of een apparaat van een derde, bijvoorbeeld in het kader van sociale media, audio, televisie, autoplatforms en -diensten, stuurt Spotify technische gegevens door naar de exploitant van deze externe applicatie of dit externe apparaat met als doel je Spotify-account te koppelen en het afspelen van de Spotify Dienst mogelijk te maken. Voor bepaalde derde partijen die vragen of eisen dat wij die informatie naar hen doorsturen, zullen we vooraf eerst je toestemming vragen. Support Community Wanneer je een account aanmaakt voor de 'Spotify Support Community', vragen we je een specifieke gebruikersnaam voor die community te kiezen. Deze gebruikersnaam en alle vragen en reacties die je plaatst, zijn zichtbaar voor iedereen die toegang heeft tot de 'Spotify Support Community'. Je volgers op Spotify Je kunt ervoor kiezen gegevens over je gebruik van de Spotify Dienst door ons te laten meedelen aan andere gebruikers van Spotify, die we 'je volgers op Spotify' noemen. Denk hierbij, bijvoorbeeld, aan het openbaar of privé maken van afspeellijsten. Als je je privé-afspeellijsten met anderen wilt delen, denk er dan aan dat de mensen die je privé-afspeellijsten ontvangen, die verder kunnen delen met anderen. Artiesten en platenlabels Je kunt ervoor kiezen persoonsgegevens (zoals je e-mailadres) te delen met artiesten, platenlabels of andere partners die je misschien rechtstreeks nieuwtjes of aanbiedingen willen sturen. Je kan je altijd bedenken en die toestemming op ieder moment weer intrekken.
+
+Meer informatie over het beheren van notificaties, je openbare gegevens en wat je met anderen deelt, lees je in Afdeling 3 'Je rechten en je voorkeuren: hoe wij je keuze en zeggenschap geven' van dit Privacybeleid en in het Privacy Center.
+
+Informatie die we kunnen delen
+
+Categorieën ontvangers Reden voor het delen Dienstverleners Wij doen een beroep op dienstverleners die namens ons werken en die daarvoor mogelijk toegang nodig hebben tot bepaalde persoonsgegevens. Het gaat daarbij onder meer om bedrijven die wij inzetten voor klantenservice, voor het beheren van de technische infrastructuur die wij nodig hebben om de Spotify Dienst te kunnen leveren, om ons te helpen bij het beschermen en beveiligen van onze systemen en diensten, en om te helpen bij het marketen van Spotify’s eigen producten en diensten, en het marketen van producten, diensten, evenementen en co-branded promoties van partners waarbij Spotify betrokken is. Betalingsverwerkers We sturen je persoonsgegevens door aan onze betalingsverwerkers voor zover dat nodig is om hen in staat te stellen betalingen te verwerken, en om fraude te voorkomen. Advertentiepartners Wij werken samen met advertentiepartners om de advertenties die je te zien krijgt via de Spotify Dienst, in te vullen. Deze partners helpen ons je meer relevante advertenties en promotionele berichten te laten zien. Het kan daarbij gaan om advertenties op basis van je interesses (ook wel ‘online behavioral advertising’ genoemd), advertenties op basis van context, en generieke advertenties binnen de Spotify Dienst. Wij, en onze advertentiepartners, kunnen bepaalde persoonsgegevens verwerken om Spotify inzicht te geven in je interesses of voorkeuren, om je advertenties voor te schotelen die meer relevant voor je zijn. Partners van Spotify Naar gelang de manier waarop je je aanmeldt voor de Spotify Dienst (bijv. via een dienst van een derde of via een mobiele provider), delen we je gebruikersnaam en andere Gebruikersgegevens die nodig zijn om je account mogelijk te maken. Wij kunnen aan dergelijke derde partijen ook persoonsgegevens sturen over je gebruik van de Spotify Dienst, bijvoorbeeld of en in welke mate je gebruik hebt gemaakt van een aanbod, of je Spotify-account hebt geactiveerd, en of je actief de Spotify Dienst hebt gebruikt. Wij kunnen ook je persoonsgegevens gepseudonimiseerd delen met onze partners in de muziekindustrie, om hen informatie te verstrekken over het gebruik van inhoud die zij aan ons in licentie geven, en om het voor je mogelijk te maken om content te streamen via de Spotify Dienst. Wetenschappelijke onderzoekers Wij sturen je persoonsgegevens door in het kader van activiteiten zoals statistische analyses en wetenschappelijke studies, maar alleen nadat we ze hebben gepseudonimiseerd. Andere bedrijven van de Spotify-groep Wij delen je persoonsgegevens met andere bedrijven in de Spotify-groep om ons in staat te stellen onze dagelijkse bedrijfsactiviteiten uit te voeren, de Spotify Dienst te onderhouden en aan je te leveren. Opsporingsinstanties en privacytoezichthouders We delen je persoonsgegevens wanneer we te goeder trouw menen dat dit nodig is om te voldoen aan een wettelijke verplichting onder het toepasselijk recht, of om te voldoen aan een daartoe strekkend, geldig en bevoegd gegeven verzoek of bevel, zoals een doorzoekingsbevel een gerechtelijke uitspraak of een dagvaarding. We delen je persoonsgegevens ook als we te goeder trouw menen dat dit noodzakelijk is gelet op onze eigen gerechtvaardigde belangen of die van een derde in het kader van nationale veiligheid, opsporingsdoeleinden, procesvoering, strafrechtelijk onderzoek, de beveiliging van personen, of om dreigend lichamelijk letsel of overlijden te voorkomen, voor zover wij bepalen dat deze belangen zwaarder wegen dan jouw belangen of je grondrechten en fundamentele vrijheden die het beschermen van je persoonsgegevens noodzakelijk maken. Kopers van ons bedrijf We delen je persoonsgegevens met kopers of potentiële kopers, wanneer we onderhandelen over of overgaan tot de verkoop van ons bedrijf. In dat geval zal Spotify ervoor blijven zorgen dat je persoonsgegevens vertrouwelijk blijven en zal Spotify je, voordat je persoonsgegevens worden doorgestuurd naar de koper, of voordat een ander Privacybeleid van toepassing wordt op je persoonsgegevens, hiervan op de hoogte brengen.
+
+7. Bewaren en wissen van je persoonsgegevens
+
+Wij bewaren je persoonsgegevens niet langer dan noodzakelijk om je de Spotify Dienst te kunnen aanbieden en voor gerechtvaardigde en essentiële bedrijfsdoeleinden (bijvoorbeeld om ervoor te zorgen dat de Spotify Dienst goed blijft werken, om bedrijfsbeslissingen over nieuwe functies en aanbod te nemen op basis van data, om te voldoen aan onze wettelijke verplichtingen, en om geschillen op te lossen). Sommige persoonsgegevens bewaren we zolang je gebruiker blijft van de Spotify Dienst. We bewaren bijvoorbeeld je afspeellijsten, muziekbibliotheek en accountgegevens.
+
+Als je daar om vraagt, verwijderen of anonimiseren we je persoonsgegevens zodat je er niet langer door geïdentificeerd kunt worden, behalve als we er juridisch toe verplicht zijn om bepaalde persoonsgegevens langer te bewaren, zoals in de volgende situaties:
+
+als er een probleem is met betrekking tot je account dat nog niet is opgelost, zoals een openstaande factuur op je account of verzoek waaraan nog niet is voldaan of een geschil dat nog niet is opgelost, dan bewaren we de nodige persoonsgegevens tot het probleem is opgelost;
+
+als we persoonsgegevens moeten bewaren om te voldoen aan onze juridische, fiscale, boekhoudkundige en auditverplichtingen, bewaren we de nodige persoonsgegevens zolang dat nodig is op grond van toepasselijke wetgeving; en/of
+
+als het bewaren van persoonsgegevens nodig is voor onze legitieme zakelijke belangen, zoals het voorkomen van fraude of de veiligheid van onze gebruikers.
+
+8. Doorgifte aan andere landen
+
+Spotify geeft je persoonsgegevens door aan bedrijven in andere landen die deel uitmaken van de Spotify-groep om de activiteiten uit te kunnen voeren die in dit Privacybeleid vermeld staan. Spotify kan je persoonsgegevens ook doorsturen of de gegevensverwerking uitbesteden aan derde partijen in een ander land dan jouw eigen land. De privacywetgeving die van toepassing is op je persoonsgegevens kan dus verschillen van die van je eigen land.
+
+Persoonsgegevens die binnen de Europese Unie en Zwitserland zijn verzameld, kunnen bijvoorbeeld worden doorgegeven naar en verwerkt door derde partijen in een land buiten de Europese Unie of Zwitserland. In dergelijke gevallen zorgt Spotify ervoor dat de doorgifte van je persoonsgegevens voldoet aan de toepasselijke privacywetten, en dat er, in het bijzonder, passende contractuele, technische en organisatorische maatregelen worden genomen, zoals het gebruik van standaardcontractbepalingen die door de Europese Commissie zijn goedgekeurd.
+
+Voor meer details over de beveiligingsmaatregelen die we hebben genomen ter bescherming van je persoonsgegevens, verwijzen we je naar Afdeling 10 'Beveiliging van je persoonsgegevens' van dit Privacybeleid.
+
+9. Links
+
+We kunnen je advertenties van derden tonen, of andere content die links bevat naar websites van derden. We hebben geen invloed op het privacybeleid en de content van derden, en dragen er geen enkele verantwoordelijkheid voor. Als je klikt op een advertentie of een link van een derde partij, weet dan dat je de Spotify Dienst verlaat en dat dit Privacybeleid niet van toepassing is op de persoonsgegevens die je vanaf dat moment verstrekt. Om te weten hoe deze derden je persoonsgegevens verzamelen en verwerken, raden we je aan om hun privacybeleid na te lezen.
+
+10. Beveiliging van je persoonsgegevens
+
+De beveiliging van de persoonsgegevens van onze gebruikers is een prioriteit voor ons. We hebben passende technische en organisatorische maatregelen getroffen om je persoonsgegevens te beschermen. Wees je er wel van bewust dat geen enkel systeem volledig veilig is. We hebben divers beleid geïmplementeerd op het vlak van pseudonimisering, encryptie, toegang en het bewaren van gegevens om ze te beschermen tegen ongeoorloofde toegang en het onnodig bewaren van persoonsgegevens in onze systemen.
+
+Je wachtwoord is een essentieel onderdeel van de beveiliging van jouw Spotify-account, dus we raden je aan om een sterk wachtwoord te kiezen die je alleen voor je Spotify-account gebruikt, dit wachtwoord aan niemand te verklappen, toegang tot je computer en je browser te beperken, en steeds uit te loggen na gebruik van de Spotify Dienst.
+
+11. Kinderen
+
+Met uitzondering van 'Spotify Kids', een aparte applicatie van Spotify die op bepaalde plaatsen beschikbaar is, is de Spotify Dienst niet gericht op kinderen die jonger zijn dan 13 jaar oud. De Spotify Dienst wordt ook niet aangeboden aan kinderen waarvan wij vanwege hun leeftijd de persoonsgegevens niet mogen verwerken, of waarbij wij volgens de AVG of op grond van lokaal recht toestemming nodig hebben van een ouder om hun persoonsgegevens te verwerken.
+
+Wij gaan niet bewust over tot het verzamelen van persoonsgegevens van kinderen die de leeftijd van 13 jaar of de toepasselijke minimumleeftijd (de "Minimumleeftijd") nog niet hebben bereikt. Als jij de Minimumleeftijd nog niet hebt bereikt, mag je de Spotify Dienst niet gebruiken en ons geen persoonsgegevens verstrekken.
+
+Als je een ouder bent van een kind dat de Minimumleeftijd nog niet heeft bereikt en merkt dat je kind persoonsgegevens aan Spotify heeft verstrekt, neem dan contact met ons met behulp van de contactgegevens in het Privacy Center. Je kunt je rechten uitoefenen zoals beschreven onder Afdeling 3 'Je rechten en je voorkeuren: hoe wij je keuze en zeggenschap geven' van dit Privacybeleid.
+
+Als we te weten komen dat we de persoonsgegevens hebben verzameld van een kind dat de leeftijd van 13 jaar nog niet heeft bereikt, nemen we redelijke maatregelen om de persoonsgegevens te wissen. Dat kan betekenen dat wij het Spotify-account voor dat kind moeten verwijderen.
+
+12. Wijzigingen van dit Privacybeleid
+
+Van tijd tot tijd kunnen we dit Privacybeleid aanpassen.
+
+Als het gaat om belangrijke wijzigingen van dit Privacybeleid, zullen we je daarover informeren via een duidelijke en bij de context passende melding binnen de Spotify Dienst, of door je een e-mailbericht of een pushmelding te sturen. We kunnen je ook vooraf op de hoogte brengen.
+
+Zorg er dus voor dat je dergelijke meldingen zorgvuldig leest.
+
+Voor meer informatie over dit Privacybeleid en over hoe Spotify je persoonsgegevens gebruikt, kun je terecht in ons Privacy Center op spotify.com.
+
+13. Hoe je met ons contact kunt opnemen
+
+Bedankt dat je dit Privacybeleid hebt gelezen. Heb je vragen over dit Privacybeleid? Stel ze dan aan onze Functionaris Gegevensbescherming. Die kun je bereiken via de contactgegevens in het Privacy Center, door een e-mail te sturen naar privacy@spotify.com, of door een brief te sturen naar het volgende adres:
+
+
+
+Spotify AB
+
+Regeringsgatan 19
+
+111 53 Stockholm
+
+Sweden
+
+Spotify AB is verwerkingsverantwoordelijke voor de persoonsgegevens die op grond van dit Privacybeleid worden verwerkt.
+
+We hopen dat je geniet van onze Spotify Dienst!
+
+© Spotify AB.
+***************************************************************
+
+

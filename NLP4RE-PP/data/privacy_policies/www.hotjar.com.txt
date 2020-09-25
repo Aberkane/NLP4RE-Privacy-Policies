@@ -1,0 +1,30 @@
+Title: Privacy Policy
+URL: https://www.hotjar.com/legal/policies/privacy/
+Date of publishing: None
+Keywords: policy, visit, data, services, email, address, site, usage, privacy, information, service, process
+Policy: 
+Usage Data
+
+When you visit our site, we store the name of your internet service provider, the website from which you visited us, the parts of our site you visit, the date and duration of your visit, and information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit. While we process your IP address during the duration of your session, the IP address is truncated and thereby de-identified before it is ever written to disk on our servers. This is done by removing the last octet of your full IP address.
+
+We process this usage data to facilitate your access to our Services (e.g. to adjust our Services to the device you are using), and to recognize and stop any misuse which is in our legitimate interest. The legal basis for this data processing is Article 6(1)(f) GDPR. We also process usage data in an aggregated or de-identified form for statistical purposes and to improve our site.
+
+Cookies
+
+Cookies are small data files transferred onto computers or devices. Hotjar uses cookies to process information including standard internet log information and details of the visitor’s behavioral patterns upon visiting our site. This is done to (i) operate our site, (ii) provide you with a better experience by providing us with insights on how our users use our site, and (iii) for marketing purposes.
+
+For more info about the cookies we make use of, please visit Cookie Information.
+
+Contact with us via email
+
+On our site you have the opportunity to contact us to ask us questions, for example via the contact form, where we ask you for your contact information (e.g. name, email address etc.). We use this data solely in connection with answering the queries we receive. The legal basis for this processing is Article 6(1)(f) GDPR.
+
+If you receive emails from us, we may use certain analytics tools, to capture data such as when you open our email or click on any links or banners our email contains. This data helps us to gauge the effectiveness of our communications and marketing campaigns.
+
+Hotjar Account
+
+When you sign up for and open an account with Hotjar, or sign up for content or offers, we may ask you to provide us with information such as your name, email address and details about your organization. As otherwise detailed in this Privacy Policy, we will solely process this information to provide you with the Service you signed up for in accordance with Article 6(1)(b) GDPR. Please refer to our Terms of Service for further details on registering and using the services offered by Hotjar.
+
+You may deactivate your Hotjar account and/or unsubscribe from receiving content or offers from us at any time. Following termination of your account, we may retain your personal data (in part or in whole) in order to meet any regulatory and reporting requirements for the timeframes stipulated by law and in order to be able to address customer service issues. Any other personal data we would have been processing on your behalf would be deleted permanently within 30 calendar days.
+
+

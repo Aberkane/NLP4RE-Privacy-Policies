@@ -1,0 +1,26 @@
+Title: Privacy Policy
+URL: https://www.salesforce.com/company/privacy/
+Date of publishing: None
+Keywords: websites, policy, data, personal, services, review, products, provide, privacy, processing, process, purposes
+Policy: 
+We collect and process Personal Data for a variety of purposes, including:
+
+The processing of your name and contact information to provide you with information about our products, manage your registration for and attendance at our events and webinars or for office visits, manage your registration for contests or promotions, provide you with customer support or otherwise communicate with you;
+
+The processing of device and usage data to develop, improve, manage and customize our websites and services, to assess and improve the related user experience, to identify customer opportunities and to guarantee our websites’ and services' security and continued proper functioning;
+
+The processing of your billing information to complete transactions with you when you purchase our products or services;
+
+To provide you with the necessary functionalities required during your use of our websites and services, and to review capacity requirements and compliance with the applicable usage terms;
+
+To display personalized advertisements to you and to send to you marketing communications about us, our products and our services; and
+
+To comply with our legal obligations under applicable laws and cooperate with public and government authorities.
+
+For the full list of purposes for which we Process your Personal Data, please see the full Privacy Statement
+
+We only collect and process your Personal Data to the extent it is necessary for fulfilling these purposes and where we can rely on a legal basis for such processing as set out in our full Privacy Statement. Where required, we will ask you for your prior consent to processing.
+
+Please review the "What Personal Data do we collect?" and "Purposes for which we process Personal Data and the legal bases on which we rely" sections in our full Privacy Statement for further details. Also, please review the "How long do we keep your Personal Data?" section to learn how long we store your Personal Data.
+
+

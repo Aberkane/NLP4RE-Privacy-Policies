@@ -13,18 +13,12 @@ from simplified_scrapy.simplified_doc import SimplifiedDoc
 '''
 Author: Abdel-Jaouad Aberkane, Ghent University
 
-- Scrape policies from Google
-- Scrape list of URLs from Alexa
+- This class consists of methods that focus on scraping policies based on their URL.
 
-The script is based on the following sources:
-#  https://pythondata.com/quick-tip-consuming-google-search-results-to-use-for-web-scraping/
+Sources:
+# https://pythondata.com/quick-tip-consuming-google-search-results-to-use-for-web-scraping/
+# https://gist.github.com/graham-thomson/e9bf65ff17d214b144f91680cb81d438
 '''
-
-"""
-	Goal:
-	Args:
-	Output:
-	"""
 
 
 class Scrape:
@@ -33,7 +27,6 @@ class Scrape:
 	Args: search-query, number of desired policies
 	Output: list of parsed policies as newspaper objects
 	"""
-	
 	@staticmethod
 	def scrape_policies_google(query, n_policies):
 		policies = []

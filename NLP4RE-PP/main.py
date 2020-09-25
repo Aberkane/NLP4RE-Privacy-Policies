@@ -6,8 +6,9 @@ import LSA_policies
 '''
 Author: Abdel-Jaouad Aberkane, Ghent University
 
+In this file we conduct the following
 - Scrape policies
-- Read policies or URL
+- Read policies or URLs
 - Write policies to txt of xlrs
 - Topic modeling on scraped policies
 '''
@@ -55,7 +56,7 @@ if __name__ == '__main__':
 	modeler = LSA_policies.LSAPolicies()
 
 	# SCRAPE & SAVE POLICIES FROM GOOGLE
-	scrape_google(scraper, writer, 'privacy policy', 5)
+	scrape_google('privacy policy', 5)
 	
 	# SCRAPE AND PARSE HEADERS TO EXCEL
 	# scrape_google_headers(scraper, 'privacy policy', 10)

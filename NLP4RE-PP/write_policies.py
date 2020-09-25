@@ -7,12 +7,7 @@ import nltk
 '''
 Author: Abdel-Jaouad Aberkane, Ghent University
 
-- Scrape policies from Google
-- Scrape list of URLs from Alexa
--
-
-The script is based on the following sources:
-#  https://pythondata.com/quick-tip-consuming-google-search-results-to-use-for-web-scraping/
+- This class focuses on writing extracted policies to text or excel files.
 '''
 
 class WritePolicies:

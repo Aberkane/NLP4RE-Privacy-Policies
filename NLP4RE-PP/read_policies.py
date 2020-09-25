@@ -6,8 +6,7 @@ import os.path
 '''
 Author: Abdel-Jaouad Aberkane, Ghent University
 
-- This class consists of methods that focus on extracting URLs from Excel files, topic modeling using Latent Semantic Analysis (LSA)
-- The result is a number of topics and for each of them a list of most frequent occurring words
+- This class consists of methods that focus reading policies or URLs from files.
 '''
 
 class ReadPolicies:

@@ -12,6 +12,11 @@ Author: Abdel-Jaouad Aberkane, Ghent University
 
 class ReadPolicies:
 	
+	"""
+	Goal: extract URLs from Excel file and clean them
+	Args: directory of the Excel file, relevant excel sheet
+	Output: list URLs
+	"""
 	@staticmethod
 	def urls_from_excel(doc, sheet):
 		print("Extracting URLs from XLSX-file")
@@ -27,7 +32,10 @@ class ReadPolicies:
 		
 		return cleanPP
 	
+	"""
+	Simple function to cast list to string
 	# https://www.geeksforgeeks.org/python-program-to-convert-a-list-to-string/
+	"""
 	@staticmethod
 	def list_to_string(s):
 		# initialize an empty string
@@ -40,6 +48,11 @@ class ReadPolicies:
 		# return string
 		return str1
 	
+	"""
+	Goal: reads privacy policies from the data folder and parses them into a list
+	Args: directory of the policies, minimal number of words of policy (e.g. to filter out irrelevant texts)
+	Output: list of policies
+	"""
 	@staticmethod
 	def read_texts(dir, n_words_policy):
 		print("Extracting headers from XLSX-file ...")
@@ -85,7 +98,6 @@ class ReadPolicies:
 	Args: directory of the Excel file
 	Output: list of parsed header policies
 	"""
-	
 	@staticmethod
 	def read_headers(dir_headers, n_words_policy):
 		print("Extracting headers from XLSX-file ...")

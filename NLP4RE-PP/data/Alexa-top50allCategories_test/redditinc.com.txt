@@ -1,0 +1,55 @@
+Title: Cookie Notice
+URL: https://redditinc.com/policies/cookies
+Date of publishing: None
+Keywords: reddit, advertising, necessary, site, thirdparty, services, similar, cookies, sites, information, notice, cookie
+
+Policy: This Cookie Notice explains how we use cookies and similar technologies as well as the options you have to control them.
+
+A cookie is a small text file that a site stores on your computer or mobile device when you visit the site. Browsers support cookies and similar technologies (such as local storage and pixels) so that a site like Reddit can remember information about your visit and can use the information to improve your experience and to create aggregated anonymized statistics about usage of the site. In this Notice, we use the term “cookie” to refer both to cookies and similar technologies.
+
+
+
+Cookies may be set by the site you are visiting (called “first-party cookies”) or by a third party, such as those who provide analytics or advertising services or interactive content on the site (“third-party cookies”). In addition to using cookies on our sites, we may also serve our cookies (specifically, our advertising pixel) on third-party sites operated by Reddit advertisers who use our advertising technology.
+
+
+
+Our first-party cookies include cookies that are strictly necessary, functional cookies, cookies related to analytics/performance and advertising-related cookies.
+
+Strictly Necessary: These cookies are necessary for our services to function properly and securely and cannot be switched off in our systems. You can set your browser to block or alert you about these cookies, but then some parts of the site will not work. These include:
+
+Cookie
+
+Purpose
+
+Expires
+
+token,
+
+d2_token
+
+Stores a login token needed to act as a logged in user.
+
+2 years
+
+session,
+
+reddit_session
+
+Stores information that identifies your session.
+
+When browsing session ends
+
+
+
+
+
+Functional: These cookies enable Reddit to provide enhanced functionality and personalization. If you do not allow these cookies then some or all of these features may not function properly.
+
+Analytics and Performance: These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+
+Advertising: We use these cookies to deliver advertisements, to make them more relevant and meaningful to users, and to track the efficiency of our advertising campaigns, both on our services and on other sites or mobile apps. Our third-party advertising partners may use these cookies to build a profile of your interests and deliver relevant advertising on other sites.
+
+Third-Party Cookies: Reddit’s services also include cookies from third parties that we partner with directly or indirectly. Many of these third parties are companies that work with us or with advertisers who advertise on Reddit in order to help target ads or measure the results of an advertising campaign.
+***************************************************************
+
+

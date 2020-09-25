@@ -13,33 +13,26 @@ from sklearn.feature_extraction.text import CountVectorizer
 from wordcloud import WordCloud
 import warnings
 
-'''
-Author: Abdel-Jaouad Aberkane, Ghent University
-
-- Scrape policies
-- Read policies or URL
-- Write policies to txt of xlrs
-- Topic modeling on scraped policies
-'''
-
 warnings.simplefilter("ignore", DeprecationWarning)
 sns.set_style('whitegrid')
 stop_words = stopwords.words('english')
 pd.set_option("display.max_colwidth", 200)
 
+'''
+Author: Abdel-Jaouad Aberkane, Ghent University
+
+- This class consists of methods that focus on topic modeling using Latent Semantic Analysis (LSA)
+- The result is a number of topics and for each of them a list of most frequent occuring words
+
+Sources:
+# https://towardsdatascience.com/latent-semantic-analysis-intuition-math-implementation-a194aff870f8
+# https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
+'''
+
 
 class LSAPolicies:
-	# In dit script wordt topic modeling d.m.v. LSA uitgevoerd op een aantal gescrapete privacy policies.
-	# Het resultaat is een aantal topics en de woorden die het meest voorkomen in deze topics
-	# Dit script is geïnspirireerd door:
-	# https://towardsdatascience.com/latent-semantic-analysis-intuition-math-implementation-a194aff870f8
-	# mogelijk nog aanpassen d.m.v.:
-	# https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
-	
-	def __init__(self):
-		pass
-	
 	# arg is list of strings. it removes punctuation and converts all letters to lowercase
+	@staticmethod
 	def pre_processing(policies_dataframe):
 		counter = 0
 		lemma = WordNetLemmatizer()
@@ -103,6 +96,7 @@ class LSAPolicies:
 		
 		return detokenized_policies
 	
+	@staticmethod
 	def count_TFIDF_vectorizer(policies, topics, tfidf=False):
 		if tfidf:
 			print("TFIDF-vectorizer")
@@ -147,6 +141,7 @@ class LSAPolicies:
 		terms = vectorizer.get_feature_names()
 		LSAPolicies.print_topics(lsa, terms)
 	
+	@staticmethod
 	def print_topics(lsa, terms):
 		for i, comp in enumerate(lsa.components_):
 			terms_comp = zip(terms, comp)
@@ -156,7 +151,7 @@ class LSAPolicies:
 				print(t[0])
 			print(" ")
 	
-	# Helper function
+	@staticmethod
 	def plot_10_most_common_words(count_data, count_vectorizer):
 		import matplotlib.pyplot as plt
 		words = count_vectorizer.get_feature_names()
@@ -179,6 +174,7 @@ class LSAPolicies:
 		plt.ylabel('counts')
 		plt.show()
 	
+	@staticmethod
 	def plot_wordcloud(policies):
 		# Join the different processed titles together.
 		long_string = ','.join(policies)

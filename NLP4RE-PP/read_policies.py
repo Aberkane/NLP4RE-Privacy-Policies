@@ -3,8 +3,16 @@ import pandas as pd
 from langdetect import detect
 import os.path
 
+'''
+Author: Abdel-Jaouad Aberkane, Ghent University
+
+- This class consists of methods that focus on extracting URLs from Excel files, topic modeling using Latent Semantic Analysis (LSA)
+- The result is a number of topics and for each of them a list of most frequent occurring words
+'''
+
 class ReadPolicies:
 	
+	@staticmethod
 	def urls_from_excel(doc, sheet):
 		PPcomp = pd.read_excel(doc, sheet_name=sheet)
 		PPlist = PPcomp.iloc[:, 0].to_list()
@@ -19,6 +27,7 @@ class ReadPolicies:
 		return cleanPP
 	
 	# https://www.geeksforgeeks.org/python-program-to-convert-a-list-to-string/
+	@staticmethod
 	def list_to_string(s):
 		# initialize an empty string
 		str1 = ""
@@ -30,8 +39,8 @@ class ReadPolicies:
 		# return string
 		return str1
 	
-	
-	def read_txts(dir, n_words_policy):
+	@staticmethod
+	def read_texts(dir, n_words_policy):
 		all_files = os.listdir(dir)
 		policies_list = []
 		titles = []
@@ -69,8 +78,7 @@ class ReadPolicies:
 		# titles.append(text[0:min(len(text), 100)])
 		return policies_list, titles
 	
-
-	
+	@staticmethod
 	def read_headers(dir):
 		dfread = pd.read_excel(r'..\Scraper\policy_headers.xlsx')
 		df = pd.DataFrame(columns=['url', 'headers'])

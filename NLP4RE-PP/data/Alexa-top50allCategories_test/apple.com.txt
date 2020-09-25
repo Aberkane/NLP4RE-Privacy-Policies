@@ -1,0 +1,11 @@
+Title: Privacy
+URL: http://apple.com/privacy/
+Date of publishing: None
+Keywords: companies, youve, help, web, safari, websites, visit, profile, privacy, watch, data
+
+Policy: Some websites allow hundreds of different data collection companies to watch you, build a profile of you, and serve you ads as you browse the web. Intelligent Tracking Prevention in Safari uses on-device machine learning to help block those trackers.
+
+Advertisers can also create a “fingerprint” of your device to target you based on characteristics like your browser configuration, and fonts and plug-ins you’ve installed. To help prevent this, Safari has built-in fingerprinting defense, which shares a simplified system profile with websites you visit. Making it even more difficult for data companies to identify you.
+***************************************************************
+
+

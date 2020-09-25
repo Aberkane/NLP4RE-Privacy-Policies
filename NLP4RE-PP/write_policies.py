@@ -17,6 +17,7 @@ The script is based on the following sources:
 
 class WritePolicies:
 	
+	@staticmethod
 	def write2txt(policies):
 		pp_file = open("privacy_policies.txt", "a", encoding='utf-8')
 		separator = ', '
@@ -36,7 +37,7 @@ class WritePolicies:
 				print(ue)
 		pp_file.close()
 	
-
+	@staticmethod
 	def write2text(policies, dir):
 		separator = ', '
 		
@@ -66,7 +67,9 @@ class WritePolicies:
 	Goal: write parsed privacy policies to TXTs
 	Args: list of privacy policies as newspaper objects and desired save directory
 	"""
-	def write2texts(self, policies, dir):
+	
+	@staticmethod
+	def write2texts(policies, dir):
 		separator = ', '
 	
 		if not os.path.exists(dir):

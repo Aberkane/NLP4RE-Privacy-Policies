@@ -34,7 +34,8 @@ class Scrape:
 	Output: list of parsed policies as newspaper objects
 	"""
 	
-	def scrape_policies_google(self, query, n_policies):
+	@staticmethod
+	def scrape_policies_google(query, n_policies):
 		policies = []
 		for url in search(query, tld='com', lang='en', start=0, stop=n_policies):
 			try:
@@ -49,14 +50,15 @@ class Scrape:
 				pass
 		return policies
 	
-	# Source https://gist.github.com/graham-thomson/e9bf65ff17d214b144f91680cb81d438
-	# Alexa doesn't provide us anymore with categorization
-	def get_top_alexa_sites(self, category):
-		category = category.title()
-		categories = ['Adult', 'Arts', 'Business', 'Computers', 'Games', 'Health', 'Home',
-		              'Kids and Teens', 'News', 'Recreation', 'Reference', 'Regional', 'Science',
-		              'Shopping', 'Society', 'Sports', 'World']
-		assert (category in categories), "Category {} not in category list: {}".format(category, ", ".join(categories))
+	# Adapted code from: https://gist.github.com/graham-thomson/e9bf65ff17d214b144f91680cb81d438
+	# Alexa doesn't provide us anymore with categorization, choose top 50 in general instead
+	@staticmethod
+	def get_top_alexa_sites():
+		# category = category.title()
+		# categories = ['Adult', 'Arts', 'Business', 'Computers', 'Games', 'Health', 'Home',
+		#               'Kids and Teens', 'News', 'Recreation', 'Reference', 'Regional', 'Science',
+		#               'Shopping', 'Society', 'Sports', 'World']
+		# assert (category in categories), "Category {} not in category list: {}".format(category, ", ".join(categories))
 		# alexa_url = """http://www.alexa.com/topsites/category/Top/{}""".format(category)
 		alexa_url = "http://www.alexa.com/topsites/"
 		soup = BeautifulSoup(requests.get(alexa_url).content, "html.parser")
@@ -84,12 +86,13 @@ class Scrape:
 		return [format_url(ts_url) for ts_url in top_sites]
 	
 	# Extract corresponding privacy policies from a list of URLs
-	def extract_policies_url_from_sites(self, websites):
+	@staticmethod
+	def extract_policies_url_from_sites(websites):
 		print("Extract policies ..")
 		potential_policies = []
 		policies = []
 		for url in websites:
-			print(url + "\n")
+			print("URL under review: " + url + "\n")
 			try:
 				r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
 				doc = SimplifiedDoc(r.content.decode('utf-8'))  # incoming HTML string
@@ -108,12 +111,14 @@ class Scrape:
 			except:
 				pass
 			
-			print("policies: ")
+			print("Collected policies: ")
 			print(policies)
+			print("\n")
 		return policies
 	
 	# Scrape html content from URLs
-	def scrape_policies_url(self, policies):
+	@staticmethod
+	def scrape_policies_url(policies):
 		parsed_policies = []
 		for url in policies:
 			try:
@@ -131,6 +136,7 @@ class Scrape:
 		
 		return parsed_policies
 	
+	@staticmethod
 	def collect_policies(scraped_urls):
 		policies = []
 		counter = 0
@@ -144,7 +150,8 @@ class Scrape:
 		return policies
 	
 	# Extracts headers from parsed privacy policies and return dataframe
-	def find_headers(self, policies):
+	@staticmethod
+	def find_headers(policies):
 		pre_dataframe = [[]]
 		for policy in policies:
 			
@@ -181,7 +188,8 @@ class Scrape:
 		policies_dataframe = pd.DataFrame(pre_dataframe)
 		return policies_dataframe
 	
-	def urls_from_excel(self, doc, sheet):
+	@staticmethod
+	def urls_from_excel(doc, sheet):
 		PPcomp = pd.read_excel(doc, sheet_name=sheet)
 		PPlist = PPcomp.iloc[:, 0].to_list()
 		cleanPP = [re.sub('[,!?&“”():"]', '', str(x)) for x in PPlist if x is not None]

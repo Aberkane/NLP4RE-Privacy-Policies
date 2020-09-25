@@ -13,15 +13,22 @@ Author: Abdel-Jaouad Aberkane, Ghent University
 '''
 
 
-def scrape_google(scraper, writer, query, n_policies):
+def scrape_google(query, n_policies):
 	policies = scraper.scrape_policies_google(query, n_policies)
 	writer.write2texts(policies, ("data\\" + query))
 
 
-def scrape_google_headers(scraper, query, n_policies):
+def scrape_google_headers(query, n_policies):
 	policies = scraper.scrape_policies_google(query, n_policies)
 	policies_dataframe = scraper.find_headers(policies)
 	policies_dataframe.to_excel("data\\policy_headers_test.xlsx")
+
+
+def scrape_alexa():
+	top_50_all = scraper.get_top_alexa_sites()
+	policies = scraper.extract_policies_url_from_sites(top_50_all)
+	policies = scraper.scrape_policies_url(policies)
+	writer.write2texts(policies, "data\\Alexa-top50allCategories_test")
 
 
 def get_policies_excel_URLs():
@@ -32,37 +39,32 @@ def get_policies_excel_URLs():
 	writer.write2texts(excel_policies, "data\\PPComparison_90+_test")
 
 
+def topic_modeling(n_topics, min_policy_len, dir_data):
+	policies, titles = reader.read_texts(dir_data, min_policy_len)
+	processed_policies = modeler.pre_processing(policies)
+	
+	# print(policies[2])
+	# TFIDF_vectorizer(processed_policies, n_topics)
+	modeler.count_TFIDF_vectorizer(processed_policies, n_topics, True)
+
+
 if __name__ == '__main__':
 	scraper = scrape.Scrape()
 	writer = write_policies.WritePolicies()
 	reader = read_policies.ReadPolicies()
 	modeler = LSA_policies.LSAPolicies()
 
-# SCRAPE & SAVE POLICIES FROM GOOGLE
-# scrape_google(scraper, writer, 'privacy policy', 50)
-
-# SCRAPE AND PARSE HEADERS TO EXCEL
-# scrape_google_headers(scraper, 'privacy policy', 10)
-
-# READ URLS FROM EXCEL AND EXTRACT THEIR POLICIES FROM THE NET
-# get_policies_excel_URLs()
-
-# GET URLS FROM ALEXA (TOP 50) AND SCRAPE
-# category = 'Business'
-# top_50_all = scrape.get_top_alexa_sites(category)
-# policies = scrape.extract_policies_url_from_sites(top_50_all)
-# policies = scrape.scrape_policies(policies)
-# write_policies.write2text(policies, "Alexa-top50allCategories")
-
-# CONDUCT LSA OR LDA TOPIC MODELING ON DATASET
-# dir = "privacy_policies"
-# n_topics = 10
-# # dir = "privacy_policies_headers"
-# # print("read policies")
-# policies, titles = read_txts(dir, 150)
-#
-# processed_policies = LSA_policies.pre_processing(policies)
-#
-# # print(policies[2])
-# # TFIDF_vectorizer(processed_policies, n_topics)
-# LSA_policies.count_TFIDF_vectorizer(processed_policies, n_topics, True)
+	# SCRAPE & SAVE POLICIES FROM GOOGLE
+	scrape_google(scraper, writer, 'privacy policy', 5)
+	
+	# SCRAPE AND PARSE HEADERS TO EXCEL
+	# scrape_google_headers(scraper, 'privacy policy', 10)
+	
+	# READ URLS FROM EXCEL AND EXTRACT THEIR POLICIES FROM THE NET
+	# get_policies_excel_URLs()
+	
+	# GET URLS FROM ALEXA (TOP 50) AND SCRAPE
+	# scrape_alexa()
+	
+	# CONDUCT LSA OR LDA TOPIC MODELING ON DATASET
+	# topic_modeling(10, 150, "data\\privacy_policies")

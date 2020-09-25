@@ -42,7 +42,7 @@ class ReadPolicies:
 	
 	@staticmethod
 	def read_texts(dir, n_words_policy):
-		print("Extracting headers from XLSX-file")
+		print("Extracting headers from XLSX-file ...")
 		all_files = os.listdir(dir)
 		policies_list = []
 		titles = []
@@ -99,10 +99,12 @@ class ReadPolicies:
 		for index, rows in dfread.iterrows():
 			row_tmp = ""
 			for element in rows:
-				if len(str(element)) > 3 and "txt" not in element:
+				if len(str(element)) > 3 and "txt" not in element:  # exclude urls and NAN
 					row_tmp = row_tmp + " " + str(element)
 			
 			if len(row_tmp) > n_words_policy:
-				header_list.append(row_tmp)
+				lang = detect(row_tmp)
+				if lang == 'en':
+					header_list.append(row_tmp)
 		
 		return header_list

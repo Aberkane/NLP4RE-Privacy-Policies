@@ -14,7 +14,7 @@ In this file we do the following:
 '''
 
 dir_headers = "data\\policy_headers_2.xlsx"
-dir_policies = "data\\privacy_policies"
+dir_policies = "data\\PPComparison90+"
 
 
 def scrape_google(query, n_policies):
@@ -43,15 +43,15 @@ def get_policies_excel_URLs():
 	writer.write2texts(excel_policies, "data\\PPComparison_90+_test")
 
 
-def topic_modeling(n_topics, min_policy_len, headers=False):
+def topic_modeling(headers=False):
 	if not headers:
 		print("Topic modeling on textual bodies...")
-		policies, titles = reader.read_texts(dir_policies, min_policy_len)
+		policies, titles = reader.read_texts(dir_policies, n_words_policy)
 		processed_policies = modeler.pre_processing(policies)
 		modeler.count_TFIDF_vectorizer(processed_policies, n_topics, True)
 	else:
 		print("Topic modeling on headers...")
-		header_list = reader.read_headers(dir_headers, min_policy_len)
+		header_list = reader.read_headers(dir_headers, n_words_policy)
 		processed_policies = modeler.pre_processing(header_list)
 		modeler.count_TFIDF_vectorizer(processed_policies, n_topics, True)
 
@@ -80,4 +80,4 @@ if __name__ == '__main__':
 	# topic_modeling(n_topics, n_words_policy)
 	
 	# CONDUCT LSA TOPIC MODELING ON PRIVACY POLICY HEADERS
-	topic_modeling(n_topics, n_words_policy, True)
+	topic_modeling(False)

@@ -55,7 +55,7 @@ class ReadPolicies:
 	"""
 	@staticmethod
 	def read_texts(dir, n_words_policy):
-		print("Extracting headers from XLSX-file ...")
+		print("Extracting texts from:" + dir)
 		all_files = os.listdir(dir)
 		policies_list = []
 		titles = []

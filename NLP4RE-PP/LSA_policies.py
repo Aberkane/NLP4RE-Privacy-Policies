@@ -5,9 +5,12 @@ from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
+import read_policies
 
 import seaborn as sns
 from nltk.stem.wordnet import WordNetLemmatizer
+import nltk, re, string, collections
+from nltk.util import ngrams
 from nltk.stem import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
 from wordcloud import WordCloud
@@ -27,10 +30,14 @@ Author: Abdel-Jaouad Aberkane, Ghent University
 Sources:
 # https://towardsdatascience.com/latent-semantic-analysis-intuition-math-implementation-a194aff870f8
 # https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
+# https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
 '''
 
 
 class LSAPolicies:
+	
+	
+	
 	# arg is list of strings. it removes punctuation and converts all letters to lowercase
 	@staticmethod
 	def pre_processing(policies_dataframe):
@@ -89,6 +96,9 @@ class LSAPolicies:
 		
 		# de-tokenization
 		# print("de-tokenization ...")
+		
+		LSAPolicies.plot_10_most_common_ngrams(tokenized_policies, 2)
+		
 		detokenized_policies = []
 		for i in range(len(policies_dataframe)):
 			t = ' '.join(tokenized_policies[i])
@@ -99,7 +109,7 @@ class LSAPolicies:
 	@staticmethod
 	def count_TFIDF_vectorizer(policies, topics, tfidf=False):
 		if tfidf:
-			print("TFIDF-vectorizer")
+			print("Topic modeling using TFIDF-vectorizer ...")
 			vectorizer = TfidfVectorizer(stop_words='english',
 			                             # max_features=50,  # keep top 1000 terms
 			                             # max_df=0.5,
@@ -121,7 +131,7 @@ class LSAPolicies:
 		# Visualise the 10 most common words
 		
 		LSAPolicies.plot_wordcloud(policies)
-		LSAPolicies.plot_10_most_common_words(X, vectorizer)
+		# LSAPolicies.plot_10_most_common_words(X, vectorizer)
 		# check shape of the document-term matrix: 319 docs and 524855 terms
 		# print(X.shape)
 		
@@ -150,6 +160,35 @@ class LSAPolicies:
 			for t in sorted_terms:
 				print(t[0])
 			print(" ")
+	
+	@staticmethod
+	def plot_10_most_common_ngrams(tokenized_policies, n):
+		import matplotlib.pyplot as plt
+		# words = count_vectorizer.get_feature_names()
+		# total_counts = np.zeros(len(words))
+		# for t in count_data:
+		# 	total_counts += t.toarray()[0]
+		tokenized_policies_flat = [item for sublist in tokenized_policies for item in sublist]
+		n_grams_policies = ngrams(tokenized_policies_flat, n)
+		bigrams_policies = collections.Counter(n_grams_policies)
+		print(bigrams_policies.most_common(10))
+		
+		count_dict = bigrams_policies.most_common()
+		count_dict = sorted(count_dict, key=lambda x: x[1], reverse=True)[0:10]
+		words = [w[0] for w in count_dict]
+		counts = [w[1] for w in count_dict]
+		x_pos = np.arange(len(words))
+
+		# plt.figure(2, figsize=(15, 15 / 1.6180))
+		title = '10 most common ' + str(n) + '-grams'
+		plt.figure(2, figsize=(30, 30 / 1.6180))
+		plt.subplot(title=title)
+		sns.set_context("notebook", font_scale=1.25, rc={"lines.linewidth": 2.5})
+		sns.barplot(x_pos, counts, palette='husl')
+		plt.xticks(x_pos, words, rotation=90)
+		plt.xlabel('bigrams')
+		plt.ylabel('counts')
+		plt.show()
 	
 	@staticmethod
 	def plot_10_most_common_words(count_data, count_vectorizer):

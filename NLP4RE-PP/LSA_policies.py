@@ -5,11 +5,10 @@ from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
-import read_policies
 
 import seaborn as sns
 from nltk.stem.wordnet import WordNetLemmatizer
-import nltk, re, string, collections
+import collections
 from nltk.util import ngrams
 from nltk.stem import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
@@ -35,8 +34,6 @@ Sources:
 
 
 class LSAPolicies:
-	
-	
 	
 	# arg is list of strings. it removes punctuation and converts all letters to lowercase
 	@staticmethod
@@ -69,8 +66,13 @@ class LSAPolicies:
 		tokenized_policies = [[y for y in x if (("@" not in y) and ("http" not in y) and
 		                                        ("wwww" not in y) and ("com" not in y))] for x in tokenized_policies]
 		
+		LSAPolicies.plot_10_most_common_ngrams(tokenized_policies, 2)
+		
 		# remove stop-words
-		new_stop_words = ["shutterstock", "shutterstockcom", "scribd", "oracle"]
+		# new_stop_words = ["shutterstock", "shutterstockcom", "scribd", "oracle"]
+		new_stop_words = ["shutterstock", "shutterstockcom", "scribd", "oracle", "privacy", "policy", "site",
+		                  "information", "unity", "frontier", "party", "service", "your", "template", "fedex",
+		                  "edit", "navigation", "generator", "verizon", "doe"]
 		stop_words.extend(new_stop_words)
 		tokenized_policies = [[y for y in x if not y in stop_words] for x in tokenized_policies]
 		
@@ -97,13 +99,11 @@ class LSAPolicies:
 		# de-tokenization
 		# print("de-tokenization ...")
 		
-		LSAPolicies.plot_10_most_common_ngrams(tokenized_policies, 2)
-		
 		detokenized_policies = []
 		for i in range(len(policies_dataframe)):
 			t = ' '.join(tokenized_policies[i])
 			detokenized_policies.append(t)
-		
+		LSAPolicies.plot_wordcloud(detokenized_policies)
 		return detokenized_policies
 	
 	@staticmethod
@@ -128,9 +128,6 @@ class LSAPolicies:
 			# Fit and transform the processed titles
 			X = vectorizer.fit_transform(policies)
 		
-		# Visualise the 10 most common words
-		
-		LSAPolicies.plot_wordcloud(policies)
 		# LSAPolicies.plot_10_most_common_words(X, vectorizer)
 		# check shape of the document-term matrix: 319 docs and 524855 terms
 		# print(X.shape)
@@ -143,6 +140,10 @@ class LSAPolicies:
 		# SVD represent documents and terms in vectors
 		lsa = TruncatedSVD(n_components=topics, algorithm='randomized', n_iter=100)
 		lsa.fit(X)
+		
+		# lsa_topic_matrix = lsa.fit_transform(X)
+		# lsa_keys = get_keys(lsa_topic_matrix)
+		# lsa_categories, lsa_counts = keys_to_counts(lsa_keys)
 		
 		# this is the first row of V
 		# print((lsa.components_[0]))
@@ -178,15 +179,23 @@ class LSAPolicies:
 		words = [w[0] for w in count_dict]
 		counts = [w[1] for w in count_dict]
 		x_pos = np.arange(len(words))
-
+		
+		# print(type(words[0]))
+		words_list = [','.join(x) for x in words]
+		words_list = [re.sub('[\.!?&“”\'():*;"]', '', x) for x in words_list]
+		# print(words_list[0])
+		# exit(0)
+		
 		# plt.figure(2, figsize=(15, 15 / 1.6180))
-		title = '10 most common ' + str(n) + '-grams'
+		ngrams_title = str(n) + '-grams'
+		title = '10 most common ' + ngrams_title
 		plt.figure(2, figsize=(30, 30 / 1.6180))
 		plt.subplot(title=title)
 		sns.set_context("notebook", font_scale=1.25, rc={"lines.linewidth": 2.5})
 		sns.barplot(x_pos, counts, palette='husl')
-		plt.xticks(x_pos, words, rotation=90)
-		plt.xlabel('bigrams')
+		plt.tick_params(axis='x', labelsize=8)
+		plt.xticks(x_pos, words_list)
+		plt.xlabel(ngrams_title)
 		plt.ylabel('counts')
 		plt.show()
 	

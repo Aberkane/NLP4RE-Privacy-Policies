@@ -14,7 +14,7 @@ In this file we do the following:
 '''
 
 dir_headers = "data\\policy_headers_2.xlsx"
-dir_policies = "data\\PPComparison90+"
+dir_policies = "data\\privacy_policies"
 
 
 def scrape_google(query, n_policies):
@@ -77,7 +77,7 @@ if __name__ == '__main__':
 	# scrape_alexa()
 	
 	# CONDUCT LSA TOPIC MODELING ON DATASET OF PRIVACY POLICIES
-	# topic_modeling(n_topics, n_words_policy)
+	# topic_modeling(False)
 	
 	# CONDUCT LSA TOPIC MODELING ON PRIVACY POLICY HEADERS
 	topic_modeling(False)

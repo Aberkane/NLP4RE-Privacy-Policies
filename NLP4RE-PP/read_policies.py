@@ -55,14 +55,15 @@ class ReadPolicies:
 	"""
 	@staticmethod
 	def read_texts(dir, n_words_policy):
-		print("Extracting texts from:" + dir)
+		print("Extracting texts from: " + dir)
 		all_files = os.listdir(dir)
 		policies_list = []
 		titles = []
 		
 		# filter on txt files (redundant, but safety first)
 		txt_files = filter(lambda x: x[-4:] == '.txt', all_files)
-		
+		print("Potential policies found: " + str(len(all_files)))
+
 		for file in txt_files:
 			# print(file)
 			with open((dir + "\\" + file), "r", encoding="utf8") as policy:
@@ -91,6 +92,7 @@ class ReadPolicies:
 		# 		documents_list.append(text)
 		# print("Total Number of Documents:", len(documents_list))
 		# titles.append(text[0:min(len(text), 100)])
+		print("Final number of policies after filtering: " + str(len(policies_list)))
 		return policies_list, titles
 	
 	"""
@@ -106,7 +108,7 @@ class ReadPolicies:
 		
 		# Create an empty list
 		header_list = []
-		
+		#print("Potential policies found: " + str(len(dfread)))
 		# Iterate over each row
 		for index, rows in dfread.iterrows():
 			row_tmp = ""
@@ -119,4 +121,5 @@ class ReadPolicies:
 				if lang == 'en':
 					header_list.append(row_tmp)
 		
+		print("Final number of policies (headers) after filtering: " + str(len(header_list)))
 		return header_list

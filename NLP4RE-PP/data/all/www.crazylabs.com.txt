@@ -1,0 +1,55 @@
+Title: Crazy Labs Apps – Privacy Policy
+URL: https://www.crazylabs.com/apps-privacy-policy/
+Date of publishing: 2018-09-18 00:00:00
+Keywords: crazy, collect, parties, user, nonpersonal, labs, identifier, information, users, privacy, apps, policy, children, device
+
+Policy: 3. Online Use
+
+There are three types of data and information which may be collected from Users of our Children Apps:
+
+3.1 Non-personal Information : We and our Third Parties may passively collect non-identifiable and anonymous information as detailed below (“Non-personal Information”). To put it simply, with respect to such children Non-personal Information, we and our Third Parties are not aware of the identity of the User from whom children Non-personal Information has been collected. Children Non-personal Information collected by us or our Third Parties may include technical information such as: type and version of operating system (e.g. Android, iOS, etc.), User session ID, time zone, session start / stop time, source of traffic (e.g. which ads, sites, applications and campaigns a User came from and associated revenue), App version, language (e.g. English), device type/model (e.g. Galaxy, iPhone, etc.), data regarding User behavior within Children Apps (e.g. ad impressions, User’s response to ads, including ads viewed or clicked), User’s in-app purchases including data regarding receipt validation, User’s gameplay (e.g. level reached, frequency and time spent in the Children App and in each level, game progress, fail rate, mini game(s) played, virtual currency (if any) collected or earned, virtual inventory items (if any), tools and in-app functionalities used, screens accessed, User retention, performance errors and problems (e.g. Children Apps’ stability, crashes, functioning, etc.), and other predefined events and behavior relating thereto (e.g. if User viewed a specific ad and other game play events, time of the event, internet connectivity (Wi-Fi, 3G), device time zone, etc.), our other installed Apps, User age-related information (if a User passes an age-gate i.e. if the User is below or above the age of 13 or the minimum age of majority), and geo-location – only at a country. It is hereby clarified that no street name is collected.
+
+3.2 Children’ Persistent Device Identifier and No Other children personal identifiable information :
+
+We and Third Parties may passively collect a persistent device identifier from children, such as advertising identifier (IDFA, Advertising ID), randomly generated User ID and IP address (“Children Persistent Device Identifier”). This is processed for the limited purposes of supporting the internal operations of the Children Apps. In the case of IP addresses, we keep these for 1 week for error logs, then delete them. We do not collect and do not permit Third Parties to collect from children any information that may personally identify an individual (e.g. name, address, e-mail) or any other personally identifiable information of a private and/or sensitive nature about children. We note that we may collect, use and provide access to the User’s advertising identifier in accordance with the applicable platform provider’s policies.
+
+We do not link any additional personally identifiable information to the Children Persistent Device Identifier, even from other services.
+
+We do not collect or process any financial or payment information, any government identification numbers, any non-public phonebook or contact information, or any sensitive device data concerning children.
+
+3.3 Information gathered through Children Apps “Ask a Question” or “Support” type of a feature:
+
+If a child e-mails a question to us, using the “Ask a Question” or “Support” type of a feature which may be available within Children Apps, we may respond to such question by using the child’s e-mail address. Promptly after responding (or, at our discretion, not responding) to such question, we will delete the child’s e-mail address.
+
+Purpose of the collection: The information described above is collected and processed solely for the purpose of supporting our internal operations. This means the following:
+
+(i) providing and improving Children Apps as well as ensuring proper functioning of the Apps and services;
+
+(ii) maintaining or analyzing the functioning of Children Apps and services;
+
+(iii) authenticating purchases by Users in the app stores (to provide in-app purchases);
+
+(iv) personalizing content and enhancing User experience;
+
+(v) performing network communications;
+
+(vi) protecting the security or integrity of Users, Children Apps and services;
+
+(vii) serving contextual advertisements;
+
+(viii) capping the frequency of advertising;
+
+(ix) ensuring legal or regulatory compliance;
+
+(x) fulfilling a User’s request under Section 3.3.
+
+The collection and/or processing in connection with these purposes will performed as permitted under applicable laws and rules.
+
+How is the Information about our Users of Children Apps being collected? The Non-personal Information and Children Persistent Device Identifier are collected either by us or our Third Parties through the Users’ use of Children Apps, including through Third Parties’ SDKs embedded in our Children Apps. Non-personal Information and Children Persistent Device Identifier may also be stored locally on the Users’ device via generally accepted industry technologies used within Children Apps, such as “cookies-like technology” and local storage (see Section 19 below for further details on Cookies and Local Storage).
+
+If Third Parties collect Non-personal Information, Children Persistent Device Identifier and/or any other information directly from children, such collection and processing is governed by such Third Parties’ privacy policies and not by this Privacy Policy. However, all Third Parties are carefully selected to ensure compliance with applicable privacy laws, and we confirm that they are compliant with COPPA, this Privacy Policy and the rules, policies and guidelines of the applicable Platform Provider in performance of their services .
+
+In addition to the processing of information described in this policy, some of our Apps may also access Personal and Non-personal Information but without Crazy Labs carrying out any processing. In these cases, an App may access the information but it is not transmitted outside of your device and Crazy Labs does not collect or use it in any way. An App may access information in this way in order to provide functionality necessary for particular features of the App. By way of example, some Apps may include functionality which allow you to take a picture using your camera or use your microphone to make a recording. This functionality is optional and you can always use the App without it.
+***************************************************************
+
+

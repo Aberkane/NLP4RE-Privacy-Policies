@@ -1,0 +1,24 @@
+Title: Privacy
+URL: https://www.abbvie.com/privacy.html
+Date of publishing: None
+Keywords: tracking, abbvie, device, data, services, used, cookies, analytics, privacy, information, mobile
+Policy: 
+IP address
+
+We may record the Internet Protocol (“IP”) address of your computer or other electronic device when you visit the AbbVie Services. An IP address identifies the electronic device you use to access the Sites, which allows us to maintain communication with your computer as you move about AbbVie Services and to customize content.
+
+Cookies and other tracking technologies
+
+We collect information about your use of AbbVie Services through tracking technologies such as cookies and web beacons. A “cookie” is a unique numeric code that is transferred to your computer to track your interests and preferences and to recognize you as a return visitor. A “Web beacon” is a transparent graphic image placed on a website, email or advertisement that enables the monitoring of things such as user activity and site traffic. These technologies help remember your preferences and allow us to bring you the content and features that are likely to be of greatest interest to you on the basis of “clickstream” data that shows your previous activities on AbbVie Services.
+
+You can disable cookies through your browser. Please note that some cookies are essential to the functioning of our websites and deleting or disabling them on your browser will reduce the site’s functionality.
+
+For site analytics tracking, we use Google Analytics and Adobe Analytics. The data we collect through these cookies will be used to understand our website usage. We may also add your website usage data to the profile we maintain about you. If you do not want your data used with Google Analytics for these purposes, you can install the Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout. If you do not want your data used with Adobe Analytics for these purposes, you can opt-out by visiting https://www.adobe.com/privacy/opt-out.html.
+
+To learn more about cookies and other tracking technologies, including how to disable them, please visit http://www.allaboutcookies.org/.
+
+Mobile tracking
+
+Some AbbVie Services are available either as mobile applications or mobile sites that you can use on your mobile device. If you use a mobile device to access and use the AbbVie Services, we may collect the following mobile-specific information in addition to the other information described above: device or advertising ID, device type, hardware type, media access control (“MAC”) address, international mobile equipment identity (“IMEI”), the version of your mobile operating system, the platform used to access or download the AbbVie sites and applications (e.g., Apple, Google, Amazon, Windows), location information and usage information about your device and your use of the AbbVie Services.
+
+

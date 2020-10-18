@@ -1,0 +1,16 @@
+Title: Adobe Privacy Center
+URL: https://www.adobe.com/privacy/policy.html
+Date of publishing: 2020-08-25 16:15:09.004000+00:00
+Keywords: websites, adobe, apps, ireland, personal, countries, united, privacy, information, center, transfer
+Policy: 
+Last updated: August 25, 2020
+
+The Adobe Privacy Policy describes the privacy practices of Adobe’s apps and websites. If you are a resident of North America, your relationship is with Adobe Inc. (Adobe U.S.) and the laws of California and the United States apply.
+
+If you reside outside of North America, your relationship is with Adobe Systems Software Ireland Limited (Adobe Ireland), which is the controller with regard to your personal information collected by Adobe, and the laws of Ireland apply.
+
+Please note that in order to use our apps and websites, you authorize Adobe to transfer your personal information across national borders and to other countries where Adobe and its partners operate, including the United States. The privacy protections and rights of authorities to access your information in these countries may not be equivalent to those in your country. We will only transfer your personal information to these countries where permitted to do so by law and we will take steps intended to ensure that your personal information continues to receive appropriate protections. For more information, please see the section “Does Adobe transfer my personal information across national borders?”
+
+If the content or information that you store on Adobe apps or websites contains personal information of other individuals, you must be legally permitted to share the personal information with Adobe.
+
+

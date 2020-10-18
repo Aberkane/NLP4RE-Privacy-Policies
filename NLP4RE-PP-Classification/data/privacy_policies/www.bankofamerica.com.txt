@@ -1,0 +1,18 @@
+Title: Bank of America Privacy Notices and Policies
+URL: https://www.bankofamerica.com/security-center/privacy-overview/
+Date of publishing: None
+Keywords: advertising, america, policies, opt, device, bank, tailored, scripting, sign, online, site, privacy, content, receive, notices
+Policy: 
+When you opt out, we will not use information based on online Site behavior to provide online and offline tailored content and advertising to you, but you may still receive untailored advertising from Bank of America. In addition, financial advisors/Client Managers may continue to use information collected online to provide product and service information in accordance with account agreements.
+
+Opting out also means the online content and advertising you receive on our non-servicing sites (before you sign in) will be untailored and will not be based on your online behavior or your relationship with us.
+
+When accessing online account servicing areas (after you sign in), such as Online Banking or MyMerrill, you may receive tailored content and advertising based on your account relationships.
+
+Important reminder: In order for this online behavioral advertising opt-out to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site from a different device, sign in under a different screen name or change web browsers, you will need to opt out again.
+
+If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+
+The opt-out will take effect upon your next visit using the same device to Bank of America Sites. Click on Submit to opt out of online Site behavior used to provide online and offline tailored content and advertising.
+
+

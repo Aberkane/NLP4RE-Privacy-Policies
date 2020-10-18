@@ -1,0 +1,78 @@
+Title: National Instruments Corporation Privacy Statement
+URL: https://www.ni.com/en-us/about-ni/legal/privacy-statement.html
+Date of publishing: None
+Keywords: information, financial, national, personal, job, address, similar, history, corporation, privacy, include, protected, statement, user, instruments
+Policy: 
+“Personal Information,” as used in this Privacy Statement, means any information or set of information that identifies or could be used to identify an individual or household.
+
+The Personal Information we collect may fall into any of the following categories:
+
+Identifiers such as your first and last name, email address, postal address, phone number, user account name and password, social media handle, date of birth, proof of employment eligibility (if you are applying for a job), or other similar identifiers;
+
+such as your first and last name, email address, postal address, phone number, user account name and password, social media handle, date of birth, proof of employment eligibility (if you are applying for a job), or other similar identifiers; Protected characteristics such as your gender, age, race, or other protected classifications under applicable law;
+
+such as your gender, age, race, or other protected classifications under applicable law; Financial information such as bank or credit card numbers or other financial information;
+
+such as bank or credit card numbers or other financial information; Audio, electronic, visual, or similar information such as photographs of you, biometric identifiers, IP address or voice recordings from you;
+
+such as photographs of you, biometric identifiers, IP address or voice recordings from you; Professional information such as information about your employer, job history, job interests, or job title;
+
+such as information about your employer, job history, job interests, or job title; Education information such as your education history, degrees or certifications obtained; or
+
+such as your education history, degrees or certifications obtained; or Communications. When you participate in polls or surveys, register for an event or contact us, we may maintain a record of that communication including any Personal Information you provide in the communication.
+
+We may ask you to provide Personal Information when you:
+
+Use our website or applications;
+
+Activate a software license or register software;
+
+Request quotes, services, support, downloads, trials, whitepapers, training or information;
+
+Place orders for products or services;
+
+Create and manage a user account;
+
+Register for events or webinars;
+
+Participate in surveys, sweepstakes or other promotional activities online or in any other venue;
+
+Provide a testimonial;
+
+Subscribe to newsletters, marketing and promotional emails or other materials;
+
+Interact with us on third party social networks (subject to that third party’s terms of use and privacy policies);
+
+Apply for a job; or
+
+Contact us.
+
+You may choose not to provide Personal Information or withdraw any consent you may have provided to our processing your information at any time, although it may affect our ability to provide you with relevant information or services.
+
+For some areas of our site and through other interactions with NI, we ask you to provide additional Personal Information that helps us enhance your site visit, assists you with technical support issues, permits post-visit follow-up and to communicate with you about order processing, product recalls or returns, service contract entitlements, and other matters essential to the software or related services. This information might include your name, email address, company information, job title, mailing address, application information, product preferences, or contact preferences. Learn more details about your www.ni.com profile and its benefits at https://www.ni.com/profile.
+
+Information collected from third parties
+
+In order to offer you a more consistent and personalized experience in your interactions with NI, information collected through one source may be combined with information we obtain from other sources. This may include information that allows us to identify you across multiple devices through which you access our websites. We may also supplement the information we collect with information obtained from other parties, including our trusted business partners and other third parties. Examples of how we may use this information include using your data to help us to improve your experience using our website, to present you with options tailored to your preferences and for targeted advertising purposes as explained below, and to help prevent and detect fraud.
+
+Personal Information we receive from third parties may include the following categories:
+
+Identifiers such as your first and last name, email address, postal address, phone number, user name and password, social media handle, or other similar identifiers.
+
+such as your first and last name, email address, postal address, phone number, user name and password, social media handle, or other similar identifiers. Protected characteristics such as your gender, age, race, or other protected classifications under applicable law.
+
+such as your gender, age, race, or other protected classifications under applicable law. Financial information that may include bank or credit card numbers or other financial information.
+
+that may include bank or credit card numbers or other financial information. Audio, electronic, visual, or similar information such as photographs of you or your IP address.
+
+such as photographs of you or your IP address. Professional information such as information about your employer, salary, job history, job interests, or job title.
+
+such as information about your employer, salary, job history, job interests, or job title. Education information such as your education history, degrees or certifications obtained.
+
+Information we automatically collect
+
+As is true of most websites, we may use cookies or similar technologies to gather certain information automatically that helps us analyze trends in the aggregate and administer our website. This information may include the following categories of information:
+
+Identifiers such as Internet protocol (IP) addresses, browser type and language, Internet service provider (ISP), device identifier, and geolocation; and
+
+

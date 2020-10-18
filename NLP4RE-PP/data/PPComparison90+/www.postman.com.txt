@@ -1,0 +1,56 @@
+Title: License - Privacy policy
+URL: https://www.postman.com/legal/privacy-policy/
+Date of publishing: None
+Keywords: license, policy, data, personal, services, organization, rights, email, privacy, information, ccpa
+Policy: 
+Notice to End Users
+
+Some of our products are intended for use by organizations. Where the Services are made available to you through an organization (e.g. your employer), that organization is the administrator of the Services and is responsible for the accounts and/or Service sites over which it has control. If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different from this policy.
+
+Administrators are able to:
+
+terminate your access to the Services; and
+
+install or uninstall third-party integrations
+
+Even if the Services are not currently administered to you by an organization, if you are a member of a Postman team administered by an organization, or if you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g. your employer) may assert administrative control over your account and use of the Services at a later date. You will be notified if this happens.
+
+If you do not want an administrator to be able to assert control over your account or use of the Services, use your personal email address to register for or access the Services. If an administrator has not already asserted control over your account or access to the Services, you can update the email address associated with your account through your account settings in your profile. Once an administrator asserts control over your account or use of the Services, you will no longer be able to change the email address associated with your account without administrator approval.
+
+Please contact your organization or refer to your administrator’s organizational policies for more information.
+
+Additional Disclosures for California Residents
+
+The California Consumer Privacy Act, Cal. Civ. Code §§ 1798.100 et seq. (“CCPA”), is a U.S. law enacted in the State of California effective January 1, 2020 that requires businesses to disclose whether they sell personal data. As a business covered by the CCPA, we do not sell personal data. We may share personal data with third parties or allow them to collect personal data from our Services if those third parties are authorized service providers or business partners who have agreed to our contractual limitations as to their retention, use, and disclosure of such personal data, or if you use our websites or Services to interact with third parties or direct us to disclose your personal data to third parties.
+
+Exercising your rights: If you are a California resident, there are some additional rights that may be available to you under the CCPA, including the rights to access specific types of personal data, to learn how we process personal data, to request deletion of personal data, and not to be denied goods or services for exercising these rights. For information on how to exercise your rights please visit the “How to access and control your information” section of this policy. We encourage you to manage your information, and to make use of the privacy controls we have included in our Services. You will not be discriminated against for exercising any of your privacy rights under the CCPA. In order to protect your information from unauthorized access or deletion, we may require you to verify your identity and place of residence before completing your rights request. If we cannot verify your identity, we will not provide or delete your information.
+
+Sharing your personal information: We don't sell your personal information. We do share your information with others as described in the “How we share information we collect” section of this policy. We also show ads that we think are relevant. We've provided more information about how you can manage your advertising, and do-not-track preferences, within this policy. We do not “sell” our customer’s personal information as currently defined under the CCPA, meaning that we also do not rent, disclose, release, transfer, make available or otherwise communicate that personal information to a third party for monetary or other valuable consideration. We may share aggregated and/or anonymized information regarding use of the Services—which is not considered personal information under the CCPA—with third parties to help us develop and improve the Services and provide our customers with more relevant content and service offerings as detailed in our customer agreements.
+
+Processing your information: This policy describes the categories of personal information we may collect, the sources of that information, and our deletion and retention policies. We’ve also included information about how we may process your information, which includes for "business purposes" under the CCPA - such as to protect against illegal activities, and for the development of new products, features, and technologies. If you have questions about the categories of information we may collect about you, please be sure to visit the section of this policy called, “What information we collect about you.” For more details about our processing activities, please be sure to visit the section called, "How we use information we collect."
+
+If you have any questions or would like to exercise your rights under the CCPA, you can reach out to us at help@postman.com. If you are an authorized agent wishing to exercise rights on behalf of a California resident, please contact us using the information in the “Contacting Us” section below and provide us with a copy of the consumer’s written authorization designating you as their agent.
+
+Our policy towards children
+
+Our Services are not directed to individuals under 16 years of age. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact help@postman.com.
+
+Changes to our Privacy Policy
+
+We may change this privacy policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by adding a notice on the Services homepages, login screens, or by sending you an email notification. We will also keep prior versions of this privacy policy in an archive for your review. We encourage you to review our privacy policy whenever you use the Services to stay informed about our information practices and the ways you can help protect your privacy.
+
+If you disagree with any changes to this privacy policy, you will need to stop using the Services and delete your account(s), as outlined above.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Postman, Inc.
+
+55 2nd Street, Suite 300,
+
+San Francisco, CA 94105
+
+help@postman.com
+
+

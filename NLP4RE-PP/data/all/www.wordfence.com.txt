@@ -1,0 +1,312 @@
+Title: Privacy Policy
+URL: https://www.wordfence.com/privacy-policy/
+Date of publishing: None
+Keywords: policy, sites, defiant, collect, data, personal, services, cookies, provide, privacy, information
+Policy: 
+Wordfence Privacy Policy
+
+Effective: May 15, 2020
+
+Defiant, Inc. (“Defiant,” “the Company.” “we,” “us,” or “our”) is committed to privacy and data protection. This Privacy Policy applies to personal data Defiant collects from you, through our interactions with you, through www.defiant.com, www.wordfence.com, websites under the control of Defiant (collectively “Sites”), and the Wordfence services (such as the Wordfence Site Cleaning Service and the Wordfence Security Plugin), including all media, document, updates, and support services associated with the Site and the Wordfence services (collectively, the “Services”), as well as how we use and protect your personal data.
+
+This Privacy Policy does not apply to any third-party applications or software that integrate with our Sites and Services, or any other third-party products, services or businesses (collectively, “Third Party Services”). Third Party Services are governed by their own privacy policies. We recommend you review the privacy policy governing any Third Party Services before using them.
+
+Defiant is the controller of the personal data collected through the Sites. Any questions or concerns regarding Defiant’s privacy and data protection practices can be directed to our Legal Department at privacy@defiant.com.
+
+This Privacy Policy is incorporated into and made a part of Defiant’s Terms of Use. If you have not done so already, please also review the Terms of Use. You may download a copy of this Privacy Policy here.
+
+California Residents: If you are a resident of California you may have additional rights regarding your personal information. Please review our California Consumer Privacy Act (“CCPA”) Notice regarding your rights under the CCPA.
+
+IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS OR USE THE SITES OR SERVICE.
+
+PERSONAL DATA WE COLLECT
+
+Defiant collects data to provide the Sites and Services you request, ease your navigation on our Sites, communicate with you, and improve your experience using the Sites and Services. Some of this information is provided by you directly, such as when you create an account on our Sites, purchase or use a free version of our Services. Some of the information is collected through your interactions with our Sites and Services. We collect such data using technologies like cookies and other tracking technologies, error reports, and usage data collected when you interact with Defiant Sites or Services running on your device.
+
+We also obtain data from third parties or use third parties to assist us with data collection. For example, we utilize third-party services to collect usage data. We also use services from other companies to help us determine a location based on your IP address notably to customize certain services to your location.
+
+The data we collect depends on the Sites, Services and features thereof that you use, and includes the following:
+
+Name and contact data. We collect your first and last name, email address, postal code, and other similar contact data.
+
+Credentials. We process passwords and related security information used for authentication and account access and information security purposes.
+
+Payment data. We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number) (“Payment Information”).
+
+Job application data. We collect information regarding your employment history, resume, references, education, and other information to help us evaluate you for employment with Defiant. We use a third party service provider (currently Workable) to assist in securely processing this information. You may find out more about how Workable stores and uses your information by accessing the Workable Privacy Policy.
+
+Usage data. We collect personalized information about your use of our Sites and Services, to better understand uses thereof and identify potential improvements, as well as to send you promotional communications or offers tailored to your use of our Sites and Services and interest thereto.
+
+Examples include:
+
+Service information based on your use of our Sites and Services running on your device. This includes the types and frequency of security events, and the frequency and duration of use. Information on the web pages you visit on and off our Sites and the search terms you enter on our Sites.
+
+Information regarding the performance of our Sites and Services and any problems you may experience while using them. This information enables us to diagnose problems and offer support in resolution.
+
+Data about your device and the network you use to connect to or run our Sites and Services, including IP address, device identifiers, and regional and language settings.
+
+Web requests. For our Software as a Service based Services, we collect information regarding every web request sent to the relevant servers. This information is used to provide support, as well as to assess usage and performance of our Services. The data collected for each request can include such things as timestamps, any exception messages, user agent, IP address, email address, request time and duration, as well as files names.
+
+Location data. We collect your IP address and infer location such as city or postcode therefrom, when necessary in order to provide you with the Sites and Services or to send you promotional communications or for customer relationship management purposes.
+
+Content. We may collect the content of messages you send to us, such as feedback or questions you ask our technical support representatives, when necessary to provide you with the Sites and Services you use. We will collect and utilize any data files you send to us for troubleshooting and improving the Services. When you contact us, phone conversations or chat sessions with our representatives may be monitored and recorded in order to improve our services, facilitate the processing and resolution of your request or complaint.
+
+User Content. The Service may allow you to post or submit comments or other information, such as in response to our blog content (www.wordfence.com/blog) (“User Content”). We may use User Content to improve the Service.
+
+Surveys and Studies. We may ask you to participate in a survey or study; and may request information from you. Participation is voluntary, and you have the choice of whether to disclose any requested information.
+
+HOW WE USE PERSONAL DATA
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data for the following lawful purposes:
+
+Where we need to perform the contract we are about to enter into or have entered into with you (“ performance of a contract ”).
+
+”). Where we receive your consent (“ consent ”).
+
+”). Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests (“ legitimate business interest ”).
+
+”). Where we need to comply with a legal or regulatory obligation (“legal obligation”).
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+Defiant uses information that we collect from customers and visitors for the purposes of:
+
+providing the Services (performance of a contract);
+
+providing ongoing support (performance of a contract);
+
+evaluating you for a job (legitimate business interest);
+
+communicating with you, including promotional communications and customer relationship management (“CRM”) (legitimate business interest);
+
+providing information about other Sites and Services (legitimate business interest);
+
+helping us run our company, for example to improve the Services or our security, train staff or perform marketing activities, including CRM (legitimate business interest);
+
+complying with our legal obligations (legal obligation); and
+
+accounting and other administrative purposes (legitimate business interest).
+
+Examples of the uses of information include:
+
+Providing Sites and Services. We use data to carry out your transactions with us and to provide Sites and Services to you. Often, this includes personal data such as email, name and address.
+
+Customer support. We use data to diagnose and address problems and provide other customer and support services.
+
+Service activation. We use data username, password, subscription license key to activate software that require activation.
+
+Software Updates. Unless you have disabled the functionality of our software update manager, our software products periodically communicate with our servers to perform functions such as checking for updates.
+
+Site Cleaning Service. If you purchase our Site Cleaning Service we may download portions of your site to secure servers in order to analyze and clean the site. As part of the Site Cleaning Service we also require: access to your database, access to your site control panel, and server credentials to log into your site. The server credentials are transmitted via an encrypted page and stored using PGP encryption. We may also retain a backup of portions of your site for a limited amount of time after the cleaning for quality assurance purposes.
+
+Improving Sites and Services. We use data to continually improve the Services, including adding new features or capabilities. Data is collected throughout your interactions with the Services that enable us to understand customer usage and tailor future capabilities.
+
+We track general, non-personalized information (e.g., operating system, browser version and type of device being used) to know how many people visit specific pages of our Sites or utilize specific areas of the Services so that we may improve those Sites and Services. We may use your IP address to customize services to your location, such as the language displayed on our Sites.
+
+Please note that we use IP addresses on a highly restrictive basis to analyze trends, to administer the site, and to collect general information for aggregate use.
+
+Service Communications. We use data we collect to deliver and personalize our communications with you. For example, we may contact you by email or other means to notify you of changes in information and updates to the Services or to our Privacy Policy.
+
+Marketing and event communication: We use personal data to deliver marketing and event communications to you across various platforms, such as email, direct mail, social media, and online via our Sites. Third parties may also market to you on our behalf based on your use of their third-party services.
+
+If we send you a marketing email, it will include instructions on how to opt out of receiving these emails in the future. We also maintain email preference centers for you to manage your information and marketing preferences. For information about managing email subscriptions and promotional communications, please visit the Your Rights Regarding Personal Data section of this privacy statement. Please remember that even if you opt out of receiving marketing emails, we may still send you important Service information related to your accounts and subscriptions.
+
+Processing Payments: If you make a payment to Defiant, we will ask for Payment Information and other information requested for processing your payment.
+
+We use a third party payment processor, currently Authorize.Net, PayPal, and Braintree (“Payment Processors”) to assist in securely processing your payment information. If you pay with a credit card the payment information that you provide through the Services is encrypted and transmitted directly to the Payment Processor. We do not store your Payment Information and do not control and are not responsible for the Payment Processors or their collection or use of your information. You may find out more about how the Payment Processors store and use your Payment Information by accessing the Payment Processors privacy policy.
+
+If you choose to use PayPal to make purchases through the Sites, you will be directed to the PayPal website and provide your payment information directly to PayPal. PayPal’s privacy policy applies to the information you provide on the PayPal website.
+
+HOW WE SHARE PERSONAL DATA
+
+It is the policy of Defiant and its subsidiaries to protect users’ information both online and off-line. Access to our users’ information is restricted to only those employees or agents, contractors or subcontractors of Defiant who have valid reasons to access this information to perform any service you have requested or authorized, or for any other purpose described in this Privacy Policy. The information you provide will not be sold or rented to third parties.
+
+We may provide your personal data to:
+
+Defiant-controlled affiliates and subsidiaries, located in and outside your country, including outside the European Union (in such case, we will use an appropriate legal framework to operate data transfers);
+
+outsourced service providers who perform functions on our behalf, located inside or outside of the EU territory (in such case, we will use appropriate legal framework to operate data transfers). For example, when you provide payment data to make a purchase, we will share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction;
+
+our authorized agents and representatives, located inside or outside of the EU territory (in such case, we will use appropriate legal framework to operate data transfers), who sell products or provide services on our behalf, such as training service providers or product resellers;
+
+anyone expressly authorized by you to receive your personal data;
+
+anyone to whom we are required by law to disclose personal data, upon valid and enforceable request thereof.
+
+Finally, we will access, disclose and preserve personal data when we have a good faith belief that doing so is necessary to:
+
+comply with applicable law or respond to valid legal processes, including from law enforcement or other government agencies, upon valid and enforceable request thereof; or
+
+operate and maintain the security of our Services, including to prevent or stop an attack on our computer systems or networks.
+
+Please note that some of our Services may direct you to services of third parties whose privacy practices differ from Defiant’s. If you provide personal data to any of those services, your data is governed by their privacy statements or policies. Defiant. Inc. is not responsible for the privacy practices of these other Sites. Please review the privacy policies for these websites to understand how they process your information.
+
+We require third parties to only use your personal data for the specific purpose for which it was given to us and to protect the privacy of your personal data. We will only disclose your personal data to third parties who agree to keep your information confidential.
+
+HANDLING OF PERSONAL DATA
+
+Security of Personal Data
+
+Defiant is committed to protecting the security of your personal data. Depending on the circumstances, we may hold your information in hard copy and/or electronic form. For each medium, we use technologies and procedures to protect personal data. We review our strategies and update as necessary to meet our business needs, changes in technology, and regulatory requirements.
+
+These measures include, but are not limited to, technical and organizational security policies and procedures, security controls and employee training.
+
+You are responsible for maintaining the security of your account credentials for the Services. Defiant will treat access to the Sites and Services through your account credentials as authorized by you. Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution. We may suspend your use of all or part of the Services without notice if we suspect or detect any breach of security. If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below.
+
+If we become aware of a breach that affects the security of your personal data, we will provide you with notice as required by applicable law. To the extent permitted by applicable law, Defiant will provide any such notice that Defiant must provide to you at your account’s email address. By using the Services, you agree to accept notice electronically.
+
+Storage and Transfer of Personal Data
+
+Personal data collected by Defiant may be stored and processed in your region, in the United States or in any other country where Defiant, its affiliates or contractors maintain facilities, including outside the European Union. We take steps to ensure that the data we collect under this Privacy Policy is processed pursuant to the terms thereof and the requirements of applicable law wherever the data is located.
+
+Defiant also collaborates with third parties such as cloud hosting services and suppliers located around the world to serve the needs of our business, workforce, and customers. In some cases, we may need to disclose or transfer your personal data within Defiant or to third parties in areas outside of your home country. When we do so, we take steps to ensure that personal data is processed, secured, and transferred according to applicable law.
+
+If you would like to know more about our data transfer practices, please contact our Legal Department at privacy@defiant.com.
+
+Retention of Personal Data
+
+Defiant retains personal data for as long as necessary to provide the services and fulfill the transactions you have requested, or for other business purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. We are required by law to keep some types of information for certain periods of time (e.g. statute of limitations). If your personal data is no longer necessary for the legal or business purposes for which it is processed, we will generally destroy or anonymize that information.
+
+YOUR RIGHTS REGARDING YOUR PERSONAL DATA
+
+Defiant respects your right to access and control your personal data. You have choices about the data we collect. When you are asked to provide personal data that is not necessary for the purposes of providing you with our Sites and Services, you may decline. However, if you choose not to provide data that is necessary to provide a Service, you may not have access to certain features Sites and Services.
+
+We aim to keep all personal data that we hold accurate, complete and up-to-date. While we will use our best efforts to do so, we encourage you to tell us if you change your contact details and this can be easily accomplished using the Wordfence Dashboard section of the Site. However, if you believe that the information we hold about you is incorrect, incomplete or out-of-date, please contact privacy@defiant.com.
+
+Access to personal data: In some jurisdictions, you have the right to request access to your personal data. In these cases, we will comply, subject to any relevant legal requirements and exemptions, including identity verification procedures. Before providing data to you, we will ask for proof of identity and sufficient information about your interaction with us so that we can locate any relevant data. We may also charge you a fee for providing you with a copy of your data (except where this is not permissible under local law).
+
+If you are a corporate user of the Services (which means your employer is a Defiant customer of such Sites and Services): please first request access to your personal data with your employer. Your employer will then be in touch with us with respect to your request.
+
+Correction and deletion: In some jurisdictions, you have the right to correct or amend your personal data if it is inaccurate or requires updating. You may also have the right to request deletion of your personal data. Please note that such a request could be refused because your personal data is required to provide you with the products or services you requested, e.g. to deliver a product or send an invoice to your email address, or that it is required by the applicable law.
+
+Portability: If you reside within the European Union, you have the right to ask for a copy of your personal data and/or ask for it to be ported to another provider of your choice. Please note that such a request could be limited to the only personal data you provided us with or that we hold at that given time and subject to any relevant legal requirements and exemptions, including identity verification procedures.
+
+If you are a corporate user of the Services (which means your employer is a Defiant customer of such Sites and Services): please first request access to your personal data with your employer. Your employer will then be in touch with us with respect to your request.
+
+Marketing preferences: If you have provided us with your contact information, we may, subject to any applicable Spam Act or similar regulation, contact you via e-mail, postal mail or telephone about Defiant products, services and events that may be of interest to you, including our newsletter.
+
+E-mail communications you receive from Defiant will generally provide an unsubscribe link allowing you to opt-out of receiving future e-mail or to change your contact preferences. E-mail communications may also include a link to directly update and manage your marketing preferences. Please remember that even if you opt out of receiving marketing emails, we may still send you important Service information related to your accounts and subscriptions.
+
+You can also request changes to your account by contacting Defiant at the email, postal mail, or telephone number listed under the Questions and Complaints section of this Privacy Policy.
+
+California Shine the Light Law: California Civil Code Section 1798.83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personal information (if any) for direct marketing purposes in the preceding calendar year. If you are a California resident and you wish to make such a request, please send an e-mail with “California Privacy Rights” in the subject line to privacy@defiant.com or write us at: Defiant. Inc., 800 5th Ave Ste 4100, Seattle, WA 98104.
+
+COOKIES & SIMILAR TECHNOLOGIES
+
+Defiant uses cookies (small, often encrypted, text files that are stored on your computer or mobile device) and similar technologies (“Cookies”) to provide the Services and help collect data. This Cookies Policy explains how we use Cookies to collect information about the way you use our Sites and Services, and how you can control them.
+
+How We Use Cookies
+
+We use Cookies to track how you use our Sites and Services by providing usage statistics. Cookies are also used to deliver Company information (including updates) and allow product authentication to you based upon your browsing history and previous visits to the Sites. Information supplied to us using cookies helps us to provide a better online experience to our visitors and users and send marketing communications to them, as the case may be. Information supplied to us upon launching of the Services will enable Defiant to manage your permissions, license, license type, and improve the functionality of the Sites or Services.
+
+While this information on its own may not constitute your “personal data”, we may combine the information we collect via Cookies with personal data that we have collected from you to learn more about how you use our Sites and Services to improve them.
+
+Types of Cookies
+
+We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until you delete them). To make it easier for you to understand why we need them, the Cookies we use on our Sites and Services can be grouped into the following categories:
+
+Strictly Necessary: These Cookies are necessary for the Sites and Services to work properly. They include any essential authentication and authorization cookies for the Services.
+
+Functionality: These Cookies enable technical performance and allow us to “remember” the choices you make while browsing our Sites, including any preferences you set. They also include sign-in and authentication cookies and IDs that enable you to return without additional sign-in.
+
+Performance/Analytical: These Cookies allow us to collect certain information about how you navigate the Sites or utilize the Services running on your device. They help us understand which areas you use and what we can do to improve them.
+
+Targeting: These Cookies are used to deliver relevant information related to the Services to an identified machine or other device (not a named or otherwise identifiable person) which has previously been used to visit our Sites. Some of these types of Cookies on our Sites are operated by third parties with our permission and are used to identify advertising sources that are effectively driving customers to our Sites.
+
+Cookies Set by Third Party Sites
+
+To enhance our content and to deliver a better online experience for our users, we sometimes embed images and videos from other websites on the Sites. We currently use, and may in future use content from Sites such as Facebook, LinkedIn and Twitter. You may be presented with Cookies from these third-party websites. Please note that we do not control these Cookies. The privacy practices of these third parties will be governed by the parties’ own privacy statements or policies. We are not responsible for the security or privacy of any information collected by these third parties, using cookies or other means. You should consult and review the relevant third-party privacy statement or policy for information on how these cookies are used and how you can control them.
+
+We also use Google, a third-party analytics provider, to collect information about Services usage and the users of the Services, including demographic and interest-level information. Google uses cookies in order to collect demographic and interest-level information and usage information from users that visit the Services, including information about the pages where users enter and exit the Services and what pages users view on the Services, time spent, browser, operating system, and IP address. Cookies allow Google to recognize a user when a user visits the Services and when the user visits other websites. Google uses the information it collects from the Services and other websites to share with us and other website operators’ information about users including age range, gender, geographic regions, general interests, and details about devices used to visit websites and purchase items. We do not link information we receive from Google with any of your personally identifiable information. For more information regarding Google’s use of cookies, and collection and use of information, see the Google Privacy Policy (available at https://policies.google.com/privacy?hl=en). If you would like to opt out of Google Analytics tracking, please visit the Google Analytics Opt-out Browser Add-on (available at https://tools.google.com/dlpage/gaoptout).
+
+Social Sharing
+
+We also embed social sharing icons throughout our Sites. These sharing options are designed to enable users to easily share content from our Sites with their friends using a variety of different social networks. If you choose to connect using a social networking or similar service, we may receive and store authentication information from that service to enable you to log in and other information that you may choose to share when you connect with these services. These services may collect information such as the web pages you visited and IP addresses, and may set cookies to enable features to function properly. We are not responsible for the security or privacy of any information collected by these third parties. You should review the privacy statements or policies applicable to the third-party services you connect to, use, or access. If you do not want your personal data shared with your social media account provider or other users of the social media service, please do not connect your social media account with your account for the Services and do not participate in social sharing on the Services.
+
+Other Similar Technologies
+
+Defiant web pages may use other technologies such as web beacons to help deliver cookies on our Sites and count users who have visited those Sites. We also may include web beacons in our promotional email messages or newsletters to determine whether you open and act on them as well as for statistical purposes.
+
+In addition to standard cookies and web beacons, our services can also use other similar technologies to store and read data files on your computer. This is typically done to maintain your preferences or to improve speed and performance by storing certain files locally.
+
+How to Opt-Out of Targeted Advertising
+
+You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising (DAA) by visiting the opt-out pages on the NAI website (http://optout.networkadvertising.org) and DAA website (http://www.aboutads.info/choices/).
+
+How to Control and Delete Cookies
+
+Cookies can be controlled, blocked or restricted through your web browser settings. Information on how to do this can be found within the Help section of your browser. All Cookies are browser specific. Therefore, if you use multiple browsers or devices to access websites, you will need to manage your cookie preferences across these environments.
+
+If you are using a mobile device to access the Sites, you will need to refer to your instruction manual or other help/settings resource to find out how you can control cookies on your device.
+
+Please note: If you restrict, disable or block any or all Cookies from your web browser or mobile or other device, the Sites may not operate properly, and you may not have access to the Services available through the Sites. Defiant shall not be liable for any impossibility to use the Sites and Services or degraded functioning thereof, where such are caused by your settings and choices regarding cookies.
+
+If you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set, however, we will stop using the disabled cookie to collect any further information.
+
+To learn more about cookies and web beacons, visit www.allaboutcookies.org.
+
+Do Not Track: Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” (“DNT”) or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many website operators, including Defiant, do not respond to DNT signals.
+
+CHILDREN’S PRIVACY
+
+SITES ARE NOT INTENDED FOR CHILDREN
+
+You must be at least the age of majority in your place of residence to use the Sites or Services. The Sites or Services are not directed to or intended for use by minors. Consistent with the requirements of the U.S. Children’s Online Privacy Protection Act, if we learn that we received any information directly from a child under age 13 without his or her parent’s verified consent, we will use that information only to inform the child (or his or her parent or legal guardian) that he or she cannot use the Sites or Services.
+
+California Minors: While the Service is not intended for anyone under the age of 18, if you are a California resident who is under age 18 and you are unable to remove publicly-available content that you have submitted to us, you may request removal by contacting us at: privacy@defiant.com. When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it. We are not required to remove any content or information that: (1) federal or state law requires us or a third party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the Content or information. Removal of your content or information from the Service does not ensure complete or comprehensive removal of that content or information from our systems or the systems of our service providers. We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or information or render it invisible to other users and the public.
+
+EU-U.S. AND SWISS-U.S. PRIVACY SHIELD FRAMEWORKS
+
+Defiant participates in the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks. Please see our Privacy Shield Policy for information about Defiant’s data practices regarding personal information it receives from European Union member countries and Switzerland pursuant to the respective Privacy Shield frameworks. To learn more about the Privacy Shield program generally, and to view Defiant’s certification, please visit https://www.privacyshield.gov/.
+
+THE GENERAL DATA PROTECTION REGULATION (“GDPR”)
+
+If you reside within the European Union you may be entitled to other rights under the GDPR. These rights are summarized below. We may require you to verify your identity before we respond to your requests to exercise your rights. If you are entitled to these rights, you may exercise these rights with respect to your personal data that we collect and store:
+
+the right to withdraw your consent to data processing at any time (please note that this might prevent you from using certain aspects of the Portal, the Services, or the Portal or Services altogether);
+
+the right of access your personal data;
+
+the right to request a copy of your personal data;
+
+the right to correct any inaccuracies in your personal data;
+
+the right to erase your personal data;
+
+the right to data portability, meaning to request a transfer of your personal data from us to any other person or entity as chosen by you;
+
+the right to request restriction of the processing of your personal data; and
+
+the right to object to processing of your personal data.
+
+You may exercise these rights free of charge. These rights will be exercisable subject to limitations as provided for by the GDPR. Any requests to exercise the above listed rights may be made to: privacy@defiant.com.
+
+If you reside within the European Union, you have the right to lodge a complaint with a Data Protection Authority about how we process your personal data at the following website: https://edpb.europa.eu/about-edpb/board/members_en
+
+International Transfers of Personal Data
+
+Whenever we transfer your personal data out of the EU, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+European Commission Standard Contractual Clauses: We may use specific contracts approved by the European Commission which give personal data the same protection it has in the EU.
+
+Privacy Shield. Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+For additional information on the mechanisms used to protect your personal data, please contact us at privacy@defiant.com.
+
+CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy based upon evolving Laws, regulations and industry standards, or as we may make changes to our business including our Sites and Services. We will post changes to our Privacy Policy on this page and encourage you to review our Privacy Policy when you use our Sites or Services to stay informed. If we make changes that materially alter your privacy rights, Defiant will provide additional notice, such as via email or through the Sites or Services. If you disagree with the changes to this Privacy Policy, you should discontinue your use of the Sites and/or Services. You may also request access and control of your personal data as outlined in the Your Rights Regarding Personal Data section of this Privacy Policy.
+
+QUESTIONS OR COMPLAINTS HANDLING
+
+We understand that you may have questions or concerns about this Privacy Policy or our privacy practices or may wish to file a complaint. In such case, please contact us in one of the following ways:
+
+Email: privacy@defiant.com
+
+Mail: Defiant, Inc., Attention: Legal Department, 800 5th Ave, Ste 4100, Seattle, WA 98104
+
+If you are not satisfied with our answer or how Defiant manages your personal data, you may also have the right to make a complaint to a data protection regulator. If you reside within the European Union, a list of National Data Protection Authorities can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+
+

@@ -1,0 +1,24 @@
+Title: Privacy – Microsoft privacy
+URL: https://privacy.microsoft.com/nl-nl
+Date of publishing: None
+Keywords: privacy, van, microsoft, uw, met, om, te, wordt, en, kunt, cortana, browsegeschiedenis
+
+Policy: Net als het geval is in veel andere zoekprogramma's, gebruiken wij uw zoekgeschiedenis en de samengevoegde geschiedenis van andere personen om u betere zoekresultaten te bieden. Microsoft-webbrowsers kunnen de browsegeschiedenis verzamelen en gebruiken om te voorspellen waar u wilt surfen, zodat uw surfervaring wordt versneld. Met Cortana kunnen persoonlijke aanbevelingen worden gedaan op basis van uw browse- en zoekgeschiedenis.
+
+U kunt kiezen of uw browsegeschiedenis wordt verzameld via de instellingen voor feedback en diagnostische gegevens in uw Windows privacyinstellingen. In de instellingen van Cortana en Microsoft Edge kunt u ook beheren of met Cortana toegang mogelijk is tot uw zoek- en browsegeschiedenis.
+***************************************************************
+
+
+Title: Privacy – Microsoft privacy
+URL: https://privacy.microsoft.com/en-us
+Date of publishing: None
+Keywords: privacy, youre, microsoft, weve, location, youyou, tokyo, technologies, helps, using, turn, device
+
+Policy: Location information helps us give you directions to the places you want to go and show you info relevant to where you are. For this, we use the locations you provide or that we’ve detected using technologies like GPS or IP addresses.
+
+Detecting location also helps us protect you. For example, if you almost always sign in from Tokyo, and suddenly you’re signing in from London, we can check to make sure it’s really you.
+
+You can turn on or off location services for your device in Settings > Privacy > Location. From here, you can also choose which apps have access to your location and manage the location history stored on your device.
+***************************************************************
+
+

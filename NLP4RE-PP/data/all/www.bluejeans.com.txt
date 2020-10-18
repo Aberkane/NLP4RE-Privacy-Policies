@@ -1,0 +1,158 @@
+Title: BlueJeans - Business Video Communications
+URL: https://www.bluejeans.com/privacy-policy
+Date of publishing: None
+Keywords: using, business, video, work, data, personal, services, access, bluejeans, communications, company, provide, information, service
+Policy: 
+This Privacy Policy provides a clear explanation of how BlueJeans collects information about you when you interact with BlueJeans, including through our websites, applications, and services. It also lets you know what choices you have regarding our use of your information and how you can exercise access and update that information.
+
+Please read this Privacy Policy carefully. We have made modifications to our previous policy to help you better understand how we use your information. By using and/or accessing our Services (defined below) you acknowledge that you have read and understood this Privacy Policy.
+
+Our Privacy Policy effective prior to January 1, 2020 is available here.
+
+Key Definitions
+
+“Policy” refers to this Privacy Policy.
+
+“BlueJeans”, “we”, “us” and/or “our” refers to Blue Jeans Network, Inc. and any of our corporate affiliates.
+
+“Services” refers to, individually and collectively, our video conferencing, collaboration, and related services, support, professional services, websites (including www.bluejeans.com/), and end user software on any platform. The Services are not intended for personal or consumer use.
+
+“you” and “your” refer to individuals using or otherwise interacting with our Services.
+
+“information”refers to data about you and your use of Services, that may be retained in electronic or paper format, and may include personal information as defined by the California Consumer Privacy Act of 2018 and personal data as defined by the General Data Protection Regulation and/or as defined by Section 2(1) of the Singapore Personal Data Protection Act 2012, as applicable.
+
+Reasons We Process Your Information
+
+We may process your information if:
+
+You, or the company you work for, or the company which provides you access to the Services, are a customer or a supplier of ours.
+
+You, or the company you work for, or the company which provides you access to the Services, use our Services.
+
+You work for one of our suppliers, resellers, or other business partners.
+
+You work for someone who uses our products or services.
+
+You, or the company you work for, may be a candidate for our advertising or marketing efforts.
+
+You communicate with us, or we receive a communication from or regarding you, through our Services or other communication.
+
+You request information about us, our business, and/or the Services.
+
+Information We Collect
+
+We collect information from you when you voluntarily provide that information to us. This may occur, for example, when you register for an account, modify your profile and preferences, complete and submit a form through the Services, provide payment information to complete a transaction, contact us with inquiries, participate in an event or promotion, or respond to one of our surveys.
+
+We collect information from you when you voluntarily provide that information as part of your use of the Services. Examples of this include: when you submit a technical support request, participate in a chat function as part of a BlueJeans Meeting or Event, or request that a Meeting or Event that you are hosting be recorded using the Services.
+
+We collect information about you from third parties including other Service users, third-party service providers which you have linked to your use of our Services (including social media accounts, single-sign-on services, and scheduling applications), resellers, distributors, your employer, your administrator, publicly available sources, data enrichment vendors, payment and delivery service vendors, advertising networks, analytics providers, and our business partners. The information which we receive from third parties depends on what policies that third party follows and our and your respective relationships with the third party.
+
+Personal data relating to you that we process may include:
+
+Your name.
+
+Who you work for, and your job function or department.
+
+Your address, phone number, email address or other contact details (these details may relate to your work or to you personally, depending on the nature of our relationship with you or the company that you work for).
+
+Information relating to transactions with us involving you or the company you work for (for example, details of goods or services that we have supplied to, or obtained from, you or the person you work for).
+
+Information relating to you which it is necessary for us to process in order to enter into or perform a contract with you or the company you work for (for example, right to work information and information obtained from credit references agencies where this is necessary to enable us to carry out appropriate checks in relation to contracts with you or someone else that you work for or are otherwise related to).
+
+Certain device and connection information when you use our Services, including the type of device or endpoint (e.g. browser type and version, browser plug-in types and versions, operating system and platform) you are using to access the Services, IP address, geolocation data, duration of Service use, and connection quality. The amount of information may vary depending on the nature of the equipment you use to access the Services and may also include non-identifiable or aggregated information to conduct research on customer demographics, interests and behavior.
+
+Information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our website (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team.
+
+Cookies
+
+The BlueJeans websites also use a technology called “cookies” to collect certain information. A cookie is a piece of computer code that your internet browser is given when you access the website. Our cookies help provide additional functionality to the website, track the traffic patterns for our website, and study how our users use and interact with the Services. For instance, our website may set a cookie on your browser that allows you to access the website without needing to remember and then enter a password more than once during a visit to the Site. Please refer to your web browser’s instruction guide or help section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to better take advantage of some of the Services. Further information on our use of cookies is located at https://bluejeans.com/privacy-policy/cookies. Because no formal “Do Not Track” standard has been adopted, we currently do not respond to “Do Not Track” web browsers signals or other mechanisms regarding the collection of your information.
+
+How We Use Information
+
+How we use the information is shaped by the source of the information, the type of Services you use, and any privacy preferences that you have specified to us. Below are the specific purposes for which we use the information we collect or receive about you.
+
+To take steps in order to enter into any contract or carry out our obligations arising from any contract entered into between BlueJeans and you, the company you work for, or the company which provides you access to the services, including: To provide the Services, related customer support, and supporting functions. We use the information you provide to make the Services available to you in a personalized manner which optimizes your experience. This includes providing supporting functions like using the information you provide in your profile to identify you to other Service users, performing billing operations, identifying whether you are complying with your license grant for the Services, detecting fraudulent activity or other improper uses of the Services, and verifying your identity. To communicate with you about the Service. We may reach out to you using the information you have provided via email, telephone, in-window messaging, through the software for the Service, on the website, and otherwise as appropriate for transactional communications such a change of password confirmation, billing receipts, product updates, and responding to customer support requests. We also send you information as a new user for a Service to better help you use the Service. These communications are part of the Services and, in many cases, you cannot opt out of receiving them. For engagement communications – We may communicate with you or the company you work for to better help you engage with our Services and maximize your use of the Services. This includes user training, letting you know about newly available features of your Services and seeking quality-related and engagement feedback.
+
+For promotional communications - We may communicate with you or the company you work for to better inform you of the Services available to you. This includes letting you know about potential new Services, newsletters, events, and related Services we offer that we believe will be of interest to you. If we do so, and if required by applicable law, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications. You can also object to further marketing at any time by sending us an email at privacy@bluejeans.com.
+
+To better understand our users, and improve our Services accordingly (when our legitimate interest in doing so is not overridden by your personal rights that may apply). We may use such information to track, for example, the total number of visitors to our website, the number of visitors to each page of our website, the domain names of your Internet service provider, general geographic location, and how you use and interact with the Services. We can use this information to identify trends, usage patterns, service quality interruptions, undiscovered bugs in the Services, and better optimize your Services experience in the future. Also, in an ongoing effort to better understand and serve the users of the Services, BlueJeans often conducts research on its customer demographics, interests and behavior based on the information on an aggregate basis.
+
+For uses as required by law or to otherwise protect our legal rights. There may be situations where we believe it is required by law or necessary to protect our legal rights or the interests of others to use the information in connection with pending or active litigation, regulatory compliance efforts, audits, and disclosures in connection with the acquisition, merger or sale of a business.
+
+For other uses with your consent. If BlueJeans intends on using any information in any manner that is not consistent with this Policy, you will be informed of such anticipated use and be given an opportunity to provide your consent for such use and/or discontinue your use of the Services.
+
+The Services are not intended to be used for profiling, automated processing, personal data relating to criminal convictions or offenses, other systematic monitoring of a public area, or any other operations which may result in a high risk of significantly affecting you or your legal rights.
+
+If you are an EU resident, the following terms also apply:
+
+BlueJeans processes your personal data when we have an adequate legal basis for doing so. This means we collect and use your personal data where:
+
+We need it to provide you the Services;
+
+It satisfies a legitimate interest (which is not overridden by your data protection interests);
+
+You give us consent to use the personal data for a specific purpose; or
+
+We need to process your personal data to comply with a legal or contractual obligation.
+
+If you have consented to our use of personal data for a specific purpose, you have the right to change your mind at any time, and the procedures for communicating that revocation of consent are detailed below. Any such decision will not affect any processing that has already occurred. Where you withdraw your consent, but we are using your information because we or a third party (e.g. your employer) have a legitimate interest in doing so, or we have different legal basis for using your information (for example, fulfilling a contract with you), we may continue to process your information, subject to your rights to access and control your information. However, this may mean your access to the Services will be limited or suspended, and your accounts may be terminated, as applicable.
+
+How Long We Keep Information
+
+BlueJeans will generally retain information for so long as you are an active user of the Services. Most information is available for you to modify or delete on a self-service basis. For more extensive requests, you may make a request per the guidelines below. Metadata and/or connection analytics following use of the Services is retained and made available for a host user and/or an administrative user to review during an administrator-set retention period. Information that is older than the pre-set retention period will be obfuscated and archived.
+
+Following the end of your subscription to the Services, your information will generally be deleted or obfuscated within six months of the end of your subscription. If the Services are made available to you through an organization (e.g., your employer), we retain your information per your organization’s instructions. For more information, see the “Additional Information Regarding Processing Information of Our Customers” section below.
+
+Some information may be retained to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations, for marketing purposes according to your registered preferences if you have opted to receive such communication, information derived from cookies, and information required to continue to develop and improve our Services.
+
+Where we retain information after your use of the Service, we take reasonable steps to make that data is not personally identifiable beyond the extent required to comply with our legal and regulatory obligations.
+
+How We Protect Information
+
+BlueJeans takes appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your information from unauthorized access, use or disclosure. Information about those practices can be found here.
+
+Our primary data hosting service providers are in the United States. A limited amount of information (for example, host-initiated recordings using the Service) may be stored in ISO27001 certified data centers in the United States, the Netherlands, Singapore, and Australia.
+
+No Internet, e-mail or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+Who We Share Information With
+
+There are certain circumstances in which we may share your information with certain third-parties. Any access by a third party to the information is managed by BlueJeans, and the third parties are vetted based in part on their ability to protect information. International movement of information consistent with this sharing is discussed in the “How We Move Information” section below.
+
+As part of your use of the Service, you may share information with other users of the Service. Those users of the Service may be located in nearly any location around the world, may be communicating with Third Party Sites (as defined below) while using the Services, and may be limited by law or by an agreement with us about their use of information you share. However, this Policy only addresses our use of the information.
+
+We may share information with employees, contractors, agents, or consultants with a strict need-to-know under appropriate confidentiality obligations.
+
+We may share information with third parties which provide business-related functions on behalf of BlueJeans, including: our business partners, customers, suppliers, service providers, vendors, and sub-contractors for the performance of any contract we enter into or other dealings we have in the normal course of business with you or the company that you work for or the company that provides you access to the Services. Some examples of such business-related functions for which we may share information may include data hosting, analyzing data, providing marketing assistance, providing customer service and technical support, processing orders, sending communications to you on our behalf or at our direction, user engagement and onboarding, soliciting feedback regarding the Services, facilitating invoicing and/or payments, and others in our reasonable discretion; our auditors, legal advisors and other professional advisors or service providers; credit reference agencies for the purpose of assessing your credit score where this is in the context of us entering into a contract with you or the person that you work for; We may share information with our authorized distributors and resellers if you have purchased your license to the Services through a party other than BlueJeans to enable those distributors and resellers to fulfill their business obligations to you; and We may share information obtained via our Services with analytics and search engine providers that assist us in the improvement and optimization of our site and subject to the cookie section of this policy.
+
+
+
+When we employ another company to perform services of this nature, we only provide such company the right to use such information that is reasonably necessary to perform their specific function.
+
+We may share information with other third parties, including when you provide consent for a specific situation. If BlueJeans intends on sharing any information in a manner other than as described above using any personal data in any manner that is not compatible with this Privacy Policy, and we do not have a legal basis for sharing that information without your consent, you will be informed of such anticipated use and be given an opportunity to provide your consent for such use.
+
+We may share information with third parties if we reasonably believe that such action is necessary to:
+
+comply with a legal obligation, regulation, or government request,
+
+enforce our policies and agreements,
+
+protect and defend the rights, property, and safety of BlueJeans, our customers, users, resellers, or others, or
+
+act in urgent circumstances to protect the personal safety of users of the Services or the public.
+
+This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction and to prevent cybercrime.
+
+We may share information with our subsidiaries and corporate affiliates who support our processing of personal data under this Policy.
+
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, acquisition, merger, reorganization, dissolution or similar event, information may be part of the transferred assets. You will be notified via email and/or other means with any news of a transaction and any choices you may have regarding your information.
+
+For purposes of the California Consumer Privacy Act, we do not “sell” your personal information.
+
+How We Transfer Information
+
+We provide our Services primarily from the United States, where we are based. Your use of the Services requires the movement of information to our locations and the locations of our third-party service providers. Your use of the Services may require that our international affiliates and subsidiaries in countries including Australia, India, Netherlands, Singapore, and United Kingdom have access to the information.
+
+If you are an EU resident:
+
+

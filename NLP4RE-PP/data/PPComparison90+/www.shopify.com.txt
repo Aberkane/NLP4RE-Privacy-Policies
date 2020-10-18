@@ -1,0 +1,18 @@
+Title: Shopify Privacy Policy
+URL: https://www.shopify.com/legal/privacy
+Date of publishing: None
+Keywords: respond, policy, shopify, contact, request, personal, email, rights, address, exercise, privacy, information, service
+Policy: 
+We believe you should be able to access and control your personal information no matter where you live. Depending on how you use Shopify, you may have the right to request access to, correct, amend, delete, port to another service provider, restrict, or object to certain uses of your personal information (for example, direct marketing). We will not charge you more or provide you with a different level of service if you exercise any of these rights.
+
+If you buy something from a Shopify-powered store and wish to exercise these rights over information about your purchase, you need to directly contact the merchant you interacted with. We are only a processor on their behalf, and cannot decide how to process their information. As such, we can only forward your request to them to allow them to respond. We will of course help our merchants to fulfill these requests by giving them the tools to do so and by answering their questions.
+
+Please note that if you send us a request relating to your personal information, we have to make sure that it is you before we can respond. In order to do so, we may ask to see documentation verifying your identity, which we will discard after verification.
+
+If you would like to designate an authorized agent to exercise your rights for you, please email us from the email address we have on file for you. If you email us from a different email address, we cannot determine if the request is coming from you and will not be able to accommodate your request. In your email, please include the name and email address of your authorized agent.
+
+If you are not happy with our response to a request, you can contact us to resolve the issue. You also have the right to contact your local data protection or privacy authority at any time.
+
+Finally, because there is no common understanding about what a “Do Not Track” signal is supposed to mean, we don’t respond to those signals in any particular way.
+
+

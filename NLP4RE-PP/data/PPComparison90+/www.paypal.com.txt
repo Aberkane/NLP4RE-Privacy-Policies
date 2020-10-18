@@ -1,0 +1,278 @@
+Title: PayPal
+URL: https://www.paypal.com/en/webapps/mpp/ua/privacy-full
+Date of publishing: None
+Keywords: te, onze, het, met, uw, services, een, voor, paypal, en, van
+Policy: 
+>> Alle juridische overeenkomsten weergeven
+
+Privacyverklaring
+
+Ingangsdatum: 24 juli 2020
+
+1. Overzicht
+
+PayPal heeft deze Privacyverklaring ontwikkeld om uit te leggen hoe PayPal als een Verwerkingsverantwoordelijke uw Persoonsgegevens kan verzamelen, bewaren, verwerken, delen en overdragen wanneer u onze Sites bezoekt of onze Services gebruikt. Deze Privacyverklaring is van toepassing op uw Persoonsgegevens wanneer u Sites bezoekt of Services gebruikt. De verklaring is niet van toepassing op online websites of services die niet van PayPal zijn of niet door PayPal worden beheerd, inclusief websites of services van andere PayPal-gebruikers.
+
+We zijn als Europese bank in Luxemburg geregistreerd en voldoen aan de vereisten voor gegevensbescherming en financiële regelgeving. Voor alle duidelijkheid: deze Privacyverklaring vormt geen 'raamcontract' zoals bedoeld in de Europese Richtlijn betreffende betalingsdiensten (2007/64/EG) en vormt geen toepassing van deze Richtlijn in de Europese Unie of Europese Economische Ruimte.
+
+Deze Privacyverklaring is bedoeld om u toegang te geven tot informatie over onze privacyprocedures en u inzicht te geven in de privacykeuzes die u heeft wanneer u onze Sites en Services gebruikt. Houd er rekening mee dat ons aanbod van Services per regio kan verschillen. Deze Privacyverklaring kan, afhankelijk van de betreffende Sites en Services, worden aangevuld met extra mededelingen. U kunt aanvullende informatie vinden in het Overzicht van cookies en trackingtechnologieën en in de Kennisgeving met betrekking tot bankregelgeving.
+
+Een aantal termen die we in deze Privacyverklaring gebruiken, hebben we nader gedefinieerd. U kunt de betekenis van de termen met een hoofdletter lezen in de paragraaf Definities.
+
+Neem contact met ons op als u vragen heeft over eventuele privacyprocedures die niet in deze Privacyverklaring worden behandeld.
+
+2. Welke Persoonsgegevens verzamelen we?
+
+Wanneer u onze Sites bezoekt of onze Services gebruikt, verzamelen we onder meer de volgende Persoonsgegevens over u:
+
+Informatie over registratie en gebruik: wanneer u zich aanmeldt bij onze Services door een Rekening te openen, verzamelen we de Persoonsgegevens die we nodig hebben om de door u gevraagde Services te kunnen bieden en verlenen. Afhankelijk van de Services die u kiest, kunnen we u bij het openen van een Rekening vragen uw naam, adres, telefoonnummer, e-mailadres en identificatiegegevens te verstrekken. Tijdens het gebruik van onze Services vragen we u mogelijk aanvullende Persoonsgegevens te verstrekken.
+
+Informatie over transacties en ervaringen: wanneer u onze Services gebruikt of onze Sites bezoekt, bijvoorbeeld om aankopen te doen bij webwinkels, geld te ontvangen, betalingen te verwerken of geld over te maken naar vrienden en familie, verzamelen we informatie over de transactie zelf en andere gerelateerde informatie zoals het overgemaakte of verzochte bedrag, het betaalde bedrag voor producten of services en informatie over de webwinkel, inclusief informatie over de gebruikte betaalmethoden voor de transactie, Apparaatgegevens, Technische gebruiksgegevens en Geografische gegevens.
+
+wanneer u onze Services gebruikt of onze Sites bezoekt, bijvoorbeeld om aankopen te doen bij webwinkels, geld te ontvangen, betalingen te verwerken of geld over te maken naar vrienden en familie, verzamelen we informatie over de transactie zelf en andere gerelateerde informatie zoals het overgemaakte of verzochte bedrag, het betaalde bedrag voor producten of services en informatie over de webwinkel, inclusief informatie over de gebruikte betaalmethoden voor de transactie, Apparaatgegevens, Technische gebruiksgegevens en Geografische gegevens. Persoonsgegevens van deelnemers: wanneer u onze Services gebruikt of onze Sites bezoekt, verzamelen we de door u verstrekte Persoonsgegevens over de andere deelnemers die bij de transactie betrokken zijn.
+
+Geld overmaken of een betaalverzoek sturen: wanneer u geld overmaakt of een betaalverzoek stuurt via onze Services, verzamelen we Persoonsgegevens zoals naam, adres, telefoonnummer en gegevens van de financiële rekening van de deelnemer die geld van u ontvangt of geld aan u overmaakt. Welke Persoonsgegevens we precies van een deelnemer nodig hebben, varieert afhankelijk van de Services die u gebruikt om geld over te maken of betaalverzoeken te doen.
+
+wanneer u geld overmaakt of een betaalverzoek stuurt via onze Services, verzamelen we Persoonsgegevens zoals naam, adres, telefoonnummer en gegevens van de financiële rekening van de deelnemer die geld van u ontvangt of geld aan u overmaakt. Welke Persoonsgegevens we precies van een deelnemer nodig hebben, varieert afhankelijk van de Services die u gebruikt om geld over te maken of betaalverzoeken te doen. Een factuur betalen of iemand anders verzoeken om een factuur te betalen: als u onze Services gebruikt om een factuur voor iemand anders te betalen of als u een Gebruiker verzoekt een factuur voor u te betalen, verzamelen we via u Persoonsgegevens over de rekeninghouder, zoals diens naam, adres, telefoonnummer en e-mailadres, en het rekeningnummer van de factuur die u wilt betalen of waarvoor u een betaalverzoek doet.
+
+als u onze Services gebruikt om een factuur voor iemand anders te betalen of als u een Gebruiker verzoekt een factuur voor u te betalen, verzamelen we via u Persoonsgegevens over de rekeninghouder, zoals diens naam, adres, telefoonnummer en e-mailadres, en het rekeningnummer van de factuur die u wilt betalen of waarvoor u een betaalverzoek doet. Waarde toevoegen aan uw rekeningen: als u onze Services gebruikt om waarde toe te voegen aan uw Rekening of aan eventuele andere rekeningen, of als u een Gebruiker vraagt waarde toe te voegen aan een of meer van deze rekeningen, verzamelen we via u mogelijk Persoonsgegevens over de andere partij of via de andere partij over u om het verzoek mogelijk te maken. Als u onze Services bijvoorbeeld gebruikt om een mobiele telefoon op te waarderen of een verzoek doet om uw mobiele rekening op te waarderen, kunnen we Persoonsgegevens en andere informatie verzamelen, inclusief het mobiele rekeningnummer van de andere deelnemer.
+
+Informatie over uw openbare profiel en uw vrienden en contacten: het kan voor ons makkelijker zijn u te helpen om transacties met uw vrienden en contacten te verrichten als u uw lijst met contacten aan uw Rekening koppelt of als uw Rekeningprofiel openbaar gemaakt is. Als u uw Rekening koppelt aan een apparaat of socialemedia-account, gebruiken we de gegevens uit uw lijst met contacten (zoals naam, adres, e-mailadres) om uw ervaring met onze Services te verbeteren. Als uw Rekeningprofiel openbaar gemaakt is, kunnen andere gebruikers geld naar u overmaken door uw naam, gebruikersnaam, e-mailadres of mobiele nummer op PayPal op te zoeken en uw identiteit te controleren aan de hand van uw profiel met bijbehorende foto. U kunt uw Rekeningprofiel op elk gewenst moment weer besloten maken via uw PayPal.Me-instellingen.
+
+het kan voor ons makkelijker zijn u te helpen om transacties met uw vrienden en contacten te verrichten als u uw lijst met contacten aan uw Rekening koppelt of als uw Rekeningprofiel openbaar gemaakt is. Als u uw Rekening koppelt aan een apparaat of socialemedia-account, gebruiken we de gegevens uit uw lijst met contacten (zoals naam, adres, e-mailadres) om uw ervaring met onze Services te verbeteren. Als uw Rekeningprofiel openbaar gemaakt is, kunnen andere gebruikers geld naar u overmaken door uw naam, gebruikersnaam, e-mailadres of mobiele nummer op PayPal op te zoeken en uw identiteit te controleren aan de hand van uw profiel met bijbehorende foto. U kunt uw Rekeningprofiel op elk gewenst moment weer besloten maken via uw PayPal.Me-instellingen. Persoonsgegevens die u desgevraagd aan ons wilt verstrekken voor het verkrijgen van aanvullende Services of specifieke online Services: we kunnen aanvullende gegevens van u verzamelen als u een optionele Sitefunctie aanvraagt of gebruikt of uitgebreide Services of andere gewenste functionaliteit aanvraagt. Als het gebruik van die Persoonsgegevens afwijkt van het genoemde gebruik in deze Privacyverklaring, sturen we u een speciale kennisgeving op het moment dat we deze gegevens verzamelen.
+
+we kunnen aanvullende gegevens van u verzamelen als u een optionele Sitefunctie aanvraagt of gebruikt of uitgebreide Services of andere gewenste functionaliteit aanvraagt. Als het gebruik van die Persoonsgegevens afwijkt van het genoemde gebruik in deze Privacyverklaring, sturen we u een speciale kennisgeving op het moment dat we deze gegevens verzamelen. Persoonsgegevens als u merkloze Services gebruikt: bepaalde Services zijn beschikbaar zonder dat u hoeft in te loggen of een Rekening hoeft te openen. We verzamelen Persoonsgegevens als u interactie heeft met en betalingen doet aan webwinkels via onze betaalservices die het merk PayPal niet hebben en wanneer u met PayPal betaalt zonder in te loggen op een rekening. Voor onze merkloze betaalservices verloopt uw interactie met de webwinkel op het platform van de webwinkel. Als u Rekeninghouder bent of op een later moment een Rekening opent, kunnen we informatie over merkloze transacties verzamelen en deze aan uw Rekening koppelen om uw klantervaring als Rekeninghouder te verbeteren en een goede naleving en analyse mogelijk te maken. Als u geen Rekeninghouder bent, verzamelen en bewaren we alle gegevens die u verstrekt, en gebruiken we deze in overeenstemming met deze Privacyverklaring.
+
+bepaalde Services zijn beschikbaar zonder dat u hoeft in te loggen of een Rekening hoeft te openen. We verzamelen Persoonsgegevens als u interactie heeft met en betalingen doet aan webwinkels via onze betaalservices die het merk PayPal niet hebben en wanneer u met PayPal betaalt zonder in te loggen op een rekening. Voor onze merkloze betaalservices verloopt uw interactie met de webwinkel op het platform van de webwinkel. Als u Rekeninghouder bent of op een later moment een Rekening opent, kunnen we informatie over merkloze transacties verzamelen en deze aan uw Rekening koppelen om uw klantervaring als Rekeninghouder te verbeteren en een goede naleving en analyse mogelijk te maken. Als u geen Rekeninghouder bent, verzamelen en bewaren we alle gegevens die u verstrekt, en gebruiken we deze in overeenstemming met deze Privacyverklaring. Persoonsgegevens over u van externe partijen: we ontvangen, indien wettelijk toegestaan, informatie van externe partijen, zoals webwinkels, gegevensaanbieders en kredietbureaus.
+
+we ontvangen, indien wettelijk toegestaan, informatie van externe partijen, zoals webwinkels, gegevensaanbieders en kredietbureaus. Andere gegevens die we verzamelen met betrekking tot uw gebruik van onze Sites of Services: we kunnen aanvullende gegevens van of over u verzamelen wanneer u met ons communiceert, contact opneemt met onze klantenondersteuning of reageert op een enquête.
+
+3. Waarom bewaren we Persoonsgegevens?
+
+We bewaren Persoonsgegevens in een identificeerbare indeling. We doen dit voor de minimale tijd die nodig is om te voldoen aan onze verplichtingen op het gebied van wet- en regelgeving en voor onze zakelijke doeleinden. We kunnen Persoonsgegevens langer bewaren dan wettelijk verplicht is, als het een rechtmatig zakelijk belang voor ons dient en niet volgens de wet verboden is. Als uw Rekening wordt opgeheven, kunnen we stappen ondernemen om Persoonsgegevens en andere gegevens te verbergen. We behouden echter de mogelijkheid om de gegevens te bewaren en gebruiken gedurende de termijn die vereist is volgens de toepasselijke wetgeving. We blijven dergelijke Persoonsgegevens gebruiken en vrijgeven in overeenstemming met deze Privacyverklaring.
+
+We gebruiken cookies met een vastgelegde vervaltijd. Tenzij u binnen die tijd onze Sites bezoekt of onze Services gebruikt, worden de cookies automatisch uitgeschakeld en de opgeslagen gegevens verwijderd. Raadpleeg ons Overzicht van cookies en trackingtechnologieën voor meer informatie.
+
+4. Hoe verwerken we Persoonsgegevens?
+
+We kunnen uw Persoonsgegevens om diverse redenen Verwerken zoals gerechtvaardigd volgens de wetten inzake gegevensbescherming van de Europese Economische Ruimte (EER) en Zwitserland.
+
+Voor de werking van onze Sites en levering van onze Services, met inbegrip van: een betaling starten, geld overmaken of een betaalverzoek doen, waarde toevoegen aan een rekening of een factuur betalen de verificatie van uw toegang tot een Rekening onze communicatie met u over uw Rekening, de Sites, de Services of PayPal de koppeling van uw Rekening met een rekening of platform van derden de controle op kredietwaardigheid en andere financiële draagkracht, beoordeling van aanvragen en vergelijking van informatie ten behoeve van nauwkeurigheid en verificatie, het up-to-date houden van uw Rekening- en financiële gegevens.
+
+Voor het beheer van onze zakelijke behoeften , zoals het controleren, analyseren en verbeteren van de Services en de prestaties en functionaliteit van de Sites. We analyseren bijvoorbeeld het gedrag van Gebruikers en doen onderzoek naar de manier waarop u onze Services gebruikt.
+
+, zoals het controleren, analyseren en verbeteren van de Services en de prestaties en functionaliteit van de Sites. We analyseren bijvoorbeeld het gedrag van Gebruikers en doen onderzoek naar de manier waarop u onze Services gebruikt. Voor de controle van uw identiteit met het oog op risicobeheer en om de Sites, Services en uzelf te beschermen tegen fraude . PayPal-tools voor risico- en fraudebestrijding gebruiken Persoonsgegevens , Apparaatgegevens , Technische gebruiksgegevens en Geografische informatie van onze Sites en de websites die PayPal-services aanbieden om fraude en misbruik van de Services op te sporen en te voorkomen.
+
+. PayPal-tools voor risico- en fraudebestrijding gebruiken , , en van onze Sites en de websites die PayPal-services aanbieden om fraude en misbruik van de Services op te sporen en te voorkomen. Voor de naleving van onze verplichtingen en de handhaving van de voorwaarden van onze Sites en Services, inclusief de naleving van alle toepasselijke wetten en voorschriften.
+
+inclusief de naleving van alle toepasselijke wetten en voorschriften. Voor onze rechtmatige belangen, met inbegrip van: handhaving van de voorwaarden van onze Sites en Services; beheer van onze dagelijkse bedrijfsbehoeften , zoals controleren, analyseren; risicobeheer voor de PayPal-services en bescherming ervan tegen fraude en misbruik; anonimisering van Persoonsgegevens zodat cumulatieve statistische gegevens kunnen worden verstrekt aan derden, inclusief andere bedrijven en burgers, met informatie over hoe, wanneer en waarom Gebruikers onze Sites bezoeken en onze Services gebruiken en uitvoering van business-to-business-marketing; en verstrekking van gepersonaliseerde Services (ook wel op interesse gebaseerde marketing genoemd) die door PayPal worden aangeboden op websites en online services van derden. We kunnen uw Persoonsgegevens en andere informatie die we hebben verzameld conform deze Privacyverklaring gebruiken voor een meer gepersonaliseerde weergave, functie of aanbieding op websites van derden. Het wordt voor u makkelijker om anderen te zoeken en te benaderen. Als u ons bijvoorbeeld toestemming geeft om uw contacten te gebruiken of uw Rekeningprofiel publiekelijk te delen, kunnen we connecties voorstellen tussen u en mensen die u misschien kent en kunnen andere mensen uw PayPal-profiel opzoeken aan de hand van uw naam, gebruikersnaam, e-mailadres of mobiele nummer om geld naar u over te maken. Ook kunnen we informatie die we over u krijgen door de wijze waarop u en uw contacten de Services gebruiken, relateren aan informatie die u en anderen verstrekken om mensen voor te stellen die u misschien kent of waar u mogelijk transacties mee wilt doen via onze Services. De sociale functionaliteit en functies waarmee het voor u makkelijker wordt om de Services met anderen te gebruiken, kunnen per Service verschillen.
+
+Met uw toestemming, inclusief: Om PayPal-producten en -services en de producten en services van niet-gelieerde bedrijven aan u te promoten. We kunnen uw Persoonsgegevens ook verwerken om de marketinginhoud en bepaalde Services of Site-ervaringen beter af te stemmen op uw interesses op PayPal en andere websites van derden. Om cookies en andere trackingtechnologieën te gebruiken voor een gerichte weergave, functie, Service of aanbieding voor u en/of om samen te werken met andere derden, zoals webwinkels, reclame- of analysebedrijven met als doel deze gepersonaliseerde services (ook wel op interesse gebaseerde marketing genoemd) te verstrekken. Om u locatiespecifieke opties, functionaliteit of aanbiedingen te bieden als u uw Geografische informatie via de services wilt delen. We gebruiken deze informatie om de veiligheid van de Sites en Services te verbeteren en u locatiegerichte Services te bieden, zoals advertenties, zoekresultaten en andere gepersonaliseerde inhoud (ook bekend als op interesse gebaseerde marketing) . Om op uw verzoek te reageren. We kunnen bijvoorbeeld contact met u opnemen over een vraag die u aan onze Klantenservice heeft gestuurd.
+
+
+
+U kunt uw toestemming op elk gewenst moment kosteloos intrekken. Raadpleeg de paragraaf Uw privacykeuzes voor meer informatie over hoe u dit moet doen.
+
+5. Delen we Persoonsgegevens?
+
+We kunnen uw Persoonsgegevens of andere informatie over u op verschillende manieren delen met anderen, zoals in deze paragraaf van deze Privacyverklaring wordt beschreven. We kunnen uw Persoonsgegevens of andere informatie om de volgende redenen delen:
+
+Met andere leden van het PayPal-concern: we kunnen uw Persoonsgegevens delen met andere leden van de PayPal-groep van bedrijven, voor onder meer de levering van de Services die door u zijn aangevraagd of geautoriseerd; risicobeheer, de opsporing en bestrijding van potentieel illegale en frauduleuze activiteiten en andere schendingen van ons beleid en onze overeenkomsten en voor hulp bij de beschikbaarheid en de verbindingen van PayPal-producten, -services en -communicatie.
+
+Met andere bedrijven die services aan ons leveren: we delen Persoonsgegevens met externe serviceproviders die services en functies in onze opdracht en namens ons voor u uitvoeren. Deze externe serviceproviders kunnen u bijvoorbeeld Services bieden, uw identiteit controleren, helpen bij het verwerken van transacties, u advertenties voor onze producten en services sturen of klantenservice bieden.
+
+Met andere financiële instellingen: we delen Persoonsgegevens met andere financiële instellingen waarmee we samenwerken om gezamenlijk een product te maken en aan te bieden. Tenzij u toestemming heeft gegeven voor andere doeleinden, mogen deze financiële instellingen deze informatie alleen gebruiken om PayPal-gerelateerde producten te promoten en aan te bieden. We kunnen Persoonsgegevens ook delen om transacties te verwerken, u voordelen te bieden met uw in aanmerking komende kaarten en uw financiële gegevens up-to-date te houden.
+
+Met de andere partijen voor transacties waarbij u de Services gebruikt, zoals andere Gebruikers, webwinkels en hun serviceproviders: we kunnen informatie over u en uw Rekening delen met andere partijen die betrokken zijn bij de verwerking van uw transacties. Hiertoe behoren ook andere Gebruikers aan wie u geld overmaakt of van wie u geld ontvangt, evenals webwinkels en hun serviceproviders. Deze gegevens kunnen onder meer het volgende omvatten:
+
+Persoonsgegevens en Rekeninggegevens die nodig zijn voor de transactie,
+
+Persoonsgegevens om andere deelnemer(s) te helpen geschillen op te lossen en fraude op te sporen en te voorkomen en
+
+Anonieme gegevens en prestatieanalyses waarmee webwinkels beter inzicht kunnen krijgen in het gebruik van onze Services en waarmee webwinkels de functionaliteit voor Gebruikers kunnen verbeteren.
+
+Met andere externe partijen voor onze zakelijke doeleinden of voor zover wettelijk verplicht of toegestaan: we kunnen informatie over u delen met andere partijen voor zakelijke doeleinden van PayPal of voor zover deze wettelijk verplicht of toegestaan zijn, inclusief:
+
+als we dit moeten doen om te voldoen aan een wet, juridisch proces of regelgeving;
+
+met politie, justitie of andere overheidsinstanties of andere externe partijen uit hoofde van een dagvaarding, een gerechtelijk bevel of een andere juridische procedure of een verplichting die van toepassing is op PayPal of de bedrijven in het PayPal-concern;
+
+als we naar eigen inzicht van mening zijn dat de openbaarmaking van Persoonsgegevens noodzakelijk of juist is om fysieke schade of financieel verlies te voorkomen of in verband met een onderzoek naar vermeende of daadwerkelijke illegale activiteiten;
+
+ter bescherming van de vitale belangen van een persoon;
+
+met kredietverstrekkers en gegevensverwerkende instanties met het oog op kredietwaardigheidscontroles, fraudebescherming en naleving van de richtlijnen;
+
+om schendingen van een gebruikersovereenkomst te onderzoeken of om de overeenkomst of andere juridische voorwaarden die van toepassing zijn op enige Service af te dwingen;
+
+ter bescherming van onze eigendommen, Services en wettelijke rechten;
+
+om een aankoop of verkoop van alle of een deel van de bedrijfsactiviteiten van PayPal te faciliteren;
+
+in verband met verzending en bijbehorende services voor aankopen die met een Service zijn gedaan;
+
+om te helpen bij de beoordeling en beperking van risico's en ter voorkoming van fraude jegens ons, onze Gebruikers en fraude met betrekking tot onze Sites of het gebruik van onze Services. Dit is inclusief fraude die zich voordoet bij of betrekking heeft op onze zakelijke partners, strategische activiteiten of andere particulieren en webwinkels, zoals eBay, Inc.;
+
+aan de banken waarmee we samenwerken, conform de regels van de kaartmaatschappijen voor opname in hun lijst van geblokkeerde webwinkels;
+
+aan kredietrapportage- en incassobureaus;
+
+aan bedrijven die met ons willen fuseren of die ons willen overnemen; en
+
+ter ondersteuning van functies zoals onze audit, naleving van wet- en regelgeving en zakelijk bestuur.
+
+Met uw toestemming: we delen uw Persoonsgegevens en andere informatie ook met uw toestemming of in opdracht van u, inclusief wanneer u toestemming geeft voor een rekeningkoppeling met een account of platform van een externe partij.
+
+Daarbij kan PayPal ook cumulatieve statistische gegevens verstrekken aan derden, inclusief andere bedrijven en burgers, met informatie over hoe, wanneer en waarom Gebruikers onze Sites bezoeken en onze Services gebruiken. Deze gegevens zullen u niet persoonlijk identificeren, noch informatie verstrekken over uw gebruik van de Sites of Services. We delen uw Persoonsgegevens niet zonder uw toestemming voor de marketingdoeleinden van derden.
+
+6. Hoe werken we samen met andere services en platforms?
+
+Door een vernieuwing van de Services van PayPal is een groot voordeel ontstaan: u kunt uw Rekening nu koppelen aan een account of platform van een externe partij. In het kader van deze Privacyverklaring verwijst een 'rekeningkoppeling' met een dergelijke externe partij naar een door u toegestemde of gefaciliteerde koppeling tussen uw Rekening en een rekening, betaalmiddel of platform buiten PayPal om, waar u rechtmatig zeggenschap over heeft of waarvan u de eigenaar bent. Wanneer u een dergelijke koppeling autoriseert, wisselen PayPal en de externe partij rechtstreeks uw Persoonsgegevens en andere informatie uit. Voorbeelden van rekeningkoppelingen zijn:
+
+een koppeling van uw Rekening met een account op sociale media of een service voor chatapps;
+
+een koppeling van uw Rekening met een extern bedrijf gericht op data-aggregatie of financiële services, waarbij u de inloggegevens van uw Rekening aan dat bedrijf verstrekt, of
+
+het gebruik van uw Rekening voor betalingen aan een webwinkel of een webwinkel toestaan geld van uw Rekening af te schrijven.
+
+Als u ervoor kiest om een rekeningkoppeling te maken, ontvangen we mogelijk informatie van de derde partij over u en uw gebruik van de service van de betreffende derde partij. Als u uw Rekening bijvoorbeeld koppelt aan een socialemedia-account, ontvangen we via de rekeningkoppeling Persoonsgegevens van het socialemediaplatform. Als u uw Rekening rechtstreeks of via een externe serviceprovider aan andere financiële rekeningen koppelt, hebben we mogelijk toegang tot uw rekeningsaldo en transactiegegevens, zoals aankopen en overschrijvingen. Alle informatie die we via een rekeningkoppeling van derden ontvangen, gebruiken we in overeenstemming met deze Privacyverklaring.
+
+Informatie die we op basis van een rekeningkoppeling delen met derden, wordt conform de privacyprocedures van de derde partij gebruikt en gedeeld. Lees voordat u toestemming geeft voor een rekeningkoppeling eerst de privacyverklaring van derden die u toestemming geeft voor een rekeningkoppeling waarbij toegang tot uw Persoonsgegevens is inbegrepen. De Persoonsgegevens die PayPal bijvoorbeeld deelt met het account of platform van derden, zoals een socialemedia-account, kunnen weer worden gedeeld met bepaalde andere partijen, inclusief het algemene publiek, afhankelijk van de privacyprocedures van het account of platform.
+
+7. Internationale overschrijvingen
+
+Onze bedrijfsactiviteiten worden ondersteund door een netwerk van computers, cloudservers en andere infrastructurele en informatietechnologie, waaronder, maar niet beperkt tot externe serviceproviders.
+
+De hierboven genoemde partijen kunnen gevestigd zijn in andere rechtsgebieden dan die van u en buiten de Europese Economische Ruimte en Zwitserland. Deze landen bieden niet altijd een gelijkwaardig privacybeschermingsniveau. We hebben concrete stappen genomen om uw Persoonsgegevens te beschermen conform de EER-wetgeving inzake gegevensbescherming. Voor de overdracht van uw Persoonsgegevens binnen de aan PayPal-gerelateerde bedrijven in het bijzonder, vertrouwen we op bindende bedrijfsregels die zijn goedgekeurd door bevoegde Toezichthoudende autoriteiten (hier beschikbaar). Andere overdrachten kunnen gebaseerd zijn op contractuele bescherming. Neem contact met ons op voor meer informatie over dit onderwerp.
+
+Indien u transacties doet met partijen buiten de Europese Economische Ruimte of Zwitserland, of onze Service koppelt aan platforms zoals sociale media buiten de Europese Economische Ruimte of Zwitserland, zijn we verplicht om uw Persoonsgegevens aan deze partijen over te dragen om de gevraagde Service aan u te kunnen leveren.
+
+8. Hoe gebruiken we cookies en trackingtechnologieën?
+
+Wanneer u onze Sites bezoekt, onze Services gebruikt of een website bezoekt van derden waarvoor we online services verzorgen, kunnen wij en onze zakelijke partners en leveranciers cookies en andere trackingtechnologieën (gezamenlijk 'Cookies' genoemd) gebruiken om u als Gebruiker te herkennen en uw online ervaringen, gebruikte Services en andere online inhoud en advertenties aan te passen. Ook gebruiken we cookies om de effectiviteit van aanbiedingen te meten en analyses uit te voeren, om risico's te beperken, mogelijke fraude te voorkomen en het vertrouwen in de veilige werking van onze Sites en Services te bevorderen. Bepaalde onderdelen en functionaliteit van onze Services en Sites zijn alleen beschikbaar via het gebruik van Cookies. Als u ervoor kiest om Cookies uit te schakelen, kan het gebruik van de Sites en Services beperkt of zelfs onmogelijk zijn.
+
+Do Not Track (DNT) is een optionele instelling in browsers waarmee u kunt aangeven of adverteerders en andere derde partijen u al dan niet mogen volgen. We reageren niet op DNT-signalen.
+
+Lees ons Overzicht van cookies en trackingtechnologieën voor meer informatie over hoe we cookies gebruiken.
+
+9. Welke privacykeuzes heeft u?
+
+U heeft keuzes als het gaat om de privacyprocedures en communicatie zoals beschreven in deze Privacyverklaring. Veel van uw keuzes worden mogelijk uitgelegd op het moment dat u zich aanmeldt voor een Service of deze gebruikt, dan wel in de context van uw gebruik van een Site. Bij de navigatie door de Services krijgt u mogelijk toepasbare instructies en aanwijzingen te zien.
+
+Keuzes met betrekking tot de Persoonsgegevens die we verzamelen Persoonsgegevens. U kunt weigeren om Persoonsgegevens te verstrekken wanneer hierom wordt gevraagd door PayPal, maar dan zijn bepaalde of alle Services niet beschikbaar voor u. Locatie en andere gegevens op apparaatniveau. Het apparaat dat u gebruikt voor toegang tot de Sites of Services kan informatie over u verzamelen, waaronder Geografische gegevens en gegevens over het gebruik door de Gebruiker. PayPal kan deze vervolgens verzamelen en gebruiken. Voor informatie over uw mogelijkheid om gegevensverzameling en het gebruik van deze gegevens te beperken, gebruikt u de apparaatinstellingen.
+
+Keuzes met betrekking tot ons gebruik van uw Persoonsgegevens Online volgen en op interesse gebaseerde marketing. We werken samen met partners en externe serviceproviders om u advertenties te tonen met behulp van commerciële cookies en webbakens. U kunt zich afmelden voor commerciële cookies en webbakens van derden. In dat geval krijgt u geen persoonlijke advertenties te zien. Wel blijft u onze advertenties dan zien op de websites van derden. Ga naar Uw online keuzes voor meer informatie over commerciële cookies van derden, op interesse gebaseerde marketing en voor meer informatie over hoe u zich hiervoor kunt afmelden bij bedrijven in deze zelfregulerende sector. Andere personen zoeken en connecties maken. U kunt, indien beschikbaar voor de Service die u gebruikt, aangeven hoe u vanuit uw rekening andere personen wilt zoeken om een connectie aan te gaan.
+
+Keuzes met betrekking tot Rekeningkoppelingen Als u toestemming geeft voor een rekeningkoppeling met een account of platform van derden, zoals een socialemedia-account, kunt u mogelijk aangeven hoe u de koppeling vanuit uw Rekening of het account of platform van derden bij voorkeur wilt beheren. Raadpleeg de privacyverklaring die van toepassing is op het platform van de externe partij voor meer informatie over de keuzes die u heeft.
+
+Keuzes met betrekking tot Cookies Er kunnen opties zijn waarmee u uw cookievoorkeuren kunt beheren. Uw browser of internetapparaat kan u bijvoorbeeld toestaan om bepaalde cookies en andere trackingtechnologieën te verwijderen, uit te schakelen of te blokkeren. Ga voor meer informatie naar AboutCookies.org. U kunt ervoor kiezen om deze opties in te schakelen. Echter, als u dit doet, kan het zijn dat u veel belangrijke functies van een Service of Site niet kunt gebruiken. Mogelijk heeft u bij het gebruik van een Service of bezoek aan onderdelen van een Site een keuze met betrekking tot het gebruik van cookies en andere trackingtechnologieën. U kunt bijvoorbeeld gevraagd worden of u wilt dat de Service of de Site bepaalde dingen over u 'onthoudt'. We gebruiken cookies en andere trackingtechnologieën alleen voor zover u hiervoor toestemming geeft. Ga naar het 'Overzicht van cookies en trackingtechnologieën' voor meer informatie hierover.
+
+Keuzes met betrekking tot uw registratie en Rekeninggegevens Als u een Rekening heeft, is het doorgaans mogelijk om Persoonsgegevens te bekijken en bewerken door in te loggen en de gegevens rechtstreeks bij te werken of door contact met ons op te nemen. Neem contact met ons op als u geen Rekening heeft of als u vragen heeft over uw Rekeninggegevens of andere Persoonsgegevens.
+
+Keuze met betrekking tot Communicatie
+
+Berichten, waarschuwingen en updates van PayPal: Marketing: we kunnen u marketinginhoud sturen over onze Sites, Services, producten, producten die we samen met financiële instellingen aanbieden, evenals de producten en services van onafhankelijke derden en leden van het PayPal-concern. Hiervoor gebruiken we verschillende communicatiekanalen, zoals e-mail, sms, pop-ups, pushberichten en berichtenapps. Volg de aanwijzingen in de marketingcommunicatie die u van ons ontvangt als u zich wilt afmelden voor dergelijke berichten. Als u een Rekening bij ons heeft, kunt u uw communicatievoorkeuren ook aanpassen in uw Rekeninginstellingen. U kunt uw voorkeuren voor pushberichten beheren in de instellingen van uw apparaat. Informatief en overige: we sturen u communicatie waarvan het verplicht of noodzakelijk is om deze naar Gebruikers van onze Services te sturen, berichten met belangrijke informatie en andere communicatie die u bij ons heeft aangevraagd. Voor deze communicatie kunt u zich niet afmelden. Wel kunt u het type media en de indeling waarin u deze berichten ontvangt aanpassen.
+
+
+
+10. Wat zijn uw rechten?
+
+Afhankelijk van de beperkingen zoals uiteengezet in de wetten inzake gegevensbescherming van de Europese Economische Ruimte, heeft u bepaalde rechten met betrekking tot uw Persoonsgegevens. Dit geldt in het bijzonder voor uw rechten van toegang, rectificatie, restrictie, oppositie, uitwissing en gegevensportabiliteit. Neem contact met ons op als u deze rechten wilt uitoefenen. Als u een verzoek wilt doen voor toegang tot alle persoonsgegevens die PayPal van u heeft opgeslagen, moet u een legitimatiebewijs met foto verstrekken om uw identiteit te bevestigen.
+
+Als u een Rekening heeft bij een of meer van onze Services, kunt u over het algemeen uw Persoonsgegevens in de Rekening bekijken en bewerken door in te loggen en de gegevens rechtstreeks bij te werken. We kunnen met uw toestemming geautomatiseerde besluitvorming gebruiken voor beslissingen inzake krediet of indien nodig om een contract aan te gaan of uit te voeren of voor zover toegestaan door de wetgeving van de EU of de betrokken lidstaat.
+
+Neem contact met ons op als u meer informatie nodig heeft over geautomatiseerde besluitvorming.
+
+11. Hoe beschermen we uw Persoonsgegevens?
+
+We gebruiken technische, fysieke en administratieve beveiligingsmaatregelen die speciaal ontworpen zijn om uw Persoonsgegevens redelijkerwijs bescherming te bieden tegen verlies, misbruik, onbevoegde toegang, openbaarmaking en wijzigingen. De beveiligingsmaatregelen bestaan onder andere uit firewalls, gegevenscodering, fysieke toegangscontroles bij onze datacenters en controlemechanismen voor de toegang tot informatie. Daar waar wij zorg dragen voor de beveiliging van onze systemen en Services, bent u verantwoordelijk voor het veiligstellen en handhaven van de privacy van uw wachtwoord(en) en Rekening-/profielregistratiegegevens. Ook dient u ervoor te zorgen dat de Persoonsgegevens die we van u hebben correct en up-to-date zijn. Wij zijn niet verantwoordelijk voor de bescherming van Persoonsgegevens die we met derden delen op basis van een rekeningkoppeling die u heeft geautoriseerd.
+
+12. Kunnen kinderen onze Services gebruiken?
+
+De Sites en Services zijn niet bedoeld voor kinderen onder de 16 jaar. We verzamelen niet bewust informatie, waaronder Persoonsgegevens, van minderjarigen of andere personen die volgens de wet niet in staat zijn om onze Sites en Services te gebruiken. Als we ontdekken dat we Persoonsgegevens hebben verzameld van een kind jonger dan 16 jaar, zullen we deze onmiddellijk verwijderen, tenzij we wettelijk verplicht zijn om dergelijke gegevens te bewaren. Neem contact met ons op als u denkt dat we per ongeluk of onbedoeld informatie hebben verzameld van een kind onder de 16.
+
+13. Wat moet u nog meer weten?
+
+Wijzigingen in deze Privacyverklaring.
+
+We kunnen deze Privacyverklaring van tijd tot tijd wijzigen overeenkomstig eventuele aanpassingen van onze activiteiten, Sites of Services of van toepasselijke wetgeving. De gewijzigde Privacyverklaring wordt van kracht op de gepubliceerde ingangsdatum.
+
+Als de herziene versie een ingrijpende wijziging bevat, krijgt u 30 dagen van tevoren een kennisgeving te zien op de pagina Beleidsaanpassingen van onze website. We kunnen gebruikers ook via e-mail of op een andere manier op de hoogte stellen van de wijziging.
+
+14. Contact met ons opnemen
+
+U kunt contact met ons opnemen als u algemene vragen of bedenkingen heeft over deze Privacyverklaring en de aanvullende mededelingen of over de manier waarop we met uw Persoonsgegevens omgaan.
+
+We willen ervoor zorgen dat uw vragen op de juiste plaats terechtkomen:
+
+Klik hier om contact met ons op te nemen over uw PayPal-rekening of -transacties, of over een kaartbetaling die aan een webwinkel is gedaan.
+
+Klik hier om contact met ons op te nemen over uw Xoom-account
+
+Als u niet tevreden bent over de manier waarop we met uw bedenkingen omgaan, heeft u het recht om een klacht in te dienen bij de Toezichthouder voor gegevensbescherming in uw land.
+
+U kunt contact opnemen met onze Functionaris voor gegevensbescherming via dpo@paypal.com of PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxemburg.
+
+15. Definities
+
+Rekening : een PayPal-rekening of Xoom-ledenrekening.
+
+Verwerkingsverantwoordelijke : geeft aan dat PayPal het doel en de middelen voor de verwerking van Persoonsgegevens bepaalt.
+
+Apparaatgegevens : dit zijn gegevens die automatisch kunnen worden verzameld vanaf alle apparaten die worden gebruikt voor toegang tot de Site of Services. Deze informatie kan bestaan uit, maar is niet beperkt tot, het apparaattype; de netwerkverbindingen van uw apparaat; de naam van uw apparaat; het IP-adres van uw apparaat; informatie over de webbrowser van uw apparaat en de internetverbinding die u gebruikt voor toegang tot de Site of Services; Geografische informatie; informatie over apps die op uw apparaat zijn gedownload en biometrische gegevens.
+
+Geografische informatie : dit betreft informatie waarmee uw locatie redelijk specifiek kan worden geïdentificeerd met behulp van bijvoorbeeld lengte- en breedtegraadcoördinaten die door middel van gps, wifi of mobiele triangulatie zijn verkregen.
+
+PayPal : PayPal (Europe) S.a.r.l. et Cie, S.C.A. en dochterondernemingen of partners. In deze Privacyverklaring wordt, afhankelijk van de context, soms aan PayPal gerefereerd als 'we', 'wij', 'ons' of 'onze'.
+
+Persoonsgegevens : dit zijn gegevens die gekoppeld kunnen worden aan een geïdentificeerde of direct dan wel indirect identificeerbare natuurlijke persoon. 'Persoonsgegevens' bestaan uit, maar zijn niet beperkt tot, naam, adres (inclusief factuur- en verzendadressen), telefoonnummer, e-mailadres, betaalkaartnummer, andere gegevens van de financiële rekening, rekeningnummer, geboortedatum, door de overheid verstrekte referenties (bijv. een rijbewijsnummer, identiteitsbewijs, paspoortnummer).
+
+Verwerken : elke manier waarop we, al dan niet langs geautomatiseerde weg, omgaan met Persoonsgegevens of verzamelingen van Persoonsgegevens, zoals het verzamelen, vastleggen, organiseren, structureren, opslaan, bijwerken, wijzigen, opvragen, raadplegen, verstrekken via doorgifte, verspreiden of anderszins beschikbaar maken, samenbrengen, met elkaar in verband brengen, beperken, wissen of vernietigen van Persoonsgegevens.
+
+Services : verwijst naar alle producten, services, inhoud, functionaliteit, technologieën of functies en alle gerelateerde websites, toepassingen en services die door PayPal aan u worden aangeboden.
+
+Sites : verwijst naar de websites, mobiele apps, officiële platforms voor sociale media of andere online onderdelen waarmee PayPal u de Services aanbiedt en waarop (een koppeling naar) deze Privacyverklaring beschikbaar is.
+
+Technische gebruiksgegevens : de informatie die we verzamelen van uw telefoon, computer of andere apparaten waarmee u toegang tot de Sites of Services verkrijgt. Technische gebruiksgegevens geven ons inzicht in de wijze waarop u de Sites en Services gebruikt, zoals wat u heeft gezocht en bekeken op de Sites en de manier waarop u onze Services gebruikt, inclusief uw IP-adres, statistieken over hoe de pagina's worden geladen of weergegeven, de websites die u heeft bezocht voordat u naar de Sites navigeerde en andere gebruiks- en browsergegevens die met behulp van Cookies zijn verzameld.
+
+Gebruiker: een persoon die de Services gebruikt of toegang heeft tot de Sites.
+
+16. Aanvullende informatie
+
+Afhankelijk van uw regio of de manier waarop u de Services gebruikt, geldt de informatie in deze paragraaf mogelijk alleen voor specifieke klanten. PayPal ontvangt deze informatie van derden met wie u mogelijk contact heeft wanneer u de Services gebruikt.
+
+Kennisgeving met betrekking tot bankregelgeving voor klanten in de Europese Economische Ruimte (EER)
+
+Google ReCaptcha
+
+Kennisgeving met betrekking tot bankregelgeving voor klanten in de Europese Economische Ruimte (EER)
+
+De wetgeving van Luxemburg, waaraan de verwerking en aanpak van de gebruikersgegevens van PayPal onderhevig is (gegevensbescherming en bankgeheim), vereist meer transparantie dan de meeste andere EU-wetgevingen. Daarom vermeldt PayPal, anders dan de overgrote meerderheid van aanbieders van internetservices of financiële services in de EU, in haar Privacyverklaring aan welke externe aanbieders van services en zakelijke partners de gebruikersgegevens openbaar worden gemaakt, plus de reden van de openbaarmaking en het type gegevens dat openbaar wordt gemaakt. Klik hier voor een overzicht van deze derde partijen. Door deze Privacyverklaring te accepteren en een Rekening bij PayPal aan te houden, geeft u ook uitdrukkelijk toestemming dat uw gegevens voor de vermelde doeleinden mogen worden overgedragen aan deze derde partijen.
+
+PayPal kan de hierboven genoemde lijst met derden elk kwartaal bijwerken (op 1 januari, 1 april, 1 juli en 1 oktober). Nadat de nieuwe lijst openbaar is gemaakt via deze Privacyverklaring, zal PayPal nog 30 dagen wachten voordat de nieuwe derde partijen, doeleinden of gegevenstypen in de bijgewerkte lijst worden betrokken bij de overdracht van gegevens. U dient de lijst elk kwartaal op de hierboven vermelde datums te controleren op de PayPal-website. Als u niet binnen 30 dagen na de publicatie van de bijgewerkte lijst met derden bezwaar maakt tegen de nieuwe openbaarmaking van gegevens, gaan we ervan uit dat u de wijzigingen in de lijst en in deze Privacyverklaring heeft geaccepteerd. Als u niet akkoord gaat met de wijzigingen, kunt u uw rekening opheffen en het gebruik van onze services stopzetten.
+
+Het kan voor de levering van de PayPal-services noodzakelijk zijn om bepaalde gegevens die we verzamelen (zoals beschreven in deze Privacyverklaring) over te dragen aan andere aan PayPal gerelateerde bedrijven of andere entiteiten, met inbegrip van die entiteiten die in deze paragraaf worden genoemd in hun hoedanigheid van aanbieders van betaalservices, betalingsverwerkers of rekeninghouders (of vergelijkbare hoedanigheden). U erkent dat volgens hun plaatselijke wetgeving, dergelijke entiteiten mogelijk onderworpen zijn aan wetten, regelgeving, onderzoeken of verordeningen waarvoor de openbaarmaking van gegevens aan de desbetreffende autoriteiten in het desbetreffende land vereist is. Uw gebruik van de PayPal-services vormt uw toestemming voor het overdragen van dergelijke informatie om u de PayPal-services te bieden.
+
+In het bijzonder gaat u ermee akkoord en geeft u PayPal opdracht een of meer van de volgende handelingen uit te voeren met uw gegevens:
+
+De noodzakelijke gegevens openbaar maken aan: politie en justitie, veiligheidsdiensten, bevoegde instanties op nationaal, internationaal en supranationaal niveau, bevoegde instanties, departementen en regelgevende instanties, zelfregulerende instanties of organisaties (inclusief maar niet beperkt tot de instanties die hier worden genoemd in de paragraaf Instanties van de lijst met externe aanbieders), alsmede andere derden, waaronder bedrijven van de PayPal-groep, (i) waaraan we wettelijk verplicht zijn of het ons toegestaan is gegevens openbaar te maken, conform inclusief maar niet beperkt tot de wetten van Luxemburg van 24 juli 2015 over de Amerikaanse Foreign Account Tax Compliance Act ('FATCA-wetgeving') en 18 december 2015 over de algemene OESO-rapportagestandaard ('CRS-wetgeving'); (ii) waarvan we redenen hebben om te geloven dat het voor ons gepast is om samen te werken bij onderzoeken naar fraude of andere (potentiële) illegale activiteiten, of (iii) om onderzoek te doen naar overtredingen van onze Gebruikersovereenkomst (inclusief, maar niet beperkt tot, uw betaalmethode of kaartuitgevende instantie).
+
+
+
+Als u onder de FATCA- of CRS-wetgeving valt, zijn we verplicht u te informeren welke informatie over u we mogelijk aan verschillende instanties moeten doorgeven. Lees meer over de verplichtingen van PayPal onder de FATCA- en CRS-wetgeving en wat deze verplichtingen voor u kunnen betekenen, alsmede welke informatie we als gevolg hiervan mogelijk moeten verstrekken.
+
+
+
+Wij en andere organisaties, inclusief partijen die PayPal accepteren, kunnen de noodzakelijke informatie (ook afkomstig uit andere landen, en inclusief, maar niet beperkt tot, informatie die door fraudepreventiebedrijven is geconstateerd) tevens delen, inzien en gebruiken, zodat zowel wij als zij tot een goede risicobeoordeling en een goed risicobeheer kunnen komen (inclusief, maar niet beperkt tot, voorkoming van fraude, witwassen en financiering van terroristische activiteiten). U kunt contact met ons opnemen als u aanvullende gegevens van de relevante fraudepreventiebureaus wilt ontvangen. Klik hier voor meer informatie over deze organisaties, fraudepreventiebedrijven en andere derden. Rekeninggegevens verstrekken aan eigenaars van het intellectuele-eigendomsrecht als ze onder de toepasselijke nationale wetten van een EU-land een claim jegens PayPal hebben voor een buitengerechtelijke openbaarmaking van informatie als gevolg van een inbreuk op hun intellectuele eigendomsrechten waarvoor PayPal-services zijn gebruikt (bijvoorbeeld, maar zonder beperking, sectie 19, paragraaf 2, subparagraaf 3 van de Duitse Handelsmerkenwet of sectie 101, paragraaf 2, subparagraaf 3 van de Duitse Auteurswet). De noodzakelijke gegevens openbaar maken als reactie op vereisten van creditcardmaatschappijen of een civiel- of strafrechtelijk proces. Maak uw naam en uw PayPal-link bekend in de lijst met gebruikersaccounts van PayPal. Uw gegevens worden bevestigd aan andere PayPal-gebruikers als een gebruiker een zoekopdracht uitvoert aan de hand van uw bedrijfsnaam, e-mailadres of telefoonnummer, of een deel van deze gegevens. Op deze manier wordt ervoor gezorgd dat mensen de juiste gebruiker betalen. Deze functie kan worden uitgeschakeld in de instellingen van uw PayPal-profiel. Als u als webwinkel een derde partij gebruikt voor de toegang tot of integratie met PayPal, kunnen we aan een dergelijke partner de noodzakelijke informatie openbaar maken met als doel een dergelijke regeling mogelijk te maken en in stand te houden (inclusief, maar niet beperkt tot, de status van uw PayPal-integratie, of u in het bezit bent van een actieve PayPal-rekening en mogelijk al samenwerkt met een andere PayPal-integratiepartner). De noodzakelijke gegevens openbaar maken aan de betalingsverwerkers, accountants, aanbieders van klantenservice, bureaus voor kredietinformatie en fraudepreventie, aanbieders van financiële producten, commerciële partners, marketing- en pr-bedrijven, aanbieders van operationele diensten, groepsbedrijven, bureaus, marketplaces en andere derde partijen die hier zijn vermeld. Het doel van deze openbaarmaking is om het voor ons mogelijk te maken de PayPal-services aan u te leveren. In de lijst van derde partijen vindt u tevens onder elke Categorie niet-exclusieve voorbeelden van de feitelijke derden (mogelijk inclusief hun vertegenwoordigers en opvolgers) aan wie we op dit moment uw Rekeninggegevens al openbaar maken of aan wie we mogelijk overwegen uw Rekeninggegevens openbaar te maken, samen met het doel van die openbaarmaking en de precieze informatie die we openbaar maken (voor zover niet uitdrukkelijk anders vermeld, kunnen deze derden wettelijk of contractueel de informatie niet voor andere doeleinden gebruiken dan voor de doeleinden waarvoor deze gegevens worden uitgewisseld). De noodzakelijke gegevens openbaar maken aan uw medewerker of wettelijke vertegenwoordiger (zoals een door u aangewezen gevolmachtigde of een aan u toegewezen curator). Cumulatieve statistische gegevens uitwisselen met onze zakelijke partners of voor public relations-doeleinden. Zo kunnen we bijvoorbeeld openbaar maken dat een bepaald percentage van onze gebruikers in Manchester woonachtig is. Deze cumulatieve gegevens zijn echter niet verbonden aan persoonsgegevens. De noodzakelijke Rekeninggegevens delen met onafhankelijke (hier vermelde) derde partijen die zij voor de volgende doeleinden kunnen gebruiken: Fraudepreventie en risicobeheer: om te helpen fraude te voorkomen of risico's te beoordelen en te beheren. Als u de PayPal-services bijvoorbeeld gebruikt om goederen te kopen of te verkopen via eBay Inc. of diens afdelingen ('eBay'), kunnen we Rekeninggegevens met eBay delen om uw rekeningen te helpen beschermen tegen frauduleuze activiteiten, om u te waarschuwen als we dergelijke frauduleuze activiteiten met uw rekeningen detecteren of om kredietrisico's te bepalen.
+
+
+
+Als onderdeel van onze inspanningen op het gebied van fraudepreventie en risicobeheer kunnen we de noodzakelijke Rekeninggegevens ook delen met eBay in gevallen waarin PayPal vastgehouden bedragen of andere beperkingen voor uw rekening heeft ingesteld als gevolg van geschillen, claims, terugvorderingen of andere scenario's met betrekking tot de verkoop of aankoop van goederen. Ook kunnen we als onderdeel van onze inspanningen op het gebied van fraudepreventie en risicobeheer Rekeninggegevens delen met eBay ter ondersteuning van hun evaluatieprogramma's voor kopers en verkopers. Klantenservice: voor doeleinden in het kader van klantenservice, inclusief hulp bij services voor uw rekeningen of het oplossen van geschillen (bijvoorbeeld bij facturering of transacties). Verzending: gerelateerd aan de verzending en bijbehorende services voor aankopen die met PayPal zijn gedaan. Naleving van wetten: om te helpen te voldoen aan de controle-eisen voor het tegengaan van witwaspraktijken en financiering van terroristische activiteiten. Serviceproviders: om serviceproviders die een contract met ons hebben, in staat te stellen te werken in lijn met onze bedrijfsactiviteiten, zoals fraudepreventie, het innen van facturen, marketing, klantenservice en technologieservices. Op grond van onze contracten mogen deze serviceproviders uw gegevens alleen gebruiken in verband met de services die ze voor ons uitvoeren en niet te eigen bate.
+
+Google ReCaptcha
+
+PayPal maakt voor de Sites en Services gebruik van ReCaptcha. Uw gebruik van ReCaptcha is onderhevig aan het Privacybeleid en de Gebruiksvoorwaarden van Google.
+
+ReCaptcha wordt alleen gebruikt ter voorkoming van spam en misbruik.
+
+

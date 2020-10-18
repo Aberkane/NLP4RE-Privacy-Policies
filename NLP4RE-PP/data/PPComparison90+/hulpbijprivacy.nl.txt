@@ -1,0 +1,16 @@
+Title: Privacy gaat iedereen wat aan
+URL: https://hulpbijprivacy.nl/
+Date of publishing: None
+Keywords: te, om, het, logfiles, aan, gaat, piwik, wat, privacy, voor, worden, iedereen, en, van, heeft
+Policy: 
+Privacyverklaring
+
+De Autoriteit Persoonsgegevens gebruikt het statistiekenprogramma Piwik om te analyseren hoe vaak deze website wordt bezocht. Hiertoe verzamelen wij, net als elke website, IP-adressen van onze bezoekers. Het doel hiervan is het waarborgen van de dienstverlening. Meer specifiek wordt het IP-adres gebruikt voor troubleshooting, debugging, het waarborgen van connectiviteit en bereikbaarheid en voor bescherming tegen DDos-aanvallen om de dienstverlening te kunnen waarborgen.
+
+De IP-adressen worden opgeslagen in zogeheten logfiles. De logfiles worden 5 dagen op de webserver bewaard zodat ze beschikbaar zijn voor Piwik. Daarna blijven de logfiles 90 dagen bewaard voor uitsluitend beveiligingsredenen en worden ze ook alleen daarvoor bekeken. De Autoriteit Persoonsgegevens heeft maatregelen getroffen om de herleidbaarheid van bezoekers aan onze website zo veel mogelijk te beperken. Dit doen we door onmiddellijk na het importeren van de logfiles in Piwik de laatste 2 octetten (cijfergroepen) van elk IP-adres weg te gooien. Dit gebeurt in een tijdelijk geheugen, voordat de IP-adressen in Piwik worden opgeslagen.
+
+Wij verstrekken geen persoonsgegevens aan derden, tenzij dat noodzakelijk is om aangifte te doen van strafbare feiten.
+
+U heeft het recht om de gegevens die wij over u bewaren in te zien, te laten verbeteren en te laten verwijderen. Ook kunt u in bepaalde gevallen een verwerking laten ‘bevriezen’ en bezwaar maken tegen een verwerking. Heeft u toestemming gegeven voor bepaalde verwerkingen, dan kunt u die altijd makkelijk intrekken. Tot slot heeft u het recht om een klacht bij ons in te dienen.
+
+

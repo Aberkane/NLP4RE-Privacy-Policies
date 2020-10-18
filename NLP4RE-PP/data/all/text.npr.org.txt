@@ -1,0 +1,249 @@
+Title: Text-Only NPR.org : NPR Privacy Notice for EU Residents
+URL: https://text.npr.org/s.php?sid=609131973#cookiepolicy
+Date of publishing: None
+Keywords: notice, eu, personal, processing, npr, user, privacy, data, services, textonly, residents, email, analytics, information, nprorg
+
+Policy: Text-Only NPR.org (go to full version)
+
+Home
+
+NPR Privacy Notice for EU Residents
+
+NPR.org, May 15, 2018 · National Public Radio, Inc. ("NPR," "we" or "us") owns, operates, or provides access to NPR.org and NPR's mobile applications, email newsletters, and other sites, digital platforms and interactive services ("Services"). This Privacy Notice for EU Residents ("Notice") applies only to the Services and does not govern the separate websites, applications, newsletters, platforms and services of NPR Member stations or of any third parties that may link to or be linked to from the Services. This Privacy Notice governs our privacy practices in handling the information we collect about individuals in the EU who use our Services ("you" or "your"). Terms that are not defined in this Notice have the same definitions as in NPR's Terms of Use. NPR processes personal data under this Privacy Notice as a data controller. The Contact Details of NPR are listed at the end of this Notice. This Notice may be changed if there is a change in the way NPR processes personal data or if there is a change in applicable law. We will notify users of changes that are deemed material under applicable law by updating the date of this Notice and providing other information as required.
+
+Last modified: May 15, 2018.
+
+'Personal data' means any information relating to an identified or identifiable natural person ('data subject'). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+Categories of Data Obtained Directly from You
+
+NPR obtains personal data from you including your name, email address, postal address, telephone number, and payment card information. We collect this information when you:
+
+Register for an NPR account, application programming interface (API) content access, or any NPR email newsletter.
+
+Email, text or otherwise share a story from any of the Services.
+
+Contact us for information or ask a question.
+
+Make a donation to NPR or a Member station or express interest in or request information about making donations.
+
+Post, upload, or otherwise submit a comment, story idea, essay, photo, or other content ("User Materials") to NPR.
+
+Register for an NPR tour or event or any contest we sponsor.
+
+Apply for a job, internship or fellowship at NPR
+
+Otherwise volunteer information to us or respond to a request for information through any of our Services.
+
+If you choose to participate in a survey, we may ask you to provide your date of birth, gender, education level, information about your employment, income level and other information.
+
+Information Obtained Automatically Through Technology
+
+You can find our Statement Regarding Cookies and Other Tracking Technologies here.
+
+Depending on which Services you use and how you access them, the information collected automatically through technology, such as access logs, cookies, pixels and other tracking technologies, may include:
+
+Internet Protocol Address (IP address)
+
+The domain name of your Internet Service Provider
+
+The website, application, platform or service you visited before and after visiting our Services.
+
+Information about your computer or mobile device, and their browser, operating system, settings and software.
+
+Unique device identifiers on your mobile device, including as applicable the Apple or Google advertising identifiers.
+
+Your approximate geographic location (derived from requested header information, such as your IP address) and/or more precise location information if you have given NPR consent to receive this information for an NPR application on your mobile device.
+
+The dates, times, duration and frequency of your interactions with our Services, search terms, the media files you download, interact with or share, favorites you select, and your navigation path through our Services.
+
+Listening data, including information about your interactions with NPR podcasts and other media files, such as time and date stamps for when a file is downloaded and when playback of a particular segment or sponsorship message starts, stops, is skipped or paused.
+
+Information about your interactions with our email messages.
+
+Any errors you encountered during your use of the Services.
+
+If you sign in to the Services from a social networking service ("SNS"), we receive your email address and certain profile information from such SNS in accordance with its privacy policy and your SNS account privacy settings.
+
+Information Not Obtained Directly From You
+
+The Services use third-party analytics, cookie data collection and linking services (collectively "Analytics Services"), including Google Universal Analytics, Google Analytics Demographics and Interest Reporting and DoubleClick for Publishers. These Analytics Services may use cookies, pixel tags, and other tracking and storage technologies to collect or receive information (not including your name or the email address you register with NPR) from the Services and elsewhere on the Internet and use that information to analyze and measure NPR's audience and target and evaluate the effectiveness of sponsorship credits. For example, NPR and Analytics Services may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve sponsorship messages based on your past interactions with our Services and other websites or services. In addition, we may use analytics data, including but not limited to, geographic, demographic, and interest reporting information to recognize and understand user preferences, make improvements, and for other operational purposes.
+
+Purposes for Processing of Personal Data
+
+NPR processes your data in order to:
+
+Manage, administer, promote, analyze and improve the Services and our communications, including measuring and analyzing user traffic and usage patterns.
+
+Respond to your questions or messages and fulfill your requests for services.
+
+Customize the content you see and hear on our Services, including offering content from NPR Member stations associated with your account or located near you and offering other content that may be of interest to you.
+
+Customize the sponsorship messages you see and hear on our Services and on third-party services you may use or visit.
+
+Publish, broadcast or otherwise use User Materials.
+
+Offer you access to NPR tours and events.
+
+Process applications for jobs, internships, fellowships and other positions at NPR.
+
+Manage contests, contact you for an online survey, or for editorial purposes.
+
+Recognize you as a returning user as you access our Services using different computers, devices and browsers and to save and "remember" your registration information, settings and preferences for later visits.
+
+Send you email newsletters and marketing, fundraising, membership and other communications from NPR and our Member stations.
+
+To understand whether and when you read our email messages and click on links in those messages.
+
+Analyze personal preferences or interests to provide personalized content and messages from NPR and NPR sponsors and to control the sequence and frequency of those messages.
+
+Generate aggregate or other information that does not directly identify you as an individual or the devices you use to access our Services, and use and share that information for NPR's purposes.
+
+To prevent potentially prohibited or illegal activities, comply with applicable laws, and enforce our Terms of Use and other legal rights.
+
+We also may use the information collected from you in other ways, and for other purposes, that are described to you at the point of collection or for which we otherwise have obtained your consent.
+
+Sharing Your Personal Data
+
+NPR may share your personal data with the following categories of recipients:
+
+Member stations, for their internal purposes and to send you email newsletters and marketing, fundraising, membership and other communications, and for other purposes disclosed at the point of collection or for which we otherwise have obtained your consent.
+
+NPR's authorized service providers to provide services on our behalf.
+
+NPR's authorized third-party applications to provide certain Services to you on the third-party applications.
+
+NPR's analytics partners such as Google Universal Analytics, Google Analytics Demographics and Interest Reporting, DoubleClick for Publishers and others.
+
+If we sell a Service or in the unlikely event of bankruptcy.
+
+Podcast producers.
+
+With public authorities when required by law, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with legal or regulatory obligations.
+
+With other parties when necessary to enforce our Terms of Use, to protect the vital interests of our users or other natural persons, NPR, Member stations, and their sponsors, or when required by law.
+
+With persons we contact on your behalf when you choose to email, text, or otherwise share a story or other content through the Services.
+
+With social networking services, if you choose to share stories or other content with your friends and followers on the social networking service.
+
+With other parties if the information is anonymous and aggregate.
+
+With other parties if we have disclosed such sharing to you at the time of collection of the information or if we otherwise have your consent.
+
+Lawful Basis for the Processing of Personal Data
+
+NPR is required to demonstrate a lawful basis for the processing of personal data. NPR relies on legitimate interest to process data for the following purposes:
+
+Data analytics
+
+Managing user accounts
+
+Operating, modifying and improving the Services
+
+Identifying usage trends
+
+Customizing content and user experience
+
+Web hosting
+
+Direct marketing
+
+Fraud prevention
+
+Network and information systems security
+
+To determine the effectiveness of promotional campaigns and sponsorship messaging
+
+To serve promotional and sponsorship messages based on user behavior and preferences.
+
+Responding to user questions and requests for information
+
+Comply with laws and regulations and enforce NPR's Terms of Use and other legal rights.
+
+Consent: We process personal data based on your consent to send personalized messages from NPR and NPR's sponsors (interest based messages or sponsorship), to collect precise location information and to send promotional emails. If you do not consent to the processing, you may still view NPR content on https://text.npr.org but you will not be able to access all of our Services. If you do grant consent, you can withdraw your consent at any time by visiting choice.npr.org, unsubscribing from emails and as described in "Your Rights" below. Please note that all processing of your personal data will cease once you have withdrawn consent but this will not affect any personal data that has already been processed.
+
+Retention
+
+Your personal data is retained no longer than is reasonably necessary to perform the processing described in this Notice and in case of any legal claims or complaints, or as required by law.
+
+Your Rights
+
+Subject to exemptions under applicable law (which may include, depending on the circumstances, U.S. law protecting the rights to free speech and free press or EU law protecting the rights to freedom of expression or information, including processing for journalistic purposes), you have the following rights with respect to your personal data:
+
+To request a copy of your personal data which NPR holds;
+
+To request that NPR provide you access to and/or rectify personal data that is inaccurate or out of date;
+
+To request erasure of your personal data where it is no longer necessary for NPR to retain it;
+
+If you have consented to processing, the right to withdraw consent at any time;
+
+To request that the data controller provide you with your personal data and where possible, to transmit that data directly to another data controller, where applicable. This right of portability only applies where the processing is based on consent or is necessary for the performance of a contract and if NPR processes the data by automated means;
+
+To request a restriction on further processing where applicable;
+
+The right to object to processing if the processing is based on legitimate interest, is for direct marketing, or is for scientific/historical research and statistics;
+
+To lodge a complaint with a supervisory authority.
+
+You may exercise these rights by contacting NPR at privacy @npr.org, providing the email address you used to register with NPR, and stating your specific request in writing. NPR reserves the right to verify your identity and confirm your right to the information. The following options are also available:
+
+For information on opt-out tools for sponsorship messages click here.
+
+To withdraw consent for collection of precise device location, you may access the privacy settings of your mobile device and/or the settings of the NPR mobile application.
+
+To withdraw consent to marketing emails or email newsletters, click the "unsubscribe" link on the email. You may also change your newsletter preferences by signing into your account or by contacting us. However, even if you opt out of receiving such communications, we retain the right to send you non-marketing communications (such as information about changes to our Terms of Use or this Notice).
+
+To cancel your NPR account, or correct or update your registration information, you may sign in to your account or contact us using the information below.
+
+To prevent your data from being used by Google Analytics, click here for the Google Universal Analytics opt-out browser add-on: https://tools.google.com/dlpage/gaoptout. To learn more about how Google uses data, visit www.google.com/policies/privacy/partners/.
+
+Transfer of Data Abroad
+
+Because NPR operates the Services from the US, your personal data may be transferred to the US and/or to countries or territories outside the EEA or Switzerland not recognized by the European Commission as ensuring an adequate level of protection pursuant to the GDPR. Where required, data transfers will be made subject to the terms of the applicable EU Standard Contractual Clauses or with your consent. NPR will take all steps reasonably necessary to ensure that personal data is treated securely and in accordance with this Privacy Notice in respect of such transfer.
+
+Security
+
+NPR employs physical, technical and organizational safeguards to ensure an appropriate level of security for personal data, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and security for the rights and freedoms of natural persons,
+
+Automated Decision Making and Analysis
+
+NPR and its data analytics and sponsorship vendors analyze user interactions with the Services to deliver personalized content to users and to serve personalized sponsorship messages. This includes tracking user preferences with respect to listening data, websites visited, Member station chosen, and search terms in order to derive a user's interests and preferences. The consequences of such processing for the data subject are that the data subject receives content that may be of interest to him or her, as well as email, online and in-app messages from NPR and NPR's sponsors that are geared towards the interests and preferences of the data subject.
+
+Age Limits
+
+You must be at least 18 years of age to submit any User Materials or Personal Data on or through the Services, create a public profile, or participate in any online contests. If your child is under age 16 and has provided personal data to the Services, please contact us at privacy@npr.org for deletion of the data.
+
+Further Processing
+
+If NPR plans to use personal data for a new purpose, it will update this Notice and communicate the changes to individuals before starting any new processing.
+
+Contact Details
+
+Data Protection Officer
+
+Micah Ratner
+
+NPR
+
+1111 North Capital Street, NE
+
+Washington, DC 20002
+
+privacy@npr.org
+
+Data Controller
+
+National Public Radio, Inc.
+
+1111 North Capital Street, NE
+
+Washington, DC 20002, USA
+
+privacy@npr.org
+
+© NPR
+***************************************************************
+
+

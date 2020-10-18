@@ -1,0 +1,196 @@
+Title: Privacy Policy
+URL: https://www.commvault.com/privacy-policy
+Date of publishing: None
+Keywords: policy, protection, business, contact, data, personal, shield, provide, privacy, information, commvault
+Policy: 
+Commvault Privacy Policy
+
+Effective Date: July 9, 2020
+
+Commvault Systems, Inc. and all its entities, subsidiaries, branches, representative offices, affiliates and other Commvault group companies (“Commvault” or “we”) respect your privacy.
+
+This Privacy Policy provides information for our customers, partners, suppliers and other individuals and organisations that we may have a business relationship with about how we collect, use and share personal information.
+
+Data Controller
+
+Commvault Systems, Inc. is headquartered in Tinton Falls, New Jersey, United States but we have offices around the world. To comply with applicable data protection laws, Commvault has implemented a global data protection program based on requirements set forth by the EU General Data Protection Regulation 2016/679 (“GDPR”). Where required, we comply with other applicable data protection laws.
+
+With regards to the General Data Protection Regulation and other applicable data protection laws the Commvault entity that is the data controller of your personal data will depend on the situation in which the data has been collected.
+
+The EU representative and the main establishment for all our EU affiliates for purposes of compliance with the GDPR is:
+
+Commvault Systems International BV
+
+Papendorpseweg 99, 3528 BJ Utrecht, Netherlands
+
+The personal data that we collect and our basis for processing
+
+Personal data is any information that can be used to directly or indirectly identify an individual, and may include your name, address, email address, phone number, contact preferences, electronic identifiers, IP address and other.
+
+Commvault will use your personal data based on:
+
+Our legitimate business interests : For example, in connection with direct marketing or service improvement. Where we rely on this basis, we carry out a legitimate business assessment to ensure that our business interests do not override your rights. In some cases, you may have the right to object to this use of your personal information. For more information please read the ‘Your Rights’ section of this Privacy Policy.
+
+: For example, in connection with direct marketing or service improvement. Where we rely on this basis, we carry out a legitimate business assessment to ensure that our business interests do not override your rights. In some cases, you may have the right to object to this use of your personal information. For more information please read the ‘Your Rights’ section of this Privacy Policy. Contract : Where it is necessary in connection with a product or service, we are providing to you. For example, we may process personal information to establish a contract for goods or services between you and Commvault, or to send you invoices for ordered goods or services.
+
+: Where it is necessary in connection with a product or service, we are providing to you. For example, we may process personal information to establish a contract for goods or services between you and Commvault, or to send you invoices for ordered goods or services. Legal obligation : Where it is reasonably necessary for compliance with a legal obligation to which we are subject to e.g. tax laws, export control compliance or to exercise or defend the legal rights.
+
+: Where it is reasonably necessary for compliance with a legal obligation to which we are subject to e.g. tax laws, export control compliance or to exercise or defend the legal rights. Consent: If we are not relying on another basis for processing your personal information, we will seek your consent prior to any use of your personal data. A clear request for your consent will be presented to you and you will have the ability to withdraw your consent at any time.
+
+Except for certain information that is required by law or by Commvault’s policies, your decision to provide any personal data to us is voluntary. You will therefore not be subject to adverse consequences if you do not wish to provide us with your personal data. However, please note that if you do not provide certain information, we may not be able to accomplish some or all of the purposes outlined in this Privacy Policy, and you may not be able to use certain services or which require the use of such personal data.
+
+We collect personal data of our employees, potential employees, clients, suppliers, business partners, shareholders, customers and product/service/website users. If the data we collect is not listed in this Privacy Policy, we will give individuals (when required by law) appropriate notice of which other data will be collected and how they will be used.
+
+We may collect personal data directly from you (e.g. when you interact with us) or indirectly (e.g. from our business partners and/or commercially available third-party sources).
+
+The personal data categories we collect can include the following:
+
+Identification data : name and business contact details (such as email address, mailing address, contact phone number, position, company)
+
+: name and business contact details (such as email address, mailing address, contact phone number, position, company) Transaction data : such as bank account credit or debit card details and related personal data necessary for us to make and receive payments
+
+: such as bank account credit or debit card details and related personal data necessary for us to make and receive payments Your interactions with us : other information you choose to provide, such as when you submit a recruitment application, inquiry or complaint, seek customer support, respond to a survey , enter a contest or promotion, contact our representatives or content of social media messages, posts, likes and responses to and about Commvault
+
+: other information you choose to provide, such as when you submit a recruitment application, inquiry or complaint, seek customer support, respond to a survey , enter a contest or promotion, contact our representatives or content of social media messages, posts, likes and responses to and about Commvault Online behaviour and preferences data : information collected via cookies and other tracking technologies such as IP address, device identifier, location data, browser type and language, access times, other unique identifiers and other technical data that may uniquely identify your device, system or browser, as well as credentials such as your passwords, account history, password hints, and similar security information used for authentication.
+
+: information collected via cookies and other tracking technologies such as IP address, device identifier, location data, browser type and language, access times, other unique identifiers and other technical data that may uniquely identify your device, system or browser, as well as credentials such as your passwords, account history, password hints, and similar security information used for authentication. Demographic information: such as your age, gender, country, interests, and preferences, including preferences related to marketing and communications
+
+such as your age, gender, country, interests, and preferences, including preferences related to marketing and communications Audio-visual data: where applicable and legally permissible, we process CCTV footage of our office areas or recordings of phone or video calls or chats with us (e.g. during customer support interactions)
+
+Our products and services are not directed at children.
+
+How we use personal information
+
+We may use your personal data to operate our business, provide our solutions and for other legitimate purposes permitted by law. Some of the ways we may use your information are illustrated below:
+
+To personalize the look and feel of our websites that you visit, to match personal preferences that we have inferred from your use of the website and to provide you with the appropriate local version of the website (see the “Cookies” section for more information). For example, we may use web log information, cookies or web beacons in ways that help us maintain some of your site preferences. You may choose whether or not to allow cookies or web beacons to track your browser preferences. To find out more about cookies, please read the Cookies section of this Privacy Policy.
+
+To communicate with you regarding our products and services;
+
+To provide, maintain and enhance our products and services;
+
+To fulfill a contract, or take steps linked to a contract, with you or your organisation;
+
+To provide you with technical support, troubleshooting or other similar services;
+
+To process payments, billing and collection;
+
+To manage customer and partner relations;
+
+To manage our suppliers;
+
+To sell and market our products and services including conducting marketing campaigns, to provide you with a newsletter subscription, to plan and host events, online forums or webinars;
+
+To provide customer support;
+
+To carry out business analytics. For example we may process information in the email header of business emails sent and received by us (including the names of recipient and sender, date and time of the email) for the purposes of evaluating our existing or prospective business relationship;
+
+To listen to a call recording for training, quality control or process improvement purposes;
+
+To manage access to our premises and for physical security purpose;
+
+To detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity;
+
+For internal purposes such as auditing, analysis, and research to improve our products or services;
+
+To comply with and enforce applicable legal requirements (e.g. maintaining records, tax law, immigration law, compliance checks, anti money laundering, trade sanctions, whistleblowing, complying with data subject requests etc.), relevant industry standards and Commvault’s policies; and
+
+To recruit and manage employment relationship (for specific information regarding employment please refer to our Privacy Charter)
+
+Providing information to others
+
+We may need to share information about you:
+
+With other companies in the Commvault group, our partners, suppliers or agents who perform services on our behalf, such as processing of orders, providing customer support or providing advertising on the website;
+
+In response to a request for information from a competent authority if we believe disclosure is in accordance with, or is otherwise required by any applicable law, regulation or legal process with law enforcement bodies or other third parties as necessary to comply with the law, including to meet national security or law enforcement requirements;
+
+If we decide to re-organise or sell our global businesses we may need to disclose your personal information in the course of this activity to prospective purchasers; or
+
+If we otherwise notify you of the disclosure and you consent to it.
+
+International data transfers
+
+To offer you the best possible products and services and remain competitive in our business, we may transfer data across Commvault’s affiliates in different geographies and locations. Countries may have different laws and data protection compliance requirements, with some providing more protection than others. Commvault will take appropriate steps to ensure your personal data is handled as described in this Privacy Policy. Where required, we comply with applicable legal frameworks relating to the transfer of personal data. For example we only make these transfers, where the EU has made an “adequacy decision” for the country to which the data will be transferred or where we have put in place the “appropriate safeguards” that the law requires such as signing EU Standard Contractual Clauses.
+
+We comply with the EU-US Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland, as applicable, to the United States in reliance on Privacy Shield. Please be mindful that Privacy Shield uses the term “private information” instead of the term “personal data” used in EU.
+
+We have self-certified to the Department of Commerce that we adhere to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+Where we contract with other companies to process personal information on our behalf (“our agents”) we will need to share that personal information with them. We are liable under the EU-U.S. Privacy Shield Principles and the Swiss-U.S. Privacy Shield Principles for our agents to process transferred personal information in a manner consistent with the Privacy Shield Principles.
+
+To learn more about the Privacy Shield program, see the U.S. Department of Commerce’s Privacy Shield website located at https://www.privacyshield.gov. To view our certification please visit https://www.privacyshield.gov.
+
+In compliance with the Privacy Shield Principles, Commvault commits to resolve complaints about our collection or use of your personal information. European Union, United Kingdom and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Commvault’s Global Data Governance Officer at: GDGO@commvault.com
+
+Commvault has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. (For more information, visit https://www.privacyshield.gov/article?id=Privacy-Policy-FAQs-1-5)
+
+Under certain limited circumstances, EU and Swiss individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please visit https://www.privacyshield.gov/
+
+Commvault is subject to the jurisdiction of the Federal Trade Commission for purposes of Privacy Shield enforcement.
+
+Keeping information secure
+
+We employ information security specialists and invest significant resources on technical and operational security measures to help us protect your personal information from loss, misuse, unauthorised access, modification or disclosure. However, we cannot be held responsible for unauthorised or unintended access that is beyond our reasonable control.
+
+Keeping your personal information
+
+We keep records for as long as necessary to provide the relevant product or service, and in accordance with applicable legal, tax and accounting requirements. When your information is no longer required, we will ensure it is destroyed in a secure manner.
+
+Cookies
+
+Our websites use cookies (which includes third-party cookies to support analytics functionality) and other similar technologies to improve the user experience.
+
+You can check and adjust your cookie preferences by clicking the link below.
+
+Your rights
+
+Your local law may provide rights regarding the use of your personal data. Where the GDPR applies to personal data, it gives individuals resident in the EU certain rights that they can exercise free of charge. These include the:
+
+Right to correct your personal information
+
+Right to access your personal data
+
+Right to data portability
+
+Right to object to use of personal data (for example, where we are using it for direct marketing or our lawful basis is our legitimate interest)
+
+Right to restrict the use of your data in some circumstances
+
+Right to erasure in some circumstances
+
+If you would like to assert one or more of these rights, please email or write to us at the address set out in the Contact section of the Privacy Policy. We will respond to your requests within applicable timeframes.
+
+You may also unsubscribe from receiving our email marketing communications at any time by following the “unsubscribe” instructions included in our communication.
+
+Complaints process
+
+If you have a complaint about how we have handled your personal data, you may contact us directly using the details below or you can contact the applicable competent data protection authority.
+
+Updates
+
+We regularly review and update this Policy. If we make a change, we will post the updated version on our site.
+
+Contact
+
+If you have any questions about this Policy, or would like to exercise your rights with respect to your personal information, please contact our Global Data Governance Officer via GDGO@commvault.com via or write to:
+
+For U.S. and all locations other than EEA, UK and Switzerland:
+
+Commvault Systems, Inc.
+
+Attn: Legal Department & Global Data Governance Officer
+
+1 Commvault Way
+
+Tinton Falls, New Jersey 07724, United States.
+
+For EEA, United Kingdom, Switzerland:
+
+Commvault Systems International BV
+
+Attn: Legal Department & Global Data Governance Officer
+
+Papendorpseweg 99, 3528 BJ Utrecht, Netherlands
+
+

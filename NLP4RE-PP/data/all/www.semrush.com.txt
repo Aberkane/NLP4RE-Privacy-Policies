@@ -1,0 +1,54 @@
+Title: Privacy Policy
+URL: https://www.semrush.com/company/legal/privacy-policy/
+Date of publishing: None
+Keywords: policy, mailbox, emails, data, integration, email, tools, account, privacy, received, tool, purposes
+Policy: 
+Mailbox integration means an integration of SEMrush tools with Gmail and/or Microsoft (Outlook, Exchange Online, Office365) accounts (jointly and individually referred to as “Mailbox account”) via API. Some of our tools may ask your permission to integrate your Mailbox account with.
+
+In order to enhance your removal requests or outreach emails experience for your productivity and monitoring purposes you can grant us access to your Mailbox account via API only if you voluntarily decide to give us the permission to integrate our tools with your mail account and to choose which email account you would like to connect with our tools.
+
+Due to this integration:
+
+you will be able to compose, send, read and process outreach email via a tool’s interface;
+
+you will be able to send removal requests regarding backlink(s) which looks unnatural or harmful via a tool’s interface;
+
+we will provide you with the information related to your emails sent via tool’s interface. We will show you if your emails were received, opened, if there any replies to your emails. We will demonstrate you replies to your email via our tool interface.
+
+After the integration we will be able to store in our database in the encrypted way the following information related only to outreach emails sent by you via tool interface:
+
+Initial email’s subject and body text;
+
+Replies email’s subject and body text;
+
+API token;
+
+Thread and message ids;
+
+Recipient(s) and sender of emails;
+
+Metadata: time/day of email sending, delivering, opening, replying, email status.
+
+Notwithstanding anything herein to the contrary, we will use the data received via Mailbox integration only to provide you with the features mentioned above in order to enhance your email experience for productivity purposes and for monitoring purposes. We may also transfer data received via Mailbox integration as necessary to comply with applicable law or as a part of a merger, acquisition, or sale of assets with notice to users. All other transfers or sales of the user data received via Mailbox integration are prohibited.
+
+We will not use the data received via Mailbox integration for any other purposes except providing you with services inside of our tools, specifically we will not use the data received via Mailbox integration for any advertising purposes, including retargeting, personalized or internet-based advertising.
+
+All the data received via Mailbox integration will be processed only at the software level.
+
+We will allow a person to read the data received via Mailbox integration only if:
+
+You first give us affirmative agreement for specific messages;
+
+It is necessary for security purposes (such as investigating a bug or abuse);
+
+It is necessary to comply with applicable law; or
+
+Our use is limited to internal operations and the data received via Mailbox integration (including derivations) have been aggregated and truly anonymized.
+
+You can revoke your permission and access to your Mailbox account at any time by clicking the “bin” icon next to the mailbox mention inside the tool. You can delete all your previous emails available due to the integration by deleting the project in the tool during the revocation process, or sending us the relevant request. As soon as you revoke the access, we will remove your Mailbox token which allowed us to carry out the functions mentioned above and stop monitoring your emails immediately.
+
+For the purposes of this clause the data received via Mailbox integration means the raw data, aggregated data, anonymized data or derived data.
+
+In a case of any conflict between the terms of this clause and terms of the Privacy Policy, the provisions of the clause 3.2.1. Mailbox integrations regarding the data received via Mailbox integration shall prevail.
+
+

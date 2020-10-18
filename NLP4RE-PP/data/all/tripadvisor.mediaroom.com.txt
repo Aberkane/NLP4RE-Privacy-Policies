@@ -1,0 +1,89 @@
+Title: Privacy and Cookie Statement
+URL: https://tripadvisor.mediaroom.com/us-privacy-policy
+Date of publishing: None
+Keywords: website, provide, advertising, including, privacy, cookie, services, access, statement, share, information, help, cookies
+
+Policy: Information Collected When you access or use our Services, we collect information from and about you to provide a more personalized and relevant experience. Some information we collect automatically. Other information we collect from different sources, including affiliated entities, business partners, and other independent third-party sources. When you use our Services by “clicking-through” from a third-party site or when you visit third-party sites via our Services, those third-party sites may share information with us about your use of their service. Information collected may include the following: Contact information, including name, phone number and postal and email addresses
+
+Billing or payment information (such as your credit card number, cardholder name, expiration date, authentication code, and billing address)
+
+User name and password
+
+Photos, reviews, forum and social posts, and videos you may have provided to us
+
+Geolocation information
+
+Device information, such as when you accessed our Services and information about the Device used (for example, IP address, software or internet browser used, preferred languages, unique Device identifiers and advertising identifiers)
+
+Online activity, including pages you have visited, content reviewed, and apps reviewed
+
+Purchasing history
+
+Information about your travel plans and preferences We may also collect, in instances where you have provided it, information about other travellers, including their email address and other travel-related information. If you are sharing information with us about other individuals, you must obtain their consent. You must obtain the consent of any other individuals if you are providing their data to us. In addition to the categories noted above, we may also collect location information if you have instructed your Device to send such information via the privacy settings on that Device, or, for example, if you have uploaded photos tagged with location information. We may use your location information directly and/or share your location with third-parties. We collect and share location information in order to provide you with relevant content, to analyze your use of our Services, to improve our Services and to provide contextual advertising or recommendations. For example, we may use your location to show you reviews of hotels, restaurants or attractions near you when you are traveling. You can change the privacy settings of your Device at any time in order to turn off the functionality that collects and shares location information and/or the functionality to tag your photos with location information. However, turning off location-sharing may affect certain features we offer. If you have any questions about the privacy settings of your Device, we suggest you contact the manufacturer of your Device or your mobile service provider for help. Please see the section on Cookies below for more information regarding the use of cookies and other technology described in this section, including regarding your choices relating to such technologies.
+
+Information Uses We are committed to providing you with relevant content on our Services and respect the data privacy laws of the different jurisdictions which we operate in. We use information about you so we can help you enjoy and use our Services, including in the following ways: Register and manage your account, including to allow you access to and use of our Services
+
+Facilitate your bookings
+
+Measure interest in and improve our Services
+
+Notify you about special offers and products or services available from us, our affiliates, or our partners that may be of interest to you
+
+Communicate with you
+
+Enable communication between registered users and owners/representatives of listings on our Services
+
+Enable us to publish your reviews, forum posts, photos, videos and other content
+
+Customize your experience, including customizing the ads shown to you on our Services and across the internet
+
+Make inferences about your interests or preferences
+
+Provide you with an optimized experience and to group users of our Services based on, for example, usage and demographics
+
+Send you survey or market research invitations
+
+Respond to your questions and comments
+
+Resolve disputes or troubleshoot problems
+
+Prevent potentially prohibited or unlawful activities
+
+Enforce our terms of use and notices; and as otherwise described to you at the point of collection Please note some information about you is required in order for us to provide you with relevant offerings from us, our affiliates, and our partners and to enable you to enjoy other benefits of being a registered user. Please review the “Information Choices” section below with respect to your choices related to the collection and use of your information.
+
+Information Sharing In order to provide some of our Services, we may need to share information with certain other third-parties, including our group of companies, in the following circumstances: Our Group of Companies . We share information with companies in our corporate family so we can provide you with information about products and services, both travel-related and others, which might interest you. These companies and websites will comply with this Statement and all applicable laws governing the transmission of promotional communications.
+
+Suppliers . We share information with certain suppliers used to facilitate our Services, including to help with transactions, such as any reservations you might make, for example, sharing data with a restaurant if you make a reservation using our Services.
+
+Business Partners . We may share information about you, your Devices and your use of our Services with our trusted business partners. For example, we may share information so that we can provide you with relevant content or in order to facilitate payment for products or services you may purchase on the websites of our partners. This sharing is generally pursuant to written agreements which include confidentiality, privacy and security obligations; however, note that we do not control the privacy practices of these third-party business partners.
+
+Social Media Sites . When you use our Services and elect to share information with third-party social media sites, the information you share will be governed by the privacy policies of those social media sites and the privacy settings you have set with those social media websites.
+
+Advertising Networks . We sometimes collect and share information about your interests with advertising networks. Some of these companies are members of the Network Advertising Initiative, or the Digital Advertising Alliance, which offer a single location to opt-out of ad targeting from member companies. To learn more, please click here.
+
+Other third-parties, such as referring websites. Third-parties may also assist us in collecting information by, for example, operating features of our website or facilitating the delivery of online advertising tailored to your interests. We may share audience segments and other information with third-parties that use that information for tailored advertising to you. Third-parties may only collect or access information as needed to perform their permitted functions. Certain Device operating system versions permit you to opt out of certain types of information sharing, including to certain advertising networks. Please check your Device settings if you want to limit such tracking.
+
+Information Choices You have options with respect to the collection and use of your information. You can access, update and even close your account by visiting the Member Profile page on our website Your options: ● You may choose the way we communicate with you. You can choose not to provide us with certain information, although it may be needed to take advantage of certain features offered on our websites. ● You can prevent the collection of geolocation information, but note that turning off location sharing may affect certain features of our Services. ● You also can add or update information and close your account. If you close your account, we will deactivate your account and remove your profile information from active view. We may retain some information associated with your account (including past transactions) for internal purposes including backups, fraud prevention, dispute resolution, investigations, and legal compliance for the period necessary to fulfill the purposes outlined in this Statement. ● As a registered member, you can modify your marketing subscriptions, including email subscription choices at any time within your member settings. You also will be given the opportunity to unsubscribe from promotional messages, including emails with travel-related opportunities, in any such email we send.
+
+Information Transfers We are a global company and operate in many different jurisdictions. If we transfer your information to other countries, we will use and protect that information as described in this Statement and in accordance with applicable law.
+
+Information Security We have implemented appropriate administrative, technical, and physical security procedures to help protect your information. We only authorize specific employees to access personal information and they may do so only for permitted business functions. We use encryption when transmitting your information between your system and ours, and between our system and those of the parties with whom we share information. We also employ firewalls and intrusion detection systems to help prevent unauthorized access to your information. However, we cannot guarantee the security of information from unauthorized entry or use, hardware or software failure, or other circumstances outside of our control.
+
+Information Retention We will retain copies of your information for as long as you maintain your account or as necessary in connection with the purposes set out in this Statement, unless applicable law requires a longer retention period. In addition, we may retain your information for the duration of any period necessary to establish, exercise or defend any legal rights.
+
+Do Not Track Signals Our website is not designed to currently respond to “Do Not Track” (“DNT”) signal requests from browsers. This is due to the lack of global standardized interpretation that defines “Do Not Track” signals. Once the industry has settled on standards related to this issue, we may re-evaluate this approach.
+
+Cookies We want your access to our Services to be as easy, efficient and useful as possible. To help us do this, we use cookies and similar technologies to improve your experience, to enhance site security and to show you relevant advertising. What are cookies? Cookies are small text files that are automatically placed on your Device when you visit almost any website. They are stored by your internet browser and contain basic information about your internet use. Your browser sends these cookies back to a website every time you revisit it, so it can recognize your Device and improve your experience by, among other things, providing you with personalized content. We also use cookies to remember your login details, so you don’t have to re-enter them repeatedly when you use our Services. Other cookies help us understand your preferences. The cookies we use fall into three categories. Category Example
+
+Essential These cookies are necessary to help you access and move around the website and use all its features. Without these cookies, the website would not work properly and you would not be able to use certain important features. For example, we use a cookie to keep you logged in during your visit, so the site does not require you to log in repeatedly to access different pages. We may also use essential cookies for fraud detection and prevention purposes. You cannot turn off essential cookies through the Cookie Consent Tool, as such cookies are necessary for you to access and use the features of the website.
+
+Analytics and customisation We use these cookies to help us understand how the website is being used and how we can improve your experience on it. These cookies can provide us with information to help us understand which parts of the website interest our visitors and if they experience any errors. We use these cookies to test different designs and features for our sites and we also use them to help us monitor how visitors reach the website. We also use cookies to save your settings and preferences on the website, such as language preference and information you've previously entered when searching for travel options. Some customization cookies are essential if you want to use certain features of the website.
+
+Advertising Advertising cookies help ensure that the advertisements you see are as relevant to you as possible. For example, some advertising cookies help select ads that are based on your interests. Others help prevent the same ad from continuously reappearing for you. We also use cookies to make it easy to share content from the website with your friends through your favorite social networks. Social media sites, may set cookies that recognize you when you view content on the website and allow you to share content across both the website and the social media site via the use of sharing settings. For further details, please check your social media site’s terms of use and privacy policy. We also work with third-party advertisers to give you access to travel content that might be of interest, and may set cookies on our Services to provide you with advertising that matches your interests and preferences. These "third-party cookies" collect information about your browsing behaviour and interaction with ads or the Services more generally. This information also helps us limit the number of times you may see the same ads and improve your online experience.
+
+Cookie Consent Tool To give you control, we provide you with a Cookie Consent Tool, which allows you to review the first party and third-party cookies placed through our website and adjust your cookie settings, including whether to accept such cookies or not. You can access the Cookie Consent Tool by clicking here or at any time through the “Cookie Consent” link at the bottom of every page or in our cookie banner. In addition, you can manage cookies through the settings of your internet browser. You can have the browser notify you when you receive a new cookie, delete individual cookies or delete all cookies. Most advertising networks offer you a way to opt out of advertising cookies. See www.aboutads.info/choices/ and www.youronlinechoices.com for useful information on how to do this. If you delete your cookies, your access to some functionality and areas of our Services might be degraded or restricted. Our use of any information we collect through cookies is subject to this Statement, which is linked on every page of our website.
+
+Statement Changes and Notification We may update this Statement in the future. If we believe any changes are material, we will let you know by doing one or more of the following: sending you a communication about the changes, placing a notice on the website and/or posting an updated Statement on the website. We will note at the top of this Statement when it was most recently updated. We encourage you to check back from time to time to review the most current version and to periodically review this Statement for the latest information on our privacy practices
+***************************************************************
+
+

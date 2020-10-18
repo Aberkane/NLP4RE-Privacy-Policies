@@ -1,0 +1,128 @@
+Title: What is a Privacy Policy & Why it's Important to Have it on Your Site
+URL: https://www.websitepolicies.com/blog/what-is-privacy-policy
+Date of publishing: 2017-03-09 13:31:14+00:00
+Keywords: websites, policy, important, website, data, used, site, required, privacy, information, users
+Policy: 
+Any site that requires users to sign up or provide any personal data is required by law to have a privacy policy. This article explains what a privacy policy is, who needs one, what it needs to include, and how to create a privacy policy.
+
+What is a privacy policy?
+
+A privacy policy is a statement contained on a website that details how the operators of the site will collect, store, protect, and utilize personal data provided by its users.
+
+The definition of personal data includes names, addresses (physical or e-mail), IP addresses, telephone numbers, date of birth, and financial information, such as debit or credit card details.
+
+In addition to outlining how the company will use the information, it also includes how it will meet its legal obligations, and how those sharing their data can seek recourse should the company fail to meet those responsibilities.
+
+Who needs a privacy policy and why?
+
+Any site that gathers any data about its users, even if it is simply through tracking their location, is required to have a privacy policy.
+
+This includes eCommerce sites, sites that track users' behavior through cookies, and even companies that simply send out occasional newsletters.
+
+Many websites require site users to indicate that they have read the policy when they first provide their information.
+
+A privacy policy is a legal requirement in almost every country in the world. As of November 2016, over 100 countries had existing data protection laws, with another forty currently in the process of enacting legislation. While the specific requirements vary by country, most have common features, such as how data will be protected.
+
+As the nature of the internet means that websites may be accessed and utilized by people anywhere in the world, privacy policies need to meet the major standards, such as those required in Europe and the United States.
+
+Europe
+
+In Europe, those countries which form part of the European Economic Area (EEA) are required to meet seven principles.
+
+These principles require that the data collected be limited to only that which is entirely necessary for the purpose of the site; how individuals may access their data; how the information is protected; and the accountability of the data collector.
+
+As of May 2016, the General Data Protection Regulations (GDPR) became law across the EEA, standardizing the regulations across the entire region. Any organization whose website is available in Europe will be required to meet the GDPR, regardless of where in the world it is registered, including Canada and the USA.
+
+United States
+
+In the United States, there is no over-riding data protection law, but it does have a number of other laws that cover specific demographics and circumstances. One of the best known is the Children's Online Privacy Act (COPPA).
+
+This regulates websites that are deliberately targeted at children under the age of 13, whether or not they collect data. It also applies to websites that, while they may not be targeted at children, knowingly collect information from users who are under the age of 13.
+
+The other latest regulation that takes effect in January 2020 is the California Consumer Privacy Act (CCPA).
+
+Any website that meets these criteria and is accessible within the United States must adhere to these regulations. Usually, where a site does gather information from children, a parent or guardian must provide their consent for this to happen.
+
+Third-party advertising
+
+Many non-eCommerce websites, especially blogs, generate income through advertising placed on their site by third parties. The best-known ones are Google's AdSense and Amazon Affiliates, although there are many other similar schemes.
+
+As these schemes involve the sharing of data, before being allowed to take part in either program, websites are required to have privacy policies published within them.
+
+Payment processing
+
+Unsurprisingly, any website that processes payments must have a stringent privacy policy. Not only are these sites collecting data such as names and addresses, but they are also accessing financial information such as credit card or bank account details.
+
+A breach of this data could have serious consequences for the people affected. The policy should include the security measures that are in place to protect the data.
+
+What to include in a privacy policy?
+
+The exact content of a privacy policy is dependent upon the function of the site that it relates to, the information that is gathered and how it's used. There are a number of basic elements, however, that any privacy policy should include. These are:
+
+The exact information that will be collected from website users, which may include names, physical or e-mail addresses, IP addresses, and telephone numbers, and location tracking.
+
+If cookies are being used on the site, how to opt-out of them, and what effect this might have on the user's experience.
+
+How the information will be collected, and by whom, for example, if it is being collected by an advertising program.
+
+How the information will be used, including if it will be shared with third parties.
+
+How the information is protected from misuse or unauthorized access.
+
+How to opt-out of data sharing, along with the potential consequences of doing so.
+
+In addition, certain types of websites must include other information. For example, anyone using Google AdSense must include information about the cookies, links, and any third-party sellers or advertisers featured on the site.
+
+E-commerce websites must also detail how payment information will be accessed, processed and stored. They must make it clear who is handling the information, as the complexity surrounding the storage of payment details means that many sites use third parties to manage the payment process and storage of financial information.
+
+How to create a privacy policy?
+
+While it is tempting merely to copy and paste another site's privacy policy, website owners must not do this. Every website, business, and service is different, and this must be reflected in their policy.
+
+While another site's privacy policy may seem suitable, there is a high chance that it will not actually be appropriate. It may be too generic, or may not cover everything that the website does, and so not meet regulatory requirements. Equally, for the same reasons, privacy policy templates must not be used.
+
+As a much better solution, you may wish to create a privacy policy with our easy to use privacy policy generator. All privacy policies are drafted by qualified lawyers. Through asking detailed questions about your website or business, a completely customized policy will be generated, which can be downloaded instantly and added to your website.
+
+How to enforce a privacy policy?
+
+Websites are required to ensure that their customers are aware of their privacy policy when they choose to register with the site or make a purchase.
+
+This is usually either in the form of a link with a checkbox to confirm that the user has read the terms and conditions and accepts them, or the user may be required to scroll down through the page before they are able to accept them.
+
+Requiring users to indicate that they have read the privacy policy demonstrates the website owner's commitment to meeting the regulations.
+
+It could be argued that the second approach - used by Google in particular - is the better option, as the person agreeing is provided with direct access to the policy rather than having to make an effort to open another page.
+
+Privacy policy examples
+
+These extracts from the privacy policies of well-known websites will help to demonstrate what makes a good privacy policy. It is useful to note that, in each case, the language used to explain the policy is clear and straightforward, avoiding legal jargon that people may not understand.
+
+We collect the content and other information you provide when you use our services, including when you sign up for an account, create or share, and message or communicate with others. This can include information in or about the content you provide, such as the location of a photo or the date a file was created. We also collect information about how you use our services, such as the types of content you view or engage with or the frequency and duration of your activities.
+
+Facebook clearly outlines what information that the user provides - whether deliberately or not - will be accessed and used. There is no ambiguity about what data will be collected, and where from.
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+This section in Amazon's privacy policy detailing how they ensure the security of their customers' data clearly explains the security measures that they have in place, including the SSL software (an internationally recognized standard), and how it uses credit card details.
+
+It also advises their customers on their responsibility for protecting themselves, and what actions they should take to prevent fraud.
+
+Microsoft uses the data we collect to provide you the products we offer, which includes using data to improve and personalize your experiences. We also may use the data to communicate with you, for example, informing you about your account, security updates and product information. And we use data to help show more relevant ads, whether in our own products like MSN and Bing, or in products offered by third parties. However, we do not use what you say in e-mail, chat, video calls or voice mail, or your documents, photos or other personal files to target ads to you.
+
+This statement outlines in simple language how Microsoft will utilize its users' data. Anyone signing up to their services will understand precisely what their data may be used for, and when.
+
+It also details what information will not be used and will remain private to the user, which allows individuals to make an informed decision about their usage.
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
+
+Google explains that users may choose to automatically refuse cookies and the potential consequences of doing so. Users are able to make an informed decision about whether the positives outweigh the negatives.
+
+Create a privacy policy
+
+Whatever your site does, a privacy policy is an essential part of it. In any case, where any personal information is being gathered - however limited - it is a regulatory requirement across most of the world.
+
+Even if the website does not collect personal data, you should consider having a privacy policy. It will give your website additional credibility, and provide protection both for you and for your users.
+
+Use our privacy policy generator to create a custom-tailored policy for your website.
+
+

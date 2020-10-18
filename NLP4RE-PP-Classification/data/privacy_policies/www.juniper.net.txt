@@ -1,0 +1,291 @@
+Title: Commitment to Privacy
+URL: https://www.juniper.net/us/en/privacy-policy/
+Date of publishing: None
+Keywords: networks, products, juniper, websites, including, applicable, commitment, personal, information, privacy, provide, cookies
+
+Policy: Juniper Privacy Policy
+
+June 2020 Update
+
+What We Do
+
+We, Juniper Networks, Inc., 1133 Innovation Way, Sunnyvale, California 94089 USA, and other companies in Juniper Networks, Inc.’s group worldwide, including Mist Systems, Inc. (collectively, “Juniper Networks”), provide telecommunications network infrastructure products and solutions for enterprise networks, for the cloud and for service providers (collectively, the “Juniper Products”). Our technology includes, for example, routers, switches, network management software and network security products, both wired and wireless. You can find examples of our products, solutions and services here: https://www.juniper.net/us/en/products-services/.
+
+We typically distribute Juniper Products through resellers and partners. Typically, our Juniper Products are used by our customers and partners on their own premises and in their own cloud account(s). In such cases, we generally do not have access to the data (whether personal data or other confidential data of our customers or partners) processed by the Juniper Products unless we are providing installation services, customer support or success services, quality assurance, testing or other professional services. When we do have access to personal information of individuals, it is typically as a service provider/supplier to our customers and partners, with limited exceptions, such as, for example:
+
+For our Websites www.juniper.net and https://www.mist.com/, related sub-sites and other Websites and mobile applications that we provide (the “Websites,” which are included in the Juniper Products).
+
+For our advertising, marketing, promotion, industry outreach and educational efforts (which are primarily in a business-to-business context versus direct to individual consumers).
+
+In our relationships with employees/contractors/applicants and administrative/operational vendors and suppliers.
+
+In our role as a service provider/supplier, our contracts generally restrict us from processing personal information of our customers and partners except for the purposes permitted under our contracts and under applicable law. Examples of our data protection agreements with customers, resellers and vendors are available through the Supplemental Privacy Information links above.
+
+This Privacy Policy is provided publicly including as notice to Juniper Networks’ current and prospective customers and partners (including suppliers, vendors, resellers, OEMs, distributors and other third parties), end users of any Juniper Products, visitors to, and users of, our Websites, Juniper Networks’ employees, contractors and job applicants.
+
+Our Commitment to Privacy
+
+Juniper Networks respects and is committed to protecting the privacy of individuals, including protecting any personal information of visitors to our Websites as well as any personal information we may process in connection with any Juniper Products. Together with the Supplemental Privacy Information at the links available above, this Privacy Policy (the “Policy”) describes our personal information processing in connection with the Juniper Products. Additional license terms, terms of use, contracts, agreements and privacy statements may also apply to particular Juniper Products. If there are contradictions between this Policy and the more specific information for a particular Juniper Product, the more specific information shall prevail to the extent permitted under applicable law.
+
+Information We May Collect
+
+Juniper Networks may collect the following categories of personal information through our Websites or in connection with our Juniper Products (in which case we are generally acting as a service provider to, and data processor for, our customers and partners).
+
+Name.
+
+Email address.
+
+Postal or physical address or other contact information.
+
+Social media account information.
+
+Phone number(s).
+
+Professional title/role and name of employer or other entity with which the individual is associated in a professional capacity.
+
+IP addresses or other access log information.
+
+MAC address.
+
+Device ID information.
+
+Any other personal information that our customers or partners elect to collect and share with Juniper Networks using the Juniper Products.
+
+Information needed to answer a request or provide information and services to an individual.
+
+Any information we are required to collect, or that is appropriate to collect, in order to comply with applicable laws or regulations.
+
+Purposes of Processing Personal Information
+
+We process personal information to support our customers and partners in their use of Juniper Products; to market, promote and distribute Juniper Products; to select and work with vendors and suppliers; for our operations and administration, including in personnel matters, and for other legitimate purposes to the extent permitted by applicable law. Examples of processing include:
+
+Marketing, advertising and promoting Juniper Products.
+
+Distributing, installing, operating, supporting, maintaining and upgrading Juniper Products and related analytics.
+
+Providing customer service, technical support, consulting or cloud-based information security services.
+
+Participating in seminars and training (whether in-person or online).
+
+Operating and maintaining our Websites, including providing product demonstrations and resource materials.
+
+Enabling the use of certain features of Juniper Products.
+
+Personalizing the experience of visitors to our Websites or users of the Juniper Products.
+
+Working with our partners (including suppliers, vendors, resellers, OEMs, distributors and other third parties).
+
+Responding to and communicating with you regarding your inquiries to Juniper (whether in-person or online).
+
+Analyzing, improving and developing our Websites, Juniper Products and internal business processes.
+
+Other legitimate purposes as required or permitted by applicable law.
+
+Marketing Preferences
+
+If you are interested in tailored information regarding our products and services, as well as other information we think may be useful to you, you can provide us with your preferences and interests and update them on our preferences page located at www.juniper.net/opt-in. If you do not wish to receive marketing emails from us, you may opt out by clicking the “Unsubscribe” link on any of our emails or, alternatively, send the opt-out request to privacy@juniper.net.
+
+Sharing and Disclosure of Personal Information
+
+We share personal information within the Juniper Networks group, as well as with our customers and partners (including suppliers, vendors, resellers, OEMs, distributors and other third parties), for purposes and in situations that may include:
+
+To market, advertise and promote Juniper Products, including by sharing personal information with third-party service providers.
+
+To distribute, install, operate, support, maintain and upgrade Juniper Products and related analytics.
+
+To provide customer service, technical support, consulting or cloud-based information security services, including by sharing personal information with third-party service providers.
+
+To provide seminars and training (whether in-person or online).
+
+To operate, maintain and personalize our Websites for visitors and users of our Products, including providing product demonstrations and resource materials, and including sharing personal information with third-party service providers.
+
+To enable use of certain features of Juniper Products.
+
+To work with our partners (including suppliers, vendors, resellers, OEMs, distributors and other third parties) pursuant to legal agreements.
+
+When we have an individual’s consent to share the information.
+
+As part of group or team collaborations, such as for a particular project, product or service.
+
+In connection with blogs, message boards, chat rooms or other similar forums, whether publicly shared or shared by or with customers, partners or end users interacting with login access, including related to feedback or suggestions for improvements to Juniper Networks products or services.
+
+In connection with, or during the negotiation of, any merger, sale of company assets, consolidation or restructuring, financing or acquisition of all or a portion of our business by or to another company, including the transfer of contact information and data of customers, partners and end users.
+
+As part of a joint sales promotion or to pass sales leads to one of our distribution partners.
+
+To keep individuals up to date on the latest product announcements, product updates, special offers or other information we think they would like to hear about either from us or from our service providers and partners.
+
+In response to a request for information by a competent authority, if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process, including to meet national security or law enforcement requirements.
+
+With law enforcement officials, government authorities or other third parties as necessary to protect the rights, property or safety of Juniper Networks, its business partners, you or others, or as otherwise required by applicable law.
+
+In an aggregated and de-identified or anonymized form.
+
+With affiliates and subsidiaries as necessary to operate our business.
+
+For other legitimate purposes permitted by applicable law.
+
+Juniper has affiliates, subsidiaries and operations globally and may transfer your personal information on a global basis to operate its business. If personal information is transferred to a Juniper recipient in a country that does not provide an adequate level of protection for personal information, Juniper will take measures designed to adequately protect your personal information.
+
+Security of Personal Information
+
+Juniper Networks safeguards the security of the personal information and other data provided to us with appropriate physical, administrative and technical procedures. Inside Juniper Networks, personal information is stored in secured and controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Juniper Networks, Inc., its subsidiaries or its service providers are located. When you use our Websites, you are transferring information to the United States and other locations where Juniper Networks or its service providers operate. While we strive to protect personal information, we cannot guarantee the security of the personal information provided to us, as no transmission of information through the Internet can ever be completely secure. We urge individuals to protect their personal information when using the Internet by, for example, changing passwords often and using a combination of letters and numbers, and making sure to use a secure browser.
+
+If we learn of and confirm the occurrence of a security incident leading to the misappropriation or accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, your personal information transmitted, stored or otherwise processed on Juniper systems that compromises the confidentiality, integrity or availability of your personal information, we may attempt to notify you electronically by posting a notice on our Websites or by sending you an email. You may have a legal right to receive this notice in writing or in any other form required by applicable law.
+
+Use of Cookies and Similar Technologies
+
+A cookie is an alphanumeric set of characters that a website transfers to the cookie file of the browser on your computer so that a website can remember who you are to, for example, customize website content and create a better browsing experience. A cookie will typically contain the name of the domain or website that created the cookie, the “lifetime” of the cookie, and an alphanumeric value, usually a randomly generated unique number to identify the cookie.
+
+Similar technologies may be used instead of or in conjunction with cookies, such as web beacons, which are small, non-recognizable pictures downloaded to your computer when a specific website is loaded.
+
+When you visit our Websites, we may use cookies and similar technologies for the following purposes:
+
+To help us recognize you as a unique visitor (just an alphanumeric identifier) when you return to our Website.
+
+To allow us to tailor content or advertisements to match your preferred interests.
+
+To avoid showing you the same advertisements repeatedly.
+
+To support sales activities and provide direct marketing communications to you if you have consented to receive such communications.
+
+To compile statistics that allow us to understand how users interact with our Websites, such as from which web page a user visited prior to arriving at our Websites, how long users remained on one of our Websites’ pages, and what website users visited directly after they left the Juniper.net domain of our Websites.
+
+To help us improve our Websites.
+
+To protect the security of our Websites.
+
+Cookies we use may collect such information as IP address, mobile identifier and the browser and type of operating system of the device you used to access our Website and certain activity data of the device, such as pages viewed and links clicked.
+
+Our Websites use the following categories of cookies:
+
+Required Cookies: Required cookies are necessary for the operation, maintenance and/or security of our Websites.
+
+Required cookies are necessary for the operation, maintenance and/or security of our Websites. Performance and Functionality Cookies: Performance cookies collect information about how visitors use our Websites, such as which pages visitors go to most often and if they receive error messages from web pages. For example, we may use third parties to help us understand how visitors engage with our Websites. This means that when you visit our Websites, your browser automatically sends certain information to these third parties. This includes, for example, the web address of the page you’re visiting and your IP address. Functionality cookies remember choices you make (such as your language or the region you are in) and provide enhanced or more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages you can customize.
+
+Performance cookies collect information about how visitors use our Websites, such as which pages visitors go to most often and if they receive error messages from web pages. For example, we may use third parties to help us understand how visitors engage with our Websites. This means that when you visit our Websites, your browser automatically sends certain information to these third parties. This includes, for example, the web address of the page you’re visiting and your IP address. Functionality cookies remember choices you make (such as your language or the region you are in) and provide enhanced or more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages you can customize. Targeting and Advertising Cookies: These cookies are used to deliver advertising more relevant to you and your interests. They are also used to limit the number of times you see a certain advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by third-party advertising networks with our permission. They remember that you have visited a website and may share this information with other organizations such as advertisers.
+
+Two types of cookies may be used on our Websites: session cookies (which are temporary cookies that remain in the cookie file of your browser until you leave the site) and persistent cookies (which remain in the cookie file of your browser for longer, typically two days, though the time period will depend on the lifetime of the specific cookie).
+
+Disabling and Enabling Cookies
+
+You can use your browser or device settings to review and erase or delete cookies at any time. Note that by disabling certain categories of cookies you may be prevented from accessing some features of our Websites, certain content or functionality may not be available, or the Websites may not operate correctly.
+
+To learn about adjusting your Adobe Analytics cookie settings, please visit the Adobe Analytics browser privacy settings website.
+
+Depending on your location, you may also opt out of third-party cookies relating to behavioral advertising by visiting the following websites:
+
+European Interactive Digital Adverting Alliance (EDAA): www.youronlinechoices.eu and http://www.edaa.eu/
+
+Digital Advertising Alliance (DAA): http://www.aboutads.info/choices/
+
+Network Advertising Initiative (NAI): http://optout.networkadvertising.org
+
+Opting out does not mean you will no longer receive online advertising. It does mean that the company or companies from which you opted out will no longer deliver ads tailored to your browsing preferences and usage patterns. You may temporarily continue to see some tailored ads produced from ongoing advertising campaigns.
+
+The above opt-out tools rely on the use of cookies, and to the extent your browser settings impact use of third-party cookies, the above tools may not operate correctly. The above tools also apply only to the browser on which they are exercised. If you want to apply these tools to multiple devices or multiple browsers, you must exercise these tools on each browser and/or device.
+
+Do Not Track
+
+There are different ways to prevent tracking of online activities. Some web browsers may allow you to enable a do-not-track feature that alerts the websites you visit that you do not want your online activities to be tracked. Our Websites may not recognize or react in response to do-not-track signals. At present, no generally accepted standards exist on how companies must respond to do-not-track signals. In the event a final standard is established, we will assess and provide an appropriate response to these signals.
+
+Retention of Personal Information
+
+We will retain your personal information as needed to fulfill the purposes for which it was collected, comply with our legal obligations, resolve disputes and enforce our agreements.
+
+Employees, Contractors and Applicants
+
+Juniper may process the following categories of personal information if you submit a job application, inquire about opportunities at Juniper, provide us your information at a recruiting event or if we receive information about you from third parties in connection with our recruiting activities:
+
+Name and contact information such as phone number, email address and postal address.
+
+Employment history such as prior employers and dates of employment.
+
+Education history such as degrees earned and institutions attended.
+
+Resume, CV, educational transcripts and any information contained in or with such documentation.
+
+Job qualifications and work eligibility information such as country of residence, visa and immigration status, and citizenship.
+
+Reference information, such as name and contact details of your references.
+
+Compensation information that you voluntarily provide and which may depend on your region and applicable laws and regulations.
+
+Background check information, subject to applicable law.
+
+Sensitive personal information that you provide voluntarily or which we request on a non-mandatory basis in order to comply with applicable law.
+
+Juniper may process the above information to:
+
+Review and evaluate an application you submit.
+
+Communicate with you regarding your application or other interest in Juniper opportunities.
+
+Process your onboarding if you are hired.
+
+Operate, improve and maintain the security of our recruiting systems and platforms.
+
+Comply with applicable laws and otherwise operate our business.
+
+Children and Minors
+
+Our Websites do not target and are not intended to attract children or minors under the age of 16. Juniper Networks does not knowingly solicit personal information from children or minors under the age of 16 or send them requests for personal information. If you believe we have collected personal information from a person under 16 years old without the consent of their parent or legal guardian, please let us know immediately by contacting us as indicated in this Policy and providing sufficient information so we can act appropriately.
+
+Third-Party Sites
+
+Our Websites may provide links to Third-Party Sites that are outside our control and not covered by this Policy. Juniper Networks is not liable for any information, content, products, services, software or other materials available on or through a Third-Party Site. The use of an external website or any information or other content found on external websites is subject to and governed by the terms and conditions of such website. We encourage you to review the privacy policies posted on such Third-Party Sites.
+
+Your California Privacy Rights
+
+If you are a California resident and have any concerns about how we process your data or would like to exercise any of your California privacy rights, including those described below, you can contact us by emailing us at privacy@juniper.net, calling 1-888-914-9661, PIN 203149, or by writing to Juniper Networks, Inc., Attn: Legal-Privacy, 1133 Innovation Way, Sunnyvale, California 94089 USA. Please identify yourself as a California resident and provide sufficient information so we can take appropriate action, such as your name, email address or any additional information required. If you maintain an account with us, we may require that you submit your request through your account (to the extent permitted by applicable law). Finally, if we are processing your personal information as a service provider for a customer or partner, we may ask you to contact our customer or partner directly, to the extent permitted under applicable law.
+
+“Shine the Light” law: California residents may request certain information regarding our disclosure (if any) of personal information to third parties for their direct marketing purposes, pursuant to California Civil Code Section 1798.83 (the California “Shine the Light” law). To make such a request, please contact us, identify yourself as a California resident and provide sufficient information so we can take appropriate action, such as your name, email address or any additional information required.
+
+California Consumer Privacy Act (CCPA): California Civil Code Section 1798.100
+
+Generally, we process data as a service provider for our customers and partners, many of whom are large enterprises who have a direct relationship with individuals using the Juniper Products. This means that, in addition to other exceptions under the CCPA that may apply (including for employees, contractors and business contacts), our processing of data as a service provider may not involve a sale of personal information of a consumer.
+
+Right of Access (CCPA):
+
+Certain California consumers may have the right to disclosure of information about our collection, sale or disclosure for a business purpose of their personal information, including, to the extent applicable, the following:
+
+The categories of personal information we have collected about such consumer.
+
+The categories of sources from which such personal information has been collected.
+
+The categories of third parties with whom we have shared such personal information.
+
+The business or commercial purpose for collecting or selling such personal information.
+
+The categories of such consumer’s personal information we have sold or disclosed for a business purpose, by category for each category of third parties to whom the personal information was sold or disclosed, or we will state that we have not sold or disclosed for a business purpose such consumer’s personal information.
+
+The specific pieces of personal information we have collected about such consumer.
+
+We will provide appropriate disclosures upon receipt of a verifiable request, to the extent required by law (or in our discretion if not required by law) and as permitted by our contracts, confidentiality obligations and applicable laws and regulations. We may not be able to provide all of the information requested, such as, for example: (i) if the personal information was collected for a single one-time transaction and if, in the ordinary course of business, such information was not retained; (ii) we would be required to reidentify or otherwise link any data that, in the ordinary course of business, was not maintained in a manner that would be considered personal information; (iii) the consumer used different browsers, devices or identifying information and we have not linked all such information together; or (iv) if the information was collected, sold or disclosed prior to January 1, 2019 or twelve (12) months prior to the receipt of such verifiable consumer request, whichever is later. If we receive more than two requests for disclosure from a particular consumer within a twelve (12)-month period, we may decline to respond to such additional requests to the extent permitted under applicable law and regulations.
+
+Right to Opt Out (CCPA):
+
+Certain California consumers may also have the right to opt out of the sale of their personal information by contacting us and providing the verification information and other details we need in order to handle the request appropriately. We may, to the extent permitted under applicable law and regulations, continue to process data: (1) that is not personal information of a California consumer, including aggregate information, deidentified information or publicly available information; (2) where such processing is otherwise permitted under the CCPA, including without limitation where we are acting as a “service provider” under the CCPA, or where the processing of data is otherwise exempt; (3) where such processing is required under applicable law or regulations; (4) to protect our legal rights; (5) to comply with our contractual requirements or other applicable laws or regulations, or (6) where information is not covered by CCPA or another CCPA exception applies. Due to technological limitations, we also may not be able to recognize opt-out requests if a consumer accesses our Websites or our software, platforms or applications using a new browser, a new device or new or modified personal information. If you are a California resident who believes Juniper sells your personal information, and you would like to opt-out, please contact us here.
+
+Right to Deletion (CCPA):
+
+Certain California consumers have the right to request deletion of their personal information by contacting us and providing the required verification information and other details we need in order to handle the request appropriately. We may, to the extent permitted under applicable law and regulations, retain and continue to process data: (1) that is not personal information of a California consumer; (2) where such processing is otherwise permitted under the CCPA, including without limitation where we are acting as a “service provider” under the CCPA, or where the data or processing is otherwise exempt under the CCPA; (3) where such processing is required under applicable law or regulations; (4) to protect our legal rights; (5) to comply with our contractual requirements or other applicable laws or regulations, or (6) where another CCPA exception applies.
+
+Non-Discrimination (CCPA):
+
+California consumers have the right not to receive discriminatory treatment for exercising any of the privacy rights conferred by the CCPA, except as permitted under the CCPA. If you believe you have received discriminatory treatment for exercising your CCPA privacy rights, please contact us.
+
+How to Contact Us
+
+Juniper Networks encourages all individuals who provide personal information to Juniper Networks to keep their personal information accurate and up to date. Personal information may, in many cases, be updated by you online.
+
+If you have any concerns about how we process your data or would like to exercise any of your privacy rights that may be available under applicable law, you can contact us by emailing privacy@juniper.net or make a request here. You can also write to Juniper Networks, Inc., Attn: Legal-Privacy, 1133 Innovation Way, Sunnyvale, California 94089 USA. You also have the right to file a complaint with a competent data protection authority if you are a resident of a European Union member state.
+
+Changes to Our Privacy Policy
+
+Juniper Networks may amend this Policy from time to time, and if we make changes that affect the way we use your personal information, we will notify you by posting a revised statement on our Websites or Juniper Products. Where appropriate, we will notify you by additional means.
+
+June 2020 Update. Click here for the previous Privacy Policy.
+***************************************************************
+
+

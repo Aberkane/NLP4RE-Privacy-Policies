@@ -1,0 +1,16 @@
+Title: Your Access To This Website Has Been Blocked
+URL: https://www.fiverr.com/privacy-policy
+Date of publishing: None
+Keywords: trouble, website, youre, blocked, tampering, trigger, access, visitors, thosemake, triggered, sure, tools, user
+Policy: 
+We're dedicated to keeping Fiverr safe from malicious visitors. Something in your behavior has triggered our protection systems - we apologise for any inconvenience this process may have caused.
+
+Ad blocking or ad filtering software may interfere with our ability to identify you as human. Please exclude fiverr.com.
+
+Modifying your headers or user agent string may trigger some of our detection tools. Make sure you don't have any browser extensions tampering with those.
+
+Make sure JavaScript is enabled in your browser.
+
+If you're still having trouble accessing the site, please contact Customer Support
+
+

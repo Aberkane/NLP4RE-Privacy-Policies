@@ -1,0 +1,67 @@
+Title: Global Privacy Policy
+URL: https://www.3m.com/3M/en_US/company-us/privacy-policy/
+Date of publishing: None
+Keywords: global, advertising, 3m, browser, internet, address, information, visit, privacy, provide, policy, cookies, device
+
+Policy: 3M collects the following types of personal information:
+
+
+
+Information You Provide
+
+3M collects personal information you provide us, which may include: (i) contact information, such as your name, company name, job title, address, e-mail address, and phone number; (ii) additional information about you to help us get to know you better, such as your gender, age, date of birth, nationality, professional associations and registration numbers, information about how you use our products, and demographic information; (iii) comments, questions, requests and orders you may make; (iv) financial information needed to process payments if you make purchases, such as credit card or account information or tax identification number; (v) log-in information, including, if applicable, social media account information for login purposes; and (vi) information about your preferences, such as your preferred methods of communication and product types in which you are interested.
+
+
+
+Information Automatically Gathered from Your Device
+
+Device and browser information. 3M may collect technical information about your device, such as device type, browser type, IP address, operating system, and device identifier. 3M collects this information automatically from your device and web browser through cookies and similar technologies.
+
+Information about how you interact with us. 3M may collect technical data about your usage of 3M Internet Sites and Apps and how you interact with our digital advertisements and promotions, such as content viewed or downloaded, features used, links clicked, 3M promotional emails opened, and dates and times of interactions. 3M collects this information using cookies and similar technologies.
+
+Location information. 3M may collect location information, including precise real-time location information from your device and imprecise location information derived from, for example, your IP address or postal code. 3M Apps will NOT access precise-real time location information from your device unless you grant permission to do so.
+
+
+
+Cookies and Similar Technologies:
+
+A "cookie" is a file of information placed on your device when you visit a website. Cookies and similar technologies can enhance your user experience by saving your preferences, personalizing your online experience, holding items in your shopping cart, and sometimes providing you with advertising which is tailored to your interests.
+
+3M Internet Sites use "session cookies." A session cookie does not identify you personally and expires after you close your browser. For example, when you use the 3M Product Catalog, we place a session cookie to note what pages you have viewed. We can use this information to provide you recommendations of other products that may be of interest.
+
+3M Internet Sites also use "persistent cookies." These cookies do not expire when you close your browser. Persistent cookies stay on your computer until you delete them or they expire. By assigning your computer a unique identifier, we are able to create a database of your previous choices and preferences which can be provided by us automatically, saving you time and effort on future visits. For example, after you make a purchase, if you decide to make another purchase, your shipping address may have been retained and will only need to be confirmed.
+
+Certain countries require your consent to the use of cookies when you visit 3M Internet Sites. If you access a 3M Internet Site for one of these countries, you will be presented with information regarding your options, including the option to accept or reject certain categories of cookies. You will be able to change these settings on subsequent visits. Please note that you will not be able to opt out of receiving certain cookies that are strictly necessary for the delivery of a service requested by you.
+
+At any time when visiting a 3M Internet Site for one of these countries, clicking on the "Cookie Preferences" link at the bottom of each page allows you to access information on cookies and change your settings.
+
+Although you are not required to accept cookies when you visit a 3M Internet Site, you may be unable to use all of the functionality of the site if you reject certain cookies.
+
+In addition, your browser may allow you to adjust settings to accept or reject cookies, or to alert you when a cookie is placed on your computer.
+
+Analytics and Advertising. 3M uses third-party analytics services to better understand how users engage with 3M Internet Sites and Apps, including services provided by Google and Adobe. Please use the following links for more information about how Google and Adobe collect and use data when you visit their partners' websites or apps:
+
+www.google.com/policies/privacy/partners/
+
+http://www.adobe.com/privacy/marketing-cloud.html
+
+3M also uses third-party advertising services to provide advertisements for 3M products or services that may be of interest to you when you visit websites or other online services.
+
+3M allows selected third parties, including these analytics and advertising services, to place cookies on our Internet Sites. These third parties may collect information about your online activities over time and across third-party websites.
+
+These third parties may be members of industry self-regulatory groups such as the Network Advertising Initiative (NAI) and Digital Advertising Alliance (DAA). The websites for these groups provide more information on interest-based online advertising and how to opt out of receiving interest-based online ads from participating companies.
+
+Do Not Track Browser Settings. Some browsers may transmit "Do Not Track" ("DNT") signals to the websites you visit. Because there is not common agreement about how to interpret DNT signals, 3M currently does not take action in response to them.
+
+
+
+Information from Business Partners and other Third Parties
+
+3M collects personal information through our Business Partners. This information may include contact information, such as name, company name, job title, address, e-mail address, and phone number.
+
+3M may also obtain personal information from other third-party sources, including publicly and commercially available sources. We may combine the information we receive from our Business Partners and other third-party sources with information that we collect from you or your device, as described above.
+
+You have choices about the personal information you provide 3M. You may choose not to provide information that we request, but if you do so, we may not be able to provide you a relevant service or a particular feature for a 3M Internet Site, App, or product.
+***************************************************************
+
+

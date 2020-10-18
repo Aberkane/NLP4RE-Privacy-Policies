@@ -1,0 +1,606 @@
+Title: Privacybeleid
+URL: http://playstation.com/nl-nl/legal/privacy-policy/
+Date of publishing: None
+Keywords: op, van, te, het, privacybeleid, en, playstation, informatie, uw, wij, die
+
+Policy: Over ons en dit beleid
+
+Sony Interactive Entertainment Europe Limited en haar 100% dochtermaatschappij Sony Interactive Entertainment Network Europe Limited beheren de gegevens die worden verzameld als u met PlayStation speelt.
+
+Dit privacybeleid legt uit wanneer wij gegevens over u verzamelen, wat wij verzamelen, waarom wij ze verzamelen, met wie wij ze uitwisselen, waar ze verwerkt worden, hoe wij ze behandelen en wat uw opties en wettelijke rechten zijn.
+
+Voor nadere informatie over ons privacybeleid of onze verwerking van gegevens over u, kunt u contact opnemen op een van de twee navolgende wijzen:
+
+Per post:
+
+Data Protection Officer
+
+Sony Interactive Entertainment Europe Limited
+
+10 Great Marlborough Street
+
+Londen
+
+Verenigd Koninkrijk
+
+W1F 7LP
+
+Online:
+
+dpo@scee.net
+
+Sony Interactive Entertainment Europe Limited en Sony Interactive Entertainment Network Europe Limited zijn in Engeland geregistreerd onder bedrijfsnummers 03277793 en 06020283.
+
+Versie 7.3 (april 2018)
+
+Gegevensverzameling
+
+Dit deel legt uit welke gegevens wij over u verzamelen en wat de bronnen van deze informatie zijn. Wij kunnen gegevens die wij uit elk van deze bronnen ontvangen met elkaar combineren. Wij kunnen bijvoorbeeld informatie gecombineerd verwerken die wij over u, uw bezoeken aan onze website, uw PS4-systeemgameplayverleden etc. hebben verzameld, voor de doeleinden die in dit Privacybeleid worden toegelicht.
+
+Gegevens die u verschaft
+
+U kunt ons rechtstreeks voorzien van bepaalde informatie, waaronder:
+
+Informatie bij opening account: Als u een account voor het Playstation Network aanmaakt, vragen wij u informatie te verschaffen zoals uw naam, geboortedatum, geslacht, e-mailadres, land, adres en wachtwoord. U kunt ook foto's en andere gegevens over uzelf toevoegen aan uw accountprofiel en verschillende accountinstellingen vastleggen (met inbegrip van besturingselementen voor de sociale privésfeer).
+
+Betalingsinformatie: Als u geld wilt storten op uw accounttegoed of eventuele andere betalingen wilt doen via PlayStation Network met gebruik van een betalingsmethode, vragen wij u om bepaalde gegevens te verschaffen zoals uw factuuradres en betalingsgegevens.
+
+Gebruikersinhoud: Sommige PlayStation-producten en -diensten stellen u in staat uploads naar onze servers uit te voeren van: berichten, commentaren, forumbijdragen, gameniveaus, video's, afbeeldingen en andere informatie.
+
+Klantenservice: Als u contact met ons opneemt om u te helpen, kunnen wij u vragen om informatie over uzelf te verschaffen (zoals uw naam en contactgegevens) alsmede over de aard van uw vraag, en u kunt ervoor kiezen verdere communicatie omtrent uw vraag te verzenden. Wij kunnen de gesprekken vastleggen die u met PlayStation hulp & ondersteunen en andere klantenserviceteams maakt.
+
+Overige: Wij kunnen u vragen om informatie te verschaffen als u deelneemt aan marktonderzoeken, onderzoeken inzake bètaversies en andere gebruikerstesten, wedstrijden, promoties of evenementen, of om toe te staan marktinformatie van ons te ontvangen.
+
+Zorg ervoor dat alle persoonsgegevens die u verschaft juist en actueel zijn. Wij zullen belangrijke informatie aangaande uw account met de door u verstrekte contactinformatie naar u verzenden (met inbegrip van meldingen inzake accountveiligheid en gegevensbescherming). Laat ons weten of er eventuele wijzigingen zijn. U kunt de informatie die u ons verstrekt heeft te allen tijde controleren via het Accountbeheer van het Playstation Network. U moet altijd eerst toestemming verkrijgen voordat u ons persoonsgegevens van iemand anders opgeeft.
+
+Consoles en andere apparaten
+
+Telkens wanneer u een PlayStation-console of een PlayStation-app op een PlayStation-console of op andere apparaten (zoals een mobiele telefoon of PC) gebruikt, kunnen wij automatisch toegang krijgen tot informatie omtrent uw gebruik van dit apparaat en die app en die informatie opslaan. Als u inlogt op een PlayStation Network-account, kunnen wij dit combineren met andere gegevens die wij voor dit account hebben.
+
+De gegevens waartoe wij toegang krijgen en die wij op uw apparaten kunnen opslaan, kunnen zijn:
+
+Apparaat-ID's zoals uw PlayStation-console-ID, mobiele apparaat-ID's, cookie-ID's
+
+Netwerk-ID's zoals uw IP-adres en MAC-adres
+
+Accountidentificatietokens die voorkomen dat u elke keer hoeft in te loggen
+
+Inhoud en advertenties die op uw apparaat gedownload zijn voor de onlinediensten waartoe u toegang verkrijgt
+
+Uw huidige en recente locaties als u wenst dit met ons te delen
+
+Trofeeën, scores en ranglijsten die online en offline worden bereikt
+
+Enkele gegevens over type apparaat en instelling en foutrapportering
+
+Informatie omtrent de functies en services waartoe u vanaf uw PlayStation-apparaat of -app toegang krijgt en wanneer (zoals Share of Spotify, waar van toepassing)
+
+Informatie over het apparaat dat u gebruikt en hoe u het heeft geconfigureerd, alsook eventuele aangesloten randapparatuur (zoals controllers en VR-headsets), zoals model en serienummer en apparaatinstellingen
+
+Informatie over hoe u de op uw apparaat geïnstalleerde software gebruikt (met inbegrip van offline), zoals de datum en de tijd waarop u het gebruikt, welke games of muziek u speelt, naar welke content u surft, de content die u deelt of downloadt, tot welke diensten u toegang heeft en voor hoelang, met inbegrip van hoe vaak u gebruikmaakt van chat- en andere communicatieapplicaties
+
+Welke actie u onderneemt in een game of app (bijvoorbeeld, over welke hindernis u springt en welke niveaus u bereikt)
+
+Gegevens omtrent softwarefouten en laadtijden
+
+U kunt kiezen of u het door ons vergaren van gegevens via uw PlayStation 4 of PlayStation-app beperkt tot alleen de noodzakelijke servicegegevens voor het verstrekken van de online services die u gebruikt, dan wel of u ons toelaat tevens aanvullende gegevens te verzamelen omtrent hoe u uw apparaat of app instelt en gebruikt. U kunt deze instelling voor gegevensverzameling te allen tijde wijzigen via het instellingenmenu van uw apparaat of app. Dit is dan van toepassing op het toekomstige verzamelen via dat apparaat of die app.
+
+Indien uw apparaat of app crasht, kan u gevraagd worden gedetailleerde informatie omtrent de crash te leveren, waaronder screenshots en video die vóór de crash werden vastgelegd (deze informatie kan automatisch verzonden worden indien de instelling 'Systeemsoftwarefouten automatisch rapporteren' bij u is ingeschakeld).
+
+PlayStation Network en Store
+
+Telkens wanneer u zich aanmeldt bij het PlayStation Network en toegang verkrijgt tot onze onlinediensten (waaronder PlayStation Store), kunnen wij automatisch:
+
+toegang krijgen tot en informatie opslaan over uw gebruik van PlayStation Network-functies en -diensten op uw apparaat, met inbegrip van offline (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op onze PlayStation Network-servers.
+
+Wij kunnen bijvoorbeeld identificatiegegevens van apparaat en account ontvangen, zoals uw PlayStation Network online-ID en account-ID. Wij kunnen tevensgegevens ontvangen omtrent de inhouden, advertenties en andere informatie die uw apparaten van onze servers opvragen en ontvangen (zoals store-inhoud, trofeeën en vriendenlijsten) en wanneer u deze ontvangt en ermee omgaat, welke inhoud en apps u aan uw winkelmandje in onze Store toevoegt en wat u koopt.
+
+Games
+
+Telkens wanneer u een game speelt die ontwikkeld en/of gepubliceerd is door ons of een andere onderneming van Sony Interactive Entertainment, kunnen wij automatisch:
+
+toegang krijgen tot en informatie opslaan over uw gebruik van deze game op uw apparaat, met inbegrip van offline-games (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op onze gameservers.
+
+Wij kunnen bijvoorbeeld identificatiegegevens van apparaat en account ontvangen, zoals informatie omtrent online-ID en account-ID van het PlayStation Network, alsook informatie omtrent hoe u gebruikmaakt van onze online-games, tegen welke spelers u speelt, wanneer u over een hindernis springt of een taak voltooit, wanneer u tussen gebieden op een kaart beweegt en hoelang u in een gebied vertoeft.
+
+Websites, marketing en reclame
+
+Telkenmale wanneer u onze websites bezoekt of reageert op onze marketingcommunicatie en reclame op websites en diensten van ons en van derden, kunnen wij automatisch:
+
+toegang krijgen tot en informatie verzamelen over uw gebruik van deze game op uw apparaat, met inbegrip van offline-games (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op web-, reclame- en marketingservers die uit onzen hoofde door ons of door een derde beheerd worden.
+
+Bijvoorbeeld kunnen wij het volgende ontvangen:
+
+Online-identificatiemiddelen, gewoonlijk in cookies op uw apparaat opgeslagen
+
+Andere trackinggegevens zoals trackingpixels en configuratiedetails van uw browser (bijv. browsertype, lijst van geïnstalleerde plug-ins en lijst van geïnstalleerde lettertypes)
+
+Indien u zich bij uw account aanmeldt: accountidentificatiecodes zoals PlayStation Network online-ID en account-ID
+
+Informatie over de content, marketingcommunicatie en reclame die u bekijkt en waarop u reageert (wanneer u bijvoorbeeld op PlayStation.com op een banneer omtrent Unchartered klikt, een marketing-e-mail over PlayStation VR opent of op een van onze reclames klikt op een sociaal netwerk over PlayStation 4)
+
+Indien u uw account gebruikt om zich aan te melden bij andere websites of onlinediensten van Sony of van derden: informatie omtrent die website of onlindedienst van Sony of van een derde, alsook wanneer u zich aanmeldde.
+
+Voor nadere bijzonderheden inzake ons gebruik van cookies en hoe u deze kunt beheren bij een bezoek aan onze websites, wordt u verwezen naar het cookiebeleid van PlayStation op www.playstation.com/legal/cookies.
+
+Derden-partners
+
+Wij kunnen beperkte informatie over u ontvangen van derden-partners, waaronder van:
+
+Onze financiële en fraudebestrijdingsdiensten die de aanmelding bij uw account en kooptransacties verwerken, met inbegrip van de hoogte van het risico op fraude.
+
+Andere Sony-maatschappijen, andere online dienstverleners, onze verleners van beveiligingsdiensten, overheidsinstanties, wetshandhavings- en openbare veiligheidsbronnen, met inbegrip van IP-adressen en bijzonderheden van vermoedelijke onrechtmatige of frauduleuze activiteiten en beveiligingsrisico's.
+
+Derden-partners die games en apps via PlayStation Network verschaffen, met inbegrip van informatie over accounts, IP-adressen en apparaten waarvan redelijkerwijze wordt verondersteld dat deze in strijd zijn met onze dienstverleningsvoorwaarden of die van onze derden-partners of dat deze zijn betrokken in frauduleuze of kwaadwillige activiteiten.
+
+Andere derden-partners, waar zulks is toegestaan door kennisgevingen en opties die zij of wij aan u hebben verstrekt (wij kunnen bijvoorbeeld van een reclamewinkel voor PlayStation die u bezoekt informatie ontvangen dat u ermee hebt ingestemd dat de aanbieder van die winkel ons informatie mag verstrekken inzake uw activiteit en aankopen in die winkel).
+
+Gegevensgebruik
+
+Dit deel licht toe hoe wij de gegevens kunnen gebruiken die wij over u verzamelen. Wij kunnen gegevens gebruiken die zijn gecombineerd met alle bronnen die in het hoofdstuk 'Gegevensverwerking' van dit Privacybeleid zijn toegelicht. Wij kunnen bijvoorbeeld informatie die wij van u hebben verzameld gecombineerd verwerken: uw bezoeken aan onze website, uw PS4-systeemgameplayverleden etc., voor de doeleinden die in dit Privacybeleid zijn uiteengezet.
+
+Dienstverlening
+
+Wij (en onze gelieerden en derden die volgens onze instructies namens ons optreden) kunnen uw informatie gebruiken om het PlayStation Network te exploiteren en om de diensten te verlenen waarom u heeft verzocht – om uw account up-to-date te houden kan dit bijvoorbeeld het verwerken van uw aankopen en/of het uitvoeren van krediet- en fraudecontroles zijn.
+
+Wij kunnen de diensten die wij aan u leveren personifiëren gebaseerd op de gecombineerde gegevens die wij over u hebben verzameld (zo kunnen wij bijvoorbeeld uw IP-adres gebruiken om content weer te geven die relevant is voor uw gebied of wij kunnen nieuwe spelers aan u voorstellen of u helpen bij het ontdekken van nieuwe games of sociale media waarvan u het recht heeft om ze te spelen en te bekijken, gebruikmakend van informatie omtrent uw activiteit in het verleden).
+
+Ontwikkeling
+
+Wij gebruiken de gegevens die wij verzamelen om onze bestaande producten en diensten, alsmede uw ervaringen met het gebruik ervan, te begrijpen, verbeteren en versterken, en om nieuwe te helpen ontwikkelen. Bijvoorbeeld kunnen wij de gegevens gebruiken voor optimaal gebruik van gebruikersinterfaces, voor foutopsporing en bug fixing, om het evenwicht tussen verschillende personages, teams of facties in een game te verbeteren, om de voortgang van een game en efficiëntiemechanismen fijn af te stemmen en voor het ontwikkelen van volledige nieuwe hardware, games, apps en websites. Wij kunnen de gegevens eveneens gebruiken om onze bedrijfswerking te plannen en te verbeteren, en om anonieme statistische rapporten samen te stellen.
+
+Moderatie en veiligheid
+
+Wij kunnen PlayStation Network niet in zijn totaliteit bewaken en wij verbinden ons in genen dele hiertoe. Desalniettemin behouden wij ons naar eigen goeddunken het recht voor, uw online-activiteit en communicatie in het gehele PlayStation Network te bewaken en om het even welke content te verwijderen en/of wissen. Wij kunnen de gecombineerde gegevens die wij verzamelen (met inbegrip van informatie zoals de inhoud van uw stem- en tekstcommunicaties, het tijdstip en de locatie van uw activiteiten, alsook uw online-ID op het PlayStation Network, geregistreerde accountgegevens en IP-adres) gebruiken om inbreuken op te sporen en om onze PlayStation Network-servicevoorwaarden, softwaregebruiksvoorwaarden, licentieovereenkomsten voor de systeemsoftware en welke andere door u overeengekomen dienstverleningsvoorwaarden ook te handhaven, alsmede welke regels of gedragscodes ook die van toepassing zijn op uw gebruik van het PlayStation Network. Handhavingsacties die wij kunnen ondernemen, omvatten het opschorten of uitsluiten van accounts en/of apparaten.
+
+Juridische informatie en conformiteit
+
+Wij kunnen de gecombineerde gegevens die wij verzamelen gebruiken voor accountantscontrole, naleving en wettelijke doeleinden (bijvoorbeeld het maken of verdedigen van aanspraken die bij wet vereist zijn).
+
+Marketing en reclame
+
+Wij kunnen onze marketingcommunicatie, koopsuggesties en advertenties die wij tonen op onze en derden-websites evenals onze diensten aan u richten en personifiëren gebaseerd op de gecombineerde gegevens die wij over u hebben verzameld.
+
+U zult deze personifiëring opmerken wanneer u de PlayStation Store bezoekt (weze het via een console, website of game), wanneer wij u marketingcommunicatie sturen of wanneer u websites van ons en van derden (zoals website van sociale media) bezoekt waarop aankopen, content, aanbevelingen of reclame van ons te zien is (u kunt bijvoorbeeld reclame zien voor een game dat lijkt op de game waar u recent mee heeft gespeeld of een product dat u onlangs heeft bekeken op een van onze websites of in de PlayStation Store).
+
+U kunt kiezen of wij de gecombineerde gegevens, die wij over u hebben verzameld, mogen gebruiken om onze reclame en/of onze Store en aanbevelingen om producten en diensten via uw persoonlijke accountinstellingen te kopen, op u af te stemmen en u aan te bieden, en wel als volgt:
+
+Gepersonifieerde aankoopaanbevelingen: Wanneer deze instelling is ingeschakeld, kunnen ons aanbod van de Store en onze aankoopaanbevelingen gepersonifieerd worden op basis van wat wij over u weten. Indien deze instelling is uitgeschakeld, zult u nog steeds ons aanbod van de Store en deze aanbevelingen zien, maar mogelijkerwijze zijn ze dan minder relevant.
+
+Reclame: Indien deze instelling is ingeschakeld, kunnen advertenties in onze producten en onze advertenties op apps en sites van derden gepersonifieerd worden op basis van wat wij over u weten. Indien deze instelling is uitgeschakeld, ziet u mogelijkerwijze deze advertenties nog steeds, maar ze kunnen minder relevant zijn.
+
+Wij zullen datgene wat u ziet steeds enigszins op u toesnijden (bv. om te voorkomen dat u content ziet die u reeds in onze Store hebt gekocht). Marketingcommunicatie – met inbegrip van aanbevelingen – kan nog steeds gepersonifieerd zijn, indien u ervoor kiest deze te ontvangen (zie hieronder). Tevens kunnen sommige oudere apparaten (bv. PS3/Vita) nog steeds enige commerciële personifiëring tonen.
+
+U kunt er ook voor kiezen om gepersonifieerde en op u gerichte marketinge-mails met betrekking tot PlayStation en Sony van ons te ontvangen. Als u later mocht besluiten om geen verdere gepersonaliseerde e-mails van ons te ontvangen, dan kunt u marketingcommunicatie uitschakelen:
+
+Via marketingprefenties in uw PlayStation Network-accountbeheerzone; of
+
+Door de instructies en/of de aan onze marketing e-mails verbonden link "afmelden" te volgen.
+
+Wij streven ernaar uw verzoek zo spoedig als redelijkerwijze mogelijk is te verwerken en dit in ieder geval binnen 28 dagen te doen. Let op: wij zullen u nog wel belangrijke e-mails over uw account sturen, zelfs als u hebt besloten geen marketing-e-mails te willen ontvangen.
+
+Indien u ervoor kiest, niet toe te staan dat wij cookies opslaan en bekijken die niet strikt noodzakelijk zijn voor het aanbieden van onze websites, zal dit tevens onze mogelijkheid beperken om uw bezoeken aan onze websites te herkennen en de reclame en commerciële aankoopaanbevelingen die op deze websites worden weergegeven doelgericht te maken en te personifiëren. Raadpleeg het cookiesbeleid van PlayStation op www.playstation.com/legal/cookies voor meer gegevens omtrent ons gebruik van cookies en hoe u deze onder controle kunt houden wanneer u onze websites bezoekt.
+
+Gegevensuitwisseling en -overdracht
+
+Dit deel licht toe hoe wij de gecombineerde door ons verzamelde gegevens met derden-verkopers en derden-partners uitwisselen die diensten aan ons verlenen of games en apps op het door u gebruikte PlayStation Network aanbieden.
+
+Dienstverleningen
+
+Wij kunnen de gecombineerde door ons verzamelde gegevens met derden-verkopers en derden-partners uitwisselen die diensten aan ons verlenen of games en apps op het door u gebruikte PlayStation Network aanbieden. Wij kunnen bijvoorbeeld uw betalingsgegevens aan banken en andere financiële en antifraudeorganisaties uitwisselen om zodoende uw aankoop te voltooien, betaling te ontvangen en krediet- en fraudecontroles uit te voeren.
+
+Als u toegang krijgt tot derden-games of -apps via het PlayStation Network of u met gebruik van uw PlayStation Network-account zich aanmeldt bij derden-applicaties en websites, zoals derden-aanbieders van games, sociale netwerken en gameconsolidatiewebsites, kunnen wij die derden toegang verschaffen tot enkele van uw PlayStation Network-accountgegevens (zoals uw account-ID, PlayStation Network online-ID, land, geslacht, leeftijd en lijsten van vrienden en geblokkeerde personen) zodat zij hun diensten en websites kunnen exploiteren en verbeteren.
+
+Als u zich aanmeldt met uw PlayStation Network-account om toegang te krijgen tot een dienst van een derde, worden uw gegevens aan ons doorgegeven en bevestigen wij uw identiteit aan die derde maar zullen nooit uw wachtwoord of wachtwoordcode doorgeven.
+
+Als die derden toegang tot uw informatie krijgen of als u uw PlayStation Network-account verbindt aan een account van een derde, moeten zij u op de hoogte stellen over hun gebruik van uw informatie voor eventuele andere doeleinden en, indien dit wettelijk is vereist, uw vooraf gegeven toestemming daarvoor verkrijgen. Een dergelijke verwerking van uw informatie door derden wordt gedekt door hun kennisgevingen, beleid en instemmingen, niet door dit Privacybeleid.
+
+Andere gebruikers
+
+Als u een account voor het PlayStation Network aanmaakt, vormt bepaalde informatie een onderdeel van uw openbaar profiel en maken wij deze via PlayStation.com en derdengamingwebsites toegankelijk voor alle accounts op het PlayStation Network en op internet. Daaronder valt:
+
+Uw PlayStation Network online-ID
+
+Verklaring "over mij", avatar, taal, land en spelscores en statistische gegevens
+
+U kunt er ook voor kiezen om andere informatie via uw sociale accountinstellingen uit te wisselen, zoals:
+
+Uw echte naam
+
+Uw vrienden op het PlayStation Network
+
+Uw activiteiten
+
+Uitgewisselde content via de knop 'Delen'
+
+Let u er wel op dat iedereen die uw informatie kan zien deze informatie met anderen kan delen, bijvoorbeeld door een gameplayvideo uit te wisselen waarin u voorkomt. Sommige apparaten stellen gebruikers in staat online activiteiten zoals gameplay op te nemen, te streamen en te uploaden en kunnen daardoor zonder uw medeweten buiten het PlayStation Network worden verspreid, hetgeen betekent dat dit buiten u en onze controle plaatsvindt.
+
+U bent verantwoordelijk voor alle content die u op forums, in gemeenschappen, chat en berichtfuncties uitwisselt en deze content zal toegankelijk zijn voor anderen.
+
+Wij raden u aan om met zorg te overwegen met wie u uw informatie deelt. Zorg ervoor dat u niet uw contactgegevens met anderen deelt.
+
+Beveiliging en fraude
+
+Wij kunnen beperkte informatie over u met derden-partners uitwisselen, waaronder:
+
+Onze financiële en fraudebestrijdingsdiensten die het inloggen op uw account en kooptransacties verwerken, met inbegrip van de mate van risico op fraude
+
+Andere Sony-maatschappijen, andere online dienstverleners, onze verleners van beveiligingsdiensten, overheidsinstanties, wetshandhavings- en openbare veiligheidsbronnen, met inbegrip van IP-adressen en bijzonderheden van vermoedelijke onrechtmatige of frauduleuze activiteiten en beveiligingsrisico's
+
+Derden-partners die games en apps via PlayStation Network verschaffen, met inbegrip van informatie over accounts, IP-adressen en apparaten waarvan redelijkerwijze wordt verondersteld dat deze in strijd zijn met de dienstverleningsvoorwaarden van ons of onze derden-partners of dat deze zijn betrokken in frauduleuze of kwaadwillige activiteiten.
+
+Juridische en bedrijfsinformatie
+
+Wij kunnen de door ons verzamelde en gecombineerde gegevens uitwisselen:
+
+Om verweer te voeren tegen rechtsvorderingen of om wettelijke rechten uit te oefenen
+
+Met onze dienstverleners die namens ons gegevens verwerken
+
+Met onze professionele adviseurs die bijvoorbeeld juridische of fiscale kwesties of kwesties inzake accountantscontroles en boekhouding behartigen
+
+Tijdens onderhandelingen voor en na afsluiting van een verkoop van ons hele bedrijf of een deel ervan
+
+Overheidsinstanties
+
+Wij kunnen uw informatie aan de politie en andere overheidsinstanties doorgeven als wij menen dat het redelijkerwijze noodzakelijk is om te voldoen aan de wet, een regulering of wettelijk proces ten behoeve van het opsporen, de bescherming en het afdwingen van de veiligheid van een persoon, zijn eigendom of zijn rechten, om zich te kunnen richten op fraude en beveiliging en om criminele activiteiten te rapporteren. De overgrote meerderheid van de gevallen waarin wij informatie met politie en overheidsinstanties gedeeld hebben, betreffen onderzoek hunnerzijds inzake gestolen apparaten of niet geoorloofd gebruik van betalingsmethoden. In een klein aantal van de gevallen hebben wij tevens informatie geleverd als reactie op fraudebestrijding of ernstiger crimineel onderzoek.
+
+Internationale overdracht
+
+Uw informatie kan voor de in dit privacybeleid opgenomen doeleinden worden verwerkt, opgeslagen en overgedragen buiten het land waarin u verblijft en buiten de Europese Economische Ruimte (EER) alwaar wij gevestigd zijn, zoals de Verenigde Staten of Japan. Wetgeving inzake gegevensbescherming in deze landen kan eventueel niet hetzelfde niveau aan bescherming bieden als in uw land of in de EER en u heeft wellicht minder wettelijke rechten met betrekking tot uw informatie. Wij zorgen ervoor dat er voldoende waarborgen zijn wanneer uw gegevens buiten uw land en de EER worden overgedragen, met inbegrip van de mogelijkheid een beroep te kunnen doen op Privacy Shield- of modelclausules of andere legale middelen, of in het andere geval dat de overdracht alleen plaatsvindt waar zulks wettelijk is toegestaan.
+
+Gegevensverwerking en uw opties
+
+Opslag
+
+De gegevens die wij over u verzamelen, bewaren wij zolang als dit noodzakelijk is voor de in dit Privacybeleid uiteengezette doeleinden. Over het algemeen bewaren wij informatie betreffende uw account of apparaat totdat u uw account opheft. U moet zich realiseren dat zelfs na opheffing van uw account de door ons verzamelde gegevens over u nog wel kunnen worden bewaard om juridische redenen, om boekhoudkundige redenen, voor de bedrijfscontinuïteit (back-up), met het oog op fraudebestrijding en om gemeenschapsredenen.
+
+Beveiliging
+
+De toegang tot uw PlayStation-apparaat kan gewoonlijk met een pascode worden ingeperkt. De toegang tot uw account voor het PlayStation Network wordt ingeperkt middels het door u ingestelde wachtwoord. Wij raden u aan om gebruik te maken van de door ons beschikbaar gestelde verscherpte toegangscontroles tot het account, zoals de 2-stappenverificatie.
+
+Gelieve playstation.com te bezoeken en/of contact op te nemen met PlayStation Hulp & Ondersteuning indien u hulp nodig hebt bij het beperken van de toegang tot uw apparaten of accounts.
+
+U dient eventuele wachtwoorden en pascodes voor uw apparaten en accounts veilig te houden en ze aan niemand bekend te maken. Overweeg het uitschakelen van de instelling voor automatisch aanmelden en het inschakelen van de instelling die een wachtwoord vergt voordat aankopen kunnen worden afgesloten, in het bijzonder indien uw PlayStation-apparaat met anderen wordt gedeeld. U moet onmiddellijk contact met PlayStation Hulp & Ondersteuning opnemen als u merkt dat uw account ongeoorloofd wordt gebruikt of andere beveiliging wordt geschonden.
+
+Kindergegevens
+
+U moet minstens 18 jaar zijn om een account voor PlayStation Network aan te maken. Als u evenwel een ouder of voogd bent, kunt u accounts onder uw PlayStation Network-account aanmaken voor kinderen van 7 tot 17 jaar (of de aanmaak van een door uw kind geïnitieerd account bevestigen) om toegang te krijgen tot het PlayStation Network en enkele van zijn diensten. Als u dit doet, zullen wij de gegevens van uw kind volgens dit Privacybeleid verwerken.
+
+U kunt desgewenst toegang krijgen tot bepaalde informatie over voor uw kinderen aangemaakte accounts, met inbegrip van details over de transacties en communicatie van accounts, en u moet verzekeren dat uw kinderen zich ervan bewust zijn dat u deze informatie over hun activiteit kunt zien.
+
+U kunt gebruikmaken van onze instellingen voor ouderlijk toezicht om gebruik van het PlayStation Network door het account van uw kind aan te passen (bijv. voorkomen dat ze online chatten). Zoek naar 'Ouders' op PlayStation.com voor nadere bijzonderheden.
+
+Uw keuzes en rechten
+
+Als u een gebruiker van onze diensten bent, kunt u toegang krijgen tot enige persoonlijke informatie die u ons via het Accountbeheer van het PlayStation Network heeft verschaft en u kunt deze informatie corrigeren en wijzigen.
+
+U kunt kiezen:
+
+Of de gegevens die wij over u hebben verzameld kunnen worden gebruikt om reclame en aankoopaanbevelingen persoonlijk op u af te stemmen – Zie PlayStation personificatie-instellingen in accountbeheer
+
+Of u persoonlijk op u afgestemde marketingcommunicatie in de kennisgevingsvoorkeuren in het accountbeheer van uw PlayStation Network wilt ontvangen.
+
+Via de instellingen van uw apparaat of app kunt u beslissen of u het door ons vergaren van gegevens via uw PlayStation 4 of PlayStation-app beperkt tot alleen de noodzakelijke servicegegevens voor het verstrekken van de diensten die u gebruikt, dan wel of u ons toestaat tevens aanvullende gegevens te verzamelen. U vindt vergelijkbare instellingen voor onze website via de link naar privacy of cookies onderaan iedere pagina.
+
+U heeft ook het recht om een afschrift, rectificatie, schrapping of blokkering van uw persoonlijke informatie te verzoeken en om bezwaar te maken tegen onze verwerking van uw persoonlijke informatie in bepaalde situaties. U kunt deze rechten uitoefenen door contact met ons op te nemen via de informatie in de delen 'Over ons' en 'Klachten' van dit Privacybeleid.
+
+U kunt uw account voor PlayStation Network opheffen door contact op te nemen met PlayStation Hulp & Ondersteuning. U dient zich te realiseren dat dit geen invloed heeft op eventuele accounts die u voor andere diensten van Sony heeft, ook al hebt u toegang tot deze diensten gekregen via een account dat u aangemaakt hebt met uw account voor het PlayStation Network (u dient deze afzonderlijk te opheffen) - zie https://www.sony.co.uk/mysony of https://account.sonymobile.com//#/signup/learnmore voor nadere informatie.
+
+Klachtenregeling
+
+Als u bezorgd bent over onze omgang met uw persoonlijke informatie, dient u eerst contact met ons op te nemen zodat wij uw kwestie kunnen trachten op te lossen, gebruikmakend van de gegevens in het gedeelte 'Over ons en dit beleid' in dit Privacybeleid.
+
+Als u echter meent dat wij uw zorg niet adequaat in behandeling hebben genomen en dat wij niet voldoen aan onze wettelijke verplichtingen, kunt u dit melden aan uw plaatselijke regelgevende overheid voor de gegevensbescherming of aan het Information Commissioners Office ('ICO') in het Verenigd Koninkrijk. Nadere informatie over de wijze waarop een zorg wordt gemeld aan het ICO treft u aan op https://ico.org.uk/.
+***************************************************************
+
+
+Title: Privacybeleid
+URL: https://playstation.com/nl-nl/legal/privacy-policy/
+Date of publishing: None
+Keywords: op, van, te, het, privacybeleid, en, playstation, informatie, uw, wij, die
+
+Policy: Over ons en dit beleid
+
+Sony Interactive Entertainment Europe Limited en haar 100% dochtermaatschappij Sony Interactive Entertainment Network Europe Limited beheren de gegevens die worden verzameld als u met PlayStation speelt.
+
+Dit privacybeleid legt uit wanneer wij gegevens over u verzamelen, wat wij verzamelen, waarom wij ze verzamelen, met wie wij ze uitwisselen, waar ze verwerkt worden, hoe wij ze behandelen en wat uw opties en wettelijke rechten zijn.
+
+Voor nadere informatie over ons privacybeleid of onze verwerking van gegevens over u, kunt u contact opnemen op een van de twee navolgende wijzen:
+
+Per post:
+
+Data Protection Officer
+
+Sony Interactive Entertainment Europe Limited
+
+10 Great Marlborough Street
+
+Londen
+
+Verenigd Koninkrijk
+
+W1F 7LP
+
+Online:
+
+dpo@scee.net
+
+Sony Interactive Entertainment Europe Limited en Sony Interactive Entertainment Network Europe Limited zijn in Engeland geregistreerd onder bedrijfsnummers 03277793 en 06020283.
+
+Versie 7.3 (april 2018)
+
+Gegevensverzameling
+
+Dit deel legt uit welke gegevens wij over u verzamelen en wat de bronnen van deze informatie zijn. Wij kunnen gegevens die wij uit elk van deze bronnen ontvangen met elkaar combineren. Wij kunnen bijvoorbeeld informatie gecombineerd verwerken die wij over u, uw bezoeken aan onze website, uw PS4-systeemgameplayverleden etc. hebben verzameld, voor de doeleinden die in dit Privacybeleid worden toegelicht.
+
+Gegevens die u verschaft
+
+U kunt ons rechtstreeks voorzien van bepaalde informatie, waaronder:
+
+Informatie bij opening account: Als u een account voor het Playstation Network aanmaakt, vragen wij u informatie te verschaffen zoals uw naam, geboortedatum, geslacht, e-mailadres, land, adres en wachtwoord. U kunt ook foto's en andere gegevens over uzelf toevoegen aan uw accountprofiel en verschillende accountinstellingen vastleggen (met inbegrip van besturingselementen voor de sociale privésfeer).
+
+Betalingsinformatie: Als u geld wilt storten op uw accounttegoed of eventuele andere betalingen wilt doen via PlayStation Network met gebruik van een betalingsmethode, vragen wij u om bepaalde gegevens te verschaffen zoals uw factuuradres en betalingsgegevens.
+
+Gebruikersinhoud: Sommige PlayStation-producten en -diensten stellen u in staat uploads naar onze servers uit te voeren van: berichten, commentaren, forumbijdragen, gameniveaus, video's, afbeeldingen en andere informatie.
+
+Klantenservice: Als u contact met ons opneemt om u te helpen, kunnen wij u vragen om informatie over uzelf te verschaffen (zoals uw naam en contactgegevens) alsmede over de aard van uw vraag, en u kunt ervoor kiezen verdere communicatie omtrent uw vraag te verzenden. Wij kunnen de gesprekken vastleggen die u met PlayStation hulp & ondersteunen en andere klantenserviceteams maakt.
+
+Overige: Wij kunnen u vragen om informatie te verschaffen als u deelneemt aan marktonderzoeken, onderzoeken inzake bètaversies en andere gebruikerstesten, wedstrijden, promoties of evenementen, of om toe te staan marktinformatie van ons te ontvangen.
+
+Zorg ervoor dat alle persoonsgegevens die u verschaft juist en actueel zijn. Wij zullen belangrijke informatie aangaande uw account met de door u verstrekte contactinformatie naar u verzenden (met inbegrip van meldingen inzake accountveiligheid en gegevensbescherming). Laat ons weten of er eventuele wijzigingen zijn. U kunt de informatie die u ons verstrekt heeft te allen tijde controleren via het Accountbeheer van het Playstation Network. U moet altijd eerst toestemming verkrijgen voordat u ons persoonsgegevens van iemand anders opgeeft.
+
+Consoles en andere apparaten
+
+Telkens wanneer u een PlayStation-console of een PlayStation-app op een PlayStation-console of op andere apparaten (zoals een mobiele telefoon of PC) gebruikt, kunnen wij automatisch toegang krijgen tot informatie omtrent uw gebruik van dit apparaat en die app en die informatie opslaan. Als u inlogt op een PlayStation Network-account, kunnen wij dit combineren met andere gegevens die wij voor dit account hebben.
+
+De gegevens waartoe wij toegang krijgen en die wij op uw apparaten kunnen opslaan, kunnen zijn:
+
+Apparaat-ID's zoals uw PlayStation-console-ID, mobiele apparaat-ID's, cookie-ID's
+
+Netwerk-ID's zoals uw IP-adres en MAC-adres
+
+Accountidentificatietokens die voorkomen dat u elke keer hoeft in te loggen
+
+Inhoud en advertenties die op uw apparaat gedownload zijn voor de onlinediensten waartoe u toegang verkrijgt
+
+Uw huidige en recente locaties als u wenst dit met ons te delen
+
+Trofeeën, scores en ranglijsten die online en offline worden bereikt
+
+Enkele gegevens over type apparaat en instelling en foutrapportering
+
+Informatie omtrent de functies en services waartoe u vanaf uw PlayStation-apparaat of -app toegang krijgt en wanneer (zoals Share of Spotify, waar van toepassing)
+
+Informatie over het apparaat dat u gebruikt en hoe u het heeft geconfigureerd, alsook eventuele aangesloten randapparatuur (zoals controllers en VR-headsets), zoals model en serienummer en apparaatinstellingen
+
+Informatie over hoe u de op uw apparaat geïnstalleerde software gebruikt (met inbegrip van offline), zoals de datum en de tijd waarop u het gebruikt, welke games of muziek u speelt, naar welke content u surft, de content die u deelt of downloadt, tot welke diensten u toegang heeft en voor hoelang, met inbegrip van hoe vaak u gebruikmaakt van chat- en andere communicatieapplicaties
+
+Welke actie u onderneemt in een game of app (bijvoorbeeld, over welke hindernis u springt en welke niveaus u bereikt)
+
+Gegevens omtrent softwarefouten en laadtijden
+
+U kunt kiezen of u het door ons vergaren van gegevens via uw PlayStation 4 of PlayStation-app beperkt tot alleen de noodzakelijke servicegegevens voor het verstrekken van de online services die u gebruikt, dan wel of u ons toelaat tevens aanvullende gegevens te verzamelen omtrent hoe u uw apparaat of app instelt en gebruikt. U kunt deze instelling voor gegevensverzameling te allen tijde wijzigen via het instellingenmenu van uw apparaat of app. Dit is dan van toepassing op het toekomstige verzamelen via dat apparaat of die app.
+
+Indien uw apparaat of app crasht, kan u gevraagd worden gedetailleerde informatie omtrent de crash te leveren, waaronder screenshots en video die vóór de crash werden vastgelegd (deze informatie kan automatisch verzonden worden indien de instelling 'Systeemsoftwarefouten automatisch rapporteren' bij u is ingeschakeld).
+
+PlayStation Network en Store
+
+Telkens wanneer u zich aanmeldt bij het PlayStation Network en toegang verkrijgt tot onze onlinediensten (waaronder PlayStation Store), kunnen wij automatisch:
+
+toegang krijgen tot en informatie opslaan over uw gebruik van PlayStation Network-functies en -diensten op uw apparaat, met inbegrip van offline (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op onze PlayStation Network-servers.
+
+Wij kunnen bijvoorbeeld identificatiegegevens van apparaat en account ontvangen, zoals uw PlayStation Network online-ID en account-ID. Wij kunnen tevensgegevens ontvangen omtrent de inhouden, advertenties en andere informatie die uw apparaten van onze servers opvragen en ontvangen (zoals store-inhoud, trofeeën en vriendenlijsten) en wanneer u deze ontvangt en ermee omgaat, welke inhoud en apps u aan uw winkelmandje in onze Store toevoegt en wat u koopt.
+
+Games
+
+Telkens wanneer u een game speelt die ontwikkeld en/of gepubliceerd is door ons of een andere onderneming van Sony Interactive Entertainment, kunnen wij automatisch:
+
+toegang krijgen tot en informatie opslaan over uw gebruik van deze game op uw apparaat, met inbegrip van offline-games (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op onze gameservers.
+
+Wij kunnen bijvoorbeeld identificatiegegevens van apparaat en account ontvangen, zoals informatie omtrent online-ID en account-ID van het PlayStation Network, alsook informatie omtrent hoe u gebruikmaakt van onze online-games, tegen welke spelers u speelt, wanneer u over een hindernis springt of een taak voltooit, wanneer u tussen gebieden op een kaart beweegt en hoelang u in een gebied vertoeft.
+
+Websites, marketing en reclame
+
+Telkenmale wanneer u onze websites bezoekt of reageert op onze marketingcommunicatie en reclame op websites en diensten van ons en van derden, kunnen wij automatisch:
+
+toegang krijgen tot en informatie verzamelen over uw gebruik van deze game op uw apparaat, met inbegrip van offline-games (zie het hoofdstuk 'Consoles en andere apparaten' in dit Privacybeleid); en
+
+een logboek bijhouden van uw activiteit op web-, reclame- en marketingservers die uit onzen hoofde door ons of door een derde beheerd worden.
+
+Bijvoorbeeld kunnen wij het volgende ontvangen:
+
+Online-identificatiemiddelen, gewoonlijk in cookies op uw apparaat opgeslagen
+
+Andere trackinggegevens zoals trackingpixels en configuratiedetails van uw browser (bijv. browsertype, lijst van geïnstalleerde plug-ins en lijst van geïnstalleerde lettertypes)
+
+Indien u zich bij uw account aanmeldt: accountidentificatiecodes zoals PlayStation Network online-ID en account-ID
+
+Informatie over de content, marketingcommunicatie en reclame die u bekijkt en waarop u reageert (wanneer u bijvoorbeeld op PlayStation.com op een banneer omtrent Unchartered klikt, een marketing-e-mail over PlayStation VR opent of op een van onze reclames klikt op een sociaal netwerk over PlayStation 4)
+
+Indien u uw account gebruikt om zich aan te melden bij andere websites of onlinediensten van Sony of van derden: informatie omtrent die website of onlindedienst van Sony of van een derde, alsook wanneer u zich aanmeldde.
+
+Voor nadere bijzonderheden inzake ons gebruik van cookies en hoe u deze kunt beheren bij een bezoek aan onze websites, wordt u verwezen naar het cookiebeleid van PlayStation op www.playstation.com/legal/cookies.
+
+Derden-partners
+
+Wij kunnen beperkte informatie over u ontvangen van derden-partners, waaronder van:
+
+Onze financiële en fraudebestrijdingsdiensten die de aanmelding bij uw account en kooptransacties verwerken, met inbegrip van de hoogte van het risico op fraude.
+
+Andere Sony-maatschappijen, andere online dienstverleners, onze verleners van beveiligingsdiensten, overheidsinstanties, wetshandhavings- en openbare veiligheidsbronnen, met inbegrip van IP-adressen en bijzonderheden van vermoedelijke onrechtmatige of frauduleuze activiteiten en beveiligingsrisico's.
+
+Derden-partners die games en apps via PlayStation Network verschaffen, met inbegrip van informatie over accounts, IP-adressen en apparaten waarvan redelijkerwijze wordt verondersteld dat deze in strijd zijn met onze dienstverleningsvoorwaarden of die van onze derden-partners of dat deze zijn betrokken in frauduleuze of kwaadwillige activiteiten.
+
+Andere derden-partners, waar zulks is toegestaan door kennisgevingen en opties die zij of wij aan u hebben verstrekt (wij kunnen bijvoorbeeld van een reclamewinkel voor PlayStation die u bezoekt informatie ontvangen dat u ermee hebt ingestemd dat de aanbieder van die winkel ons informatie mag verstrekken inzake uw activiteit en aankopen in die winkel).
+
+Gegevensgebruik
+
+Dit deel licht toe hoe wij de gegevens kunnen gebruiken die wij over u verzamelen. Wij kunnen gegevens gebruiken die zijn gecombineerd met alle bronnen die in het hoofdstuk 'Gegevensverwerking' van dit Privacybeleid zijn toegelicht. Wij kunnen bijvoorbeeld informatie die wij van u hebben verzameld gecombineerd verwerken: uw bezoeken aan onze website, uw PS4-systeemgameplayverleden etc., voor de doeleinden die in dit Privacybeleid zijn uiteengezet.
+
+Dienstverlening
+
+Wij (en onze gelieerden en derden die volgens onze instructies namens ons optreden) kunnen uw informatie gebruiken om het PlayStation Network te exploiteren en om de diensten te verlenen waarom u heeft verzocht – om uw account up-to-date te houden kan dit bijvoorbeeld het verwerken van uw aankopen en/of het uitvoeren van krediet- en fraudecontroles zijn.
+
+Wij kunnen de diensten die wij aan u leveren personifiëren gebaseerd op de gecombineerde gegevens die wij over u hebben verzameld (zo kunnen wij bijvoorbeeld uw IP-adres gebruiken om content weer te geven die relevant is voor uw gebied of wij kunnen nieuwe spelers aan u voorstellen of u helpen bij het ontdekken van nieuwe games of sociale media waarvan u het recht heeft om ze te spelen en te bekijken, gebruikmakend van informatie omtrent uw activiteit in het verleden).
+
+Ontwikkeling
+
+Wij gebruiken de gegevens die wij verzamelen om onze bestaande producten en diensten, alsmede uw ervaringen met het gebruik ervan, te begrijpen, verbeteren en versterken, en om nieuwe te helpen ontwikkelen. Bijvoorbeeld kunnen wij de gegevens gebruiken voor optimaal gebruik van gebruikersinterfaces, voor foutopsporing en bug fixing, om het evenwicht tussen verschillende personages, teams of facties in een game te verbeteren, om de voortgang van een game en efficiëntiemechanismen fijn af te stemmen en voor het ontwikkelen van volledige nieuwe hardware, games, apps en websites. Wij kunnen de gegevens eveneens gebruiken om onze bedrijfswerking te plannen en te verbeteren, en om anonieme statistische rapporten samen te stellen.
+
+Moderatie en veiligheid
+
+Wij kunnen PlayStation Network niet in zijn totaliteit bewaken en wij verbinden ons in genen dele hiertoe. Desalniettemin behouden wij ons naar eigen goeddunken het recht voor, uw online-activiteit en communicatie in het gehele PlayStation Network te bewaken en om het even welke content te verwijderen en/of wissen. Wij kunnen de gecombineerde gegevens die wij verzamelen (met inbegrip van informatie zoals de inhoud van uw stem- en tekstcommunicaties, het tijdstip en de locatie van uw activiteiten, alsook uw online-ID op het PlayStation Network, geregistreerde accountgegevens en IP-adres) gebruiken om inbreuken op te sporen en om onze PlayStation Network-servicevoorwaarden, softwaregebruiksvoorwaarden, licentieovereenkomsten voor de systeemsoftware en welke andere door u overeengekomen dienstverleningsvoorwaarden ook te handhaven, alsmede welke regels of gedragscodes ook die van toepassing zijn op uw gebruik van het PlayStation Network. Handhavingsacties die wij kunnen ondernemen, omvatten het opschorten of uitsluiten van accounts en/of apparaten.
+
+Juridische informatie en conformiteit
+
+Wij kunnen de gecombineerde gegevens die wij verzamelen gebruiken voor accountantscontrole, naleving en wettelijke doeleinden (bijvoorbeeld het maken of verdedigen van aanspraken die bij wet vereist zijn).
+
+Marketing en reclame
+
+Wij kunnen onze marketingcommunicatie, koopsuggesties en advertenties die wij tonen op onze en derden-websites evenals onze diensten aan u richten en personifiëren gebaseerd op de gecombineerde gegevens die wij over u hebben verzameld.
+
+U zult deze personifiëring opmerken wanneer u de PlayStation Store bezoekt (weze het via een console, website of game), wanneer wij u marketingcommunicatie sturen of wanneer u websites van ons en van derden (zoals website van sociale media) bezoekt waarop aankopen, content, aanbevelingen of reclame van ons te zien is (u kunt bijvoorbeeld reclame zien voor een game dat lijkt op de game waar u recent mee heeft gespeeld of een product dat u onlangs heeft bekeken op een van onze websites of in de PlayStation Store).
+
+U kunt kiezen of wij de gecombineerde gegevens, die wij over u hebben verzameld, mogen gebruiken om onze reclame en/of onze Store en aanbevelingen om producten en diensten via uw persoonlijke accountinstellingen te kopen, op u af te stemmen en u aan te bieden, en wel als volgt:
+
+Gepersonifieerde aankoopaanbevelingen: Wanneer deze instelling is ingeschakeld, kunnen ons aanbod van de Store en onze aankoopaanbevelingen gepersonifieerd worden op basis van wat wij over u weten. Indien deze instelling is uitgeschakeld, zult u nog steeds ons aanbod van de Store en deze aanbevelingen zien, maar mogelijkerwijze zijn ze dan minder relevant.
+
+Reclame: Indien deze instelling is ingeschakeld, kunnen advertenties in onze producten en onze advertenties op apps en sites van derden gepersonifieerd worden op basis van wat wij over u weten. Indien deze instelling is uitgeschakeld, ziet u mogelijkerwijze deze advertenties nog steeds, maar ze kunnen minder relevant zijn.
+
+Wij zullen datgene wat u ziet steeds enigszins op u toesnijden (bv. om te voorkomen dat u content ziet die u reeds in onze Store hebt gekocht). Marketingcommunicatie – met inbegrip van aanbevelingen – kan nog steeds gepersonifieerd zijn, indien u ervoor kiest deze te ontvangen (zie hieronder). Tevens kunnen sommige oudere apparaten (bv. PS3/Vita) nog steeds enige commerciële personifiëring tonen.
+
+U kunt er ook voor kiezen om gepersonifieerde en op u gerichte marketinge-mails met betrekking tot PlayStation en Sony van ons te ontvangen. Als u later mocht besluiten om geen verdere gepersonaliseerde e-mails van ons te ontvangen, dan kunt u marketingcommunicatie uitschakelen:
+
+Via marketingprefenties in uw PlayStation Network-accountbeheerzone; of
+
+Door de instructies en/of de aan onze marketing e-mails verbonden link "afmelden" te volgen.
+
+Wij streven ernaar uw verzoek zo spoedig als redelijkerwijze mogelijk is te verwerken en dit in ieder geval binnen 28 dagen te doen. Let op: wij zullen u nog wel belangrijke e-mails over uw account sturen, zelfs als u hebt besloten geen marketing-e-mails te willen ontvangen.
+
+Indien u ervoor kiest, niet toe te staan dat wij cookies opslaan en bekijken die niet strikt noodzakelijk zijn voor het aanbieden van onze websites, zal dit tevens onze mogelijkheid beperken om uw bezoeken aan onze websites te herkennen en de reclame en commerciële aankoopaanbevelingen die op deze websites worden weergegeven doelgericht te maken en te personifiëren. Raadpleeg het cookiesbeleid van PlayStation op www.playstation.com/legal/cookies voor meer gegevens omtrent ons gebruik van cookies en hoe u deze onder controle kunt houden wanneer u onze websites bezoekt.
+
+Gegevensuitwisseling en -overdracht
+
+Dit deel licht toe hoe wij de gecombineerde door ons verzamelde gegevens met derden-verkopers en derden-partners uitwisselen die diensten aan ons verlenen of games en apps op het door u gebruikte PlayStation Network aanbieden.
+
+Dienstverleningen
+
+Wij kunnen de gecombineerde door ons verzamelde gegevens met derden-verkopers en derden-partners uitwisselen die diensten aan ons verlenen of games en apps op het door u gebruikte PlayStation Network aanbieden. Wij kunnen bijvoorbeeld uw betalingsgegevens aan banken en andere financiële en antifraudeorganisaties uitwisselen om zodoende uw aankoop te voltooien, betaling te ontvangen en krediet- en fraudecontroles uit te voeren.
+
+Als u toegang krijgt tot derden-games of -apps via het PlayStation Network of u met gebruik van uw PlayStation Network-account zich aanmeldt bij derden-applicaties en websites, zoals derden-aanbieders van games, sociale netwerken en gameconsolidatiewebsites, kunnen wij die derden toegang verschaffen tot enkele van uw PlayStation Network-accountgegevens (zoals uw account-ID, PlayStation Network online-ID, land, geslacht, leeftijd en lijsten van vrienden en geblokkeerde personen) zodat zij hun diensten en websites kunnen exploiteren en verbeteren.
+
+Als u zich aanmeldt met uw PlayStation Network-account om toegang te krijgen tot een dienst van een derde, worden uw gegevens aan ons doorgegeven en bevestigen wij uw identiteit aan die derde maar zullen nooit uw wachtwoord of wachtwoordcode doorgeven.
+
+Als die derden toegang tot uw informatie krijgen of als u uw PlayStation Network-account verbindt aan een account van een derde, moeten zij u op de hoogte stellen over hun gebruik van uw informatie voor eventuele andere doeleinden en, indien dit wettelijk is vereist, uw vooraf gegeven toestemming daarvoor verkrijgen. Een dergelijke verwerking van uw informatie door derden wordt gedekt door hun kennisgevingen, beleid en instemmingen, niet door dit Privacybeleid.
+
+Andere gebruikers
+
+Als u een account voor het PlayStation Network aanmaakt, vormt bepaalde informatie een onderdeel van uw openbaar profiel en maken wij deze via PlayStation.com en derdengamingwebsites toegankelijk voor alle accounts op het PlayStation Network en op internet. Daaronder valt:
+
+Uw PlayStation Network online-ID
+
+Verklaring "over mij", avatar, taal, land en spelscores en statistische gegevens
+
+U kunt er ook voor kiezen om andere informatie via uw sociale accountinstellingen uit te wisselen, zoals:
+
+Uw echte naam
+
+Uw vrienden op het PlayStation Network
+
+Uw activiteiten
+
+Uitgewisselde content via de knop 'Delen'
+
+Let u er wel op dat iedereen die uw informatie kan zien deze informatie met anderen kan delen, bijvoorbeeld door een gameplayvideo uit te wisselen waarin u voorkomt. Sommige apparaten stellen gebruikers in staat online activiteiten zoals gameplay op te nemen, te streamen en te uploaden en kunnen daardoor zonder uw medeweten buiten het PlayStation Network worden verspreid, hetgeen betekent dat dit buiten u en onze controle plaatsvindt.
+
+U bent verantwoordelijk voor alle content die u op forums, in gemeenschappen, chat en berichtfuncties uitwisselt en deze content zal toegankelijk zijn voor anderen.
+
+Wij raden u aan om met zorg te overwegen met wie u uw informatie deelt. Zorg ervoor dat u niet uw contactgegevens met anderen deelt.
+
+Beveiliging en fraude
+
+Wij kunnen beperkte informatie over u met derden-partners uitwisselen, waaronder:
+
+Onze financiële en fraudebestrijdingsdiensten die het inloggen op uw account en kooptransacties verwerken, met inbegrip van de mate van risico op fraude
+
+Andere Sony-maatschappijen, andere online dienstverleners, onze verleners van beveiligingsdiensten, overheidsinstanties, wetshandhavings- en openbare veiligheidsbronnen, met inbegrip van IP-adressen en bijzonderheden van vermoedelijke onrechtmatige of frauduleuze activiteiten en beveiligingsrisico's
+
+Derden-partners die games en apps via PlayStation Network verschaffen, met inbegrip van informatie over accounts, IP-adressen en apparaten waarvan redelijkerwijze wordt verondersteld dat deze in strijd zijn met de dienstverleningsvoorwaarden van ons of onze derden-partners of dat deze zijn betrokken in frauduleuze of kwaadwillige activiteiten.
+
+Juridische en bedrijfsinformatie
+
+Wij kunnen de door ons verzamelde en gecombineerde gegevens uitwisselen:
+
+Om verweer te voeren tegen rechtsvorderingen of om wettelijke rechten uit te oefenen
+
+Met onze dienstverleners die namens ons gegevens verwerken
+
+Met onze professionele adviseurs die bijvoorbeeld juridische of fiscale kwesties of kwesties inzake accountantscontroles en boekhouding behartigen
+
+Tijdens onderhandelingen voor en na afsluiting van een verkoop van ons hele bedrijf of een deel ervan
+
+Overheidsinstanties
+
+Wij kunnen uw informatie aan de politie en andere overheidsinstanties doorgeven als wij menen dat het redelijkerwijze noodzakelijk is om te voldoen aan de wet, een regulering of wettelijk proces ten behoeve van het opsporen, de bescherming en het afdwingen van de veiligheid van een persoon, zijn eigendom of zijn rechten, om zich te kunnen richten op fraude en beveiliging en om criminele activiteiten te rapporteren. De overgrote meerderheid van de gevallen waarin wij informatie met politie en overheidsinstanties gedeeld hebben, betreffen onderzoek hunnerzijds inzake gestolen apparaten of niet geoorloofd gebruik van betalingsmethoden. In een klein aantal van de gevallen hebben wij tevens informatie geleverd als reactie op fraudebestrijding of ernstiger crimineel onderzoek.
+
+Internationale overdracht
+
+Uw informatie kan voor de in dit privacybeleid opgenomen doeleinden worden verwerkt, opgeslagen en overgedragen buiten het land waarin u verblijft en buiten de Europese Economische Ruimte (EER) alwaar wij gevestigd zijn, zoals de Verenigde Staten of Japan. Wetgeving inzake gegevensbescherming in deze landen kan eventueel niet hetzelfde niveau aan bescherming bieden als in uw land of in de EER en u heeft wellicht minder wettelijke rechten met betrekking tot uw informatie. Wij zorgen ervoor dat er voldoende waarborgen zijn wanneer uw gegevens buiten uw land en de EER worden overgedragen, met inbegrip van de mogelijkheid een beroep te kunnen doen op Privacy Shield- of modelclausules of andere legale middelen, of in het andere geval dat de overdracht alleen plaatsvindt waar zulks wettelijk is toegestaan.
+
+Gegevensverwerking en uw opties
+
+Opslag
+
+De gegevens die wij over u verzamelen, bewaren wij zolang als dit noodzakelijk is voor de in dit Privacybeleid uiteengezette doeleinden. Over het algemeen bewaren wij informatie betreffende uw account of apparaat totdat u uw account opheft. U moet zich realiseren dat zelfs na opheffing van uw account de door ons verzamelde gegevens over u nog wel kunnen worden bewaard om juridische redenen, om boekhoudkundige redenen, voor de bedrijfscontinuïteit (back-up), met het oog op fraudebestrijding en om gemeenschapsredenen.
+
+Beveiliging
+
+De toegang tot uw PlayStation-apparaat kan gewoonlijk met een pascode worden ingeperkt. De toegang tot uw account voor het PlayStation Network wordt ingeperkt middels het door u ingestelde wachtwoord. Wij raden u aan om gebruik te maken van de door ons beschikbaar gestelde verscherpte toegangscontroles tot het account, zoals de 2-stappenverificatie.
+
+Gelieve playstation.com te bezoeken en/of contact op te nemen met PlayStation Hulp & Ondersteuning indien u hulp nodig hebt bij het beperken van de toegang tot uw apparaten of accounts.
+
+U dient eventuele wachtwoorden en pascodes voor uw apparaten en accounts veilig te houden en ze aan niemand bekend te maken. Overweeg het uitschakelen van de instelling voor automatisch aanmelden en het inschakelen van de instelling die een wachtwoord vergt voordat aankopen kunnen worden afgesloten, in het bijzonder indien uw PlayStation-apparaat met anderen wordt gedeeld. U moet onmiddellijk contact met PlayStation Hulp & Ondersteuning opnemen als u merkt dat uw account ongeoorloofd wordt gebruikt of andere beveiliging wordt geschonden.
+
+Kindergegevens
+
+U moet minstens 18 jaar zijn om een account voor PlayStation Network aan te maken. Als u evenwel een ouder of voogd bent, kunt u accounts onder uw PlayStation Network-account aanmaken voor kinderen van 7 tot 17 jaar (of de aanmaak van een door uw kind geïnitieerd account bevestigen) om toegang te krijgen tot het PlayStation Network en enkele van zijn diensten. Als u dit doet, zullen wij de gegevens van uw kind volgens dit Privacybeleid verwerken.
+
+U kunt desgewenst toegang krijgen tot bepaalde informatie over voor uw kinderen aangemaakte accounts, met inbegrip van details over de transacties en communicatie van accounts, en u moet verzekeren dat uw kinderen zich ervan bewust zijn dat u deze informatie over hun activiteit kunt zien.
+
+U kunt gebruikmaken van onze instellingen voor ouderlijk toezicht om gebruik van het PlayStation Network door het account van uw kind aan te passen (bijv. voorkomen dat ze online chatten). Zoek naar 'Ouders' op PlayStation.com voor nadere bijzonderheden.
+
+Uw keuzes en rechten
+
+Als u een gebruiker van onze diensten bent, kunt u toegang krijgen tot enige persoonlijke informatie die u ons via het Accountbeheer van het PlayStation Network heeft verschaft en u kunt deze informatie corrigeren en wijzigen.
+
+U kunt kiezen:
+
+Of de gegevens die wij over u hebben verzameld kunnen worden gebruikt om reclame en aankoopaanbevelingen persoonlijk op u af te stemmen – Zie PlayStation personificatie-instellingen in accountbeheer
+
+Of u persoonlijk op u afgestemde marketingcommunicatie in de kennisgevingsvoorkeuren in het accountbeheer van uw PlayStation Network wilt ontvangen.
+
+Via de instellingen van uw apparaat of app kunt u beslissen of u het door ons vergaren van gegevens via uw PlayStation 4 of PlayStation-app beperkt tot alleen de noodzakelijke servicegegevens voor het verstrekken van de diensten die u gebruikt, dan wel of u ons toestaat tevens aanvullende gegevens te verzamelen. U vindt vergelijkbare instellingen voor onze website via de link naar privacy of cookies onderaan iedere pagina.
+
+U heeft ook het recht om een afschrift, rectificatie, schrapping of blokkering van uw persoonlijke informatie te verzoeken en om bezwaar te maken tegen onze verwerking van uw persoonlijke informatie in bepaalde situaties. U kunt deze rechten uitoefenen door contact met ons op te nemen via de informatie in de delen 'Over ons' en 'Klachten' van dit Privacybeleid.
+
+U kunt uw account voor PlayStation Network opheffen door contact op te nemen met PlayStation Hulp & Ondersteuning. U dient zich te realiseren dat dit geen invloed heeft op eventuele accounts die u voor andere diensten van Sony heeft, ook al hebt u toegang tot deze diensten gekregen via een account dat u aangemaakt hebt met uw account voor het PlayStation Network (u dient deze afzonderlijk te opheffen) - zie https://www.sony.co.uk/mysony of https://account.sonymobile.com//#/signup/learnmore voor nadere informatie.
+
+Klachtenregeling
+
+Als u bezorgd bent over onze omgang met uw persoonlijke informatie, dient u eerst contact met ons op te nemen zodat wij uw kwestie kunnen trachten op te lossen, gebruikmakend van de gegevens in het gedeelte 'Over ons en dit beleid' in dit Privacybeleid.
+
+Als u echter meent dat wij uw zorg niet adequaat in behandeling hebben genomen en dat wij niet voldoen aan onze wettelijke verplichtingen, kunt u dit melden aan uw plaatselijke regelgevende overheid voor de gegevensbescherming of aan het Information Commissioners Office ('ICO') in het Verenigd Koninkrijk. Nadere informatie over de wijze waarop een zorg wordt gemeld aan het ICO treft u aan op https://ico.org.uk/.
+***************************************************************
+
+

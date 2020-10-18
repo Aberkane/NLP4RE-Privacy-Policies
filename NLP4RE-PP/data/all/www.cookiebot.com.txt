@@ -1,0 +1,280 @@
+Title: Is it GDPR compliant?
+URL: https://www.cookiebot.com/en/privacy-policy-generator-gdpr/
+Date of publishing: None
+Keywords: gdpr, websites, policy, website, compliant, data, personal, cookies, privacy, information, users
+Policy: 
+Updated July 13, 2020.
+
+The privacy policy is one of the most essential legal requirements for websites.
+
+Even if you just have a small business or a blog with no income at all, you might be surprised to discover that you still need a privacy policy.
+
+Basically, if your website collects personal data, you need a privacy policy that informs your users about this according to privacy laws in most jurisdictions, including the EU and the US.
+
+Almost all modern websites function with the use of cookies, so chances are high that your website is collecting personal data, for example for statistical, functional or marketing purposes.
+
+In this blogpost, we take a look at what constitutes a good privacy policy, how to make a compliant GDPR privacy policy and whether using a privacy policy generator is a good idea.
+
+Learn what the privacy policy is and how to get one for your website below.
+
+What is a privacy policy?
+
+A privacy policy is a document that states what personal data you collect from your users, why, and how you keep it private.
+
+The purpose of the privacy policy is to inform your users about how their data is being handled.
+
+Hence, the privacy policy should be accessible for your users and kept in a plain and readable language.
+
+Most countries have privacy laws requiring that websites collecting personal data have a proper privacy policy in place.
+
+Failure to comply can result in heavy fines and even prosecution. Are you based in the EU or providing services to EU citizens, you must have a GDPR compliant privacy policy on your domain.
+
+We will get into this in more detail below.
+
+What is personal data?
+
+Personal data is information that can identify an individual, either directly or when combined with other data.
+
+Names, e-mails, addresses, localization, IP-addresses, photos, and account information all are directly identifying data.
+
+Health information, income, religion and cultural profiles and the like is also personal data.
+
+Furthermore, and crucial in the present context, data on user behavior is also personal. Cookies can track and register individual users’ browsing activities, like what articles they scroll past and which ones they choose to click on.
+
+Do I need a privacy policy for my website?
+
+You probably do. If your website collects personal data, you need a privacy policy.
+
+Most websites collect user data. Often, it happens without the website owner even being aware of it, by means of cookies.
+
+If your website is hosted, or if you use plugins, social media-buttons, analytics tools and the like on your website, then it does set cookies and collect user data.
+
+GDPR privacy policy
+
+With the enforcement of the GDPR and the EU ePrivacy regulation, a proper privacy policy is adamant for websites in the EU and websites that have EU-citizens amongst their users.
+
+There are specific requirements as to what must be included in a privacy policy in the GDPR. The EU calls this a "privacy notice", and their website (as linked to) explains how a GDPR privacy notice looks like.
+
+If you are in doubt about the use of cookies on your website, you can try and take an audit of your website here for free.
+
+The free audit scans five pages of your website and sends you a report of the cookies and online tracking on these pages, including information on their provenance, purpose and whether or not they are compliant.
+
+If you want a complete overview of the cookies and online tracking going on on all of your website, sign up to the Cookiebot solution.
+
+How can I get a privacy policy on my website? A GDPR compliant privacy policy
+
+The privacy policy can be written as an independent page on your website, and be made accessible as a link in the header or footer of your website, or on your ‘About’ page.
+
+It may also be hosted by a privacy policy-service with a link from your homepage.
+
+Basically, it doesn’t matter where you choose to place it, as long as your users have access to it.
+
+The privacy policy is a legal text. The phrasing depends on which jurisdictions your website falls under and how your website handles data.
+
+All websites are different. We always recommend that you consult a lawyer to ensure that your privacy policy is compliant with all applicable laws.
+
+However, this might seem as a large expense if you are, for instance, a hobby blogger or small business.
+
+What you should never do, is to copy a privacy policy from some other website.
+
+That is also why using a privacy policy generator can be a hazardous thing, since you must be very careful to include all the specific information of your website, and not just have privacy policy generator spit out a default one that isn't aligned with your domain
+
+GDPR privacy policy templates & privacy policy generators
+
+There exists numerous tools for creating privacy policies, and privacy policy templates and privacy policy generators on the internet.
+
+Some are free and others come at a price. Some are not GDPR compliant privacy policies.
+
+Please accept marketing cookies to view this video Accept cookies
+
+GDPR privacy policy example: TermsFeed is one provider of online privacy policies. In this video, they explain why you need a privacy policy in a simple and comprehensible manner in 1:40 minutes.
+
+However, if you use a generator, be sure to consider carefully all of the information to include in your policy and edit the privacy policy template accordingly.
+
+Having an incorrect privacy policy is as bad, if not worse, as not having one at all.
+
+Also, be sure to do your research on all applicable laws and requirements.
+
+Be aware that some geographically defined laws can, in practice, be global.
+
+For example, The EU General Data Protection Regulation regards not only websites operated from the EU, but also all websites in the world, that have visitors from the EU.
+
+GDPR privacy policy requirements
+
+Article 12 of the GDPR requires that you communicate information about your processing of personal data in a way that is:
+
+concise
+
+transparent
+
+in clear and plain language
+
+intelligible
+
+easily accessible
+
+free of charge
+
+In general, most privacy laws require you to inform your users about the following:
+
+Your name (or business name), location, and contact information
+
+What information you’re collecting from them (including names, email addresses, IP addresses, and any other information)
+
+What methods you are using to collect their information, e.g. cookies
+
+The purpose for collecting this information
+
+How you’re keeping their information safe
+
+Whether or not it’s optional for them to share that information, how they can opt-out, and the consequences of doing so
+
+Any third-party services you’re using to collect, process, or store that information (such as an e-mail newsletter service, or advertising network)
+
+Following a GDPR privacy policy templates like the above can be a help on the way, but using a GDPR privacy policy generator (as we link to below) can be dangerous. You must be mindful of getting all of the relevant and required information about your website into your GDPR privacy policy.
+
+Privacy policy and cookies
+
+Cookies usually are the trickiest part of making your website compliant with regulations for privacy and data protection.
+
+Most of the other data collection activities going on in connection to your website are both static and visible: The contact form or newsletter-subscription only changes if you actively make changes to it, and the user is aware of giving personal information when they chose to fill them out.
+
+Cookies, on the other hand, operate in the background.
+
+They are quietly dropped on the user’s computer without the user (or sometimes even the website owner, for that sake) being aware of what is going on.
+
+Once dropped, the cookies can collect a lot of different types of data for any given length of time, and send this data out ‘into the world’.
+
+Moreover, cookies are numerous and dynamic, tending to change often.
+
+Privacy policy and GDPR
+
+The General Data Protection Regulation requires that the communication about the use of data is both specific and accurate.
+
+This means, in practice, that whereas the remainder of the privacy policy may be a static document, the section on cookies should be updated fairly regularly.
+
+This issue can be solved if you choose a cookie solution like Cookiebot for your website.
+
+Cookiebot performs monthly scans of your website, giving a complete overview of the cookies in use.
+
+This information is
+
+sent to the website owner presented to the user in a comprehensive consent banner upon their first visit, and, lastly, but most important in the present context, can be integrated as part of your privacy policy with a few lines of Javascript.
+
+This way, you can make sure that your information on cookies is continually up to date.
+
+FAQ
+
+What is a privacy policy?
+
+A privacy policy is a website’s way of informing its users about how they ensure the protection of privacy on their domain while processing data. Most websites use cookies and trackers that process personal data from its users.
+
+Scan your website for free to see what cookies it uses
+
+What is personal data?
+
+Personal data is any kind of information that can identify a living individual, either directly or indirectly. Personal data includes names, e-mails, addresses, location data, and online identifiers such as IP-addresses, unique IDs, search and browser history.
+
+Test for free to see what personal data your website processes
+
+What are the GDPR privacy policy requirements?
+
+The EU’s General Data Protection Regulation (GDPR) requires that your website has an independent page for its privacy policy that is easily accessible for users. A privacy policy must include what information your website collects from users, what methods it uses to collect this information (e.g. cookies).
+
+Learn more about GDPR and cookie consent
+
+What cookies does my website use?
+
+Most websites use cookies, and a lot use third-party cookies, e.g. by implementing social media plugins, analytics tools and marketing software. Third-party cookies will process personal data from users and share it with ad tech companies. To know exactly what cookies your website uses, you must perform scans of your domain.
+
+Scan your website for free to detect all cookies and trackers
+
+Can I get a privacy policy plugin for my WordPress site?
+
+You may use the useful instructions on the blog WPbeginner as a starting point for adding a Privacy Policy page to your WordPress site.
+
+Where can I find compliant GDPR privacy policy template?
+
+A quick research on the internet will lead you to a vast selection of privacy policy templates and generators, some of which are free.
+
+Check out this list of privacy policy generators.
+
+However, if you use a generator, be sure to check that it complies with the EU General Data Protection Regulation and the ePrivacy Directive. These laws are applicable not only to websites operated from the EU, but also all websites in the world, that have visitors from the EU.
+
+What is the privacy policy of WordPress?
+
+WordPress is both a code for building websites, and a hosting service for blogs and websites.
+
+They have distinct privacy policies.
+
+Read the privacy policy of the WordPress code here, and for the WordPress hosting here.
+
+What is Google’s privacy policy?
+
+See Google’s Privacy Policy.
+
+What is Facebook’s privacy policy?
+
+You can read Facebook's privacy policy here.
+
+What is the privacy policy of Uber?
+
+See Uber’s privacy policy.
+
+What is the privacy policy of Apple?
+
+You may read the Privacy policy of Apple here.
+
+What is the privacy policy of Instagram?
+
+See Instagram’s Privacy policy.
+
+Also check out Instagram’s Privacy policy rewritten for kids.
+
+More than half of 12- to 15-year-olds in Britain are on Instagram. So are 43% of the 8- to 11-year-olds. But how many of them understand what they signed when they joined? Next to none.
+
+A lawyer took up the challenge and rewrote the privacy policy of Instagram, so that kids and parents can have a meaningful conversation about what happens with personal data on the internet.
+
+It’s an interesting read for adults as well.
+
+What is the privacy policy of Snapchat?
+
+Read Snapchat’s Privacy Policy.
+
+What is the privacy policy of Twitter?
+
+See the Privacy Policy of Twitter.
+
+What is the privacy policy of Ebay?
+
+Here is the link for Ebay’s Privacy Policy.
+
+What is the privacy policy of At&T?
+
+At&T Privacy Policy.
+
+What is the privacy policy of Yahoo?
+
+See Yahoo’s Privacy Policy.
+
+Resources
+
+Blogpost: Have a Website? You Need a Privacy Policy. Here’s Why
+
+GDPR and cookie consent
+
+CCPA compliant privacy policy
+
+GDPR: Definitions
+
+World Map of Data Protection
+
+The 12 Best Privacy Policy Generators Online (GDPR privacy policy examples)
+
+Blogpost: Five Reasons why Copying Someone Else's Privacy Policy is a Bad Idea
+
+How To Add a Privacy Policy in WordPress
+
+Instagram’s Privacy policy rewritten for kids
+
+

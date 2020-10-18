@@ -1,0 +1,173 @@
+Title: Overblog et la protection des données personnelles
+URL: https://over-blog-kiwi.com/privacy-policy
+Date of publishing: None
+Keywords: à, overblog, données, vous, vos, personnelles, les, le, protection, du, des, et, la
+
+Policy: Overblog et la protection des données personnelles
+
+Date de dernière mise à jour : 29 octobre 2018
+
+Généralités
+
+Nous accordons une grande importance au respect de votre vie privée, c’est pourquoi la protection de vos données personnelles est primordiale à nos yeux. Nous mettons à votre disposition notre Politique de protection des données afin de vous informer de la façon la plus claire possible des traitements mis en œuvre dans le cadre de l’utilisation des services du site.
+
+La présente Politique s’applique ainsi à l’ensemble des services proposées sur la plateforme over-blog.com.
+
+Cette politique est soumise à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée en 2004 (ci-après « loi Informatique et Libertés ») ainsi qu’au Règlement européen relatif à la protection des données personnelles du 27 avril 2016.
+
+WEBEDIA, situé au 2 av Paul Vaillant Couturier, 92300 Levallois Perret, est responsable de l’ensemble des traitements de données à caractère personnel effectuées sur le site over-blog.com
+
+Vos données
+
+Données que vous renseignez
+
+À votre inscription sur Overblog, vous renseignez des données de base (adresse email, mot de passe, adresse de votre premier blog). Nous stockons ces données de manière sécurisée pour, tout naturellement, vous donner accès à notre service. Plus tard, vous pouvez renseigner d’autres informations qui ne sont pas obligatoires au fonctionnement du service mais qui nous permettront de vous offrir des fonctionnalités plus pertinentes ou par exemple, si vous le choisissez, promouvoir votre blog sur notre portail dans les catégories adéquates.
+
+Parmis les informations que nous stockons et que vous renseignez on peut retrouver :
+
+Le contenu de votre blog, de manière à pouvoir l’afficher pour vos visiteurs. Ceci comprend les textes, images et autres éléments composant les articles et les pages
+
+Les réglages de votre blog, pour que son design et sa mise en page correspondent à vos goûts
+
+Les commentaires de vos visiteurs (cette fonctionnalité peut être désactivée) ainsi que les vôtres
+
+Dans le cas des abonnements premium, les données de facturation, qui sont stockées chez notre sous-traitant qui gère les paiements.
+
+Les communications avec nos agents (via chatlio et slack), gardées 4 mois
+
+Votre adresse email n’est jamais automatiquement partagé avec des organismes externes à l’exception de notre sous-traitant de gestion de paiement, dans le cas où vous prenez un abonnement premium.
+
+Si vous le désirez, vous pouvez recevoir des emails jeux concours ou d’offres de réduction d’entreprises du groupe Webedia. Pour cela, il faut cocher la case correspondante dans les options de notification de votre compte.
+
+Données récoltées automatiquement
+
+Nous utilisons plusieurs services et techniques qui vont automatiquement enregistrer les actions que vous effectuez avec notre service. Les deux grandes finalités sont de:
+
+Mieux comprendre les usages d’overblog afin d’offrir à nos utilisateurs des fonctionnalités et améliorations pertinentes Garder des traces qui nous serviront à résoudre des problèmes liés à nos services
+
+Données “Google Analytics”: comme beaucoup d’autres sites et services, nous utilisons Google Analytics afin de mieux comprendre la façon dont nos utilisateurs se servent d’Overblog. Nous avons activé l’anonymisation des adresses IP google analytics et les cookies google analytics sont effacés au bout de 13 mois.
+
+L'outil d'analyse "Fullstory" peut également être utilisé ponctuellement sur l'interface d'administration pour permettre à notre équipe UX d'analyser certaines sessions utilisateurs.
+
+Voici les données que nous récoltons automatiquement:
+
+Date précise de votre visite de n’importe quelle page hébergée sur Overblog
+
+Les actions que vous effectuez sur l’administration de votre blog
+
+Finalités des traitements
+
+WEBEDIA s’engage à collecter, traiter ou conserver vos données personnelles pour des finalités déterminées, légitimes et pertinentes.
+
+Vos données sont traitées pour les finalités suivantes :
+
+Mise à disposition d’outils de partage sur les réseaux sociaux
+
+Gestion de vos inscriptions à nos newsletters, notification par email
+
+Personnalisation et mise en ligne de blogs d’après vos préférences
+
+Personnalisation de votre profil (avatar, nom, biographie,...)
+
+Pour les abonnements Premium: Tous types d’abonnement premium Percevoir le paiement des abonnements et les renouveler mensuellement ou annuellement Individuel et Business Mise en place de votre nom de domaine personnalisé Activer et notifier les collaborateurs que vous avez ajouté à votre blog Proposer des adresses emails et alias Stocker les fichiers attachés aux articles ou aux pages créés Récupérer le contenu lié à vos réseaux sociaux pour alimenter automatiquement votre blog (cette fonctionnalité est désactivée par défaut et vous donne le contrôle sur les règles de publication automatique) Transmettre les sommes collectées dans le cadre de notre programme “Partenariat Droits d'Auteur” Business Récupérer le contenu lié à votre page Facebook pour alimenter automatiquement votre blog (cette fonctionnalité est désactivée par défaut et vous donne le contrôle sur les règles de publication automatique)
+
+
+
+Vous avez la faculté de vous désabonner à tout moment directement en cliquant sur le lien de désabonnement présent sur chacun des mails reçus ou en nous contactant. Le lien de désabonnement ne fonctionnera pas sur certains mails qui sont aux coeur du fonctionnement du service. Par exemple, les notifications de paiement ou confirmation de changement de mot de passe.
+
+Tous nos sous-traitants sont en conformité GDPR ou à l’accord “privacy shield”
+
+Responsabilités en tant que propriétaire de blog
+
+Les propriétaires et administrateurs du blog reçoivent les messages qui leurs sont envoyés via le formulaire de contact disponible publiquement sur leur blog. L’adresse email, nom et message renseigné par les visiteurs sont transmis par email et affichés sur l’administration du blog dans la rubrique “boîte de réception”.
+
+Les responsables du blog sont considérés responsables du traitement des données de celui-ci. La loi RGPD impose de notifier les personnes qui ont contacté le propriétaire du blog via le formulaire de contact si leurs données personnelles seront utilisées pour des finalités de traitement autres que celles rentrant dans le cadre de communications privées avec la personne ayant contacté le blog. Ces personnes bénéficient également d'un droit d’accès, rectification et opposition aux traitements couvert par la RGPD. En savoir plus sur la RGPD.
+
+Droit d’accès, rectification et opposition
+
+Conformément à la loi Informatique et Libertés du 6 janvier 1978, vous disposez d’un droit d’accès, de rectification et d’opposition des données vous concernant. Vous pouvez exercer ces droits par e-mail ou par courrier à l’adresse suivante :
+
+WEBEDIA-OVERBLOG 1 place occitane 31000 Toulouse E-mail : support@over-blog.com
+
+Overblog adressera une réponse dans un délai de 1 mois après la réception de la demande.
+
+A compter du 25 mai 2018 et en application du règlement 2016/679 du 27 avril 2016, vous pourrez également exercer votre droit à la limitation du traitement, à l’effacement de vos données, à la portabilité des données et à ne pas faire l’objet d’une décision individuelle automatisée, y compris le profilage.
+
+Dans un souci de confidentialité et de protection des données personnelles, une copie d’un titre d’identité signé devra être intégrée à la demande. En cas de réponse insatisfaisante, vous avez la possibilité de saisir la CNIL.
+
+Droit d’accès : droit de consulter à tout moment et gratuitement vos données.
+
+Droit de rectification : droit d’exiger que les données incorrectes soient corrigées et de demander à compléter vos données.
+
+Droit d’opposition : droit de vous opposer à toute utilisation de vos données à des fins de prospection.
+
+Droit d’effacement : droit d’obtenir la suppression de vos données dans nos bases de données. Ceci n’est pas un droit absolu dans la mesure où nous pouvons être contraints de conserver vos données pour des motifs légaux ou légitimes.
+
+Droit à la limitation : droit de demander la limitation du traitement que nous effectuons sur vos données. Ce droit signifie que le traitement des données vous concernant est limité, de sorte que nous pouvons toujours conserver ces données, mais pas les utiliser. Ce droit s’applique dans des circonstances particulières prévues par le Règlement Général sur la Protection des Données.
+
+Droit à la portabilité : droit de recevoir les Données Personnelles que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par la machine et de les transmettre à un autre Responsable de Traitement. Ce droit s’applique uniquement aux données que vous nous avez fournies, lorsque le traitement est fondé sur votre consentement ou sur un contrat et qu’il est effectué à l’aide de procédés automatisés.
+
+Durée de conservation de vos données
+
+Overblog a déterminé des règles précises concernant la durée de conservation des données à caractère personnel des utilisateurs.
+
+Conservation des blogs après suppression : 1 an. Overblog a une obligation de conservation des données d’une période d’un an car certaines données peuvent faire objet de réquisition judiciaire (loi pour la confiance dans l'économie numérique - LCEN). A la suppression d'un blog, les données sont déplacées dans une base de données “tampon”. Cela permet notamment de restaurer les blogs en cas de mauvaise manipulation de notre part et, sous certaines conditions, suite à des erreurs de manipulation de nos utilisateurs (qui représentent la majorité des cas de suppressions non souhaitées). Cette base “tampon” est purgée périodiquement.
+
+Conservation des comptes après suppression : A la suppression d'un compte, les données sont déplacées dans une base de données tampon. Cette base tampon est purgée périodiquement. La suppression d’un compte engendre la suppression des blogs associés (voir point précédent).
+
+Dans le cas des comptes premium, les données permettant le paiement sont stockées chez notre sous-traitant de gestion des paiements. À la suppression d’un compte overblog, nous clôturons le compte associé à votre compte chez notre sous-traitant. Les informations bancaires et vos informations personnelles ne sont plus stockées.
+
+Conservation des logs détaillés : 12 mois
+
+Conservation des logs d’accès au site : 3 jours
+
+Conformément à l’article 40-1 de la loi Informatique et Libertés du 6 janvier 1978, vous pouvez nous transmettre vos directives relatives à la conservation, à l’effacement et à la communication de vos données personnelles après votre décès. Ces directives peuvent être générales ou particulières.
+
+Pour nous transmettre vos directives, contactez-nous par email à support@over-blog.com
+
+Destinataires des données transmises
+
+Vos données sont transmises à des partenaires de WEBEDIA qui peuvent traiter les données pour leur compte (ce sont des destinataires) ou uniquement pour le compte et selon les instructions de WEBEDIA (ce sont des sous-traitants).
+
+Les destinataires des données sont :
+
+Les autorités de police dans le cadre des réquisitions judiciaires concernant la lutte contre la fraude et infractions à loi pour la confiance dans l'économie numérique - LCEN
+
+WEBEDIA fait également appel à des sous-traitants pour les opérations suivantes :
+
+La lutte contre la fraude
+
+La personnalisation des contenus des sites et applications mobile
+
+La réalisation d’opérations de maintenance et de développement techniques du site internet
+
+Sécurité des données
+
+Vos données personnelles peuvent être transmises pour répondre aux finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne. Ces sociétés répondent à la conformité GDPR et “Privacy Shield”
+
+Préalablement au transfert hors Union Européenne et conformément à la réglementation en vigueur, WEBEDIA met en œuvre toutes les procédures requises pour obtenir les garanties nécessaires à la sécurisation de tels transferts.
+
+WEBEDIA prend diverses mesures pour assurer la sécurité de vos données contre la perte, l'utilisation abusive, l'accès non autorisé, la divulgation, la modification ou la destruction. En particulier :
+
+L’accès aux bases de données est strictement réservé aux personnes habilitées à en prendre connaissance dans le cadre de leurs missions.
+
+Conformément à la loi Informatique et Libertés du 6 janvier 1978 et au Règlement européen, Overblog s’est assuré que les sous-traitants s’engagent à respecter la sécurité et la confidentialité des données.
+
+Tous les employés de WEBEDIA sont sensibilisés à la protection des données personnelles au travers de formations, Newsletters et réunions d’équipe.
+
+Les accès à notre système interne d’administration sont tous tracés.
+
+Modification de notre politique
+
+WEBEDIA se réserve le droit de modifier à tout moment cette Politique de protection des données. En cas de modification substantielle telle que l’introduction d’une nouvelle finalité, WEBEDIA vous fournira au préalable des informations au sujet de cette autre finalité. Ceci afin de s’assurer que vous disposez d'un délai raisonnable pour exercer vos droits en vertu de la loi Informatique et Libertés du 6 janvier 1978 et du Règlement européen.
+
+Nous vous encourageons néanmoins à consulter régulièrement la Politique afin de prendre connaissance des modalités de protection de vos informations personnelles prévues par WEBEDIA.
+
+Cette Politique a été mise à jour pour la dernière fois à la date indiquée ci-dessus.
+
+WEBEDIA a nommé un délégué à la protection des données (DPO) en charge d’assister le responsable de traitement dans le respect du Règlement européen. Pour toutes questions relatives à la protection des données personnelles dans le groupe, nous mettons à votre disposition une adresse de contact : dpo-ob@webedia-group.com
+
+Pour toute question relative à notre Politique, vous pouvez nous contacter directement en vous adressant à notre email de contact contact@over-blog.com ou par courrier à WEBEDIA / Overblog - 1 place Occitane – 31000 Toulouse, France.
+***************************************************************
+
+

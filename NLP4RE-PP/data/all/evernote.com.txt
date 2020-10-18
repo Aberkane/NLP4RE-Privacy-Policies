@@ -1,0 +1,17 @@
+Title: Evernote Privacy Center
+URL: https://evernote.com/privacy
+Date of publishing: None
+Keywords: features, privacy, evernote, servers, data, access, requests, private, partner, transparency, tell, center
+
+Policy: Everything you put into Evernote is private by default. We are not a “big data” company and do not try to make money from your content. Our systems automatically analyze your data in order to power Evernote features, such as search and related notes, and to tell you about important features and products that we think will enhance your Evernote experience, but we never give or sell your content to any third party for advertising purposes.
+
+Our business model is old-fashioned: we only make money when you decide to pay us for a great product. This means that trust is our biggest asset and keeping your data private is fundamental.
+
+There are features in Evernote which allow you to publish and share some of your notes with others, but these are totally optional and whether or not you use them is up to you. If you choose to connect your Evernote account with one of our many partners, you may be giving the partner access to some or all of your data. We will tell you how the partner application will access your account and you can turn off access whenever you want.
+
+In addition, we take many precautions to protect your data from accidental loss and theft. Everything you put into an Evernote synchronized notebook is stored in our secure data center with multiple redundant servers, storage devices and off-site backups. Communications between Evernote clients and servers (and between our various data centers) are all encrypted. We provide industry-leading security technologies, like two factor authentication, to all users, and we’re constantly investing in ways to improve data protection. We take the utmost care in protecting your password and no one at Evernote will ever ask you for it.
+
+We support industry efforts to promote full transparency about government requests for data and have established a comprehensive legal process for handling such requests. View our Transparency Report for more details.
+***************************************************************
+
+

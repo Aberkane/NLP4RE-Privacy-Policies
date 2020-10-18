@@ -1,0 +1,198 @@
+Title: Privacy Statement
+URL: https://www.workday.com/en-us/privacy.html
+Date of publishing: None
+Keywords: technologies, website, data, personal, services, provide, privacy, information, statement, workday
+Policy: 
+Privacy Statement
+
+Effective: August 3, 2020
+
+Prior Workday Privacy Statement
+
+Prior Workday Service Privacy Policy
+
+Prior Adaptive Insights Online Privacy Statement
+
+
+
+
+
+
+
+Introduction This Workday Privacy Statement (“Privacy Statement”) describes how we collect, use, disclose, transfer, and store your personal data for the activities described below, including when you visit a Workday website that links to this Privacy Statement (“Website”), when you attend our marketing and learning events both online and offline (“Events”), and for our business account management. This Privacy Statement describes your choices and rights related to your personal data. A reference to “Workday,” “we,” “us,” or the “Company” is a reference to Workday, Inc. Workday is the controller for the personal data discussed in this Privacy Statement, except as noted in the “Workday as a Service Provider” section below.
+
+Workday as a Service Provider. Workday customers are organizations such as businesses and schools, who use our services to help them manage personnel, students, and applicants. Workday processes personal data in these services only according to our customers’ instructions. If you have questions about personal data you have entered into a Workday service used by one of our customers, or want to exercise any of your rights regarding your personal data, our customer contract requires that we redirect your inquiry back to that Workday customer.
+
+
+
+Personal data we collect. Personal data we collect directly from you.
+
+
+
+Website
+
+As a visitor to the Website you may choose to provide us with your personal data such as: First name
+
+Last name
+
+Business email
+
+Phone number
+
+Company name
+
+Job level
+
+Functional role
+
+Street address To access some areas of the Website, including Workday Community, you will need to have account authentication credentials. As part of your account, you may choose to provide us with additional data, such as: A photo
+
+Social media profiles
+
+Areas of expertise Events
+
+If you register to attend a Workday-sponsored Event, we may require certain data, including: First name
+
+Last name
+
+Business email
+
+Company name
+
+Emergency contact (in some instances)
+
+Dietary preferences (in some instances)
+
+Billing information (such as billing name, billing address, and credit card number) Account Management
+
+We collect business contact information for account management purposes related to the use of Workday software-as-a-service applications or professional services. Additionally, we collect name, company, and email address to manage Workday Learning registrations for customers and partners.
+
+Cookies, Web Beacons, and Other Similar Technologies
+
+Workday may use website tracking technologies to observe your activities, interactions, preferences, transactional information, and other computer and connection information (such as an IP address) relating to your use of our websites and services. We may also use log files, cookies, and similar technologies to collect information about the pages you view, links you click, and other actions you take when accessing our website or emails.
+
+Workday Events Mobile Application
+
+When you choose to use a Workday Events mobile application, we may collect information from your device, such as your photos, contacts, or geolocation data, to enable some functions in accordance with your device’s privacy settings.
+
+
+
+If Workday collects any other personal data from you, we will explain the purposes at the time we collect it.
+
+Personal data obtained from third-party sources.
+
+
+
+Workday may also collect business contact information about you from other sources including third parties from whom we have purchased business contact information and from publicly accessible websites, such as your company’s website, professional network services, or press releases. Business contact information may include: First name
+
+Last name
+
+Business email
+
+Phone number
+
+Company name
+
+Job level
+
+Functional role
+
+Business street address
+
+Online identifier
+
+Employment history In some instances, Workday may combine personal data you have provided to us with personal data collected from other sources as described above. We process this data to update, expand, and analyze our existing marketing records; identify new customers; create more tailored advertising or website experiences; and send marketing emails.
+
+How we use your personal data. To Contact You
+
+Workday uses the data we collect about you to provide Workday websites, services, and support. For example, if you provide data to us in a “Contact Us” form, we will use your data to respond to the request. Workday uses your personal data and information about your activity on our websites to contact you for marketing purposes in accordance with your marketing preferences, including telemarketing calls, and to send marketing emails that we believe may be of interest to you, such as product announcements, newsletters, educational materials, and details on upcoming events. We also use it to send administrative information, such as notices related to products, services, or policy changes.
+
+To Plan and Manage Events
+
+Workday uses your data for event planning and management, including registration, billing, and connecting with other event attendees, or to contact you further about relevant products and services. Any information you provide about emergency contacts or dietary preferences would be used for your safety and health purposes. To Facilitate Event Participation
+
+Workday uses the information collected using the Workday Events mobile applications to deliver requested application services and to facilitate event participation, such as providing event schedules and the opportunity to connect with event attendees. For example, when you are using the Workday Events mobile applications, we may access your camera to allow you to upload photographs to the mobile service; access your calendar, social media, and contact information to allow you to interact with other event attendees; or access the geographic location of your device to enable you to identify nearby contacts. Workday may also collect information from your usage of the Workday Events mobile applications to improve events and services, communicate with you about the event and relevant products and services, and for security purposes. You can control the collection of certain information using your device permission settings. For Improvement Purposes
+
+Workday uses the data we collect to understand how our websites and services are being used and to make improvements. For example, we may use the search queries entered into Workday Community to improve search capabilities or performance. Additionally, we use questions posted or comments on Workday Community to enrich the content or help guide future enhancements to our products and services. Similarly, the Workday mobile application gathers information for troubleshooting and improvement. We use third party services, such as Google Analytics, to view aggregated information about end user usage and interactions. Where possible, Workday takes steps to minimize or mask the information sent to third parties (such as encoding the data).
+
+For Security and Investigations
+
+Workday may use your information to diagnose website technical problems, as well as to prevent, detect, mitigate, and investigate potential security issues, as well as fraudulent or illegal activity. For Education and Training
+
+If you participate in a Workday-offered education or training course, your enrollment and attendance information will be recorded to track and potentially report your participation and completion. For example, completion of Workday certifications by a services partner may be visible to Workday and our customers, and completion of a training course may also be visible to the entity making the training available to you. This registration and tracking may be conducted by third parties on behalf of Workday. To Personalize your Experience
+
+Workday also may use your data to personalize your experience on our websites. Workday or our services providers use website tracking technologies to display products or features that are tailored to your interests and to present advertising on other sites. For more information on these technologies see the “Cookies and tracking technologies” section below. For more information on managing your choices in relation to cookies, please click “Cookie Preferences” in the footer of this page.
+
+Disclosure of data. Affiliates and Service Providers
+
+Workday may share data with Workday affiliates and third-party service providers or vendors contracted to provide services on our behalf. These third-party service providers or vendors may use data we provide to them only as instructed by Workday. Webinars, Events, and Other Activities Related to Workday Offerings
+
+Workday may offer the following solely or jointly with third parties or partners: webinars, events, whitepaper downloads, or other services related to Workday offerings or services. We may share your contact information and interests in these offerings or services with these approved third parties to communicate with you about Workday. When you attend an event (either sponsored by Workday or one where Workday is a participating vendor) and have your badge scanned, your data will be shared with Workday, as well as with any partner or third party participating in that event, and potentially with the entity sponsoring your attendance at the event. For example, if your badge is scanned as you attend a session at a Workday-sponsored conference, Workday and any co-presenters will have access to that information to understand who was in attendance, and potentially follow up with you on relevant products or services. If you do not want your data shared with Workday or partners in this manner, do not have your badge scanned. If your badge is scanned by a partner or a third party at an event, your data will be governed by that party’s privacy statement. Additional Disclosures
+
+Workday may disclose data if we have a good faith belief that such action is necessary to (a) conform to legal requirements or comply with legal processes; (b) protect and defend our rights or property; (c) enforce the website Terms and Conditions; and/or (d) act to protect the interests of our users or others. If Workday goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal data may be among the assets transferred. Workday does not sell personal data that we collect or process under this Privacy Statement.
+
+Where your personal data is processed. Your personal data may be stored and processed in the United States and in any other country where Workday or its affiliates, subsidiaries, or third-party service providers maintain facilities or personnel. When you provide personal data to Workday, we may process and transfer your data within the United States and around the world. We follow applicable data protection laws when transferring personal data. Workday operates as a global business and may transfer, store, or process your personal data in a country outside your jurisdiction, including ones that are not subject to an adequacy decision by the European Commission. However, we have taken appropriate safeguards to require that your personal data will remain protected in accordance with this Privacy Statement. These safeguards include implementing the European Commission’s Standard Contractual Clauses for transfers of personal data between our group companies, thus requiring all group companies to protect personal data they process from the EEA in accordance with European Union data protection law.
+
+
+
+Data retention. Workday will retain your personal data at least as long as necessary to fulfil the service that you have requested, comply with any laws or regulations, resolve disputes, and enforce our agreements. Workday may retain your data longer for a legitimate business interest where business benefit is not outweighed by your personal rights and freedoms. Data entered into a Workday enterprise service is retained in accordance with any applicable agreement between Workday and its customer.
+
+Cookies and tracking technologies. Workday or Workday service providers may observe your activities, interactions, preferences, transactional information, and other computer and connection information (such as an IP address) relating to your use of Workday websites. We may collect and store this data and combine this data with other personal data provided to Workday. Workday uses cookies and other similar technologies, such as web beacons, HTML5 Local Storage, local shared objects, tags, and scripts on our websites and in email communications. We use these technologies to authenticate your access to various areas of our websites, understand your interests, analyze web traffic, combat fraud, provide interest-based advertising, improve our products and services as further described above in the “Use” section, and tailor content to your preferences. In emails we send, we may use these technologies to track their effectiveness. You can configure your browser settings to manage certain tracking technology interactions. For some tracking technologies, you may need to take additional steps to manage their use and removal. Please review your browser privacy settings. Online advertising may use data collected about your web browsing behavior, such as the pages you have visited or the searches you have conducted. This data may be used to display more relevant advertisements and content to you on non-Workday websites. The data used for targeted advertising may come from Workday or through third-party ad networks. If you would like to opt out of targeted advertising on our websites, please visit our cookie consent manager (if you are located in the EEA, United Kingdom, or Switzerland, please visit our Europe-specific cookie consent manager). Please note, this does not opt you out of being served advertising. You will continue to receive generic ads. For additional information about the cookies and the tracking technologies Workday uses on our workday.com sites, and to manage your preferences, please click “Cookie Preferences” in the footer of this page. For information about the cookies and tracking technologies used on AdaptivePlanning.com, please review the Adaptive Planning Cookie Statement. Type of Cookie Description Required These cookies and similar technologies enable basic features of the site to function and collect statistical information about visitors to our website to manage site usage. All of the information collected is aggregated and used anonymously.
+
+
+
+There are also some cookies that will enable a more personalized experience. If required by local law, these cookies will not be used until you opt-in to their functionality. Functional Functional technologies allow the Workday website to remember information you have entered or choices you make, and provide enhanced and more personalized features based on your interaction with the site. Advertising Advertising technologies are used to deliver advertising that is relevant to your interests. These technologies are also used to limit the number of times you see an advertisement and to help measure the effectiveness of the advertising campaign. After visiting our site, you may see an advertisement for Workday on another site. Do Not Track
+
+Without a common industry or legal standard for interpreting Do Not Track (DNT) signals, Workday does not respond to browser DNT signals. We will continue to monitor further development of a DNT standard by the privacy community and industry.
+
+Your rights over your personal data. Depending where you are located, you may have certain legal rights over the personal data we hold about you, subject to local privacy laws. These may include the right to: Access the personal data we hold about you
+
+Have incorrect personal data updated or deleted
+
+Have your personal data deleted
+
+Restrict the processing of your personal data
+
+Object to the processing of your personal data carried out on the basis of our legitimate interests or for direct marketing purposes
+
+Receive a copy of your personal data in an electronic and machine-readable format
+
+Not be subject to a decision based solely on automated processing, including profiling, which produces legal effects or otherwise significantly affects you (“Automated Decision-Making”). Workday does not perform Automated Decision-Making as part of the processing activities covered by this Privacy Statement.
+
+Receive the categories of sources from whom we collected your personal data
+
+Opt out of marketing communications at any time by clicking on the “Unsubscribe” or “Opt out” link in marketing emails we send you or by contacting us
+
+Complain to a regulator or data protection authority about our collection and use of your personal data. For more information, please contact your local data protection authority.
+
+Workday will not discriminate against you for exercising your rights. You, or an authorized individual that we can verify is acting on your behalf, can exercise the applicable rights by contacting us using the contact details at the bottom of this Privacy Statement or by submitting your request through our Request Portal. If your personal data has been submitted to us by or on behalf of a Workday customer and you wish to exercise any rights you may have under applicable data protection laws, please inquire with the applicable customer directly.
+
+Legal basis for processing personal data. Our legal grounds for collecting and using your personal data as described in this Privacy Statement fall into the following four categories. Consent : In some cases, we ask you for your consent to process your personal data, such as when we need your consent for marketing purposes. You can withdraw your consent at any time, which will not affect the lawfulness of the processing before your consent was withdrawn. If you would like to withdraw your consent, you can do so by emailing privacy@workday.com. Legitimate Interest : We process certain data for the legitimate interests of Workday, our affiliates, our partners, or our customers. These legitimate interests include, for example, contacting you to provide support or sending you marketing information (subject to applicable law); detecting, preventing, and investigating illegal activities and potential security issues; and maintaining and improving the Website and mobile applications. We will rely on our legitimate interests for processing personal data only after balancing our interests and rights against the impact of the processing on individuals. Performance of a Contract : Sometimes we process personal data to perform our obligations under an agreement with you. For example, we use payment information you provide when you register for an event to process your payment. Other Legal Bases : In some cases, we may have a legal obligation to process your personal data, such as in response to a court or regulator order. We also may need to process your personal data to protect vital interests, or to exercise, establish, or defend legal claims.
+
+Workday forums. You may post comments or questions on our websites; for example, on a blog, community site, or developer forum. Some of these forums allow you to provide your personal data and create a profile. Personal data you submit in these public areas can be read and collected by others who access them. You should only post personal information to online forums with the awareness that the information will be available to others in the forum. Comments posted by individuals in an online forum reflect their own views and should not be considered to reflect the opinion of Workday.
+
+Workday Extend. Workday Extend allows partners and developers to build applications independent of Workday. Before using these applications, please review the relevant privacy statement and terms of service.
+
+Security. We use technical and organizational measures that provide a level of security appropriate to the risk of processing your personal data. However, the security of information transmitted through the internet can never be guaranteed. You are responsible for maintaining the security of your password or other form of authentication involved in accessing password-protected or secured resources.
+
+Third-party certifications. E.U.-U.S. and Swiss-U.S. Privacy Shield
+
+
+
+Workday complies with the U.S. Department of Commerce-maintained EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, use, and retention of personal data transferred from the European Economic Area (EEA), Switzerland, or the United Kingdom to the United States. Workday has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Frameworks and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. Workday is responsible for processing personal data we receive under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Workday complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA, Switzerland, or the United Kingdom, including the onward transfer liability provisions. With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Workday is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+
+
+APEC Participation
+
+Workday’s privacy practices, described in this Privacy Statement, comply with the APEC Cross-Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal data transferred among participating APEC economies. More information about the APEC framework can be found here.
+
+
+
+
+
+
+
+Changes to this Privacy Statement. This Privacy Statement may be amended or revised from time to time at the discretion of Workday. Changes to this Privacy Statement will be posted on the Website and links to the Privacy Statement will indicate that the statement has been changed or updated. If we propose to make any material changes, we will provide notice on this page prior to the change becoming effective. We encourage you to periodically review this Privacy Statement for the latest information on our privacy practices.
+
+

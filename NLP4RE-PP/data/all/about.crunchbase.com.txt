@@ -1,0 +1,240 @@
+Title: Privacy Policy
+URL: https://about.crunchbase.com/terms-of-service/privacy-policy/
+Date of publishing: None
+Keywords: policy, request, collect, data, personal, services, cookies, privacy, information, service
+Policy: 
+Effective: January 1st, 2020
+
+At Crunchbase, we know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy.
+
+By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
+
+Remember that your use of Crunchbase’s Services is at all times subject to our Terms of Service, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Service. Our Privacy Policy applies to all users of the Crunchbase website: www.crunchbase.com (and any subdomains).
+
+What does this Privacy Policy Cover?
+
+This Privacy Policy covers how we treat Personal Data that we gather when you access or use our Services. “Personal Data” means any information that identifies or relates to a particular individual and also includes information referred to as “personally identifiable information” or “personal information” under applicable data privacy laws, rules, or regulations. This Privacy Policy does not cover the practices of companies we don’t own or control or people we don’t manage.
+
+Changes to this Privacy Policy
+
+Crunchbase may change this Privacy Policy from time to time. Laws, regulations, and industry standards evolve, which may make those changes necessary, or we may make changes to our Services or business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed. If we make changes that materially alter your privacy rights, we will alert you to changes by placing a notice on the Crunchbase website, by sending you an email, and/or by some other means. Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.
+
+If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+
+What Personal Data does Crunchbase Collect?
+
+We collect Personal Data about you from:
+
+You: when you provide such information directly to us, and when Personal Data about you is automatically collected in connection with your use of our Services.
+
+Third parties, both when they provide us with Personal Data about you and when we seek out information for Profiles, as discussed below (“Third Parties”). Third Parties that share your Personal Data with us include: Service providers . For example, we may use analytics service providers to analyze how you interact and engage with the Services, or third parties may help us provide you with customer support. Social networks connected to the services . If you provide your social network account credentials to us or otherwise sign in to the Services through a third-party site or service, you understand some content and/or information in those accounts may be transmitted into your Account with us. Advertising partners . We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our websites, applications, products, services, advertisements or communications
+
+
+
+Crunchbase also creates profiles of people and companies, which we call “Profiles,” from different sources. Once we have collected information (primarily business-related information) about a person or company, we combine multiple mentions of the same person or company into a Profile. Profiles are then made available to users of the Services, and our customers and strategic partners.
+
+When we create or enhance Profiles about individuals, we may collect this information from multiple sources, including:
+
+Publicly-available web sources that we scan using technology or manual methods.
+
+User contributions about themselves or other people and companies.
+
+Research conducted internally by Crunchbase.
+
+Other companies and data partners that license information to us.
+
+What Categories of Personal Data We Collect
+
+The following chart details the categories of Personal Data that we collect and have collected over the past twelve (12) months. Throughout this Privacy Policy, we will refer back to the categories of Personal Data listed in this chart (for example, “Category A. Personal identifiers”).
+
+Category of Personal Data Examples What is the source of this Personal Data? A. Personal identifiers Name, email, IP, username, social medial profile IDs/links, personal website Profile data: Name, social profile links, personal website You Third Parties B. Customer records identified by state law (including the California Customer Records statute (Cal. Civ. Code § 1798.80(e))) Name, address, credit card type, last 4 digits of credit card You C. Protected classification characteristics under state or federal law Gender Profile data: Gender You Third Parties D. Commercial information We do not collect this category of Personal Data. n/a E. Biometric information We do not collect this category of Personal Data. n/a F. Internet or other similar network activity information Website & application usage, interaction w/ advertisement, browser/platform/device used, search history You Third Parties G. Geolocation data IP, location data (city, country, state) Third Parties H. Sensory data We do not collect this category of Personal Data. n/a I. Professional or employment-related information Employment history Profile data: Current & past companies, current & past job titles, biography description, press references, professional investments You Third Parties J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)) We do not collect this category of Personal Data. n/a K. Inferences drawn from other personal information We do not collect this category of Personal Data. n/a L. Age or date of birth We do not collect this category of Personal Data. n/a
+
+The following sections provide additional information about how we collect your Personal Data.
+
+Information You Provide to Us: We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number, and third-party account credentials (for example, your log-in credentials for LinkedIn or other third-party sites). If you provide your third-party account credentials to us or otherwise sign in to the Services through a third party site or service (such as Twitter, Facebook, or Google), you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. Certain information may be required to register with us or to take advantage of some of our features.
+
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us, which helps us improve our services. If you do not want to receive communications from us, please indicate your preference on the Account Information page or contact us at support@crunchbase.com.
+
+Information Collected Automatically: Like many other commercial websites, we may also gather information in connection with your use of the Site or Services through the use of cookies and other similar technologies such as server logs, pixel tags, web beacons, user website activity and JavaScript (collectively, “Cookies”) to enable us to recognize your web browser or device and tell us how and when you visit and use our Services, to analyze trends, to learn about our user base, and to operate and improve our Services. Cookies are small pieces of data– usually text files – placed on your computer, tablet, phone, or similar device when you use that device to visit our Services. We may also supplement the information we collect from you with information received from third parties, including third parties that have placed their own Cookies on your device(s). Please note that because of our use of Cookies, the Services do not support “Do Not Track” requests sent from a browser at this time.
+
+We use the following types of Cookies:
+
+Essential Cookies . Essential Cookies are required for providing you with features or services that you have requested. For example, certain Cookies enable you to log into secure areas of our Services. Disabling these Cookies may make certain features and services unavailable.
+
+. Essential Cookies are required for providing you with features or services that you have requested. For example, certain Cookies enable you to log into secure areas of our Services. Disabling these Cookies may make certain features and services unavailable. Functional Cookies . Functional Cookies are used to record your choices and settings regarding our Services, maintain your preferences over time and recognize you when you return to our Services. These Cookies help us to personalize our content for you, greet you by name, and remember your preferences (for example, your choice of language or region).
+
+. Functional Cookies are used to record your choices and settings regarding our Services, maintain your preferences over time and recognize you when you return to our Services. These Cookies help us to personalize our content for you, greet you by name, and remember your preferences (for example, your choice of language or region). Performance/Analytical Cookies . Performance/Analytical Cookies allow us to understand how visitors use our Services such as by collecting information about the number of visitors to the Services, what pages visitors view on our Services and how long visitors are viewing pages on the Services. Performance/Analytical Cookies also help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the Services’ content for those who engage with our advertising. For example, Google, Inc. (“Google”) uses cookies in connection with its Google Analytics services. Google’s ability to use and share information collected by Google Analytics about your visits to the Services is subject to the Google Analytics Terms of Service and the Google Privacy Policy. You have the option to opt-out of Google’s use of cookies by visiting the Google advertising opt-out page at https://policies.google.com/technologies/ads or the Google Analytics Opt-out Browser Add-on at https://tools.google.com/dlpage/gaoptout/.
+
+. Performance/Analytical Cookies allow us to understand how visitors use our Services such as by collecting information about the number of visitors to the Services, what pages visitors view on our Services and how long visitors are viewing pages on the Services. Performance/Analytical Cookies also help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the Services’ content for those who engage with our advertising. For example, Google, Inc. (“Google”) uses cookies in connection with its Google Analytics services. Google’s ability to use and share information collected by Google Analytics about your visits to the Services is subject to the Google Analytics Terms of Service and the Google Privacy Policy. You have the option to opt-out of Google’s use of cookies by visiting the Google advertising opt-out page at https://policies.google.com/technologies/ads or the Google Analytics Opt-out Browser Add-on at https://tools.google.com/dlpage/gaoptout/. Retargeting/Advertising Cookies . Retargeting/Advertising Cookies collect data about your online activity and identify your interests so that we can provide advertising that we believe is relevant to you. For more information about this, please see the section below titled “Information about Interest-Based Advertisements.”
+
+You can decide whether or not to accept Cookies through your internet browser’s settings. Most browsers have an option for turning off the Cookie feature, which will prevent your browser from accepting new Cookies, as well as (depending on the sophistication of your browser software) allow you to decide on acceptance of each new Cookie in a variety of ways. You can also delete all Cookies that are already on your computer. If you do this, however, you may have to manually adjust some preferences every time you visit a site, and this may cause some Services and functionalities to not work.
+
+To explore what Cookie setting are available to you, look in the “preferences” or “options” section of your browser’s menu. To find out more information about Cookies, including information about how to manage and delete Cookies, please visit https://www.allaboutcookies.org/.
+
+Information about Interest-Based Advertisements: We may serve advertisements, and also allow third-party ad networks, including third-party ad servers, ad agencies, ad technology vendors and research firms, to serve advertisements through the Services. These advertisements may be targeted to users who fit certain general profile categories or display certain preferences or behaviors (“Interest-Based Ads”). Information for Internet-Based Ads (including Personal Data) may be provided to us by you, or derived from the usage patterns of particular users on the Services and/or services of third parties. Such information may be gathered through tracking users’ activities across time and unaffiliated properties, including when you leave the Services. To accomplish this, we or our service providers may deliver Cookies, including a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Web beacons allow ad networks to view, edit or set their own Cookies on your browser, just as if you had requested a web page from their site.
+
+Several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of, and greater control over, ads that are customized based a consumer’s online behavior across different websites and properties. To make choices about Interest-Based Ads from participating third parties, including to opt-out of receiving behaviorally targeted advertisements from participating organizations, please visit the Digital Advertising Alliance or Network Advertising Initiative consumer opt-out pages, which are located at https://www.networkadvertising.org/choices/ or https://www.aboutads.info/choices. Users in the European Union should visit the European Interactive Digital Advertising Alliance’s user information website https://www.youronlinechoices.eu/.
+
+How We Use Your Personal Data
+
+We process Personal Data to operate, improve, understand and personalize our Services. We use Personal Data for the following purposes:
+
+To meet or fulfill the reason you provided the information to us.
+
+To communicate with you about the Services, including Service announcements, updates or offers.
+
+To provide support and assistance for the Services.
+
+To create and manage your Account or other user profiles.
+
+To personalize your experience, website content and communications based on your preferences, including targeted offers and ads served through the Services.
+
+To process orders or other transactions.
+
+To respond to user inquiries and fulfill user requests.
+
+To improve and develop the Services, including testing, research, analysis, and product development (including creation and enhancement of public person profiles).
+
+To protect against or deter fraudulent, illegal or harmful actions and maintain the safety, security and integrity of our Services.
+
+To comply with our legal or contractual obligations, resolve disputes, and enforce our Terms of Service.
+
+To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+
+For any other business purpose stated when collecting your Personal Data or as otherwise set forth in applicable data privacy laws, such as the California Consumer Privacy Act (the “CCPA”).
+
+We will not collect additional categories of Personal Data or use the Personal Data we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+
+As noted in the list above, we may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us, which helps us improve our services. If you do not want to receive communications from us, please indicate your preference on the Account Information page or contact us at support@crunchbase.com.
+
+How We Share Your Personal Data
+
+Disclosures of Personal Data for a Business Purpose
+
+We disclose your Personal Data to service providers and other parties for the following business purposes:
+
+Performing services on our behalf, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytic services, or providing similar services on behalf of the business or service provider.
+
+Auditing related to a current interaction and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+
+Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+
+Debugging to identify and repair errors that impair existing intended functionality.
+
+Short-term, transient use of Personal Data that is not used by another party to build a consumer profile or otherwise alter your consumer experience outside the current interaction.
+
+Undertaking internal research for technological development and demonstration.
+
+Undertaking activities to verify or maintain the quality or safety of a service or device that we own, manufacture, was manufactured for us, or control.
+
+We disclose your Personal Data to the following categories of service providers and other parties:
+
+Service providers, including: Subscription management providers and payment processors Security and fraud prevention consultants Hosting and other technology and communications providers Analytics providers Customer relationship management and customer support providers Ad networks
+
+Parties who acquire your Personal Data through an acquisition or other change of control. Personal Data may be transferred to a third party if we undergo a merger, acquisition, bankruptcy or other transaction in which that third party assumes control of our business (in whole or in part)
+
+Other parties at your direction. Other users (where you post information publicly or as otherwise necessary to effect a transaction initiated or authorized by you through the Services) Social media services (if you intentionally interact with them through your use of the Services) Third-party business partners who you access through the Services Other parties authorized by you
+
+
+
+Over the past twelve months, we have disclosed the following categories of your Personal Data to service providers or other parties for the business purposes listed above:
+
+Personal identifiers.
+
+Customer records identified by state law.
+
+Protected classification characteristics under state or federal law.
+
+Internet or other similar network activity information.
+
+Geolocation data.
+
+Professional or employment-related information.
+
+Sales of Personal Data
+
+At Crunchbase, we collect information from a variety of sources (including information contributed directly by you and/or our user community) in order to compile Profiles about entities and individuals. Please refer to the chart above titled “Categories of Personal Data We Collect” for a better understanding of the Personal Data we collect that constitutes Profile data.
+
+In this section, we use the term ‘sell’ as it is defined in the CCPA. We sell your Profile data to our customers and data partners (such as resellers and syndication partners), subject to your right to opt-out of these sales (see the “Your Rights” section below for information about how to opt-out).
+
+Over the past twelve months, we have sold the following categories of your Personal Data to third parties:
+
+Personal identifiers.
+
+Protected classification characteristics under state or federal law.
+
+Professional or employment-related information.
+
+Data Security and Retention
+
+We seek to protect your Personal Data from unauthorized access, use and disclosure using appropriate physical, technical, organizational and administrative security measures based on the type of Personal Data and how we are processing that data, including but not limited to:
+
+The Crunchbase website uses SSL (https).
+
+Account passwords are hashed when stored in our database.
+
+The authenticity of request methods are verified to prevent CSRF (cross-site request forgery) attacks.
+
+Crunchbase employees use passwords and enable screen locking.
+
+Access to IT accounts that process Personal Data is limited on a need-to-know basis and requires Two-Factor Authentication (2FA).
+
+Access to production data is on a need-to-know basis.
+
+Crunchbase performs third-party penetration testing.
+
+You should also help protect your data by appropriately selecting and protecting your password and/or other sign-on mechanism; limiting access to your computer or device and browser; and signing off after you have finished accessing your account. Although we work to protect the privacy of your account and other Personal Data that we hold in our records, no security system is impenetrable, and unanticipated system failures or the efforts of malicious actors are an unfortunate reality on the internet. Therefore, Crunchbase cannot guarantee that Personal Data during transmission through the Internet or while stored on our systems or otherwise in our care will be absolutely safe from intrusion by others.
+
+We retain Personal Data about you for as long as you have an open account with us or as otherwise necessary to provide the Services. In some cases we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, or is otherwise permitted or required by applicable law, rule or regulation. Afterwards, we retain some information in a depersonalized or aggregated form but not in a way that would identify you personally.
+
+Personal Data of Children
+
+As noted in the Terms of Service, we do not knowingly collect or solicit Personal Data from children under 16; if you are a child under 16, please do not attempt to register for or otherwise use the Services or send us any Personal Data. If we learn we have collected Personal Data from a child under 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Data, please contact us at privacy@crunchbase.com.
+
+California Resident Rights
+
+If you are a California resident, you have the rights outlined in this section. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. If there are any conflicts between this section and any other provision of this Privacy Policy and you are a California resident, the portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at privacy@crunchbase.com.
+
+Access
+
+You have the right to request more information about the Personal Data we hold about you and request a copy of such Personal Data by submitting a request using this form.
+
+Deletion
+
+You have the right to request that we delete the Personal Data that we have collected from you. Under the CCPA, this right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.
+
+Exercising Your Rights
+
+To exercise the rights described above, you must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, and (2) describes your request in sufficient detail to allow us to understand, evaluate, and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify you and complete your request. You do not need an account to submit a Valid Request.
+
+We will work to respond to your Valid Request within 45 days of receipt. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive, or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
+
+You may submit a Valid Request using the following methods:
+
+Emailing us at: privacy@crunchbase.com
+
+Submitting a request at: https://preferences.crunchbase.com/privacy
+
+Personal Data Sales Opt-Out and Opt-In
+
+You have the right to opt-out of the sale of your Personal Data. To do so, click the following link:
+
+Once you have submitted an opt-out request, we will not ask you to reauthorize the sale of your Personal Data for at least 12 months. However, you may change your mind and opt back in to Personal Data sales at any time by creating a new public profile for yourself.
+
+We Will Not Discriminate Against You for Exercising Your Rights Under the CCPA
+
+We will not discriminate against you for exercising your rights under the CCPA. We will not deny you our goods or services, charge you different prices or rates, or provide you a lower quality of goods and services if you exercise your rights under the CCPA. However, we may have different tiers of Services as allowed by applicable data protection laws (including the CCPA) with varying prices, rates, or levels of quality of the goods or services you receive related to the value of Personal Data that we receive from you.
+
+Nevada Resident Rights
+
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at privacy@crunchbase.com with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account, or click the following link:
+
+European Union Data Subject Rights
+
+If you are a resident of the European Union (“EU”), United Kingdom, Lichtenstein, Norway, or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) with respect to your Personal Data, as outlined in our GDPR Privacy Policy available at https://about.crunchbase.com/terms-of-service/gdpr-privacy-policy/.
+
+Contact Information:
+
+If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Data, your choices and rights regarding such use, please do not hesitate to contact your Crunchbase representative or email us at privacy@crunchbase.com.
+
+

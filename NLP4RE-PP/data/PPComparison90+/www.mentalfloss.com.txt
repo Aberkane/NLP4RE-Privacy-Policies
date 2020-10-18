@@ -1,0 +1,74 @@
+Title: 9 Privacy Policy Phrases You Need To Know
+URL: https://www.mentalfloss.com/article/542006/privacy-policy-phrases-you-should-know-terms-of-service
+Date of publishing: 2018-05-14 08:00:00+00:00
+Keywords: policy, companies, opt, know, phrases, data, personal, company, example, facebook, privacy, information, need
+Policy: 
+There’s a reason you’ve been getting a lot of emails recently about updated privacy policies—the European Union’s General Data Protection Regulation goes into effect on May 25. The new law requires companies that do business with users within the European Union's 28 countries to be more transparent about how they collect and use customers' information. That means that as a consumer, you should have more control over, or at least be able to better understand, your privacy.
+
+Still, let’s face it—privacy policies are boring. They’re full of legal jargon, they're often complex, and the information they contain likely won’t stop you from using a service you need or purchasing a product you want. Most people don’t even read privacy policies, and research suggests that at least half of us don’t fully grasp their purpose.
+
+While you can’t always know what goes on behind the scenes of a company, you can choose not to engage with a company or service provider if you don’t trust them to keep your information secure. Here’s what to look for in a privacy policy.
+
+1. “INFORMATION WE COLLECT” OR “INFORMATION YOU GIVE US”
+
+iStock
+
+For as long as you've been using the internet, you’ve likely been giving your personal information to dozens of websites that required you to create accounts to access services or make purchases.
+
+This could include everything from your name and date of birth to your social security number. Any data, even information you consider “non-sensitive” (for example, your email address may seem innocuous compared to your credit card numbers) can be used to connect the dots and create a detailed digital profile.
+
+Some of this information you provide actively and voluntarily, but much of it you may not be able to control. For example, Facebook collects information about you from other users. You also give up billing details and data about your connected devices (IP address and geographic location, for example), which you may not realize you are granting Facebook permission to view and use. We unknowingly provide lots of personal information to our internet service providers (ISPs)—and would-be hackers—with many of our regular internet browsing habits.
+
+2. “COOKIES”
+
+iStock
+
+If you want to purchase an item on Amazon, you must create an account, which at the very least requires you to provide your email address. To place an order, you have to enter your credit card number and billing and shipping addresses. According to Amazon’s privacy policy, the company receives and stores “any information you enter on our Web site or give us in any other way.”
+
+If a login isn’t required or you aren’t making a purchase, websites still collect data using cookies—little bits of text that help the site identify you. Cookies are the reason you are targeted with certain ads and can stay logged in as you navigate around a site. While you can disable cookies in your browser, this will limit your ability to fully use many websites.
+
+3. “INFORMATION SECURITY”
+
+A privacy policy should describe how a company stores your personal information, but the language around this is often vague, and you may have to take additional steps to fully secure your data. For example, Facebook says they have “teams of engineers, automated systems, and advanced technology such as encryption and machine learning” and “easy-to-use security tools”—but you have to go to the security help center page to learn how to enable those tools.
+
+Google’s privacy policy states that the company encrypts “many” services using Secure Sockets Layer (SSL), which protects the connection between your computer and Google’s servers. Google also restricts access to user data to “employees, contractors, and agents...who are subject to strict contractual confidentiality obligations.”
+
+4. “THIRD-PARTY”
+
+This is another vague area in many policies. Facebook and Amazon both share data with a number of third parties, including customer service providers and third-party apps you connect to your Facebook account. Companies may also share non-identifying information—data that cannot be traced back to you as an individual. While third-party sharing should not necessarily stop you from using a website, you should be aware of who else is receiving information about you and whether you can opt out.
+
+Third-party sharing is what Pam Dixon, executive director of the World Privacy Forum, calls the “meat and potatoes” of a privacy policy—especially when it comes to sites that promote health or health-related information and products. While some medical data is protected by privacy laws like HIPPA, medical-adjacent information like biometrics, sexual preference, specific income, and even purchase history can be dangerous when released to third parties or data brokers.
+
+“Medical-related information is prized,” she says. “Any kind of health-related data can be used to make important decisions about our lives.”
+
+5. “AFFILIATED BUSINESSES”
+
+Facebook.com isn’t the only website owned by the bigger Facebook company, which may share your data with WhatsApp and several other platforms that the larger company also owns. Many companies provide your personal information to affiliated businesses—Amazon works with Marketplace sellers and companies like Starbucks and Verizon, for example. While this isn’t necessarily a dealbreaker, Dixon says that, like with third-party sharing, you should scan for where and how your data is being shared or combined and have the chance to opt out.
+
+6. “COMBINE DATA” or “DATA BROKER”
+
+Data brokers collect, compile, and sell personal information—from your name and email address to the websites you visit and your search history. Companies purchase this data to create a more complete profile about you, which is then used to target you with specific products or services or even determine how much your health insurance should cost. Dixon says this can have consequences on everything from education to employment opportunities and opens the door for your information to be compromised in data breaches.
+
+If you come across language in a privacy policy along the lines of “learning more about you and your interests,” read carefully. It may not be obvious or explicit when a company works with data brokers, so it’s important that you ask this specific question.
+
+7. “OPT IN” VS. “OPT OUT”—“WHAT CHOICES DO I HAVE?”
+
+iStock
+
+Check privacy policies for how much control you have over your own information. Many will have sections that outline what choices you have and how you can opt in to or out of certain data collection and sharing practices, similar to opting out of email communication.
+
+For example, Amazon’s policy includes a link to update your user communication and advertising preferences, but it does acknowledge that you can’t access, update, or delete everything and notes that the company keeps copies of prior data even after you make changes. Google requires users to opt in to any sharing of sensitive personal information and allows you to opt out of advertising services, choose what data is saved in your account, and remove some information from Google services.
+
+Following the Cambridge Analytica controversy, Facebook recently announced that it is updating its data policies to give users more opportunities to actively choose how their data is collected, stored, and shared.
+
+8. “DELETE”
+
+Another important thing to ask: What happens to my information over time? Facebook stores your data for “as long as necessary” to provide you with products and services, but information will be deleted once you delete your account. Even if you get rid of certain accounts, however, your data may live on a company’s servers for longer. For example, Google’s policy says that they may not “immediately delete residual copies” or remove information from backup servers.
+
+9. "CONTACT US"
+
+iStock
+
+Companies should offer a way to get in touch. In fact, Dixon recommends reaching out to companies directly and asking these questions about their privacy practices. As a consumer, you have the right to understand how your personal information is used as well as the right to opt out of any data sharing—and now is the time to demand that companies collect and secure our data responsibly.
+
+

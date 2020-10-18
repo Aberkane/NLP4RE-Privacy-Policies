@@ -1,0 +1,207 @@
+Title: Privacy Policy
+URL: https://www.intercom.com/legal/privacy
+Date of publishing: None
+Keywords: collect, offerings, services, data, including, intercom, personal, information, privacy, policy, customer
+
+Policy: Previous version
+
+If you are a visitor to an Intercom Website, a recipient of Intercom communications, a customer of an Intercom Service or a teammate of a customer's Intercom Service then except as expressly set forth below, this Privacy Policy applies to your use of such Website or Service. This Privacy Policy also applies to information we collect in certain offline settings where this Privacy Policy is posted.
+
+If you are a visitor to or user of a third-party website or service (“Third-Party Property”) that utilizes any Intercom communication or messaging products (such as the Intercom chat widget), then any information you submit to such Third-Party Property (including via the Intercom product) is collected under the privacy policy of the owner of such Third-Party Property, and you should contact such owner with any related requests or inquiries you may have. If you have any inquiries about this Privacy Policy, please email our Data Protection Officer at compliance@intercom.com.
+
+At Intercom, we respect the privacy rights and data protection rights of our users and recognize the importance of protecting the personal information we collect about you. Our Privacy Policy is designed to help you understand what information we collect and how we use and share that information.
+
+As used in this Privacy Policy, “Intercom,” “us” and “we” refers to Intercom, Inc. and its affiliates, including without limitation Intercom R&D Unlimited Company and Intercom Software UK Limited. The “Websites” means Intercom’s websites (including without limitation www.intercom.com, www.intercom.io, app.intercom.com, app.intercom.io and any successor URLS, mobile or localized versions and related domains and subdomains), and the “Services” means Intercom’s communications and messaging products, applications and services, in each case in whatever format they may be offered now or in the future. The Websites and Services are collectively referred to herein as the “Offerings.”
+
+Information We Collect
+
+A. Information Related to Your Interaction with Intercom and the Offerings and communicating the Offerings.
+
+Registration and Contact Information. We collect information about you when you (a) register to use the Services and (b) otherwise provide contact information to us via email, mail, or through our Offerings. This information you provide may include your username, first and last name, email address, mailing address or phone number.
+
+Payment Information. When you purchase the Services, we will also collect transaction information, which may include your credit card information, billing and mailing address, and other payment-related information (“Payment Information”). We describe how Payment Information may be collected and processed the section below entitled Payment Information.
+
+Technical, Usage and Location Information. We automatically collect information on how you interact with the Offerings, such as the IP address from which you access the Offerings, date and time, information about your browser, operating system and computer or device, pages viewed and items clicked. We may also collect location information, including location information automatically provided by your computer or device. We use cookies and similar technologies to collect some of this information. The Intercom Messenger service (and specifically the domains widget.intercom.io and api-iam.intercom.io) does not collect, retain, or share data regarding a particular user's activity across multiple websites or applications that are not owned by Intercom. Intercom does assign each user a unique user ID within the scope of an individual website, but does not collect or retain IP or any information that would allow Intercom to identify the same particular user on more than one website. For more information, please see Intercom's Cookie Policy.
+
+Third Party Platform Information We may collect information when you interact with our advertisements and other content on third-party sites or platforms, such as social networking sites. This may include information such as “Likes”, profile information gathered from social networking sites or the fact that you viewed or interacted with our content.
+
+Other Information.We may collect other information from you that is not specifically listed here. We may use any such information in accordance with this Privacy Policy or as otherwise permitted by you.
+
+Legal Basis.Our Legitimate Interest. Intercom products work together to help sales, marketing, and support teams better communicate with customers. In order to engage visitors and leads we have a legitimate interest to collect relevant data and send messages based on this information. We consider your privacy and data protection rights when we pursue our legitimate interests and ensure that the way our Offerings work don't impact on those rights. For website visitors Intercom will store this data for 9 months, for sales and marketing leads Intercom will store this data until the individual opts out or where they have not engaged with Intercom in 24 months.
+
+B. Customer Data.
+
+You may submit various types of information and data into the Services for hosting and processing purposes (“Customer Data”). Customer Data may include, without limitation, (a) billing information, personal information such as names, email addresses, phone numbers, location and photos of your end user customers, potential customers and other users of and visitors to your websites, apps and other properties (e.g. Teammates' details (“People”), which information may be input into the Services by you or collected by the Services using Intercom tags, scripts and other code implemented on such properties, and (b) information contained in communications between you and People using the messaging features of the Services.
+
+We will only use, disclose and otherwise process Customer Data for the purposes set forth in your agreement with us for the provisioning of the Services (“Customer Agreement”). The Services use third-party services provided by FullContact, Inc. (“FullContact”) to enable you to retrieve publicly-available information about People including without limitation social media information, profile information, gender, company, job titles, photos, physical addresses, and website URLs based on People’s email addresses input into the Services. FullContact uses People’s email addresses as described in its privacy policy, available at https://www.fullcontact.com/privacy/. Customers can review and sign our Data Processing Agreement as an addendum to our Terms and Conditions.
+
+Legal Basis.We process and store Customer Data to perform our Customer Agreement with you. Without this information, we wouldn't be able to provide our Offerings to you. We also process Customer Data to pursue our legitimate interests by ensuring the smooth running of your Customer Agreement and to help your sales, marketing, and support teams better communicate with your customers. We consider your privacy and data protection rights when we pursue our legitimate interests and ensure that the way Offerings work don't impact on those rights.
+
+##Sources of Information We Collect
+
+From You. You are the primary source of the personal information we collect, including the Registration and Contact Information, Payment Information, and Customer Data that you provide us through the Offerings or otherwise.
+
+From other sources. We obtain personal information from other sources, such as:
+
+Other users , who submit Customer Data of other People to us.
+
+, who submit Customer Data of other People to us. Third Party Platforms , such as our advertising partners and content on third-party sites or platforms, including social networks.
+
+, such as our advertising partners and content on third-party sites or platforms, including social networks. Third party data providers, including information services and data licensors, such as FullContact.
+
+From automatic collection. We and our service providers may automatically collect information about you, your computer or mobile device, and your activity over time on our sites and other sites and online services, as further described in the Technical, Usage, and Location Information described above and in our Cookie Policy.
+
+How We Use the Information We Collect
+
+We use your information in the following ways:
+
+To provide, maintain and improve the Offerings and our other products and services, including to operate certain features and functionality of the Offerings (for example, by remembering your information so that you will not have to re-enter it during this or subsequent visits);
+
+To process your inquiries and otherwise deliver customer service;
+
+To process your payments, we share and use Payment Information as described in the section below entitled Payment Information;
+
+To control unauthorized use or abuse of the Offerings and our other products and services, or otherwise detect, investigate or prevent activities that may violate our policies or be illegal;
+
+To analyze trends, administer or optimize the Offerings, monitor usage or traffic patterns (including to track users’ movements around the Offerings) and gather demographic information about our user base as a whole;
+
+To communicate directly with you, including by sending you newsletters, promotions and special offers or information about new products and services. Your opt-out options for promotional communications are described the section below entitled Your Controls and Choices; and
+
+In the manner described to you at the time of collection or as otherwise described in this Privacy Policy.
+
+Interest-based ads. We and our third-party advertising partners may use cookies and similar technologies to collect information about you (including the Technical, Usage and Location Information described above) over time across our Service and other sites and services and your interaction with our emails, and use that information to serve ads that they think will interest you. These ads are known as "interest-based advertisements>" You can learn more about the companies that help us serve interest-based ads in our Cookie Policy and your choices for limiting interest-based advertising in the section below entitled Limiting interest-based ads.
+
+Sharing Your Information with Third Parties
+
+We do not share or transfer your personal information to third parties except in the following limited circumstances:
+
+We may share your personal information with our parent companies, subsidiaries and affiliates;
+
+We may share your personal information with third-party service providers to permit such parties to provide services that help us with our business activities, which may include assisting us with marketing, advertising our product/service offerings, or providing, maintaining and improving the features and functionality of the Offerings, among other things. For example, we may provide personal information to our service providers for direct emailing of our newsletters or notifications of our product/service offerings. The data shared can include name, job title, email address, message history, company information. All third parties are engaged under contract and obliged to meet appropriate security requirements and comply with all applicable legislation;
+
+We may allow third party companies to collect information about your activity on the Offerings and other online services to facilitate delivery of interest-based ads, and/or use hashed customer lists that we shared with them to deliver ads to our customers and similar users on their platforms.
+
+We may share your personal information when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce a Customer Agreement, including investigation of potential violations thereof, or (c) protect against imminent harm to our rights, property or safety, or that of our users or the public as required or permitted by law;
+
+We may share your personal information with third parties (including our service providers and government entities) to detect, prevent, or otherwise address fraud or security or technical issues;
+
+We may share your personal information with our business partners who offer a service to you jointly with us, for example when running a cross-promotion;
+
+We may share your Payment Information to process your payments, as further described in the section below entitled Payment Information;
+
+We may share and/or transfer your personal information if we become involved in a merger, acquisition, bankruptcy, or any form of sale of some or all of our assets; and
+
+We may share your personal information with a third party if we have your consent to do so.
+
+We may also share aggregated or anonymized information with third parties for other purposes. Such information does not identify you individually, but may include usage, viewing and technical information such as the types of Offerings our customers and users generally use, the configuration of their computers, and performance metrics related to the use of Offerings which we collected through our technology. If we are required under applicable law to treat such information as personal information, then we will only disclose it as described above. Otherwise we may disclose such information for any reason.
+
+Payment Information
+
+When you make a purchase on the Offerings, any credit card information you provide as part of your Payment Information is collected and processed directly by our payment processor Stripe through their Stripe Checkout service. We never receive or store your full credit card information. Stripe commits to complying with the Payment Card Industry Data Security Standard (PCI-DSS) and using industry standard security. Stripe may use your Payment Information in accordance with their own Privacy Policy here: https://stripe.com/us/checkout/legal.
+
+Other Access to or Disclosure of Your Information
+
+The Offerings may also contain links to third party websites. This Privacy Policy applies solely to information collected by us. Even if the third party is affiliated with us through a business partnership or otherwise, we are not responsible for the privacy practices of such third party. We encourage you to familiarize yourself with the privacy policies of such third parties to determine how they handle any information they separately collect from you. Please be aware that we do not warn you when you choose to click through to another website when using the Offerings.
+
+The Websites contain features that enable you to post reviews, comments or other content that is publicly viewable. You should be aware that any personal information you submit as part of those posts can be read, collected, or used by other visitors to the Websites, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to publicly post on the Websites. Please see our Website Terms of Use for more information and for other guidelines about posting content on the Websites.
+
+Your Rights and Choices
+
+Opt-Outs. We may provide you with the opportunity to “opt-out” of having your personal information used for certain purposes when we ask for this information. If you decide to opt-out, we may not be able to provide certain features of the Offerings to you.
+
+Communication Preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included on such communications or on the Offerings. Please note, however, that you may be unable to opt-out of certain service-related communications.
+
+Blocking Cookies. You can remove or block certain cookies using the settings in your browser but the Offerings may cease to function properly if you do so. For more information, please see Intercom's Cookie Policy.
+
+Limiting interest-based ads. You can limit use of your information for interest-based advertising by
+
+Using the opt-out options provided by our advertising partners as described in our Cookie Policy
+
+Opting out of interest-based ads on websites from companies participating in the following industry opt-out programs Network Advertising Initiative http://www.networkadvertising.org/managing/opt_out.asp. Digital Advertising Alliance: http://optout.aboutads.info (or if you are in the European Ecenomic Area or United Kingdom http://www.youronlinechoices.com/).
+
+Installing the AppChoices mobile app, available at https://www.youradchoices.com/appchoices, which will allow you to opt-out of interest-based ads in the mobile apps served by participating members of the Digital Advertising Alliance.
+
+Blocking third party cookies in your browser settings or by using third party ad-blocking software.
+
+Using your mobile device settings to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
+
+If you opt-out of interest-based advertisements, you will still see advertisements online but they may be less relevant to you.
+
+How We Respond to Do Not Track Signals. Your Web browser may have a “do not track” setting which, when enabled, causes your browser to send a do not track HTTP header file or “signal” to each site you visit. At present, the Offerings do not respond to this type of signal.
+
+Data Subject Rights. You can access, rectify, erase, restrict or export your personal information at any time by emailing us at team@intercom.com. You can object to our processing of your personal information at any time. Contact our Data Protection Officer with requests or concerns at compliance@intercom.com. If you are unsatisfied with the response you have the right to lodge a complaint with your supervisory authority.
+
+Accessing and Updating Your Personal Information
+
+When you use the Offerings, we make good faith efforts to provide you with access to your personal information upon your request and either provide you the means to correct this information if it is inaccurate or to delete such information at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You may access, review, correct, update, change or delete your information at any time. To do so, please contact us at team@intercom.com with your name and the information requested to be accessed, corrected or removed, or if you are using the Service, sign in to your account, go to your profile, and make the desired changes. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort (for instance, requests concerning information residing on backup tapes), jeopardize the privacy of others, would be extremely impractical, or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+
+Please note that if you cease using the Service or we terminate your access to the Service in accordance with your Customer Agreement, you may no longer have the ability to access or update your information.
+
+We may retain your information as necessary to support the Offerings, comply with our legal obligations or resolve disputes. Note that content you post may remain on the Offerings even if you cease using the Offerings or we terminate your access to the Offerings.
+
+Changes to the Privacy Policy
+
+We reserve the right to change our Privacy Policy at any time. If we make changes, we will post them and will indicate on this page the policy’s new effective date. If we make material changes to this policy, we will notify you by email or through notice on the Offerings.
+
+No Children Under Age 16
+
+The Offerings are not intended for use by anyone under the age of 16, nor does Intercom knowingly collect or solicit personal information from anyone under the age of 16 . If you are under 16, you may not attempt to register for the Offerings or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we confirm that we have collected personal information from someone under the age of 16 without verification of parental consent, we will delete that information promptly. If you are a parent or legal guardian of a child under 16 and believe that we might have any information from or about such child, please contact us at the email or mailing address provided at the end of this Privacy Policy.
+
+Security
+
+The security of your personal information is important to us. We maintain a variety of appropriate technical and organizational safeguards to protect your personal information. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Further, we have implemented reasonable physical, electronic, and procedural safeguards designed to protect personal information about you. When you enter sensitive information (such as your password), we encrypt that information in transit using industry-standard Transport Layer Security (TLS) encryption technology. No method of transmission over the Internet, method of electronic storage or other security methods are one hundred percent secure. Therefore, while we strive to use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. You can find out more about our technical and organizational safeguards on our Security page.
+
+International Transfer of Data; EU-U.S. and Swiss-U.S. Privacy Shield
+
+We may from time to time transfer your personal information to other countries outside the United States and make it accessible to our parents, subsidiaries, affiliates and third party service providers internationally. We will protect your personal information in accordance with this Privacy Policy wherever it is processed. Intercom has business entities in Europe, the United States and a number remote employees globally. Personal information may be processed in any country where an Intercom employee accesses the Intercom system.
+
+Intercom has self-certified to the EU-U.S. and Swiss-U.S. Privacy Shield. For more information, please see Intercom’s EU-U.S. and Swiss-U.S. Privacy Shield Policy.
+
+If you have questions or need to contact us about this Privacy Policy, please email us at compliance@intercom.com.
+
+Information for California residents
+
+Scope. This section applies to you only if you are a California resident. It describes how we collect, use and share Personal Information of California residents when we act as a “business” as defined under the California Consumer Privacy Act of 2018 (“CCPA”), and their rights with respect to their Personal Information. For purposes of this section, “Personal Information” has the meaning given in the CCPA but does not include information exempted from the scope of the CCPA. In addition, this section does not apply to information we collect from you in the course of providing services to you or receiving services from you where you are an employee, controlling owner, director, officer or contractor of a company, partnership, sole proprietorship, non-profit or government agency. In some cases we may provide a different privacy notice to certain categories of California residents, such as job applicants, in which case that notice will apply instead of this section.
+
+Your California privacy rights. You have the following rights:
+
+Information You can request the following information about how we have collected and used your Personal Information during the past 12 months: The categories of Personal Information that we have collected. The categories of sources from which we have collected Personal Information. The business or commercial purpose for collecting and/or selling Personal Information. The categories of third parties with whom we share Personal Information. Whether we have disclosed your Personal Information, and if so, the categories of Personal Information received by each category of each third party recipient.
+
+You can request the following information about how we have collected and used your Personal Information during the past 12 months: Access. You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+
+You can request a copy of the Personal Information that we have collected about you during the past 12 months. Deletion. You can ask us to delete the Personal Information that we have collected from you.
+
+You can ask us to delete the Personal Information that we have collected from you. Nondiscrimination. You are entitled to exercise the rights described above free from discrimination prohibited by the CCPA.
+
+You are entitled to exercise the rights described above free from discrimination prohibited by the CCPA. Remove posted content. If you are an Intercom customer under the age of 18, youcan request to delete or remove the content or information you post on the Offerings by emailing compliance@intercom.com. Please be aware that the removal of your posts may not ensure complete or comprehensive removal of that content or information.
+
+How to exercise your rights. You may submit a request to exercise your California privacy rights above by contacting us through the Intercom Messenger or by emailing compliance@intercom.com. We will need to verify your identity to process your information, access and deletion requests and we reserve the right to confirm your California residency. Government identification may be required. If you wish to designate an authorized agent to make a request on your behalf, we will need to verify both your and your agent’s identities and your agent must provide valid power of attorney or other proof of authority acceptable to us in our discretion. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it. In certain cases, we may be required or permitted by law to deny your request.
+
+Personal Information that we collect, use and disclose. The list below describes the categories of Personal Information we collect by reference to the categories specified in the CCPA:
+
+Identifiers , such as Registration and Contact Information, including your real name, email address, postal address, account name, and other similar identifiers.
+
+, such as Registration and Contact Information, including your real name, email address, postal address, account name, and other similar identifiers. Commercial information , such as Payment Information, including the record of purchase of the Services.
+
+, such as Payment Information, including the record of purchase of the Services. Financial information , such as Payment Information, including your credit card and other billing information.
+
+, such as Payment Information, including your credit card and other billing information. Online identifiers , such as Technical, Usage and Location Information, including Internet Protocol address, cookie identifiers, and computer or device identifiers.
+
+, such as Technical, Usage and Location Information, including Internet Protocol address, cookie identifiers, and computer or device identifiers. Internet or network information , such as Technical, Usage and Location Information and Third Party Platform Information, including the pages you view, items you click, advertisements you interact with, and social media content you engage with.
+
+, such as Technical, Usage and Location Information and Third Party Platform Information, including the pages you view, items you click, advertisements you interact with, and social media content you engage with. Geolocation data , such as your device’s precise location when you choose to share it and the approximate location associated with your IP address.
+
+, such as your device’s precise location when you choose to share it and the approximate location associated with your IP address. Professional or employment information , such as Registration and Contact Information, Payment Information and Customer Data, including your and your People’s title and organizational affiliation.
+
+, such as Registration and Contact Information, Payment Information and Customer Data, including your and your People’s title and organizational affiliation. Sensory information , such as photos of yourself or of People in Customer Data that you submit.
+
+, such as photos of yourself or of People in Customer Data that you submit. Inferences drawn from any of the above information to create a profile reflecting your preferences, characteristics, and behavior.
+
+The sources from which we collect these categories of Personal Information are described in the section above entitled How We Obtain Information, The business/commercial purposes for which we use these categories of Personal Information are described in the section above entitled How We Use the Information We Collect. The categories of third parties to which we disclose these categories of Personal Information for business purposes are described in the section above entitled Sharing Your Information With Third Parties. Based on our understanding of the term “sell” under the CCPA, we do not “sell” your Personal Information.
+
+You can execute a California Data Processing Addendum at this link.
+
+The above summary of how we collect, use and share Personal Information describes our practices for the 12 months preceding the “last revised” date at the top of this Privacy Policy. Unsolicited information that you provide to us may include other categories of information.
+***************************************************************
+
+

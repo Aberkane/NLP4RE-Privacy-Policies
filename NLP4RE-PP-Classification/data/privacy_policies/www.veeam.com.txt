@@ -1,0 +1,14 @@
+Title: Veeam: Privacy Policy – how we use your personal information, use of third party services, cookies
+URL: https://www.veeam.com/privacy-policy.html
+Date of publishing: None
+Keywords: veeam, websites, policy, website, cookie, visit, web, personal, services, data, cookies, party, privacy, information, beacon, users
+Policy: 
+Veeam’s websites, advertisements, emails, and online services may use certain automatic data collection technologies such as cookies, web beacons, and pixel tags to collect data, including personal information, about you while you use our website, our products, and when you interact with us. Collection of user data helps us to understand our users’ behavior, web searches, and where on our websites users have visited. Our website uses cookies to distinguish you from other users of our website, helps us to provide you with a good experience when you browse our website, and allows us to improve our website. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. When you visit www.veeam.com (or any of the Veeam websites), our server recognizes the cookie, giving us information about your last visit to the website. Many browsers accept cookies automatically, but you can adjust the settings in your browser to disable automatic acceptance of cookies. If you choose not to use cookies, you may experience limited functionality of our website. This Data Privacy Policy only covers Veeam’s use of cookies and does not cover the use of any propensity management by advertisers. Veeam complies with global regulations including the EU Cookie Directive. Visitors to our websites are advised of our use of cookies upon landing on our website.
+
+A “web beacon” (also known as a clear gif and pixel tag) helps us better manage the content of our website by informing us of what content is effective. A web beacon is incorporated into a web page or an email to keep track on a user’s activity on the page or the email. Just like a cookie, a beacon tracks a user’s visit and sends the data to the server, however, unlike cookies, a web beacon cannot and is not used for identification purposes, nor can it store any data on your computer as it is not browser-based.
+
+Information collected by cookies and similar technologies are treated as non-personal information except to the extent under local law that IP addresses (or like identifiers) are otherwise considered Personal Information.
+
+
+
+

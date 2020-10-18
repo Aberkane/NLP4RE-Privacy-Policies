@@ -1,0 +1,17 @@
+Title: Cornell University
+URL: https://www.cornell.edu/privacy-notice.cfm
+Date of publishing: None
+Keywords: live, service, used, gathered, address, cornell, broadcast, visit, email, information, university
+
+Policy: We use gathered information to track user trends and site usage with the goal of improving our visitors’ experience and optimizing our websites. We also use the information to administer this website and prevent abuse.
+
+Special cases:
+
+If you use the plan your visit, service the information that is gathered may be used to send you postal mail or email, or in some cases, it may be used to contact you via phone pertaining to your visit to the university. Additionally, the information gathered may be used for admissions-related purposes such as sending you information about enrollment to the university if you self-identify as a prospective undergraduate or graduate student.
+
+The events emailer service associates your email address with preferences you provide for receiving email notifications based on various user-selected criteria pertaining to emailing you about upcoming events. We aggregate reports about preferences but do not correlate them with the email addresses.
+
+The CornellCast video library has an optional feature that allows you to sign up for email reminders before a live broadcast of your choice begins. Your email address will only be used for communicating with you about the live broadcast. Additionally, you may provide your email address during a live broadcast to ask or receive follow up to questions that were not addressed during the broadcast.
+***************************************************************
+
+

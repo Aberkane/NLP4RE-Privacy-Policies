@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80aa891d-a3c2-494b-a4ae-b0329c7c2ffa" name="Default Changelist" comment="" />
+    <list default="true" id="80aa891d-a3c2-494b-a4ae-b0329c7c2ffa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PPComparison90+/box.com.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/PPComparison90+/box.com.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PPComparison90+/cam.ac.uk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/PPComparison90+/cam.ac.uk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PPComparison90+/fortune.com.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/PPComparison90+/fortune.com.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PPComparison90+/harvard.edu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/PPComparison90+/harvard.edu.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -98,9 +105,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2455" y="327" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601043109104" />
-    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1601282767527">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="437" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1602661292485">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="2357" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1602595340052" />
     <state x="2576" y="345" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601282767527" />
+    <state x="437" y="226" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602661292485" />
   </component>
 </project>

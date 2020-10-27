@@ -1,11 +1,10 @@
 # %matplotlib inline
 
 import numpy as np
+import ssl
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
-from sklearn.multiclass import OneVsRestClassifier
+import nltk
 from nltk.corpus import stopwords
 from langdetect import detect
 import os.path
@@ -78,7 +77,6 @@ def find_relevant_paragraph(policy_url):
 	
 	# header = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0', }
 	
-	
 	try:
 		req = Request(policy_url, headers=headers)
 		html = urlopen(req, timeout=1)
@@ -111,8 +109,8 @@ def find_relevant_paragraph(policy_url):
 							break
 						# print(nextNode.get_text(strip=True).strip())
 						potential_paragraph = potential_paragraph + " " + nextNode.get_text(strip=True).strip()
-		
-		# policy_list.append(header.text.strip())
+	
+	# policy_list.append(header.text.strip())
 	# print("*** *** *** END")
 	# pre_dataframe.append(policy_list)
 	except HTTPError as e:
@@ -131,6 +129,9 @@ def find_relevant_paragraph(policy_url):
 		pass
 	except ConnectionResetError:
 		pass
+	except ssl.SSLWantReadError:
+		pass
+	
 	return potential_paragraph
 
 
@@ -273,10 +274,10 @@ def pre_processing(policies_list):
 	                                        ("wwww" not in y) and ("com" not in y))] for x in tokenized_policies]
 	
 	relevant_words = ["right", "access", "subject", "Information",
-                      "personal", "provide", "right", "rectification",
+	                  "personal", "provide", "right", "rectification",
 	                  "correct", "rectify", "correction", "rectification", "data", "right", "erasure", "right",
-                      "forgotten ", "delete", "erase", "erasure", "restrict", "processing", "limit",
-						"processing", "general", "protection", "regulation", "europe", "EU"]
+	                  "forgotten ", "delete", "erase", "erasure", "restrict", "processing", "limit",
+	                  "processing", "general", "protection", "regulation", "europe", "EU"]
 	# relevant_words_access = ['Right of access by the data subject data access Information and access to personal data provide information']
 	# relevant_words_rectification = ['right to rectification correct rectify correction rectification of data']
 	# relevant_words_erasure = ['right to erasure right to be forgotten delete erase erasure of data']
@@ -294,13 +295,13 @@ def pre_processing(policies_list):
 	# stop_words.extend(new_stop_words)
 	
 	# lemmatize preferred features
-	relevant_words_lemmatized = [lemma.lemmatize(y) for y in relevant_words]
-
+	# relevant_words_lemmatized = [lemma.lemmatize(y) for y in relevant_words]
+	
 	# remove stopwords
 	tokenized_policies = [[y for y in x if not y in stop_words] for x in tokenized_policies]
 	
 	# only included preferred features
-	tokenized_policies = [[y for y in x if y in relevant_words_lemmatized] for x in tokenized_policies]
+	# tokenized_policies = [[y for y in x if y in relevant_words_lemmatized] for x in tokenized_policies]
 	
 	# print(relevant_words_lemmatized)
 	print(tokenized_policies)
@@ -312,6 +313,92 @@ def pre_processing(policies_list):
 		t = ' '.join(tokenized_policies[i])
 		detokenized_policies.append(t)
 	return detokenized_policies
+
+
+def decision_tree_classifier(privacy_policies):
+	pred_labels_UR = []
+	pred_labels_access = []
+	pred_labels_rectification = []
+	pred_labels_erasure = []
+	pred_labels_restriction = []
+	pred_labels_DP = []
+	pred_labels_object = []
+	pred_labels_ADM = []
+	
+	# relevant_words_access = ['right access by the data subject data access Information and access to personal data provide information']
+	# relevant_words_rectification = ['right rectification correct rectify correction rectification of data']
+	# relevant_words_erasure = ['right erasure right to be forgotten delete erase erasure of data']
+	# relevant_words_restriction = ['restrict processing limit processing']
+	# relevant_words_data_portability = ['right data portability right obtain copy personal data The controller shall provide a copy of '
+	#                                    'the personal data undergoing processing']
+	# relevant_words_data_object = ['right to object to processing withdraw consent']
+	# relevant_words_data_ADM = ['automated data processing decision making decision-making marketing profiling']
+	
+	for i, policy in enumerate(privacy_policies):
+		policy_tokenized = nltk.word_tokenize(policy)
+		policy_tokenized_bigrams = list(nltk.bigrams(policy_tokenized))
+		policy_tokenized_trigrams = list(nltk.ngrams(policy_tokenized, 3))
+		
+		# if "eu" or "europe" in policy:
+		# 	print("Policy is GDPR-irrelevant")
+		# 	print(policy)
+		# 	pred_labels_UR.append(1)
+		# else:
+		# 	pred_labels_UR.append(0)
+		
+		if ("your", "right") or ("user", "right") in policy_tokenized_bigrams:
+			print("UR explicitly mentioned")
+			print(policy)
+			pred_labels_UR.append(1)
+		else:
+			pred_labels_UR.append(0)
+		
+		if ("right", "access") in policy_tokenized_bigrams:
+			pred_labels_access.append(1)
+		else:
+			pred_labels_access.append(0)
+		
+		if "rectify" or "rectification" or "correct" in policy:
+			pred_labels_rectification.append(1)
+		else:
+			pred_labels_rectification.append(0)
+		
+		if "erasure" or "forgotten" in policy or ("correct", "data") in policy_tokenized_bigrams:
+			pred_labels_erasure.append(1)
+		else:
+			pred_labels_erasure.append(0)
+		
+		if ("restrict", "processing") or ("limit", "processing") in policy_tokenized_bigrams:
+			pred_labels_restriction.append(1)
+		else:
+			pred_labels_restriction.append(0)
+		
+		if "copy" in policy or ("data", "portability") in policy_tokenized_bigrams:
+			pred_labels_DP.append(1)
+		else:
+			pred_labels_DP.append(0)
+		
+		if "object" in policy or ("withdraw", "consent") in policy_tokenized_bigrams:
+			pred_labels_object.append(1)
+		else:
+			pred_labels_object.append(0)
+		
+		if ("automated", "data", "processing") in policy_tokenized_trigrams or "profiling" in policy:
+			pred_labels_ADM.append(1)
+		else:
+			pred_labels_ADM.append(0)
+	
+	predicted_list = []
+	predicted_list.append(pred_labels_UR)
+	predicted_list.append(pred_labels_access)
+	predicted_list.append(pred_labels_rectification)
+	predicted_list.append(pred_labels_erasure)
+	predicted_list.append(pred_labels_restriction)
+	predicted_list.append(pred_labels_DP)
+	predicted_list.append(pred_labels_object)
+	predicted_list.append(pred_labels_ADM)
+	
+	return predicted_list
 
 
 if __name__ == '__main__':
@@ -378,34 +465,11 @@ if __name__ == '__main__':
 	print(X_train.shape)
 	print(X_test.shape)
 	
-	# Define a pipeline combining a text feature extractor with multi lable classifier
-	NB_pipeline = Pipeline([
-		('tfidf', TfidfVectorizer(stop_words=stop_words, ngram_range=(2, 4))),
-		('clf', OneVsRestClassifier(MultinomialNB(
-			fit_prior=True, class_prior=None))),
-	])
-	for category in categories:
+	predictions = decision_tree_classifier(X_test.to_list())
+	
+	for i, category in enumerate(categories):
 		print('... Processing user right: {}'.format(category))
-		# train the model using X_dtm & y
-		NB_pipeline.fit(X_train, train[category])
+		
+		print(predictions[i])
 		# compute the testing accuracy
-		prediction = NB_pipeline.predict(X_test)
-		print(prediction)
-		print('Test accuracy is {}'.format(accuracy_score(test[category], prediction)))
-	
-	"""
-	Accuracy is very high, probably due to an imbalanced dataset:
-	UR_explicitly_mentioned 0.73 : always classified to 1
-	access 0.73 : always classified to 1
-	rectification 0.67 : always classified to 1
-	erasure 0.71 : always classified to 1
-	restriction 0.41 : always classified to 0
-	- after reducing: varies and 0.47
-	data_portability 0.47 : always classified to 0
-	object 0.57 : varies
-	- after reducing: 0.59
-	automated_decision_making 0.90: always classified to 0
-	
-	probable cause: imbalanced dataset -> overfitting
-	147 policies: 109 relevant, 48 irrelevant
-	"""
+		print('Test accuracy is {}'.format(accuracy_score(test[category].to_list(), predictions[i])))

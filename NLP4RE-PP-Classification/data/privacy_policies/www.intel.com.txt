@@ -3,26 +3,4 @@ URL: https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html
 Date of publishing: None
 Keywords: technology, intel, device, collect, version, personal, services, notice, privacy, information, software, app
 Policy: 
-If you download and use certain Intel® Service like software or an app, we may track and collect usage data, such as when the software or app accesses our servers, what information and files have been downloaded through the use of the software or app, and how you interact with the software or app during use. Some of this data may be protected as personal information under applicable data protection laws. We collect this information to understand how you interact with Intel® Services and provide you the best experiences. We may also use this information for security purposes. We may associate the information we collect from more than one device that you use with other information that we have collected about you or your other devices.
-
-In addition, most computing devices include embedded technology like processing chips that collect information about how the device is operating. This information may include:
-
-· Type and version of operating system, hardware version, device settings, software types, battery and signal strength, screen resolution, device manufacturer and model, language, and Internet browser type and version. The name and version of any Intel® Services (such as the app) you are using is also collected.
-
-· Geographic locations, such as through GPS, Bluetooth, or WiFi signals.
-
-· Connection information such as the name of your mobile operator or ISP, browser type, language and time zone, mobile phone number and IP address.
-
-Access to this information by other applications and transmission of this information from the device to Intel or other service providers may be controlled by the operating system or other software running on the device.
-
-In some instances Intel technology is used within a product or device that may collect personal information, which is not shared with Intel. This information may be collected by the manufacturer of the product or device and you will need to read the privacy notice, privacy policy, or related terms published by that manufacturer to understand how they use your information.
-
-Some Intel® Services may allow you to use biometric information for identification or authentication or to take advantage of specific features. Biometric data may include your fingerprint, facial features, voice or similar unique physical characteristics.
-
-Intel® Services can also collect geographic location information, such as location inferred from your IP address or GPS, and information about how you engage with and use Intel® Services, for example where you have chosen to activate location-enabled services on the device with which you access these services.
-
-When Intel® Services use more sensitive categories of your personal information, such as biometrics for identification or authentication, or precise geographic location, Intel will honor the preferences you set in accompanying menus and settings.
-
-We collect information from and about a wide variety of technologies where Intel® Services are used. The kind of information collected depends on the technology, the use, and the device and personal settings. Examples of these technologies might include computers, phones and tablets, but also interactive wearables, connected technologies in the home, drones or other vehicles. Where we provide technology for drones and autonomous vehicles, these may capture audio, video and photographs that unintentionally or incidentally capture people, for example workers in a field or pedestrians crossing a street. Where appropriate, we use technical and organizational controls to prevent it from being used improperly, but this information is important to help improve algorithms for product functionality and safety, including features such as mapping topography, obstacles, traffic and the like.
-
-
+Reduced Policy:   Intel respects your rights in how your personal information is used and shared. You may request access or corrections to your personal data and make choices about the kinds of marketing materials you receive (or choose not to receive marketing from Intel at all). If you are in Europe, you may have additional rights under the GDPR. Additional choices and rights may be available to you depending on which Intel® Services you use.  Expand the sections below to learn more.     If you are in the EEA, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. You can exercise these rights by making a written request in one of the ways described in the “How to Contact us” section below.Similarly, if we have collected your personal information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect (1) the lawfulness of any processing we conducted prior to your withdrawal, or (2) processing your personal information under other legal bases.If you believe we are using your personal information in a way that is inconsistent with this Privacy Notice or for more information about your rights, contact your local data protection authority (contact details for data protection authorities in the European Economic Area are availablehere.) 

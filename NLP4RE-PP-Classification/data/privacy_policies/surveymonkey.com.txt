@@ -3,7 +3,3 @@ URL: https://surveymonkey.com/mp/privacy/
 Date of publishing: None
 Keywords: legal, gdpr, compliance, surveymonkey, policies, privacy, addendum, data, page, purchased, processing, plan, ccpa
 
-Policy: Our legal center is more than a legal document. It puts all of our legal and privacy policies in a single place. Our Privacy Basics page gives you a snapshot of how we handle personal information and data, while the page design makes it easy for you to find the exact areas of our policies that concern you. We also offer various options on data processing terms for customers, depending on the plan or package you have selected, and where you are located. If you’ve purchased your plan from SurveyMonkey EU via our website, you can access our data processing addendum here. If you purchased your plan from SurveyMonkey Inc. and are a California user, you can access our CCPA Addendum here. If you are an enterprise customer please refer to our Master Services Agreement.
-***************************************************************
-
-

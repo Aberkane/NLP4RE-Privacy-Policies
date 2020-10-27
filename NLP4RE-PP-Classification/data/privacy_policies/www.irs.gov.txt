@@ -3,18 +3,4 @@ URL: https://www.irs.gov/privacy-disclosure/irs-privacy-policy
 Date of publishing: None
 Keywords: policy, access, individual, tax, system, maintained, irs, federal, privacy, information, act, records
 Policy: 
-Note: Federal tax records are exempt from access or amendment. To amend a federal tax record, taxpayers must file Form 1040-X or follow IRS procedures for other changes, such as change of address.
-
-The Privacy Act of 1974, as amended, provides safeguards against unwarranted invasions of privacy by establishing a code of "fair information practices." The principles, commonly referenced as the fair information practice principles (FIPPs), require agencies to comply with statutory norms for collection, maintenance, access, use, and dissemination of records.
-
-To increase transparency and assure notice to individuals, the Privacy Act requires agencies to publish in the Federal Register notice of modifications to or the creation of systems of records. The term "system of records" means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.
-
-A current listing of the Department's System of Records, along with updated routine uses and claimed exemptions, can be found the on the Treasury Department's System of Records Notices page.
-
-To further protect the individual, the Privacy Act requires all records which are used by the agency in making any determination about any individual to be maintained with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination.
-
-The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them.
-
-IRS offers routine access to other records through procedures designed to make access quick and easy. If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
-
-
+Reduced Policy:    What you should know 

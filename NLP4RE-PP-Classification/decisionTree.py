@@ -1,6 +1,18 @@
 # from nltk.corpus import movie_reviews
 import numpy as np
+from ast import literal_eval
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.pipeline import Pipeline
+from gensim.models import TfidfModel
+from gensim import corpora
+import gensim
+
+import matplotlib.pyplot as plt
 import ssl
+from nltk.stem import PorterStemmer
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import train_test_split
 # from sklearn.model_selection import train_test_split
 # from sklearn.metrics import accuracy_score
 import nltk
@@ -8,7 +20,17 @@ from nltk.corpus import stopwords
 from langdetect import detect
 import os.path
 from nltk.stem.wordnet import WordNetLemmatizer
+from six import StringIO
+from IPython.display import Image
+from sklearn.tree import export_graphviz
+import pydotplus
+
 # from http.client import IncompleteRead
+# from gensim.models import TfidfModel
+# from gensim import corpora
+from nltk.classify.scikitlearn import SklearnClassifier
+from sklearn.tree import DecisionTreeClassifier
+# https://www.kaggle.com/adamschroeder/countvectorizer-tfidfvectorizer-predict-comments
 
 
 import re
@@ -23,6 +45,14 @@ from http.client import IncompleteRead
 
 import socket
 import random
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.calibration import CalibratedClassifierCV
+from sklearn.metrics import roc_curve
+from sklearn.metrics import roc_auc_score
+from sklearn.metrics import accuracy_score
+depth_alpha=[1, 5, 10, 50, 100, 500, 100]
+min_sample_split_alpha=[5,10,100,500]
+
 # nltk.download('brown')
 stop_words = stopwords.words('english')
 # from nltk.corpus import brown
@@ -30,6 +60,7 @@ stop_words = stopwords.words('english')
 
 # Sources: https://subscription.packtpub.com/book/application_development/9781782167853/7/ch07lvl1sec78/training-a-decision-tree-classifier
 # https://www.nltk.org/book/ch06.html#sec-decision-trees
+# using grid to test combinations of parameters: https://sajalsharma.com/portfolio/sentiment_analysis_tweets
 
 # define a feature extractor for documents, so the classifier will know which aspects of the data it should pay
 # attention to
@@ -288,8 +319,8 @@ def pre_processing(policies_list):
 	tokenized_policies = [[lemma.lemmatize(y) for y in x] for x in tokenized_policies]
 	
 	# stemming
-	# porter = PorterStemmer()
-	# tokenized_policies = [[porter.stem(y) for y in x] for x in tokenized_policies]
+	porter = PorterStemmer()
+	tokenized_policies = [[porter.stem(y) for y in x] for x in tokenized_policies]
 	
 	# remove emailadresses and URLs
 	# tokenized_policies = [[y for y in x if("@" not in y)] for x in tokenized_policies]
@@ -310,7 +341,7 @@ def pre_processing(policies_list):
 		t = ' '.join(tokenized_policies[i])
 		detokenized_policies.append(t)
 		
-	return detokenized_policies
+	return tokenized_policies
 
 
 def correctNAN(df_pp_tbc):
@@ -331,44 +362,179 @@ if __name__ == '__main__':
 	pd.set_option("display.max_rows", None, "display.max_columns", None)  # print all values of dataframe
 	dir = "data/PP_comparison_classification.xlsx"
 	data_dir = "data/privacy_policies"
+	#
+	# print("Reading data from: " + dir + " ...")
+	# df_pp_read, df_pp_relevant, df_pp_relevant_scoped, df_user_rights, url_list = read_data()
+	#
+	# # search for corresponding policies
+	# print("Extracting policy texts from: " + data_dir + " ...")
+	# policy_list, policy_list_text = read_texts(140, False)
+	#
+	# print("Link dataset to extracted policies ... \n")
+	# url_list_policies = select_policies(url_list, policy_list, policy_list_text)
+	# url_list_policies = pre_processing(url_list_policies)
+	#
+	# # insert column with the corresponding privacy policies text
+	# df_pp_relevant_scoped.insert(2, 'policy', url_list_policies)
+	# # df_pp_relevant.insert(2, 'policy', url_list_policies)
+	#
+	# # select df where policies are empty
+	# df_pp_relevant_scoped[(df_pp_relevant_scoped['policy'] == "")]
+	#
+	# categories = ['UR_explicitly_mentioned', 'access', 'rectification', 'erasure', 'restriction',
+	#               'data_portability', 'object', 'automated_decision_making']
+	#
+	# # what is the policy distribution?
+	# df_pp = df_pp_relevant_scoped[(df_pp_relevant_scoped['policy'] != "")]
+	#
+	# df_pp.to_csv('data/processed_policies_tok.csv')
 	
-	print("Reading data from: " + dir + " ...")
-	df_pp_read, df_pp_relevant, df_pp_relevant_scoped, df_user_rights, url_list = read_data()
+
+	df_pp = pd.read_csv("data/processed_policies.csv")
+	# df_pp['policy'] = df_pp['policy'].apply(literal_eval)
 	
-	# search for corresponding policies
-	print("Extracting policy texts from: " + data_dir + " ...")
-	policy_list, policy_list_text = read_texts(140, False)
+	# print(df_pp['object'].to_list)
+	# print(df_pp.columns.values)
 	
-	print("Link dataset to extracted policies ...")
-	url_list_policies = select_policies(url_list, policy_list, policy_list_text)
-	url_list_policies = pre_processing(url_list_policies)
+
+	# tokenized policies into dictionary
+	# mydict = corpora.Dictionary(df_pp['policy'])
+
+	# split the data set into train and test
+	# X_train, X_test, y_train, y_test = train_test_split(df_pp['policy'], df_pp['object'], test_size=0.3, random_state=0)
+	X_train, X_test, y_train, y_test = train_test_split(df_pp['policy'], df_pp['object'], test_size=0.3, random_state=0)
+
+	NB_pipeline = Pipeline([
+		('tfidf', TfidfVectorizer()),
+		('decsT', DecisionTreeClassifier(criterion="gini")),
+	])
 	
-	# insert column with the corresponding privacy policies text
-	df_pp_relevant_scoped.insert(2, 'policy', url_list_policies)
-	# df_pp_relevant.insert(2, 'policy', url_list_policies)
+	NB_pipeline.fit(X_train, y_train)
+
+	# compute the testing accuracy
+	prediction = NB_pipeline.predict(X_test)
+	print(prediction)
+	print('Test accuracy is {}'.format(accuracy_score(y_test, prediction)))
 	
-	# select df where policies are empty
-	df_pp_relevant_scoped[(df_pp_relevant_scoped['policy'] == "")]
+	# TOT EN MET HIER WERKT DECISION TREE MET PIPELINE EN TFIDFVECTORIZER
+	
+	# Initialize a CountVectorizer object: count_vectorizer
+	count_vec = CountVectorizer(stop_words="english", analyzer='word',
+	                            ngram_range=(1, 1), max_df=1.0, min_df=1, max_features=None)
+	
+	# Transforms the data into a bag of words
+	count_train = count_vec.fit(X_train)
+	bag_of_words = count_vec.transform(X_train)
+	exit(0)
+	
+	
+	
+	
+	
+	
+	
+	DecsTree = DecisionTreeClassifier(criterion="gini", max_depth=6)
+	DecsTree.fit(X_train, y_train)
+	
+	dot_data = StringIO()
+	
+	export_graphviz(DecsTree.fit(X_train, y_train), out_file=dot_data,
+	                filled=True, rounded=True,
+	                special_characters=True)
+	
+	graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
+
+	graph.write_png('DTREE.png')
+	Image(graph.create_png)
+	
+	exit(0)
+
+	# print(y_train)
+	#
+	# corpus = [mydict.doc2bow(line) for line in df_pp['policy']]
+	# tfidf_model = TfidfModel(corpus)
+	#
+	# clf_decision_tfidf = DecisionTreeClassifier(random_state=2)
+	#
+	# clf_decision_tfidf.fit(tfidf_model, y_train)
+	#
+	# train, test = train_test_split(df_pp, random_state=42, test_size=0.33, shuffle=True)
+	# X_train = train.policy
+	# X_test = test.policy
+	# print(X_train.shape)
+	# print(X_test.shape)
+	
+	# Define a pipeline combining a text feature extractor with multi lable classifier
+	# NB_pipeline = Pipeline([
+	# 	('tfidf', TfidfVectorizer(stop_words=stop_words, ngram_range=(1,1))),
+	# 	('clf', OneVsRestClassifier(MultinomialNB(
+	# 		fit_prior=True, class_prior=None))),
+	# ])
+	#
+	# print('... Processing user right: {}'.format("object"))
+	# # train the model using X_dtm & y
+	# NB_pipeline.fit(X_train, train["object"])
+	# # compute the testing accuracy
+	# prediction = NB_pipeline.predict(X_test)
+	# print(prediction)
+	# print('Test accuracy is {}'.format(accuracy_score(test["object"], prediction)))
+
+
+	exit(0)
+
+	
+	print(corpus)
+
+	
+	# TF-IDF Model
+	tfidf_model = TfidfModel(corpus)
+	
+	
+	exit(0)
+	
+	
+	
+	
+	
+	
+	
+	# split the train data set into cross validation train and cross validation test
+	X_tr, X_cv, y_tr, y_cv = train_test_split(X_train, y_train, test_size=0.3)
+	
+	# We are considering only the words which appeared in at least 10 documents(rows or projects).
+	vectorizer_essays_bow = CountVectorizer(min_df=10)
+	text_bow = vectorizer_essays_bow.fit_transform(df_pp['policy'].to_list())
+	print("Shape of matrix after one hot encodig ", text_bow.shape)
+	
+	vectorizer_essays_tfidf = TfidfVectorizer(min_df=10)
+	text_tfidf = vectorizer_essays_tfidf.fit_transform(df_pp['policy'].to_list())
+	print("Shape of matrix after one hot encodig ", text_tfidf.shape)
+	
+	
+	
+	exit(0)
+	
+	
 	
 	categories = ['UR_explicitly_mentioned', 'access', 'rectification', 'erasure', 'restriction',
-	              'data_portability', 'object', 'automated_decision_making']
+	                            'data_portability', 'object', 'automated_decision_making']
 	
-	# what is the policy distribution?
-	df_pp_filtered = df_pp_relevant_scoped[(df_pp_relevant_scoped['policy'] != "")]
 	print("Policy distribution after filtering out empty policy texts")
-	print("* Number of policies included with label \"y\": " + str(len(df_pp_filtered[(df_pp_filtered['included'] == 'y')])))
-	print("* Number of policies excluded with label \"e1\": " + str(len(df_pp_filtered[(df_pp_filtered['included'] == 'e1')])))
-	print("Total number of policies: " + str(len(df_pp_filtered)))
+	print("* Number of policies included with label \"y\": " + str(len(df_pp[(df_pp['included'] == 'y')])))
+	print("* Number of policies excluded with label \"e1\": " + str(len(df_pp[(df_pp['included'] == 'e1')])))
+	print("Total number of policies: " + str(len(df_pp)) + "\n")
+	
 	for category in categories:
-		print("Category {} - positive labels: {}".format(category, len(df_pp_filtered[(df_pp_filtered[category] == 1)])))
-		print("Category {} - negative labels: {} \n".format(category, len(df_pp_filtered[(df_pp_filtered[category] == 0)])))
+		print("Category {}".format(category))
+		print("Positive labels: {}".format(len(df_pp[(df_pp[category] == 1)])))
+		print("Negative labels: {} \n".format(len(df_pp[(df_pp[category] == 0)])))
 	
-	# df_test = df_pp_relevant[(df_pp_relevant['policy'] != "")]
-
-	# fill NaN with 0
-	# df_pp = correctNAN(df_pp_filtered)
-	df_pp = df_pp_filtered
-	
+	# # df_test = df_pp_relevant[(df_pp_relevant['policy'] != "")]
+	#
+	# # fill NaN with 0
+	# # df_pp = correctNAN(df_pp_filtered)
+	# df_pp = df_pp_filtered
+	#
 	# check if there are other entries than 0 or 1
 	df_pp[(df_pp['UR_explicitly_mentioned'] != 0) & (df_pp['UR_explicitly_mentioned'] != 1)]
 	
@@ -386,14 +552,18 @@ if __name__ == '__main__':
 	# random.shuffle(documents)
 	random.shuffle(policy_dict)
 	
-	#
+	# BAG OF WORDS APPROACH
 	# # To limit the number of features that the classifier needs to process, we begin by constructing a list of the 2000
 	# # most frequent words in the overall corpus [1]. We can then define a feature extractor [2] that simply checks whether
 	# # each of these words is present in a given document.
-	tokenized_policies = [x.split() for x in df_pp['policy'].to_list()]
+	tokenized_policies2 = [x.split() for x in df_pp['policy'].to_list()]
 	#flatten
-	tokenized_policies_f = [word for policy in tokenized_policies for word in policy]
+	tokenized_policies_f = [word for policy in tokenized_policies2 for word in policy]
 	all_words_p = nltk.FreqDist(w.lower() for w in tokenized_policies_f)
+	all_words_p.most_common(150)
+	print("Number of words in the corpus after preprocessing: {}".format(len(tokenized_policies_f)))
+	print("Number of unique words after preprocessing: {}".format(len(all_words_p)))
+	
 	word_features_p = list(all_words_p)[:200]
 	
 	# all_words = nltk.FreqDist(w.lower() for w in movie_reviews.words())
@@ -409,11 +579,16 @@ if __name__ == '__main__':
 	# train_set, test_set = featuresets[100:], featuresets[:100]
 	
 	# size = int(len(featuresets) * 0.1)
-	size_p = int(len(featuresets_p) * 0.4)
+	size_p = int(len(featuresets_p) * 0.5)
 	# train_set, test_set = featuresets[size:], featuresets[:size]
 	train_set_p, test_set_p = featuresets_p[size_p:], featuresets_p[:size_p]
-	
+	#
 	classifier = nltk.DecisionTreeClassifier.train(train_set_p)
 	print(nltk.classify.accuracy(classifier, test_set_p))
 	print(classifier.pseudocode(depth=4))
-	classifier.show_most_informative_features(5)
+	# classifier.show_most_informative_features()
+	
+	# nltk_model = SklearnClassifier(DecisionTreeClassifier())
+	# nltk_model.train(train_set_p)
+	# accuracy = nltk.classify.accuracy(nltk_model, test_set_p)*100
+	# print("{} Accuracy: {}".format("Decision Tree", accuracy))

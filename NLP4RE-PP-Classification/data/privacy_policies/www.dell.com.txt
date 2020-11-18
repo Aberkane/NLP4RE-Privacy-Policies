@@ -3,3 +3,117 @@ URL: https://www.dell.com/learn/nl/nl/nlcorp1/policies-privacy
 Date of publishing: None
 Keywords: voor, privacy, van, met, onze, te, het, en, dell, uw, die
 
+Policy: Deze Privacyverklaring over gegevens van klanten en online bezoekers ('Privacyverklaring') geldt voor Dell Technologies, Inc. en haar wereldwijde dochterondernemingen ('Dell', 'wij' of 'onze'), maar niet voor dochterondernemingen van Dell die hun eigen privacy- en beveiligingsverklaring hebben uitgegeven. Deze Privacyverklaring geldt eveneens niet voor de websites van onze Business Partners (zoals hieronder gedefinieerd) of andere derden, zelfs niet als hun websites aan die van ons zijn gekoppeld. Wij raden u aan om de privacyverklaringen van derden door te nemen waarmee u banden onderhoudt.
+
+Deze Privacyverklaring beschrijft welke Persoonsgevens die wij van onze klanten, onze website en andere online bezoekers ('u' of 'uw') verzamelen, maar ook gegevens die wij automatisch tijdens uw online bezoek verzamelen (zoals gegevens die via cookies verzameld worden). Voor het beleid inzake gegevens op harde schijven die aan Dell worden geretourneerd verwijzen we naar uw garantiebepalingen en de regelingen voor het retourneren van goederen van Dell.
+
+In deze Privacyverklaring bedoelen wij met 'Business Partners' iedere onderaannemer, leverancier of andere entiteit met wie wij een actieve zakelijke relatie hebben om producten, diensten of informatie te leveren. ‘Persoonsgegevens' betekent in deze Privacyverklaring gegevens waarmee u direct of indirect kunt worden geïdentificeerd, zoals uw naam, telefoonnummer, e-mailadres, IP-adres (Internet Protocol) en gegevens over uw locatie.
+
+We kunnen u om de volgende gegevens vragen wanneer u:
+
+Onze websites of applicaties gebruikt;
+
+Offertes, services, support, downloads, proefversies, whitepaper, trainingen of informatie aanvraagt;
+
+Bestellingen plaatst voor producten of diensten of zich aanmeldt voor evenementen of webinars;
+
+Een account aanmaakt en beheert;
+
+Een creditcard of financiering aanvraagt;
+
+Meedoet aan enquêtes, prijsvragen of andere promotieactiviteiten, online dan wel op een andere locatie;
+
+Een verklaring aflegt;
+
+Zich abonneert op nieuwsbrieven, programma's, reclame- en promotionele e-mails of andere materialen van Dell;
+
+Met ons communiceert op sociale netwerken van derden (waarbij de gebruiksvoorwaarden en het privacybeleid van die derden gelden); of
+
+Contact met ons opneemt.
+
+De door ons verzamelde gegevens omvatten mogelijk Persoonsgegevens zoals uw naam, e-mailadres, thuisadres, telefoonnummers, gebruikersnamen en wachtwoorden. Hieronder kunnen ook gegevens over uw werk, zoals functietitel en andere zakelijke of bedrijfsgegevens vallen. Tevens kunnen we demografische gegevens verzamelen, zoals uw leeftijd, geslacht, interesses en voorkeuren. Op de door u ingevulde formulieren wordt aangegeven of u al dan niet verplicht bent de gevraagde informatie te geven. Als u een aankoop doet, kunnen we u om uw creditcardnummer en factureringsgegevens vragen. Mogelijk vragen we naar uw burgerservicenummer of andere gegevens waarmee we uw aanvraag voor krediet of financiering kunnen verwerken.
+
+Informatie die Dell via een bron verzamelt, wordt mogelijk gecombineerd met informatie van andere bronnen zodat u een consistentere en persoonlijke benadering tijdens uw communicatie met Dell ervaart. Die informatie kan gegevens bevatten waarmee wij u op meerdere apparaten kunnen identificeren die u voor toegang tot onze websites gebruikt. De verzamelde informatie wordt mogelijk aangevuld met informatie die we van derden krijgen, waaronder onze Business Partners en andere derden, en waarmee we aangepaste profielen over u maken. Dit kunnen bijvoorbeeld gegevens zijn die we gebruiken om uw ervaring op onze website te verbeteren, om u opties aan te bieden die bij uw voorkeuren passen of voor doelgerichte advertenties, zoals hieronder wordt uitgelegd.
+
+Meer informatie over het gebruik van cookies en vergelijkbare volgtechnologieën, waaronder instructies over het afmelden voor gerichte reclame vindt u onder [“Uw communicatievoorkeuren” selecteren, afmelden voor reclame en het aanmaken van speciale profielen over uzelf], maar u kunt ook contact met ons opnemen via privacy@dell.com.
+
+Sommige services van Dell worden samen met een ander bedrijf aangeboden. Als u zich voor een dergelijke service aanmeldt of hiervan gebruikmaakt, kunnen Dell en het andere bedrijf informatie ontvangen die via die service wordt verzameld en beide bedrijven kunnen die informatie gebruiken volgens hun eigen privacyreglement of andere overeenkomsten die met u zijn afgesloten.
+
+
+
+
+
+Informatie die we automatisch verzamelen
+
+Wij kunnen automatisch gedrags- en gebruiksgegevens over uw bezoeken aan onze websites verzamelen, waaronder de pagina's die u bekijkt, de koppelingen en advertenties waarop u klikt, de zoektermen die u invoert en andere acties die u onderneemt die te maken hebben met de websites en services van Dell. We kunnen ook informatie verzamelen van de browser die u gebruikt om onze website te bezoeken, zoals uw IP-adres, apparaat-ID, locatiegegevens, browsertype en taal, bezoektijden, de URL (Uniform Resource Locator) van de website waarvandaan u bent doorgeleid naar onze website en de URL waarmee u onze website verlaat als u op een koppeling op onze website klikt.
+
+Informatie uit bronnen van derden
+
+We kunnen informatie over u verkrijgen via bronnen van derden, zoals openbare databases, onze Business Partners, gezamenlijke marketingpartners, sociale media-platforms en van andere derden. De informatie die we van andere bronnen kunnen ontvangen kan bijvoorbeeld informatie over bekeken pagina's bevatten die we van Business Partners ontvangen waarmee we gezamenlijk een service of product aanbieden, en kredietgeschiedenis van kredietverstrekkers. Wij kunnen deze informatie gebruiken om u relevante reclame, producten en diensten aan te bieden en om fraude te voorkomen en op te sporen.
+
+Dell kan uw Persoonsgegevens gebruiken om:
+
+Producten, oplossingen, services te leveren en door u aangevraagde transacties te ondersteunen of uit te voeren;
+
+U zaken te melden, zoals informatie over productveiligheid, uw transactiestatus inclusief meldingen over producten in uw winkelwagen en orderbevestigingen, specifieke programma's van Dell waaraan u mee wilt doen, producten, oplossingen en services van Dell, evenementen, aanbiedingen en enquêtes;
+
+Uw gebruik van onze website, online Dell chatfora, waaronder Dell nieuwsgroepen en blogs, te faciliteren;
+
+Hulp via live chat aan te bieden om op uw online vragen te reageren;
+
+Communicatie van Business Partners van Dell te faciliteren;
+
+Onze producten, oplossingen, services (waaronder de inhoud en advertenties op onze website waarmee we gebruikstrends opsporen of de effectiviteit van onze reclamecampagnes meten), technologieën, communicatie en onze relatie met u te kunnen aanpassen, analyseren en verbeteren;
+
+Onze klanten en online gebruikers beter te leren kennen, waaronder profilering op basis van interesses en interacties met onze website
+
+Inhoud te personaliseren en uw voorkeuren te gebruiken
+
+Onze verkoop- en websitevoorwaarden en aparte contracten (indien van toepassing) te handhaven;
+
+Fraude en andere verboden of illegale activiteiten te voorkomen;
+
+De veiligheid of integriteit van onze websites, onze bedrijven en onze producten of diensten te beschermen; of
+
+Andere functies uit te voeren of voor andere doeleinden te gebruiken, waarover u wordt geïnformeerd op het moment dat die informatie verzameld wordt of wanneer dat door de wet wordt vereist.
+
+Juridische basis voor verwerking
+
+Onze juridische basis voor het verwerken van uw Persoonsgegevens zoals beschreven in deze Privacyverklaring zal afhangen van de betreffende Persoonsgegevens en de specifieke context waarbinnen wij deze informatie verzamelen. In het algemeen verzamelen en verwerken we uw Persoonsgegevens op basis van de volgende zaken:
+
+Uw toestemming, bijvoorbeeld wanneer wij uw toestemming hebben verkregen voor het gebruiken van uw persoonlijke gegevens voor bepaalde activiteiten (zoals het gebruik van cookies om u online te volgen en voor analyse). U kunt uw toestemming op elk gewenst moment intrekken door contact met ons op te nemen via privacy@dell.com. Als u uw toestemming wilt intrekken, blijft het gebruik van de informatie voorafgaand aan uw intrekking rechtmatig. Indien van toepassing, kunnen we u om uw toestemming voor het gebruik van uw informatie vragen wanneer u uw Persoonsgegevens gaat verstrekken.
+
+Om aan contractuele verplichtingen te voldoen (we gebruiken bijvoorbeeld uw verzendgegevens om een product te leveren dat u bij ons hebt gekocht of we gebruiken uw persoonlijke gegevens indien u ons vóór aanschaf iets hebt gevraagd, bijvoorbeeld voor het sturen van een offerte). Bij het verzamelen van de gegevens laten wij u weten of dit verplicht is en wat de gevolgen kunnen zijn als u ons deze gegevens niet verstrekt.
+
+Voor het naleven van de wettelijke verplichtingen van Dell waar andere wetten het gebruik van uw Persoonsgegevens vereisen (zoals wetgeving inzake gezondheid, veiligheid, belastingen, witwaspraktijken) of daar waar we uw Persoonsgegevens nodig hebben om uw belangen of die van anderen te beschermen.
+
+De legitieme belangen van Dell (en haar Business Partners), waaronder het aanbieden van deze website en/of relevante producten en diensten en/of het uitvoeren van reclame- en profileringsactiviteiten, op voorwaarde dat onze legitieme belangen niet strijdig zijn met uw rechten en /of vrijheden in gevaar brengen.
+
+Mocht u vragen hebben of meer informatie wensen over de rechtsgrondslag waarop wij uw Persoonsgegevens verzamelen, neem dan contact met ons op via privacy@dell.com.
+
+
+
+
+
+Bewaren van uw gegevens
+
+We bewaren uw Persoonsgegevens net zo lang als nodig is in verband met de doeleinden zoals die in deze Privacyverklaring worden omschreven: zo lang als uw account actief is en in overeenstemming met het beleid van Dell inzake het vasthouden van gegevens en de toepasselijke wetgeving.
+
+Overdracht naar andere landen
+
+Dell kan uw Persoonsgegevens aan andere bedrijven, dochterondernemingen binnen de Dell Technologies Inc. , gelieerde ondernemingen en/of aan haar Business Partners overdragen, indien dit noodzakelijk is voor de doeleinden zoals beschreven in deze Privacyverklaring. Hierdoor kunnen uw Persoonsgegevens worden overgedragen aan het buitenland of landen buiten uw regio, waaronder landen buiten de Europese Economische Ruimte, indien dat uw regio is, die mogelijk op een andere manier met gegevensbescherming omgaan dan uw eigen land. Dit zijn onder andere de Verenigde Staten en andere landen waarin Dell of haar dochterondernemingen, gelieerde ondernemingen of Business Partners gevestigd zijn. Teneinde de overdracht van uw Persoonsgegevens adequaat en veilig te laten verlopen, hebben we contractuele afspraken (indien nodig) met betrekking tot dergelijke overdrachten gemaakt met onze dochterondernemingen, gelieerde ondernemingen en Business Partners. Wij hebben hiervoor alle redelijke technische en organisatorische maatregelen geimplementeerd om uw Persoonsgegevens bij dergelijke overdrachten te beveiligen.
+
+We kunnen uw Persoonsgegevens delen met dochterondernemingen binnen de Dell Technologies Inc., gelieerde ondernemingen en/ of Business Partners van Dell ten behoeve van de doeleinden die in deze Privacyverklaring worden beschreven, waaronder (maar niet beperkt tot) het uitvoeren van transacties die u hebt aangevraagd of om onze acties (of die van onze dochterondernemingen) beter op uw behoeften te kunnen laten aansluiten. Onze dochterondernemingen en/of Business Partners mogen informatie over Dell en Dell producten, services en aanbiedingen gebruiken om u te benaderen. Wij delen uw Persoonsgegevens alleen met dochterondernemingen binnen de Dell Technologies Inc., gelieerde ondernemingen en Business Partners van Dell die uw Persoonsgegevens zullen beschermen en het uitsluitend voor zover nodig voor de door Dell opgegeven doeleinden in deze Privacyverklaring.
+
+Daarnaast kan Dell uw Persoonsgegevens delen met ondernemingen uit onze verkoop en marketingketen, waaronder, maar niet beperkt tot, detailhandelaren, wederverkopers, distributeurs, integrators, orderafhandelaars en bepaalde verkoopagenten en channel partners, om louter en alleen Dell producten en diensten te verkopen of hiervoor reclame te maken dan wel ondersteuning te bieden.
+
+Met uw toestemming kunnen wij uw Persoonsgegevens voor alle doelen delen.
+
+Ook kunnen wij uw Persoonsgegevens delen in verband met wetshandhaving, fraudepreventie of andere juridische acties; indien vereist door wet- of regelgeving; indien Dell (of een onderdeel van Dell) wordt verkocht of fuseert met een ander bedrijf; of indien Dell het redelijkerwijs noodzakelijk acht ter bescherming van Dell, haar klanten of het publiek.
+
+Met uitzondering van het bovenstaande zullen wij uw Persoonsgegevens zonder uw uitdrukkelijke toestemming niet met derden delen ten bate van hun marketingdoeleinden.
+
+Dell wil er samen met u voor zorgen dat uw Persoonsgegevens kloppen. Als u uw Persoonsgegevens wilt bekijken die online in uw Dell account zijn opgeslagen, gaat u naar de gedeelten Mijn account of Premier-account van de website Dell.com. Ter beveiliging van uw account moet u zich aanmelden met uw aanmeldings-ID en wachtwoord.
+***************************************************************
+
+

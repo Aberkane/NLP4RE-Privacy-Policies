@@ -1,0 +1,6 @@
+Title: Privacy Policy
+URL: https://wordpress.org/about/privacy/
+Date of publishing: 2018-03-28 03:08:37+00:00
+Keywords: website, visitors, personal, privacy, wordpressorg, data, email, request, policy, information, personallyidentifying
+
+Reduced Policy:   You may have certain rights under data protection law in relation to the personal information we hold about you. In particular, you may have a right to:  request a copy of personal information we hold about you;ask that we update the personal information we hold about you, or independently correct such personal information that you think is incorrect or incomplete;ask that we delete personal information that we hold about you from live systems, or restrict the way in which we use such personal information (for information on deletion from archives, see the “Retention of personal information” section);object to our processing of your personal information; and/orwithdraw your consent to our processing of your personal information (to the extent such processing is based on consent and consent is the only permissible basis for processing).  If you would like to exercise these rights or understand if these rights apply to you, please follow the instructions at the end of this Privacy statement. 

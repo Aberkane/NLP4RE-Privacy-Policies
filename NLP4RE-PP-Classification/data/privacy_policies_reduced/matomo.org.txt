@@ -1,0 +1,6 @@
+Title: Analytics Platform
+URL: https://matomo.org/privacy-policy/
+Date of publishing: None
+Keywords: policy, visit, data, email, platform, address, site, analytics, privacy, information, matomo, link
+Policy: 
+Reduced Policy:   You have the right to be informed of Personal Data processed by Matomo, a right to rectification/correction, erasure and restriction of processing. You also have the right to ask from us a structured, common and machine-readable format of Personal Data you provided to us.  We can only identify you via your email address and we can only adhere to your request and provide information if we have Personal Data about you through you having made contact with us directly and/or you using our site and/or service. We cannot provide, rectify or delete any data that we store on behalf of our users or customers.  To exercise any of the rights mentioned in this Privacy Policy and/or in the event of questions or comments relating to the use of Personal Data you may contact Matomo’s support team:privacy@matomo.org  In addition, you have the right to lodge a complaint with the data protection authority in your jurisdiction. 

@@ -1,0 +1,85 @@
+Title: Données personnelles
+URL: https://www.canalblog.com/cf/privacy.cfm
+Date of publishing: None
+Keywords: que, à, données, vous, vos, personnelles, les, des, votre, et, la
+
+Policy: CanalBlog - Politique de protection des données
+
+CanalBlog s'efforce de protéger la vie privée de ses utilisateurs en respectant la réglementation en vigueur en France. La protection de vos données est l'une de nos priorités, c'est pourquoi nous mettons à votre disposition notre Politique de protection des données afin d'être le plus transparent possible quant aux traitements mis en oeuvre lors de l'utilisation de CanalBlog.
+
+CanalBlog a déclaré la collecte et le traitement de vos données personnelles auprès de la CNIL (dossier numéro 882246).
+
+Cette politique est soumise à la loi n° 78-17 du 6 janvier 1978, ainsi qu'au Règlement européen relatif à la protection des données personnelles du 27 avril 2016.
+
+WEBEDIA, situé au 2 Rue Paul Vaillant Couturier, 92300 Levallois-Perret , est responsable de l’ensemble des traitements de données à caractère personnel effectuées sur le site canalblog.com
+
+VOS données
+
+Les données que vous renseignez sur notre plateforme sont uniquement les vôtres ! En aucun cas, CanalBlog ne partagera ni ne divulguera vos données personnelles, excepté dans les cas suivants :
+
+Lorsque vous nous avez donné votre accord préalable pour le partage de ces informations (A l'organisme de paiement pour un compte premium par exemple). Ces sociétés répondent à la conformité GDPR et “Privacy Shield”
+
+Lorsque nous y sommes contraints par une autorité judiciaire ou par la loi.
+
+Sont-elles en sécurité ?
+
+Depuis ses débuts, CanalBlog s'efforce à protéger vos données personnelles contre toute forme de dommage, perte, détournement, intrusion, divulgation, altération ou destruction. Vos sessions sur notre plateforme sont authentifiées par votre login et votre mot de passe que seul vous connaissez. Ce dernier ainsi que toutes vos données sensibles sont stockées sur nos serveurs avec des systèmes de cryptage empêchant quiconque d'y avoir accès (même nous ;-) ).
+
+Quelles données ?
+
+A votre inscription : vous êtes amenés à renseigner des informations nécessaires à la création de votre compte. Il s'agit de : l'adresse de votre premier blog, le titre de votre blog, sa catégorie, votre identifiant, votre mot de passe et votre adresse email.
+
+vous êtes amenés à renseigner des informations nécessaires à la création de votre compte. Il s'agit de : l'adresse de votre premier blog, le titre de votre blog, sa catégorie, votre identifiant, votre mot de passe et votre adresse email. L'onglet "Mon compte" : dans cet onglet, vous pouvez modifier l'email et le mot de passe que vous avez renseignez lors de votre inscription. Vous avez aussi la possibilité de compléter votre profil en renseignant : votre prénom, votre nom, votre adresse, et votre date de naissance.
+
+dans cet onglet, vous pouvez modifier l'email et le mot de passe que vous avez renseignez lors de votre inscription. Vous avez aussi la possibilité de compléter votre profil en renseignant : votre prénom, votre nom, votre adresse, et votre date de naissance. L'onglet "Mon profil" : dans cet onglet, vous pouvez modifier les informations apparaissant sur votre page de profil en cliquant sur Public ou Privé à côté de chaque champ.
+
+dans cet onglet, vous pouvez modifier les informations apparaissant sur votre page de profil en cliquant sur Public ou Privé à côté de chaque champ. Vos blogs : il s'agit de vos articles, vos images, et tous les autres éléments que vous pouvez ajouter à vos blogs. Les réglages font aussi partis des données que nous stockons.
+
+il s'agit de vos articles, vos images, et tous les autres éléments que vous pouvez ajouter à vos blogs. Les réglages font aussi partis des données que nous stockons. Les commentaires : il s'agit des commentaires que vous postez ainsi que ceux de vos visiteurs.
+
+il s'agit des commentaires que vous postez ainsi que ceux de vos visiteurs. Les données de facturation : si vous souscrivez à un abonnement premium, vos données de facturations sont transmises chez notre sous-traitant de façon sécurisée avec un système de cryptage empêchant quiconque d'y avoir accès. De notre côté, nous ne stockons que les informations nécessaires au bon fonctionnement de votre compte premium (nom de domaine choisi, date de souscription, durée, etc..)
+
+si vous souscrivez à un abonnement premium, vos données de facturations sont transmises chez notre sous-traitant de façon sécurisée avec un système de cryptage empêchant quiconque d'y avoir accès. De notre côté, nous ne stockons que les informations nécessaires au bon fonctionnement de votre compte premium (nom de domaine choisi, date de souscription, durée, etc..) Les emails que vous nous envoyez : lors du contact au support par exemple.
+
+lors du contact au support par exemple. Les données statistiques : afin de vous fournir un outil de statistiques pour vos blogs, nous enregistrons les visites faites sur canalblog.com
+
+afin de vous fournir un outil de statistiques pour vos blogs, nous enregistrons les visites faites sur canalblog.com Les données techniques : pour détecter les éventuels bugs, et améliorer nos services, nous enregistrons des données liées aux actions sur notre site. Ceci nous permet de mieux comprendre l'utilisation que vous faites de la plateforme afin de proposer des fonctionnalités et des améliorations pertinentes.
+
+pour détecter les éventuels bugs, et améliorer nos services, nous enregistrons des données liées aux actions sur notre site. Ceci nous permet de mieux comprendre l'utilisation que vous faites de la plateforme afin de proposer des fonctionnalités et des améliorations pertinentes. Les données d'analyse du traffic : nous utilisons Google Analytics afin d'étudier notre traffic.
+
+nous utilisons Google Analytics afin d'étudier notre traffic. Les données liées à l'insertion d'une vidéo YouTube. Vous pouvez consulter les conditions d'utilisation de YouTube ainsi que les règles de confidentialité de Google. Si vous ne consentez pas à ces termes, vous pouvez supprimer le lien entre CanalBlog et YouTube en suivant ce lien de révocation.
+
+Quels sont vos droits ?
+
+Conformément à la loi Informatique et Libertés du 6 janvier 1978, vous disposez d’un droit d’accès, de rectification et d’opposition des données vous concernant. Vous pouvez exercer ces droits par courrier à l’adresse suivante :
+
+
+
+WEBEDIA - CanalBlog
+
+2 rue Paul Vaillant Couturier
+
+92300 Levallois-Perret
+
+Ou par email : support@canalblog.com
+
+Webedia - CanalBlog adressera une réponse dans un délai de 1 mois après la réception de la demande.
+
+A compter du 25 mai 2018 et en application du règlement 2016/679 du 27 avril 2016, vous pourrez également exercer votre droit à la limitation du traitement, à l’effacement de vos données, à la portabilité des données et à ne pas faire l’objet d’une décision individuelle automatisée, y compris le profilage. Dans un souci de confidentialité et de protection des données personnelles, une copie d’un titre d’identité signé devra être intégrée à la demande.
+
+En cas de réponse non satisfaisante, vous avez la possibilité de saisir la CNIL.
+
+Combien de temps conservons-nous vos données ?
+
+Vos données personnelles sont conservées le temps de l'utilisation de votre compte, augmenté d'un délai de 1 an à compter de la demande de suppression de votre compte car certaines données peuvent faire objet de réquisition judiciaire (loi pour la confiance dans l'économie numérique - LCEN). Seul votre identifiant et les messages postés et publiés sur les blogs auxquels vous avez participé en tant que contributeur sont conservés.
+
+Modification de notre politique
+
+WEBEDIA se réserve le droit de modifier à tout moment cette Politique de protection des données. En cas de modification substantielle telle que l’introduction d’une nouvelle finalité, WEBEDIA vous fournira au préalable des informations au sujet de cette autre finalité. Ceci afin de s’assurer que vous disposez d'un délai raisonnable pour exercer vos droits en vertu de la loi Informatique et Libertés du 6 janvier 1978 et du Règlement européen. Nous vous encourageons néanmoins à consulter régulièrement la Politique afin de prendre connaissance des modalités de protection de vos informations personnelles prévues par WEBEDIA.
+
+Contact
+
+Pour toute question relative à notre Politique, vous pouvez nous contacter par courrier à WEBEDIA, CanalBlog - 2, rue Paul Vaillant Couturier – 92300 Levallois-Perret Cedex France.
+***************************************************************
+
+

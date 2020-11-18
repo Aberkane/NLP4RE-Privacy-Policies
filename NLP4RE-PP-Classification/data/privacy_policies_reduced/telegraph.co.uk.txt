@@ -1,0 +1,147 @@
+Title: Privacy and Cookie Policy
+URL: https://telegraph.co.uk/about-us/privacy-and-cookie-policy/
+Date of publishing: None
+Keywords: website, service, including, privacy, social, media, cookie, data, services, policy, using, information, cookies
+
+Policy: About us
+
+The Telegraph Media Group is comprised of Telegraph Media Group Limited, Press Acquisitions Limited, and each of their respective subsidiaries. You can find our contact information here.
+
+Telegraph Media Group is also responsible for our website www.telegraph.co.uk, and whether you browse as a guest or register with us we will collect different types of information about you: for example, for website functionality; to provide improved or personalised services to you; to help decide what kind of advertising you will see on the site; and, in accordance with your chosen preferences, to market goods or services to you. Please also see our website terms and conditions.
+
+We are not responsible for the content or privacy practices of external sites, third party Apps or your chosen internet browser. However, we do seek to explain how we work with third parties, including search engines and ad servers such as Google. You can see Google’s Privacy Policy here.
+
+We also offer a number of services to our readers and other customers, trading under different brands. You can see Our Brands and their respective Service Providers at the end of this Privacy Policy.
+
+When we collect your information we may share it across our Telegraph Media Group companies. This Privacy and Cookie Policy explains how we use any of your personal information we might collect and how you can limit our use of it.
+
+1. What information do we gather?
+
+The information that we gather falls broadly into two types (please see further below for how we collect it and what we use it for):
+
+1.1 Information that relates directly to you (e.g. your name and contact details, communication preferences and customer history).
+
+1.2 Information that does not directly identify you (e.g. how you might browse our website), specifically:
+
+(1) Your IP address through the placement of cookies; and
+
+(2) Location data, which might be gained through your IP address or GPS data (see Section 3 (4), below).
+
+Please note that not all cookies are either personally identifiable information or even unique identifiers; but some can be, while others can influence what you see on our website and others (see Sections 6 and 7 on cookies and their management, below).
+
+2. How we use your information
+
+2.1 When we seek your permission . Often we will be using your information in accordance with your specific consent or instructions: for example, because you have requested or consented to receiving certain information, or entered into a contract with us (or one of Our Brands) for goods and services: see Section 2.2 below.
+
+At other times we will use your information on one of the other lawful bases described below in this section.
+
+2.2 Contract .
+
+(1) When you enter into a contract for goods or services with us (including competitions, offers, subscriptions or your online Telegraph account), or where you wish to register an interest in doing so, we will use your personal data to enter into and fulfil our contractual relationship with you.
+
+(2) Fulfilling our contract with you means being able to manage and administer our services, and maintain our standards of tailored service levels, customer care and consumer compliance. This might include fulfilling orders or returns, processing payments or refunds, and providing aftercare, as well as improving your customer experience online and otherwise, including by monitoring service levels and responding to feedback.
+
+2.3 Legitimate interests .
+
+Other uses of your information are made for ordinary and transparent purposes which we think are necessary for our legitimate interests as a provider of news, content, and other services (including when working with Our Brands). We use your information on this basis to do the following:
+
+(1) Recognise and remember you when you visit our website and better understand how you use our website and others by using cookies to follow your use. We explain what cookies are in Section 6 and how you can manage them in Section 7, below;
+
+(2) Recognise and remember you when you use a Telegraph application (“Telegraph App”), to analyse how you use it and to serve you with advertisements based on your interests. Section 3.1 (4) explains how we gather this information;
+
+(3) Serve you advertisements on selected, third-party websites that make their advertising space available to us. We call this “Audience Extension” and we do this either by means of using retargeting cookies and similar technologies (we explain what cookies are in Section 6 and how you can manage them in Section 7, below) or by matching other unique identifiers, subject to appropriate safeguards and preferences.
+
+
+
+One such example is when we use Facebook’s Custom Audience feature (although other sites may offer similar services). Custom Audiences enable us to display personalised advertising to our customers whilst they are on Facebook, or your information may be used to create lookalikes of similar audiences for targeting. This information is matched on a pseudonymised basis without leaving our servers. Facebook does not receive any new information from us about you except as necessary to fulfil our instructions to serve relevant advertising as our data processor, and if you are not an existing Facebook customer then Facebook will not see any of your personally identifiable data (please see this link for further information). You can opt out of your data being used in this way by contacting data.protection@telegraph.co.uk;
+
+(4) Identify your interests. We might then put your information in aggregated form into groupings (known as “segments”) by a particular audience, which means we can serve you advertisements and offers that will interest you within the website, including by reference to data we receive from third parties. Please see Sections 6 and 7 for more information about cookies and how we serve you more targeted messaging;
+
+(5) Keep you updated on any services you have subscribed to, or any products you have purchased, and/or about similar services unless you have told us otherwise (including where we are working alongside other Service Providers to provide these services, such as travel or insurance, as detailed in the Our Brands section);
+
+(6) Contact you to let you know about any of our products, services or promotions (which may in some cases be provided by third parties), including by email, mail, telephone, or SMS text message, always having regard to your preferences. Please see Section 4 to understand more about how you provide and can manage your preferences.
+
+(7) Contact you directly via social media in relation to any competitions and/or prize draws you have entered.
+
+(8) Make sure materials on the website or in apps are presented in the most effective way for you and your computer or mobile device;
+
+(9) Collect and log numeric internet addresses to improve the website and to monitor website usage; and
+
+(10) Assess and understand our readers’, customers, site users' and account holders' feedback and identify usage hotspots;
+
+2.4 Some limited uses of your data are required to comply with legal obligations, for example fraud detection and taxation;
+
+2.5 Our core activities as a media and publishing organisation, on paper or online, are classed as special purposes (which includes journalism and the arts). Please be aware that we are subject to a series of exemptions from data protection law when processing personal data for these purposes, and such purposes are not relevant to this Privacy Policy unless expressly stated.
+
+3. How do we gather information?
+
+3.1 Information (as set out in Section 1) is gathered in the following ways:
+
+(1) indirectly (e.g. using website technology that tracks and administers your visits through your browser, or similar technology when you use a Telegraph application (“App”) on a mobile device, or when you log on and/or share stories through social media;
+
+(2) directly (e.g. when you buy a subscription, sign up to create a telegraph.co.uk profile, download a mobile device application or you otherwise provide your information when you interact with us);
+
+(3) through your device (e.g. mobile, PC or tablet) where you have enabled location services for the applicable App or browser. This may be used for location targeted services or advertising in accordance with your preferences, which may be adjusted either on your device or via server, App or website preferences;
+
+(4) through location technology for mobile web services. The service we use is based on machine learning algorithms which analyse data from different connection types. These include fixed http and https connections, location consent requests on https sites and from mobiles Apps using https connections. More information is available here. You can opt-out of this service here;
+
+(5) through social media sign-on. We offer a quick registration option using your existing social media accounts via an App or the website. If you log in to our sites using a social media account, you are granting permission to that social media company to share your user details with us, and to collect information about you and how you use our site (which process we do not control and will be subject to the terms and conditions of your social media account). This will include that social media company tracking or identifying when you share one of our stories through their site. When you use social sign-on, we will gather the information you have already used in the process of registering for that social media site (in accordance with your preferences provided to that site and/or to us at the point that you use our social sign-on) and your social media account will be linked to your Telegraph account, including in our providing social media messaging to you (See Section 5.2, below on de-linking accounts);
+
+(6) when you subscribe to The Telegraph, we may also use a card updater service to automatically update your credit or debit card details. This service is facilitated by your credit or debit card issuer, whom you should contact for further information;
+
+(7) in the past we may have obtained certain additional details through a telephone number appending service where we have had contact details for you but did not have your phone number or needed to update your phone number (but would not use phone numbers that are gathered this way where those numbers are registered with the Telephone Preference Service). We no longer append data in this way; and
+
+(8) we may also overlay additional demographic and lifestyle data from CACI (www.caci.co.uk) to help us understand what else you might be interested in for direct marketing and insight purposes. These segmentations are built using a variety of sources, including publicly available data (such as the electoral register and the UK Census) or derived from surveys and questionnaires. You can opt out of having your personal information profiled in this way by contacting us. See Section 5, below.
+
+(9) through cross-device graphing algorithms to associate devices that might be related to each other, such as devices used by the same person or in the same household. We may collect and use this analytics data together with your personal information, to stitch session data from unauthenticated (anonymous) user visits with authenticated (logged in) user visits in order to build a broader profile of our individual users so that we can serve you better.
+
+4. How do you decide how you want to hear from us?
+
+4.1 We will contact you in accordance with your preferences, including by email, phone, post and SMS text. We always seek to explain why and how we might contact you at the point you give your information to us.
+
+4.2 We also provide the means for you to grant or withhold your permission for us to contact you. We do this by using opt-in boxes or unsubscribe options, which determine your permission for us to contact you about our wider range of goods and services, including those provided by Our Brands (the range of Telegraph-branded offers, products and services listed below this policy).
+
+4.3 Sometimes, we need your information to be able to contact you to provide the service you wish to use (e.g. a subscription or Telegraph Fantasy Football). In those cases, by signing up to the service you are agreeing that we will have to send you service communications to run the service itself, and we will not offer you the chance to opt-out from receiving those messages until you decide you no longer wish to use the services.
+
+4.4 As well as the communications we send you, we also offer you the opportunity to choose whether to hear from specific companies and organisations that we work in association with, including (but not limited to) the Service Providers for Our Brands. We will always name those companies and organisations, and you will have to opt in to hearing from them via a tick box (or because you choose to engage with them directly).
+
+4.5 If you have signed up to receive marketing from us by SMS, to stop this, please reply STOP to the last message you received.
+
+5. Accessing and updating your personal information
+
+5.1 You can update your details and marketing preferences by accessing your account pages on the website, by emailing data.protection@telegraph.co.uk or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT.
+
+5.2 You can de-link your social media account from your Telegraph account by emailing data.protection@telegraph.co.uk. De-linking your account will not change your marketing preferences unless you specifically request it and we are not responsible for how third party social media sites use information they collect about you, including via your own social media account or through your having linked it to your Telegraph account.
+
+5.3 You have the right to access the personal information held about you from us, or from any other organisation that controls your personal information. To understand how to obtain a copy of the personal information that we hold, please see Section 13 below.
+
+6. Cookies and similar technologies
+
+6.1 A cookie is a small piece of information that is placed on your computer when you visit certain websites. When we refer to “cookies” we include other technologies with similar purposes, such as tags and identifiers. Find out more about the use of cookies on http://www.cookiecentral.com/.
+
+6.2 When you first visit our sites using a new browser, or if you visit in private browsing mode, we will provide you with a cookies permission banner seeking your consent to use of cookies as required by law. From this banner you will be able to access our cookies management tool. By clicking OK or clicking through to any part of the site, we will start to manage your visit using cookies.
+
+6.3 We use the following types of cookie, as will your browser:
+
+(1) Analytics cookies that remember your computer or mobile device when you visit our website and recognise visits to our website across different devices. They keep track of browsing patterns and help us to build up a profile of how our readers use the website. We use that information for customer analytics and to serve advertisements that we think might be of particular interest to you on our and other websites (see Section 7.5). Your browser may use similar cookies for similar purposes and to serve advertisements for others.
+
+(2) Service cookies that help us to make our website work as efficiently as possible; remember your registration and login details; remember your settings preferences; to detect what device you are using and adapt how we present our services according to the screen size of that device; and meter the number of pages you view for the purpose of administering subscriptions to The Telegraph.
+
+(3) Third party advertising and analytics cookies, which are placed by or on behalf of independent advertisers who are advertising on our site. These cookies may be placed within the advertisement and elsewhere on our site by us or by your browser. They can allow the advertiser or your browser to tailor advertising to you when you visit other websites. They are used for statistical analysis by allowing the advertiser to count how many people have seen their advertisement or have seen it more than once, to make sure you are not repeatedly served with the same advertising messages.
+
+(4) We also place third party cookies to enable the serving of our own advertisements, for example, for our subscriptions offers, on other websites. These advertisements will be based on your browsing behaviour on our website and will be tailored to your interests. The information we gather from your visit is limited to page URLs. For instance, if you are particularly interested in Food and Drink articles, the subscription offer advertisements served to you when you visit your Facebook account will feature our Food and Drink content.
+
+6.4 We are a shareholder in The Ozone Project (“Ozone”), which is an advertising and audience platform part-owned by Telegraph Media Group along with other publishers. Ozone and its data management providers set cookies to collect information to build audience segments so that Ozone can serve targeted advertisements on our websites and those of other publishers.
+
+6.5 We may use selected data management providers for our own purposes such as and/or similar to those described in 6.4, above.
+
+6.6 We have no access to third party cookies and third party organisations have no access to ours. The third party organisations that place cookies, including your browser (such as Google), Ozone, data management providers and the third party companies who pay for advertising and analytics services using this information, will have their own privacy policies.
+
+7. Managing your cookies preferences
+
+7.1 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates. We also provide our own cookie management tool for you to make more specific choices about how cookies are used for your visits to our site..
+
+7.2 We also use third party cookies, as will your browser. These are cookies that may be read by third parties (for example if you have used social sign-on and have the option to like or comment using your social media account). If you would prefer to just restrict third party cookies, here is our cookie management tool:
+***************************************************************
+
+

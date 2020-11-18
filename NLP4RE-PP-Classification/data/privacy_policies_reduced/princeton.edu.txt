@@ -1,0 +1,15 @@
+Title: Princeton University Privacy Notice
+URL: https://princeton.edu/privacy-notice
+Date of publishing: None
+Keywords: notice, web, refer, turn, privacy, princeton, online, services, users, preferences, pages, websites, university, cookies
+
+Policy: The University’s websites make use of persistent cookies to save preferences and temporary (session) cookies to track logins and allow for site analytics. Note that logged in users are individually identifiable to the web server through these cookies.
+
+You can prevent the setting of cookies or selectively accept cookies by adjusting the preferences in your browser (please refer to your browser’s help function to learn more about cookie controls). If you turn off cookies, you may not be able to log in, and some web pages may not display properly.
+
+A beacon is code that tracks how users interact with our websites. We use this information to improve our websites and online services, tailor our websites and online services to your likely interests, and conduct market research.
+
+You may be able to turn off scripting functionality, such as JavaScript, within your browser (please refer to your browser’s help function). If you turn off JavaScript, there may be some features of our websites that will not be available to you, and some web pages may not display properly.
+***************************************************************
+
+

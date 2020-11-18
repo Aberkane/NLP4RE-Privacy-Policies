@@ -1,854 +1,195 @@
-Title: Privacy- en cookiereglement Business Insider Nederland
-URL: https://www.businessinsider.nl/privacy-en-cookiereglement/
+Title: Privacy Policy
+URL: https://www.insider-inc.com/privacy-policy
 Date of publishing: None
-Keywords: je, gegevens, google, op, een, privacy, van, business, te, het, aan, en, cookiereglement, nederland, insider
+Keywords: 
 
-Policy: Dank voor je bezoek aan businessinsider.nl en voor de getoonde interesse in onze diensten.
+Policy: Privacy Policy
+Last updated: January 13, 2020
 
-Voor een overzicht van alle cookies die wij gebruiken, klik hier »
+1. OVERVIEW
+1.1 Welcome to the websites, applications and services provided by Insider Inc., a Delaware corporation (on behalf of itself and its subsidiaries, "Insider Inc."), which include without limitation www.businessinsider.com, www.techinsider.io, www.insider.com, intelligence.businessinsider.com, markets.businessinsider.com, and www.insider-inc.com (the “Sites”).  
 
-Z24 Media BV, licentienemer van Businessinsider.nl, hecht veel belang aan gegevensbescherming en -beveiliging.
+1.2 This policy is based on our goal to provide our visitors with quality information and resources while maintaining personal privacy. Please forward any comments you may have regarding this policy to privacy@insider-inc.com.
 
-Wij willen dat je je bij ons volledig veilig en geborgen voelt. Wij streven ernaar je privacy te beschermen en je gegevens vertrouwelijk te behandelen, in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming. Dit gebeurt met behulp van de best mogelijke en nieuwste technologieën.
+1.3 By visiting the Sites, registering with us or contacting us, you signify that you understand and agree to the collection, use and transfer of your information under the terms of this policy. If you do not accept, or do not wish to be bound by this policy, please do not use the Sites.
 
-Hier kun je zien welke persoonlijke gegevens wij verzamelen en gebruiken. Houd er rekening mee dat je ook via hyperlinks toegang kunt krijgen tot andere aanbieders, samenwerkingspartners en websites van derden, die op hun beurt onderworpen zijn aan verplichtingen met betrekking tot gegevensbescherming.
+1.4 If you are a California resident or data subject in Europe, please see the “Additional Disclosures for California Residents” and “Additional Disclosures for People in Europe” in Sections 16 and 17, respectively. If you have any questions or wish to exercise your rights and choices, please contact us as set out in the “Contact Us” section
 
-1. Persoonsgegevens
+2. INFORMATION WE COLLECT FROM YOU
+2.1 When you access our Sites, we collect and in the last 12 months we have collected the types of information, described in Sections 3 through 5 below entitled "access information," "contact information" and " information from other sources.” 
 
-Overeenkomstig artikel 4, lid 1, van de Algemene Verordening Gegevensbescherming (AVG) hebben persoonsgegevens betrekking op informatie over een geïdentificeerde of identificeerbare natuurlijke persoon.
+3. ACCESS INFORMATION
+3.1 We may collect information about your computer, including where available your geographic location, IP address, operating system and browser type, device type, bandwidth, etc. for system administration and to report aggregate information to our advertisers.
 
-2. Gegevensverzameling en -verwerking / Logbestanden
+3.2 We may also keep details of your visits to our Sites including, but not limited to, traffic data, location data, weblogs and other communication data, time spent on the Sites, number of pages viewed, referring web pages, the resources that you access and the date and time of access, etc. To the extent this information can identify you directly, or indirectly when combined with other information, it will be subject to this privacy policy.
 
-Z24 Media verzamelt en verwerkt als sitebeheerder informatie om je ook in de toekomst optimale diensten te kunnen blijven aanbieden.
+3.3 Our Sites use cookies, web beacons, and other technologies in order to provide you with an improved browsing experience; and to allow us to improve our Sites and to serve targeted advertising. We may collect advertising information, including but not limited to, type of ads seen, number of times ads were served, pages where the ads were served, etc. When you first access the Sites, depending on your location, you may receive a message advising you that cookies and similar technologies are in use.
 
-Voor de later genoemde doeleinden kunnen wij de volgende persoonsgegevens verwerken:
+3.4 Our Sites may feature Nielsen’s proprietary measurement software. To learn more about this information  and to opt-out of Nielsen’s digital measurement research, visit http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html.   
 
-het IP-adres van het apparaat waarmee je onze website of app bezoekt
+4. CONTACT INFORMATION
+4.1 You may also give us information about you by filling in forms on the Sites. This includes information you provide when you register to use our Sites, subscribe to our services, participate in discussion boards or other social media functions on our Sites, enter a competition, promotion or survey and when you report a problem with our Sites. The information you give us may include your name, shipping and billing address, e-mail address and phone number, financial and credit card information, personal description and photograph.
 
-gegevens over hoe je de website of de app gebruikt, welke pagina’s je bezoekt en welke content je leest
+4.2 You can also create an account on our Sites and subscribe to our services using your social media profile. When creating an account on our site directly, you may provide or be provided specific information necessary for such account like a password.  In the event that you are given (or where you have chosen) a password which enables you to access certain parts of the Sites, you are responsible for keeping this password confidential. You must not share a password with anyone.  If you subscribe to our service using your social media profile, we will automatically collect selected information about you from your social media account. The information we collect depends on your social media privacy settings for sharing such personal data, and may include name, profile picture, age range, gender, language, country and other public information.
 
-persoonsgegevens die voor ons toegankelijk zijn naar aanleiding van je gebruik van social media-functies
+5. THIRD PARTY INFORMATION
+5.1 We may also receive information about you if you use any of the other websites we operate or the other services we provide. We also work closely with other parties (including, for example, business partners, affiliates, sub-contractors in technical, payment and delivery services, search information providers, credit reference agencies, social networks, advertising networks, advertising exchanges, data management platforms, content recommendation platforms and analytics providers) and may receive information about you from them. Depending on its nature, this information from other sources will either be "access information" or "contact information", as described below.
 
-gegevens over de aan jou getoonde advertenties
+6. THE WAY WE USE INFORMATION
+6.1 We collect and use your information for business and commercial purposes in accordance with  the terms of our privacy policy in effect at the time of our use. Our business and commercial purposes for collecting and using information, including in the last 12 months are:
 
-gegevens die je zelf op de website of in de app invoert
+6.1.1 Providing and managing the Site and services, including: (a) providing you with access; (b) customizing your experience; (c) allowing you to participate in panels, events, sweepstakes, and contests; and (d) analytics;
 
-cookies of andere gegevens of code op je computer, gebruikt om je apparaat te herkennen
+6.1.2 Administrative purposes, including: (a) bug detection and error reporting; (b) auditing user interactions; (c) fraud and security monitoring; and (d) complying with legal obligations;
 
-een zogenaamde fingerprint van je apparaat gemaakt met behulp van de door ons verzamelde informatie. Met zo’n fingerprint kunnen wij je apparaat herkennen
+6.1.3 Delivering advertising, including online tracking and advertising (See our Cookies Policy for additional information);
 
-je cv en voorkeur voor een vacature
+6.1.4 Working with service providers, affiliates, and partners;
 
-je e-mail adres en naam voor het versturen van een nieuwsbrief
+6.1.5 Developing new products and services; and
 
-de door jou verleende toestemming om je een nieuwsbrief te sturen
+6.1.6 Otherwise with your consent or at your direction.
 
-of je de nieuwsbrief opent, en waar je klikt in de nieuwsbrief
+6.2 We may also share your personal information as we believe is necessary or appropriate to comply with applicable law or legal process or to protect, enforce, or defend the legal rights, privacy, safety, or property of the Sites and services, our employees, agents or users.
 
-Als je onze website bezoekt, worden standaard alleen gegevens geregistreerd zoals je IP-adres of URL, de naam van de website van waaruit je ons bezoekt, de website die je vanuit onze site benadert, en de datum en duur van je verblijf.
+6.3 Your "access information" is used to route the requested web page to your computer or mobile device for viewing. It enables us to provide you with access to our Sites. We use this information in line with our legitimate interests to administer our Sites and for internal operations, including troubleshooting, data analysis, site analysis, testing, research, statistical and survey purposes, to improve our Sites, to ensure that content is presented in the most effective manner for you and for your device, to allow you to participate in interactive features of our services, when you choose to do so, as part of our efforts to keep our Sites safe and secure; to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you, and where you have provided your consent, to make suggestions and recommendations to you about goods or services that may interest you;
 
-Daarnaast worden productdata geregistreerd over bijvoorbeeld de versie van de gebruikte browser en het besturingssysteem van je computer.
+6.4 Your "contact information" enables us to operate and manage the Sites, provide services to you, or information tailored more specifically to your needs, or to forward your message or enquiry to another entity that is better able to do so. As such, it may enable us or our selected partners to contact you, for example, to respond to a query you have submitted to us. We will also use and analyze the information we collect so that we can administer, support, improve and develop our business, customer service and the features of our Sites and our services generally;
 
-Deze informatie wordt alleen intern gebruikt, bijvoorbeeld om statistieken te verzamelen over welke webpagina’s het meest bezocht worden.
+6.5 The information we receive from other sources will be combined with access information and/or contact information. We will use the combined information for the purposes set out above;
 
-Dit helpt ons beter te begrijpen welke informatie je zoekt en bij ons wilt vinden. Wij gebruiken deze gegevens voor de werking van onze website, in het bijzonder om fouten op de website op te sporen en te elimineren, om het gebruik van de website te analyseren en om aanpassingen of verbeteringen aan te brengen. (Rechtsgrond: artikel 6, lid 1, eerste zin, onder f), van de AVG). Deze gegevens worden regelmatig gewist.
+6.6	We will use the information you provide to us to contact you by email, telephone, and/or post to notify you occasionally about important changes or developments to the Sites. Where you have provided the appropriate form of consent, we may also use your information to let you know by email, telephone, and/or post about other goods and services which we, or our selected partners, offer which may be of interest to you; and
 
-Verdere persoonlijke gegevens, zoals je e-mailadres en telefoonnummer, of welke webpagina’s je hebt bezocht, indien van toepassing, worden apart opgeslagen en alleen als je hiermee uitdrukkelijk akkoord gaat in het kader van gepersonaliseerde diensten.
+6.7 We will ask you to give your consent to the use of your personal data for marketing purposes, and to provide you with information about our goods and services, or those of other parties, which we believe, may be of interest to you. If you change your mind about being contacted by selected parties or us, please click "unsubscribe" from any emails received.
 
-Als onderdeel van onze nieuwsbrief-diensten worden de noodzakelijke gegevens in het kader van de nieuwsbriefregistratie als zogenaamde verplichte velden gemarkeerd – zodat je altijd weet welke gegevens je moet invoeren, en welke met je toestemming worden opgeslagen en verwerkt om van de betreffende dienst gebruik te kunnen maken (rechtsgrond Art. 6 lid 1 a AVG). Als je een service wilt annuleren, worden door je in dit kader verstrekte verschafte gegevens gewist.
+6.8 With your opt-in consent, we may also permit selected parties to use your information, to provide you with information about goods and services which may be of interest to you. We or they may contact you about these by email. 
 
-Z24 Media B.V. maakt voor het versturen van nieuwsbrieven gebruik van de nieuwsbriefdienst Apsis. Apsis verwerkt de door gebruikers verstrekte gegevens (stamgegevens, e-mailadressen) ten behoeve van het verzenden van nieuwsbrieven namens Z24 Media B.V. (“orderverwerking” in de zin van art. 28 van de AVG). Z24 heeft met Apsis een orderverwerkingscontract gesloten conform art. 28 van de AVG, waardoor Apsis de gegevens alleen verwerkt volgens de instructies van Z24 Media BV.
+7. DISCLOSURE OF YOUR INFORMATION
+7.1 We share your information as described in this privacy policy. The types of entities to whom we disclose and have shared information with in the last 12 months, include the following:
 
-In bepaalde gevallen, waarover je van te voren zullen informeren en om je toestemming zullen vragen, kunnen wij persoonsgegevens aan derden (zoals zakelijke partners) doorgeven, bijvoorbeeld in het kader van downloads of deelname aan prijsvragen.
+7.1.1 members of our group, which means our subsidiaries, affiliates, our ultimate holding company and its subsidiaries and affiliates. We share information with these group members for our business purposes such as marketing and technical operations, and commercial purposes;
 
-2.2 Nieuwsbrieven en partnermailings
+7.1.2 business partners, suppliers and sub-contractors who require access to personal data to assist in the performance of any contract we enter into with them or you;
 
-Wanneer je daarmee akkoord bent gegaan kun je naast nieuwsbrieven soms ook berichten van partners ontvangen. Dit zijn dan berichten die betrekking hebben op het onderwerp van de nieuwsbrief waar je je voor hebt aangemeld. Dit zijn berichten van in ieder geval onze partners Hellorider, Appwiki, Meerdervoort en Brookz.
+7.1.3 trusted companies and individuals to perform functions in certain situations on our behalf or our service providers. These functions include cloud storage providers, email services, providing marketing assistance and data analysis, handling transactions, fulfilling orders and providing customer service and credit referencing. These agents have access to information in order to perform their functions but may not use, retain or disclose it for any purpose other than to perform the services;
 
-Zij kunnen je, wanneer je daar toestemming voor hebt gegeven, een gericht voorstel sturen.
+7.1.4 analytics and search engine providers that assist us in the improvement and optimization of our Sites;
 
-Bij akkoord kunnen ondernemingen je berichten over:
+7.1.5 vendors for business and commercial purposes, including analytics and advertising technology companies. Vendors may act as our service providers, or in certain contexts, independently decide how to process your information.  For more information on advertising and analytics, see the “Analytics and Advertising” section below; and
 
-– personal finance
+7.1.6 others companies with notice to you and your consent.
 
-– bedrijfsfinanciering
+7.2 We may also disclose your information to other parties:
 
-– bedrijfssoftware
+7.2.1 where we are required to do so by law;
 
-– leasen
+7.2.2 in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
 
-– e-bikes en fietsen
+7.2.3 to exchange other information with other companies and organizations for fraud protection and credit risk reduction.
 
-– fusies & overnames
+8. ANALYTICS AND ADVERTISING
+8.1 We and other parties use analytics services, such as Google Analytics, to help us understand how users access and use the Sites. In addition, we work with agencies, advertisers, ad networks, and other technology services to place ads about our products and services on other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services.
 
-– investeringen
+8.2 As part of this process, we may incorporate tracking technologies into our own Sites (including our website and emails) as well as into our ads displayed on other websites and services. Some of these tracking technologies may track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you (“Interest-based Advertising”).
 
-Daarnaast kan Business Insider je benaderen met eigen aanbiedingen.
+8.3 Google provides tools to allow you to opt out of the use of certain information collected by Google Analytics at https://tools.google.com/dlpage/gaoptout and by Google Analytics for Display Advertising or the Google Display Network at  https://www.google.com/settings/ads/onweb/.
 
-3. Gebruik persoonsgegevens
+8.4 The companies we work with to provide you with targeted ads are required by us to give you the choice to opt out of receiving targeted ads. Most of these companies are participants of the Digital Advertising Alliance (“DAA”) and/or the Network Advertising Initiative (“NAI”). To learn more about the targeted ads provided by these companies, and how to opt out of receiving certain targeted ads from them, please visit: (i) for website targeted ads from DAA participants, https://www.aboutads.info/choices; (ii) for app targeted ads from DAA participants, https://www.aboutads.info/appchoices; and (iii) for targeted ads from NAI participants, https://www.networkadvertising.org/choices/. Opting out only means that the selected participants should no longer deliver certain targeted ads to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., in connection with the participants’ other customers or from other technology services).
 
-Je persoonsgegevens worden voor de volgende doeleinden verwerkt:
+8.5 Please note that if you opt out using any of these methods, the opt out will only apply to the specific browser or device from which you opt out. We are not responsible for the effectiveness of, or compliance with, any opt out options or programs, or the accuracy of any other entities’ statements regarding their opt out options or programs.
 
-om de kwaliteit, veiligheid en gebruiksvriendelijkheid van onze website en app te verbeteren
+9. PROVIDING INFORMATION IS YOUR CHOICE
+9.1 There is no legal requirement for you to provide any information at our Sites. However, our Sites will not work without certain "access information" described above. Failure of your browser to accept "cookies" will not prevent your use of our Sites but may prevent certain features from working.
 
-om contact met ons op te kunnen nemen via onze website en app
+9.2 For any "contact information" that is requested on a Site, failure to provide the requested information will mean that the particular feature or service associated with that part of the Site may not be available to you.
 
-om downloads van content van de website mogelijk te maken (bij toestemming)
+9.3 Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or take action with respect to “Do Not Track” signals.  For more information on “Do Not Track,” visit http://www.allaboutdnt.com.
 
-om je te informeren over andere content en diensten van Business Insider Nederland (bij toestemming)
+10. HOW LONG WE STORE YOUR INFORMATION
+10.1 We will only retain your information, for as long as necessary to fulfill the purposes we collected it for. We will retain and use your information as necessary to satisfy any legal, accounting or reporting requirements, to resolve disputes or to enforce our agreements and rights. In line with this policy, we will either securely delete or anonymize your personal data so that it cannot be linked back to you.
 
-om je vraag via ons contactformulier te kunnen beantwoorden
+11. DATA SECURITY
+11.1 The transmission of information via the internet is not completely secure. Although we will do our best to protect your information and implement appropriate technical and organisational security measures, we cannot guarantee the security of your data transmitted to our Sites; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate safeguards to secure the information we collect online, consistent with the policies of Insider Inc. and industry standards.
 
-om delen via sociale media mogelijk te maken
+11.2 Our Sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-om deelname aan een prijsvraag mogelijk te maken
+12. EMAIL POLICY
+12.1 Insider Inc. offers email newsletters. If you no longer wish to receive emails, follow the "unsubscribe" instructions located near the bottom of each newsletter.
 
-om de effectiviteit van reclamecampagnes te beoordelen
+13. CHILDREN UNDER 16
+13. 1 The Sites are not intended for children under 16 years of age. No one under age 16 may provide any information to or on the Sites. Insider Inc. does not knowingly target advertising to, or collect information from, children under the age of 16. If you are under 16, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@insider-inc.com. We also do not knowingly “sell” the personal information of minors under 16 years old who are California residents.
 
-voor het mogelijk maken en afwikkelen van online sollicitaties
+14. CHANGES TO THIS PRIVACY POLICY
+We reserve the right to edit and reissue this policy at any time. Any changes will be effective immediately upon posting of the revised policy. Your continued use of our Sites indicates your consent to the privacy policy then posted. Please check this policy regularly for any changes. If the changes are material, we may provide you additional notice to your email address.
 
-voor het ontwikkelen van nieuwe producten op basis van jouw voorkeuren
+15. CONTACT US
+15.1 Should you have other questions or concerns about our privacy policies and practices, please contact us at privacy@insider-inc.com.
 
-om (gebruiks)trends te bepalen
+15.2 If you have a disability and would like to access this Privacy Policy in an alternative format, please contact us at legal@insider-inc.com.
 
-om wettelijke verplichtingen na te kunnen leven
+16. ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS 
+16.1 These additional disclosures and rights for California residents apply only to individuals who reside in California beginning January 1, 2020. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.  
 
-om juridische procedures te kunnen voeren
+16.2 In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA: 
 
-voor klanttevredenheidsonderzoek, en het geven van feedback daarop
+16.2.1 Identifiers - including name, email address, phone number, account name, IP address, and an ID or number assigned to your account.  
 
-om profielen samen te stellen en gedrag op geaggregeerd niveau te analyseren
+16.2.2 Customer records - billing and shipping address, and credit or debit card information. 
 
-om een inschatting te maken van je wensen en voorkeuren aan de hand van een profiel dat we aan je gegevens koppelen
+16.2.3 Demographics - such as your age or gender. This category includes data that may qualify as protected classifications under other California or federal laws.
 
-om je te wijzen op evenementen en speciale aanbiedingen van Business Insider Nederland (bij toestemming)
+16.2.4 Commercial information - including purchases and engagement with the Sites and/or services.
 
-Al je persoonlijke gegevens worden vertrouwelijk behandeld en niet doorgegeven aan derden. De persoonsgegevens worden uitsluitend gebruikt om de door jou gevraagde diensten te verlenen, je vragen te beantwoorden en intern statistieken op te stellen (rechtsgrond art. 6 lid 1 f van de AVG).
+16.2.5 Internet activity - including your interactions with our Sites and/or services. 
 
-Uitzonderingen gelden alleen voor door jou gevraagde diensten, waarbij je toestemming geeft voor het gebruik van je verdere gegevens (wettelijke basis Art. 6 lid 1a van de AVG) alsmede voor het wettelijk doorgeven van je gegevens aan overheidsinstellingen en autoriteiten (wettelijke basis Art. 6 lid 1c van de AVG).
+16.2.6 Geolocation data - including location enabled services such as WiFi and GPS. 
 
-De met jouw toestemming verzamelde en opgeslagen gegevens zullen door ons in het kader van contractuele overeenkomsten voor zover nodig, bijvoorbeeld in het geval van een prijsvraag waar je aan deelneemt (rechtsgrond art. 6 lid 1f van de AVG), aan zakenpartners en sponsors worden doorgegeven.
+16.2.7 Employment and education data - including information you provide when you apply for a job with us.
 
-Uiteraard verzoeken wij onze zakenpartners en sponsors de wettelijke voorschriften inzake gegevensbescherming na te leven. Voor zover we op onze internetpagina’s andere bedrijven ruimte bieden om te adverteren, zullen we deze advertenties markeren als reclame.
+16.2.8 Inferences - including information about your interests, preferences and favorites.
 
-Onze website verwijst naar pagina’s op diverse socialmediaplatforms. Wij wijzen je erop dat je door op deze links te klikken onze website verlaat. Daarmee komt je ook buiten het domein waarvoor deze verklaring inzake gegevensbescherming geldt. Op socialmediaplatforms zijn alleen de verklaringen en gebruiksvoorwaarden van de exploitant van het desbetreffende socialmediaplatform van toepassing.
+16.3 For more information on information we collect, including the sources we receive information from, review the “Information We Collect From You” in Section 2 and as further detailed in Sections 3 through 5 . We collect and use these categories of personal information for the business purposes described in section 6 entitled “The Way We Use Your Information” (Section 6), including to provide and manage our Sites. 
 
-In principe wissen wij persoonsgegevens als deze niet langer nodig zijn voor het gebruik van een dienst. Ook wissen wij persoonsgegevens als je de toestemming voor gegevensverwerking intrekt, onder voorbehoud van eventuele wettelijke bewaarverplichtingen.
+16.4 Insider Inc. does not generally sell information as the term “sell” is traditionally understood. However, to the extent “sale” under the CCPA is interpreted to include advertising technology activities such as those disclosed in the “Analytics and Advertising” section as a “sale,” we will comply with applicable law as to such activity. Insider Inc. discloses the following categories of personal information for commercial purposes: identifiers, demographic information, commercial information, internet activity, geolocation data and inferences. We use and partner with different types of entities to assist with our daily operations and manage our Sites. Please review the “Disclosure of Your Information” section for more detail about the parties we have shared information with.
 
-Wij zullen je persoonsgegevens niet gebruiken om op geautomatiseerde wijze besluiten te nemen waaraan voor jou rechtsgevolgen zijn verbonden.
+16.5 If you are a California resident, you have the right to delete the personal information we have collected from you and the right know certain information about our data practices in the preceding 12 months. In particular, you have the right to request the following from us: 
 
-4.Toestemming
+16.5.1 The categories of personal information we have collected about you;  
 
-Wij zullen je toestemming voor het verwerken van gegevens vastleggen. Desgewenst zullen wij je informeren wanneer en hoe je toestemming heeft gegeven. Indien je hiermee niet instemt, vragen wij je begrip te tonen voor het feit dat je mogelijk geen gebruik kunt maken van een dienst die wij aanbieden.
+16.5.2 The categories of sources from which the personal information was collected; 
 
-5. Jongeren
+16.5.3 The categories of personal information about you we disclosed for a business purpose or sold;
 
-Als je nog geen 16 jaar bent, mag je alleen gebruikmaken van onze diensten met toestemming van je ouder of voogd. We hebben niet de intentie om gegevens te verzamelen van websitebezoekers die jonger zijn dan 16 jaar. Wanneer je minderjarig bent, zorg er dan voor dat je ouders toestemming hebben gegeven om je gegevens met ons te delen.
+16.5.4 The categories of third parties to whom the personal information was disclosed for a business purpose or sold; 
 
-We kunnen niet altijd controleren of een bezoeker daadwerkelijk ouder is dan 16 jaar. Wij raden ouders dan ook aan om betrokken te zijn bij de online activiteiten van hun kinderen, om zo te voorkomen dat er gegevens over minderjarigen worden verzameld zonder ouderlijke toestemming. Als je ervan overtuigd bent dat wij zonder die toestemming persoonlijke gegevens hebben verzameld van een minderjarige, neem dan contact met ons op via finance@businessinsider.nl. Dan zullen wij deze informatie verwijderen.
+16.5.5 The business or commercial purpose for collecting or selling the personal information; and; 
 
-Hoe lang bewaren wij je persoonsgegevens?
+16.5.6 The specific pieces of personal information we have collected about you.
 
-Wij bewaren je persoonsgegevens niet langer dan wettelijk is toegestaan, wettelijk verplicht is en/of noodzakelijk is voor de doeleinden waarvoor de gegevens worden verwerkt. Hoe lang bepaalde gegevens worden bewaard is daarom afhankelijk van de aard van de gegevens en de doeleinden waarvoor ze worden verwerkt. De bewaartermijn kan dus per doel verschillen. Wij kiezen binnen deze kaders altijd voor de kortste bewaartermijn.
+16.6 To exercise any of these rights, please submit a request through our online form available at here,  or email us at privacy@insider-inc.com. In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request.  If we are unable to verify your identity, we may deny your requests to know or delete.
 
-Voor bewaartermijnen van cookies, zie ons cookie overzicht
+To the extent Insider Inc. sells your personal information as the term “sell” is defined under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out by clicking the “CA Do Not Sell My Info” link in the footer of the Site. You may also submit a request to opt-out by emailing us at privacy@insider-inc.com.
 
-Voor nieuwsbrieven geldt dat inactieve gebruikers na 1 jaar uit de bestanden worden gehaald.
+16.7 You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly.
 
-6. Beveiliging van gegevens
+16.8 You have the right not to receive discriminatory treatment by us for the exercise of any your rights.
 
-Wij nemen uitgebreide technische en organisatorische veiligheidsmaatregelen om je persoonlijke gegevens te beschermen tegen opzettelijke manipulatie, verlies of toegang door onbevoegde derden. Deze maatregelen worden voortdurend verbeterd in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming en technologische ontwikkelingen.
+16.9 Customers who are residents of California may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To exercise a request, please write us at the email or postal address set out in “Contact Us” above and specify that you are making a “California Shine the Light Request.” We may require additional information from you to allow us to verify your identity and are only required to respond to requests once during any calendar year.
 
-We willen er echter op wijzen dat, ondanks onze veiligheidsmaatregelen, informatie die je vrijwillig via het internet openbaar maakt, door anderen kan worden gebruikt. Wij kunnen derhalve geen aansprakelijkheid aanvaarden voor fouten in de gegevensoverdracht of ongeautoriseerde toegang tot je gegevens door derden.
+17. ADDITIONAL DISCLOSURES FOR PEOPLE IN EUROPE 
+17.1 This Section 17 only applies to individuals within the European Economic Area (“EEA”). Under Europe’s General Data Protection Regulation (“GDPR”), in certain circumstances, you have the right to (a) request access to any personal data we hold about you and related information, (b) obtain without undue delay the rectification of any inaccurate personal data, (c) request that your personal data is deleted provided the personal data is not required by us for compliance with a legal obligation under European or Member State law or for the establishment, exercise or defence of a legal claim, (d) prevent or restrict processing of your personal data, except to the extent processing is required for the establishment, exercise or defence of legal claims; and (e) request transfer of your personal data directly to a third party where this is technically feasible.
 
-7. Cookies
+17.2 In addition, where you believe that we have not complied with its obligation under this privacy policy or European law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner's Office.
 
-het genereren van algemene statistieken en het verkrijgen van inzage in hoe onze website en app wordt gebruikt door het publiek;
+17.3 If you would like to exercise any of these rights, please email us at euprivacy@insider-inc.com.
 
-het optimaliseren van onze diensten;
+17.4 We collect and use your information for business and commercial purposes in accordance with  the terms of our privacy policy in effect at the time of your use. Our business and commercial purposes for collecting and using information, including in the last 12 months, include where: (a) you have provided your consent which can be withdrawn at any time; (b) the processing is necessary to facilitate your request such as for the performance of a contract to which you are a party or to perform services you have requested; (c) we are required by law, (d) where processing is required, to protect your vital interests or those of another person; or (e) the processing is necessary for the purposes of our legitimate interests, except where such interests are overridden by your rights and interests.
 
-het afstemmen van de content en aanbiedingen op onze website en app en in onze nieuwsbrieven, op basis van je interesses en aan de hand van je click- en surfgedrag.
+17.5 For personal data from the European Union or the EAA:
 
-Cookies zijn zeer kleine tekstbestanden die worden ingezet op internetpagina’s die door je browser worden opgeslagen op je computer. Door de plaatsing van een cookie wordt bepaalde informatie gegenereerd. Cookies kunnen geen programma’s uitvoeren of virussen naar je computer verzenden.
+17.5.1 We will only transfer your personal data to trusted third-parties who provide sufficient security guarantees and who demonstrate a commitment to compliance with applicable law and this privacy policy.  
 
-Tijdelijke cookies worden automatisch verwijderd wanneer je je browser afsluit. Dit geldt in het bijzonder voor sessiecookies. Deze slaan een zogenoemde sessie-ID op, waarmee verschillende verzoeken van je browser aan een reguliere sessie kunnen worden gekoppeld. Hierdoor kan je computer worden herkend wanneer je terugkeert naar onze website. Sessiecookies worden verwijderd wanneer je uitlogt of je browser afsluit.
+17.5.2 We will not transfer personal data originating from the EEA to third parties located outside of the EU without ensuring adequate protection under European law. 
 
-Persistente cookies worden automatisch verwijderd na een bepaalde periode, die kan variëren afhankelijk van de cookie. je kunt cookies te allen tijde verwijderen in de beveiligingsinstellingen van je browser.
-
-De informatie van cookies dient ertoe om ons aanbod te optimaliseren en je meer comfort te bieden bij het surfen op onze pagina’s. De rechtsgrondslag voor deze gegevensverwerking is artikel 6, lid 1, eerste zin, punt 1, onder f), van het AVG.
-
-Je kunt je internetbrowser zo instellen dat deze je informeert wanneer een webserver je een cookie wil sturen. Je kunt de cookie dan accepteren of weigeren. je kunt je browser naar wens configureren en bijvoorbeeld het accepteren van cookies van derden, of van alle cookies weigeren. Het is mogelijk dat je dan niet alle functies van deze website kunt gebruiken. Meer informatie hierover vindt je bij de helpfunctie van je internetbrowser.
-
-8. Het advertentienetwerk van Google
-
-a) Google Analytics
-
-Deze website maakt gebruik van Google Analytics, een webanalysedienst van Google Inc. (“Google”). Google Analytics maakt gebruik van ‘cookies’, tekstbestandjes die op je computer worden geplaatst om een website te helpen analyseren hoe gebruikers de site gebruiken. De door de cookie gegenereerde informatie over je gebruik van deze website wordt gewoonlijk overgebracht naar een server van Google in de VS en daar opgeslagen.
-
-Als echter IP-anonimisering op een website wordt geactiveerd, beperkt Google het gebruik van je IP-adres tot lidstaten van de Europese Unie en landen die behoren tot de Europese Economische Ruimte. Slechts in uitzonderingsgevallen wordt dan het volledige IP-adres naar een server van Google in de VS verzonden en daar opgeslagen.
-
-In opdracht van de exploitant van deze website gebruikt Google informatie om je gebruik van de website te evalueren, rapporten over de websiteactiviteiten samen te stellen en de exploitant van de website andere diensten met betrekking tot het gebruik van de website en het internet aan te bieden.
-
-Het IP-adres dat je browser in het kader van Google Analytics doorgeeft, wordt niet met andere gegevens van Google samengevoegd. Je kunt het gebruik van cookies weigeren door in je browser de daarvoor geëigende instellingen te kiezen. Wij wijzen je er echter op dat je in dat geval mogelijk niet alle functies van deze website volledig zult kunnen gebruiken.
-
-Je kunt voorkomen dat Google de door een cookie gegenereerde gegevens verzamelt die betrekking hebben op je gebruik van de website (met inbegrip van je IP-adres) en deze gegevens verwerkt. Dit kun je doen door de browser-plug-in te downloaden en te installeren via deze volgende link.
-
-Z24 Media heeft overigens Google Analytics zo ingesteld dat gegevens anoniem worden gemeten; ze kunnen niet worden gekoppeld aan een IP-adres.
-
-Wij gebruiken Google Analytics om het gebruik van onze website te analyseren en regelmatig te verbeteren. Wij kunnen ons aanbod verbeteren en interessanter maken voor je als gebruiker.
-
-Voor de uitzonderlijke gevallen waarin persoonsgegevens naar de VS worden doorgegeven, heeft Google zich gecommitteerd aan het EU-VS Privacy Shield. De rechtsgrondslag voor het gebruik van Google Analytics is artikel 6, lid 1, f van de AVG.
-
-Meer informatie over de verwerking van gegevens door Google kun je vinden in de privacyverklaring van Google.
-
-b) Google AdSense
-
-Deze website maakt gebruik van de online reclamedienst Google AdSense. Hierdoor kun je worden geconfronteerd met reclame aangepast aan je interesses. Wij zijn geïnteresseerd in het tonen van advertenties die van belang kunnen zijn om onze website interessanter voor je te maken. Hiervoor wordt statistische informatie over je verzameld en verwerkt door onze reclamepartners. Deze advertenties zijn te herkennen aan de vermelding “Google advertenties” in de desbetreffende advertentie.
-
-Als je onze website bezoekt, ontvangt Google informatie dat je op onze website actief bent. Google gebruikt een Web Beacon om een cookie op je computer te plaatsen. Wij hebben geen invloed op de verzamelde gegevens, noch zijn wij ons bewust van de volledige omvang van de gegevensverzameling en de opslagtermijn. Je gegevens worden doorgestuurd naar de VS en daar geëvalueerd.
-
-Als je bent ingelogd met je Google-account, kunnen je gegevens daar direct aan worden gekoppeld. Als je niet aan je Google-profiel wilt worden gekoppeld, moet je je afmelden. Het is mogelijk dat deze gegevens worden doorgegeven aan de contractuele partners van Google, aan derden en aan autoriteiten.
-
-De rechtsgrondslag voor de verwerking van je gegevens is artikel 6, lid 1, eerste zin, punt 1, onder f, van de AVG.
-
-Deze site heeft ook Google AdSense-advertenties ten behoeve van derden geactiveerd. Voornoemde gegevens kunnen aan deze derden worden doorgegeven (zoals hier vermeld).
-
-Je kunt de installatie van Google AdSense-cookies op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen, in het bijzonder door het onderdrukken van cookies van derden voorkomt je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link; deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-c) Google Adwords Conversion Tracking
-
-Wij gebruiken het aanbod van Google Adwords om met behulp van reclamemateriaal (zogenoemde Google Adwords) op externe websites onze aanbiedingen onder de aandacht te brengen. Aan de hand van de gegevens van reclamecampagnes kunnen we bepalen hoe succesvol reclames zijn.
-
-Wij zijn geïnteresseerd in het tonen van advertenties die van belang zijn voor jou, om onze website interessanter te maken voor je en om een eerlijke berekening van de advertentiekosten mogelijk te maken.
-
-Reclamemateriaal wordt door Google via zogenoemde “Ad Servers” geleverd. Hiervoor maken wij gebruik van ad server cookies, waarmee bepaalde parameters voor het meten van succes, zoals de zichtbaarheid van advertenties of het aanklikken van advertenties door gebruikers, kunnen worden gemeten.
-
-Als je onze website bezoekt via een Google-advertentie, slaat Google Adwords een cookie op je pc op. Deze cookies verlopen meestal na 30 dagen en zijn niet bedoeld om je persoonlijk te identificeren. Voor deze cookie worden de unieke cookie-ID, het aantal advertentie-impressies per plaatsing (frequentie), de laatste impressie (relevant voor post-view conversies) en opt-out informatie (dat de gebruiker niet langer wenst te worden benaderd) in de regel opgeslagen als analysemateriaal.
-
-Door middel van de cookies herkent Google je internetbrowser. Als een gebruiker bepaalde pagina’s van de website van een Adwords-adverteerder bezoekt en de cookie die op zijn computer is opgeslagen, niet is verlopen, dan kunnen Google en de adverteerder zien dat de gebruiker op de advertentie heeft geklikt en naar de desbetreffende pagina is doorgestuurd.
-
-Elke Adwords-adverteerder krijgt een andere cookie toegewezen. Cookies zijn dan ook niet te traceren via de websites van Adwords-adverteerders. Wij verzamelen en verwerken geen persoonlijke gegevens door middel van bovengenoemde reclames. Wij ontvangen alleen statistische evaluaties van Google. Op basis van deze evaluaties kunnen we zien welke reclames meer of minder effectief zijn. Wij ontvangen geen verdere gegevens over het gebruik van reclamemateriaal; in het bijzonder kunnen wij gebruikers op basis van deze informatie niet identificeren.
-
-Dankzij de gebruikte marketingtools maakt je browser automatisch een directe verbinding met de server van Google. Wij hebben geen invloed het verdere gebruik van de gegevens die worden gegenereerd door het gebruik van deze tool door Google en informeren je daarom in overeenstemming met onze kennis: door de integratie van AdWords Conversion ontvangt Google de informatie dat je een specifiek delen van onze website hebt bezocht of op een advertentie heeft geklikt. Als je bent geregistreerd bij een dienst van Google, kan Google je bezoek aan je account koppelen. Ook als je niet bij Google geregistreerd bent of niet ingelogd bent, is het mogelijk dat de adverterende partij je IP-adres opslaat.
-
-Je kunt deelname aan dit traceringsproces op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen; in het bijzonder door het onderdrukken van cookies van derden voorkom je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link; deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van het aanbod van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-d) Google Remarketing
-
-Naast Adwords Conversion gebruiken we de applicatie Google Remarketing. Deze methode gebruiken we om opnieuw met je in contact te kunnen komen.
-
-Met deze toepassing kun je onze advertenties zien na een bezoek aan onze website wanneer je het internet blijft gebruiken. Dit gebeurt door middel van cookies die in je browser worden opgeslagen en die Google gebruikt om je gedrag bij het bezoek aan verschillende websites vast te leggen en te evalueren. Zo kan Google je vorige bezoek aan onze website bepalen.
-
-Volgens de verklaringen van Google voegt Google de in het kader van de remarketing verzamelde gegevens niet samen met persoonlijke gegevens die door Google kunnen worden opgeslagen. Volgens Google wordt speciaal voor remarketing een vorm van pseudonimisering toegepast.
-
-e) DoubleClick van Google
-
-Deze website maakt gebruik de onlinemarketingtool DoubleClick van Google. DoubleClick gebruikt cookies om advertenties te serveren die relevant zijn voor gebruikers, om rapporten over de campagneprestaties te verbeteren of om te voorkomen dat een gebruiker dezelfde advertenties meer dan eens ziet.
-
-Google gebruikt een cookie-ID om bij te houden welke advertenties in welke browser worden weergegeven en om te voorkomen dat deze meer dan eens worden weergegeven. Bovendien kan DoubleClick cookie-ID’s gebruiken om conversies met betrekking tot advertenties te verzamelen. Dit is bijvoorbeeld het geval wanneer een gebruiker een DoubleClick-advertentie ziet en later met dezelfde browser de website van de adverteerder bezoekt en daar iets koopt. Volgens Google bevatten DoubleClick-cookies geen persoonlijke gegevens.
-
-Dankzij de gebruikte marketingtools maakt je browser automatisch een directe verbinding met de server van Google. Wij hebben geen invloed op de omvang en het verdere gebruik van de door Google met behulp van deze tool verzamelde gegevens en informeren je daarom op basis van de bij ons beschikbare kennis: door de integratie van DoubleClick ontvangt Google informatie dat je actief bent op onze site of op een advertentie van ons hebt geklikt. Als je bent geregistreerd bij een Google-service, kan Google je bezoek aan je account koppelen. Ook als je niet bij Google geregistreerd bent of niet ingelogd bent, is het mogelijk dat adverteerder je IP-adres opslaat.
-
-Je kunt deelname aan dit traceringsproces op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen; in het bijzonder door het onderdrukken van cookies van derden voorkomt je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link. Deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van het aanbod van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-9. Integratie en gebruik van social media plugins
-
-We gebruiken de volgende socialmediaplugins: Facebook, Twitter, LinkedIn.
-
-Wanneer een website wordt bezocht via een socialmediaplugin, staat de inhoud van de plugin ter beschikking van de beheerder van het desbetreffende socialmediaplatform.
-
-Wij hebben geen invloed op de verzamelde gegevens en de gegevensverwerkingsprocessen, noch zijn wij ons bewust van de volledige omvang van de gegevensverzameling, de doeleinden en de opslagtermijnen. De verzonden gegevens zijn (voor zover ons bekend is) de URL van de bezochte pagina en het door je gebruikte IP-adres en/of andere platform-afhankelijke identificatie.
-
-Als je tegelijkertijd bent ingelogd op het betreffende socialmediaplatform, kan de beheerder van het desbetreffende platform het bezoek van websites koppelen aan je gebruikersaccount.
-
-Via plugins bieden we je de mogelijkheid om te interacteren met sociale netwerken en andere gebruikers, zodat we ons aanbod kunnen verbeteren en interessanter kunnen maken voor je als gebruiker. De rechtsgrondslag voor het gebruik van de plug-ins is artikel 6, lid 1, eerste zin onder f), van AVG.
-
-Het doel en de omvang van de gegevensverzameling door de desbetreffende exploitant van het socialmediaplatform, de verdere verwerking en het gebruik van de gegevens door de exploitant, alsmede je rechten en instellingsmogelijkheden voor de bescherming van je privacy, vindt je bij de informatie over gegevensbescherming van de desbetreffende exploitant van het socialmediaplatform:
-
-Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; http://www.facebook.com/policy.php. Facebook voldoet aan het EU-US-Privacy-Shield.
-
-Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; https://www.google.com/policies/privacy/partners/?hl=de. Google voldoet aan het EU-US-Privacy-Shield
-
-Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA ; https://twitter.com/de/privacy. Twitter voldoet aan het EU-US-Privacy-Shield.
-
-LinkedIn Headquarters 2029 Stierlin Ct. Ste. 200 Mountain View, CA 94043, USA; https://www.linkedin.com/legal/privacy-policy. LinkedIn voldoet aan het EU-US-Privacy-Shield.
-
-10. Ligatus
-
-Op onze website maken wij gebruik van de service van Ligatus. Ligatus wordt gebruikt om je advertenties en andere content te tonen die voor jouw interessant kan zijn op basis van je online activiteiten. Hiervoor wordt een cookie (zie ook “Cookies”) op je apparaat geplaatst wanneer je websites bezoekt, die vervolgens wordt herkend wanneer je onze website bezoekt en zo een weergave op basis van je eerdere activiteiten mogelijk maakt.
-
-Wij hebben geen invloed op de omvang en de methoden van gegevensverwerking, noch op de mate waarin de gegevens kunnen worden gerelateerd aan individuen. De rechtsgrondslag voor gegevensverwerking is artikel 6, lid 1, onder f), van de AVG.
-
-Indien je bezwaar wilt maken tegen gegevensverwerking door Ligatus, kun je dit doen via deze link. Meer informatie over het privacybeleid van Ligatus vind je hier.
-
-11. Hotjar
-
-Hotjar laat op basis van geaggregeerde data zien hoe bezoekers op de website navigeren. Deze gegevens kunnen voor analytische doeleinden worden gebruikt om de website te optimaliseren en bezoekers beter van dienst te zien. Hotjar geeft zelf aan grote waarde te hechten aan gegevensbescherming en privacy. Het bedrijf verkoopt naar eigen zeggen geen gegevens aan derden.
-
-Indien je bezwaar wilt maken tegen gegevensverwerking door Hotjar, kun je dit doen via deze link. Meer informatie over het privacybeleid van Hotjar vind je hier.
-
-12. Wijzigingen
-
-Wij behouden ons het recht voor om de privacyverklaring te allen tijde te wijzigen in overeenstemming met de van toepassing zijnde regelgeving op het gebied van gegevensbescherming.
-
-13. Intrekking van toestemming en bezwaar tegen gegevensverwerking
-
-Als je ons toestemming heeft gegeven voor de verwerking van gegevens, kun je deze toestemming te allen tijde herroepen voor toekomstige situaties.
-
-Bij het indienen van een bezwaar vragen wij je uit te leggen waarom wij je persoonsgegevens niet op de manier zouden moeten verwerken waarop wij dat hebben gedaan. In geval van een onderbouwd bezwaar zullen wij de situatie onderzoeken en ofwel de gegevensverwerking stopzetten of aanpassen, ofwel je wijzen op dwingende redenen op grond waarvan wij de verwerking zullen voortzetten.
-
-Je kunt te allen tijde bezwaar maken tegen de verwerking van je persoonsgegevens voor reclamedoeleinden en gegevensanalyse.
-
-Je kunt je bezwaar kenbaar maken door gebruikt te maken van de contactgegevens onder het kopje ‘Verantwoordelijke’ (15).
-
-14. Je rechten
-
-Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
-
-Recht op informatie
-
-Recht op correctie of verwijdering
-
-Recht op beperking van de verwerking
-
-Recht van verzet tegen de verwerking
-
-Je hebt ook het recht om bij een toezichthoudende autoriteit voor gegevensbescherming een klacht in te dienen over de verwerking van je persoonsgegevens.
-
-Je rechten zijn vastgelegd in de artikelen 15 tot en met 22 van de Algemene verordening gegevensbescherming:
-
-je hebt het recht inzage te vragen in welke persoonsgegevens we van je verwerken;
-
-je kunt om rectificatie of wissing van je persoonsgegevens vragen;
-
-je hebt het recht om beperking te vragen van de verwerking van je persoonsgegevens;
-
-je hebt het recht tegen verwerking van je persoonsgegevens bezwaar te maken;
-
-je hebt het recht op overdraagbaarheid van je persoonsgegevens.
-
-Als je van deze rechten gebruik wilt maken kunt je daartoe een bericht met je naam en contactgegevens sturen aan Z24 Media B.V., Panamalaan 3b, (1019 AS) Amsterdam of een e-mail sturen aan privacy@z24.nl. In je verzoek moet je zoveel mogelijk te specificeren om welke persoonsgegevens het gaat. Wij zullen binnen vier weken op een verzoek tot inzage of correctie verzoek reageren.
-
-In geval van een verzoek tot verwijdering zullen wij de betreffende persoonsgegevens zo spoedig mogelijk verwijderen, tenzij, en voor zover, de wet ons verplicht om de betreffende persoonsgegevens te bewaren, of er andere dringende redenen zijn die zich tegen verwijdering verzetten. Wij sturen je na uitvoering van een verzoek tot verwijdering een bevestigingsbericht. Als we de betreffende persoonsgegevens (gedeeltelijk) niet hebben verwijderd, sturen we je een bericht waarin we toelichten waarom niet (volledig) aan je verzoek kon worden voldaan.
-
-Wij moeten je identiteit controleren om te voorkomen dat kwaadwillenden gegevens van anderen kunnen verkrijgen. Je moet dan ook een kopie van een identiteitsbewijs meesturen. Je moet dan (voor zover van toepassing) de MRZ (machine readable zone; de strook met nummers onderaan het paspoort), het paspoortnummer en het Burgerservicenummer (BSN) onherkenbaar maken.
-
-Als we niet of niet volledig kunnen vaststellen op welke persoonsgegevens je verzoek betrekking heeft, kunnen we je vragen om je verzoek nader te specificeren. We schorten dan de uitvoering van het verzoek op totdat je ons de nadere specificatie hebt verstrekt.
-
-Sommige persoonsgegevens moeten ondanks je verzoek tot verwijdering toch bewaard worden om wettelijke redenen.
-
-Je hebt altijd het recht een klacht over de verwerking van je persoonsgegevens in te dienen bij de Autoriteit Persoonsgegevens of bij de rechter. Meer informatie daarover vindt je hier.
-
-15. Verantwoordelijke
-
-Z24 Media BV, gevestigd aan de Panamalaan 3B in Amsterdam, zal optreden als verantwoordelijke in de zin van de Algemene verordening gegevensbescherming (AVG).
-
-Tel.: 020- 820 26 14
-
-E-mail: privacy@z24.nl
-
-Ons adres:
-
-Z24 Media BV
-
-Spaklerweg 53
-
-1114 AE Amsterdam
-
-Gebruik bovenstaande mail voor correspondentie
-
-KvK-nummer: 34287125
-
-Btw-nummer: NL8186.79.499 B01
-
-Meest recente aanpassing: 12.12.2018
-***************************************************************
-
-
-Title: Privacy- en cookiereglement Business Insider Nederland
-URL: https://www.businessinsider.nl/privacy-en-cookiereglement/
-Date of publishing: None
-Keywords: je, gegevens, google, op, een, privacy, van, business, te, het, aan, en, cookiereglement, nederland, insider
-
-Policy: Dank voor je bezoek aan businessinsider.nl en voor de getoonde interesse in onze diensten.
-
-Voor een overzicht van alle cookies die wij gebruiken, klik hier »
-
-Z24 Media BV, licentienemer van Businessinsider.nl, hecht veel belang aan gegevensbescherming en -beveiliging.
-
-Wij willen dat je je bij ons volledig veilig en geborgen voelt. Wij streven ernaar je privacy te beschermen en je gegevens vertrouwelijk te behandelen, in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming. Dit gebeurt met behulp van de best mogelijke en nieuwste technologieën.
-
-Hier kun je zien welke persoonlijke gegevens wij verzamelen en gebruiken. Houd er rekening mee dat je ook via hyperlinks toegang kunt krijgen tot andere aanbieders, samenwerkingspartners en websites van derden, die op hun beurt onderworpen zijn aan verplichtingen met betrekking tot gegevensbescherming.
-
-1. Persoonsgegevens
-
-Overeenkomstig artikel 4, lid 1, van de Algemene Verordening Gegevensbescherming (AVG) hebben persoonsgegevens betrekking op informatie over een geïdentificeerde of identificeerbare natuurlijke persoon.
-
-2. Gegevensverzameling en -verwerking / Logbestanden
-
-Z24 Media verzamelt en verwerkt als sitebeheerder informatie om je ook in de toekomst optimale diensten te kunnen blijven aanbieden.
-
-Voor de later genoemde doeleinden kunnen wij de volgende persoonsgegevens verwerken:
-
-het IP-adres van het apparaat waarmee je onze website of app bezoekt
-
-gegevens over hoe je de website of de app gebruikt, welke pagina’s je bezoekt en welke content je leest
-
-persoonsgegevens die voor ons toegankelijk zijn naar aanleiding van je gebruik van social media-functies
-
-gegevens over de aan jou getoonde advertenties
-
-gegevens die je zelf op de website of in de app invoert
-
-cookies of andere gegevens of code op je computer, gebruikt om je apparaat te herkennen
-
-een zogenaamde fingerprint van je apparaat gemaakt met behulp van de door ons verzamelde informatie. Met zo’n fingerprint kunnen wij je apparaat herkennen
-
-je cv en voorkeur voor een vacature
-
-je e-mail adres en naam voor het versturen van een nieuwsbrief
-
-de door jou verleende toestemming om je een nieuwsbrief te sturen
-
-of je de nieuwsbrief opent, en waar je klikt in de nieuwsbrief
-
-Als je onze website bezoekt, worden standaard alleen gegevens geregistreerd zoals je IP-adres of URL, de naam van de website van waaruit je ons bezoekt, de website die je vanuit onze site benadert, en de datum en duur van je verblijf.
-
-Daarnaast worden productdata geregistreerd over bijvoorbeeld de versie van de gebruikte browser en het besturingssysteem van je computer.
-
-Deze informatie wordt alleen intern gebruikt, bijvoorbeeld om statistieken te verzamelen over welke webpagina’s het meest bezocht worden.
-
-Dit helpt ons beter te begrijpen welke informatie je zoekt en bij ons wilt vinden. Wij gebruiken deze gegevens voor de werking van onze website, in het bijzonder om fouten op de website op te sporen en te elimineren, om het gebruik van de website te analyseren en om aanpassingen of verbeteringen aan te brengen. (Rechtsgrond: artikel 6, lid 1, eerste zin, onder f), van de AVG). Deze gegevens worden regelmatig gewist.
-
-Verdere persoonlijke gegevens, zoals je e-mailadres en telefoonnummer, of welke webpagina’s je hebt bezocht, indien van toepassing, worden apart opgeslagen en alleen als je hiermee uitdrukkelijk akkoord gaat in het kader van gepersonaliseerde diensten.
-
-Als onderdeel van onze nieuwsbrief-diensten worden de noodzakelijke gegevens in het kader van de nieuwsbriefregistratie als zogenaamde verplichte velden gemarkeerd – zodat je altijd weet welke gegevens je moet invoeren, en welke met je toestemming worden opgeslagen en verwerkt om van de betreffende dienst gebruik te kunnen maken (rechtsgrond Art. 6 lid 1 a AVG). Als je een service wilt annuleren, worden door je in dit kader verstrekte verschafte gegevens gewist.
-
-Z24 Media B.V. maakt voor het versturen van nieuwsbrieven gebruik van de nieuwsbriefdienst Apsis. Apsis verwerkt de door gebruikers verstrekte gegevens (stamgegevens, e-mailadressen) ten behoeve van het verzenden van nieuwsbrieven namens Z24 Media B.V. (“orderverwerking” in de zin van art. 28 van de AVG). Z24 heeft met Apsis een orderverwerkingscontract gesloten conform art. 28 van de AVG, waardoor Apsis de gegevens alleen verwerkt volgens de instructies van Z24 Media BV.
-
-In bepaalde gevallen, waarover je van te voren zullen informeren en om je toestemming zullen vragen, kunnen wij persoonsgegevens aan derden (zoals zakelijke partners) doorgeven, bijvoorbeeld in het kader van downloads of deelname aan prijsvragen.
-
-2.2 Nieuwsbrieven en partnermailings
-
-Wanneer je daarmee akkoord bent gegaan kun je naast nieuwsbrieven soms ook berichten van partners ontvangen. Dit zijn dan berichten die betrekking hebben op het onderwerp van de nieuwsbrief waar je je voor hebt aangemeld. Dit zijn berichten van in ieder geval onze partners Hellorider, Appwiki, Meerdervoort en Brookz.
-
-Zij kunnen je, wanneer je daar toestemming voor hebt gegeven, een gericht voorstel sturen.
-
-Bij akkoord kunnen ondernemingen je berichten over:
-
-– personal finance
-
-– bedrijfsfinanciering
-
-– bedrijfssoftware
-
-– leasen
-
-– e-bikes en fietsen
-
-– fusies & overnames
-
-– investeringen
-
-Daarnaast kan Business Insider je benaderen met eigen aanbiedingen.
-
-3. Gebruik persoonsgegevens
-
-Je persoonsgegevens worden voor de volgende doeleinden verwerkt:
-
-om de kwaliteit, veiligheid en gebruiksvriendelijkheid van onze website en app te verbeteren
-
-om contact met ons op te kunnen nemen via onze website en app
-
-om downloads van content van de website mogelijk te maken (bij toestemming)
-
-om je te informeren over andere content en diensten van Business Insider Nederland (bij toestemming)
-
-om je vraag via ons contactformulier te kunnen beantwoorden
-
-om delen via sociale media mogelijk te maken
-
-om deelname aan een prijsvraag mogelijk te maken
-
-om de effectiviteit van reclamecampagnes te beoordelen
-
-voor het mogelijk maken en afwikkelen van online sollicitaties
-
-voor het ontwikkelen van nieuwe producten op basis van jouw voorkeuren
-
-om (gebruiks)trends te bepalen
-
-om wettelijke verplichtingen na te kunnen leven
-
-om juridische procedures te kunnen voeren
-
-voor klanttevredenheidsonderzoek, en het geven van feedback daarop
-
-om profielen samen te stellen en gedrag op geaggregeerd niveau te analyseren
-
-om een inschatting te maken van je wensen en voorkeuren aan de hand van een profiel dat we aan je gegevens koppelen
-
-om je te wijzen op evenementen en speciale aanbiedingen van Business Insider Nederland (bij toestemming)
-
-Al je persoonlijke gegevens worden vertrouwelijk behandeld en niet doorgegeven aan derden. De persoonsgegevens worden uitsluitend gebruikt om de door jou gevraagde diensten te verlenen, je vragen te beantwoorden en intern statistieken op te stellen (rechtsgrond art. 6 lid 1 f van de AVG).
-
-Uitzonderingen gelden alleen voor door jou gevraagde diensten, waarbij je toestemming geeft voor het gebruik van je verdere gegevens (wettelijke basis Art. 6 lid 1a van de AVG) alsmede voor het wettelijk doorgeven van je gegevens aan overheidsinstellingen en autoriteiten (wettelijke basis Art. 6 lid 1c van de AVG).
-
-De met jouw toestemming verzamelde en opgeslagen gegevens zullen door ons in het kader van contractuele overeenkomsten voor zover nodig, bijvoorbeeld in het geval van een prijsvraag waar je aan deelneemt (rechtsgrond art. 6 lid 1f van de AVG), aan zakenpartners en sponsors worden doorgegeven.
-
-Uiteraard verzoeken wij onze zakenpartners en sponsors de wettelijke voorschriften inzake gegevensbescherming na te leven. Voor zover we op onze internetpagina’s andere bedrijven ruimte bieden om te adverteren, zullen we deze advertenties markeren als reclame.
-
-Onze website verwijst naar pagina’s op diverse socialmediaplatforms. Wij wijzen je erop dat je door op deze links te klikken onze website verlaat. Daarmee komt je ook buiten het domein waarvoor deze verklaring inzake gegevensbescherming geldt. Op socialmediaplatforms zijn alleen de verklaringen en gebruiksvoorwaarden van de exploitant van het desbetreffende socialmediaplatform van toepassing.
-
-In principe wissen wij persoonsgegevens als deze niet langer nodig zijn voor het gebruik van een dienst. Ook wissen wij persoonsgegevens als je de toestemming voor gegevensverwerking intrekt, onder voorbehoud van eventuele wettelijke bewaarverplichtingen.
-
-Wij zullen je persoonsgegevens niet gebruiken om op geautomatiseerde wijze besluiten te nemen waaraan voor jou rechtsgevolgen zijn verbonden.
-
-4.Toestemming
-
-Wij zullen je toestemming voor het verwerken van gegevens vastleggen. Desgewenst zullen wij je informeren wanneer en hoe je toestemming heeft gegeven. Indien je hiermee niet instemt, vragen wij je begrip te tonen voor het feit dat je mogelijk geen gebruik kunt maken van een dienst die wij aanbieden.
-
-5. Jongeren
-
-Als je nog geen 16 jaar bent, mag je alleen gebruikmaken van onze diensten met toestemming van je ouder of voogd. We hebben niet de intentie om gegevens te verzamelen van websitebezoekers die jonger zijn dan 16 jaar. Wanneer je minderjarig bent, zorg er dan voor dat je ouders toestemming hebben gegeven om je gegevens met ons te delen.
-
-We kunnen niet altijd controleren of een bezoeker daadwerkelijk ouder is dan 16 jaar. Wij raden ouders dan ook aan om betrokken te zijn bij de online activiteiten van hun kinderen, om zo te voorkomen dat er gegevens over minderjarigen worden verzameld zonder ouderlijke toestemming. Als je ervan overtuigd bent dat wij zonder die toestemming persoonlijke gegevens hebben verzameld van een minderjarige, neem dan contact met ons op via finance@businessinsider.nl. Dan zullen wij deze informatie verwijderen.
-
-Hoe lang bewaren wij je persoonsgegevens?
-
-Wij bewaren je persoonsgegevens niet langer dan wettelijk is toegestaan, wettelijk verplicht is en/of noodzakelijk is voor de doeleinden waarvoor de gegevens worden verwerkt. Hoe lang bepaalde gegevens worden bewaard is daarom afhankelijk van de aard van de gegevens en de doeleinden waarvoor ze worden verwerkt. De bewaartermijn kan dus per doel verschillen. Wij kiezen binnen deze kaders altijd voor de kortste bewaartermijn.
-
-Voor bewaartermijnen van cookies, zie ons cookie overzicht
-
-Voor nieuwsbrieven geldt dat inactieve gebruikers na 1 jaar uit de bestanden worden gehaald.
-
-6. Beveiliging van gegevens
-
-Wij nemen uitgebreide technische en organisatorische veiligheidsmaatregelen om je persoonlijke gegevens te beschermen tegen opzettelijke manipulatie, verlies of toegang door onbevoegde derden. Deze maatregelen worden voortdurend verbeterd in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming en technologische ontwikkelingen.
-
-We willen er echter op wijzen dat, ondanks onze veiligheidsmaatregelen, informatie die je vrijwillig via het internet openbaar maakt, door anderen kan worden gebruikt. Wij kunnen derhalve geen aansprakelijkheid aanvaarden voor fouten in de gegevensoverdracht of ongeautoriseerde toegang tot je gegevens door derden.
-
-7. Cookies
-
-het genereren van algemene statistieken en het verkrijgen van inzage in hoe onze website en app wordt gebruikt door het publiek;
-
-het optimaliseren van onze diensten;
-
-het afstemmen van de content en aanbiedingen op onze website en app en in onze nieuwsbrieven, op basis van je interesses en aan de hand van je click- en surfgedrag.
-
-Cookies zijn zeer kleine tekstbestanden die worden ingezet op internetpagina’s die door je browser worden opgeslagen op je computer. Door de plaatsing van een cookie wordt bepaalde informatie gegenereerd. Cookies kunnen geen programma’s uitvoeren of virussen naar je computer verzenden.
-
-Tijdelijke cookies worden automatisch verwijderd wanneer je je browser afsluit. Dit geldt in het bijzonder voor sessiecookies. Deze slaan een zogenoemde sessie-ID op, waarmee verschillende verzoeken van je browser aan een reguliere sessie kunnen worden gekoppeld. Hierdoor kan je computer worden herkend wanneer je terugkeert naar onze website. Sessiecookies worden verwijderd wanneer je uitlogt of je browser afsluit.
-
-Persistente cookies worden automatisch verwijderd na een bepaalde periode, die kan variëren afhankelijk van de cookie. je kunt cookies te allen tijde verwijderen in de beveiligingsinstellingen van je browser.
-
-De informatie van cookies dient ertoe om ons aanbod te optimaliseren en je meer comfort te bieden bij het surfen op onze pagina’s. De rechtsgrondslag voor deze gegevensverwerking is artikel 6, lid 1, eerste zin, punt 1, onder f), van het AVG.
-
-Je kunt je internetbrowser zo instellen dat deze je informeert wanneer een webserver je een cookie wil sturen. Je kunt de cookie dan accepteren of weigeren. je kunt je browser naar wens configureren en bijvoorbeeld het accepteren van cookies van derden, of van alle cookies weigeren. Het is mogelijk dat je dan niet alle functies van deze website kunt gebruiken. Meer informatie hierover vindt je bij de helpfunctie van je internetbrowser.
-
-8. Het advertentienetwerk van Google
-
-a) Google Analytics
-
-Deze website maakt gebruik van Google Analytics, een webanalysedienst van Google Inc. (“Google”). Google Analytics maakt gebruik van ‘cookies’, tekstbestandjes die op je computer worden geplaatst om een website te helpen analyseren hoe gebruikers de site gebruiken. De door de cookie gegenereerde informatie over je gebruik van deze website wordt gewoonlijk overgebracht naar een server van Google in de VS en daar opgeslagen.
-
-Als echter IP-anonimisering op een website wordt geactiveerd, beperkt Google het gebruik van je IP-adres tot lidstaten van de Europese Unie en landen die behoren tot de Europese Economische Ruimte. Slechts in uitzonderingsgevallen wordt dan het volledige IP-adres naar een server van Google in de VS verzonden en daar opgeslagen.
-
-In opdracht van de exploitant van deze website gebruikt Google informatie om je gebruik van de website te evalueren, rapporten over de websiteactiviteiten samen te stellen en de exploitant van de website andere diensten met betrekking tot het gebruik van de website en het internet aan te bieden.
-
-Het IP-adres dat je browser in het kader van Google Analytics doorgeeft, wordt niet met andere gegevens van Google samengevoegd. Je kunt het gebruik van cookies weigeren door in je browser de daarvoor geëigende instellingen te kiezen. Wij wijzen je er echter op dat je in dat geval mogelijk niet alle functies van deze website volledig zult kunnen gebruiken.
-
-Je kunt voorkomen dat Google de door een cookie gegenereerde gegevens verzamelt die betrekking hebben op je gebruik van de website (met inbegrip van je IP-adres) en deze gegevens verwerkt. Dit kun je doen door de browser-plug-in te downloaden en te installeren via deze volgende link.
-
-Z24 Media heeft overigens Google Analytics zo ingesteld dat gegevens anoniem worden gemeten; ze kunnen niet worden gekoppeld aan een IP-adres.
-
-Wij gebruiken Google Analytics om het gebruik van onze website te analyseren en regelmatig te verbeteren. Wij kunnen ons aanbod verbeteren en interessanter maken voor je als gebruiker.
-
-Voor de uitzonderlijke gevallen waarin persoonsgegevens naar de VS worden doorgegeven, heeft Google zich gecommitteerd aan het EU-VS Privacy Shield. De rechtsgrondslag voor het gebruik van Google Analytics is artikel 6, lid 1, f van de AVG.
-
-Meer informatie over de verwerking van gegevens door Google kun je vinden in de privacyverklaring van Google.
-
-b) Google AdSense
-
-Deze website maakt gebruik van de online reclamedienst Google AdSense. Hierdoor kun je worden geconfronteerd met reclame aangepast aan je interesses. Wij zijn geïnteresseerd in het tonen van advertenties die van belang kunnen zijn om onze website interessanter voor je te maken. Hiervoor wordt statistische informatie over je verzameld en verwerkt door onze reclamepartners. Deze advertenties zijn te herkennen aan de vermelding “Google advertenties” in de desbetreffende advertentie.
-
-Als je onze website bezoekt, ontvangt Google informatie dat je op onze website actief bent. Google gebruikt een Web Beacon om een cookie op je computer te plaatsen. Wij hebben geen invloed op de verzamelde gegevens, noch zijn wij ons bewust van de volledige omvang van de gegevensverzameling en de opslagtermijn. Je gegevens worden doorgestuurd naar de VS en daar geëvalueerd.
-
-Als je bent ingelogd met je Google-account, kunnen je gegevens daar direct aan worden gekoppeld. Als je niet aan je Google-profiel wilt worden gekoppeld, moet je je afmelden. Het is mogelijk dat deze gegevens worden doorgegeven aan de contractuele partners van Google, aan derden en aan autoriteiten.
-
-De rechtsgrondslag voor de verwerking van je gegevens is artikel 6, lid 1, eerste zin, punt 1, onder f, van de AVG.
-
-Deze site heeft ook Google AdSense-advertenties ten behoeve van derden geactiveerd. Voornoemde gegevens kunnen aan deze derden worden doorgegeven (zoals hier vermeld).
-
-Je kunt de installatie van Google AdSense-cookies op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen, in het bijzonder door het onderdrukken van cookies van derden voorkomt je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link; deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-c) Google Adwords Conversion Tracking
-
-Wij gebruiken het aanbod van Google Adwords om met behulp van reclamemateriaal (zogenoemde Google Adwords) op externe websites onze aanbiedingen onder de aandacht te brengen. Aan de hand van de gegevens van reclamecampagnes kunnen we bepalen hoe succesvol reclames zijn.
-
-Wij zijn geïnteresseerd in het tonen van advertenties die van belang zijn voor jou, om onze website interessanter te maken voor je en om een eerlijke berekening van de advertentiekosten mogelijk te maken.
-
-Reclamemateriaal wordt door Google via zogenoemde “Ad Servers” geleverd. Hiervoor maken wij gebruik van ad server cookies, waarmee bepaalde parameters voor het meten van succes, zoals de zichtbaarheid van advertenties of het aanklikken van advertenties door gebruikers, kunnen worden gemeten.
-
-Als je onze website bezoekt via een Google-advertentie, slaat Google Adwords een cookie op je pc op. Deze cookies verlopen meestal na 30 dagen en zijn niet bedoeld om je persoonlijk te identificeren. Voor deze cookie worden de unieke cookie-ID, het aantal advertentie-impressies per plaatsing (frequentie), de laatste impressie (relevant voor post-view conversies) en opt-out informatie (dat de gebruiker niet langer wenst te worden benaderd) in de regel opgeslagen als analysemateriaal.
-
-Door middel van de cookies herkent Google je internetbrowser. Als een gebruiker bepaalde pagina’s van de website van een Adwords-adverteerder bezoekt en de cookie die op zijn computer is opgeslagen, niet is verlopen, dan kunnen Google en de adverteerder zien dat de gebruiker op de advertentie heeft geklikt en naar de desbetreffende pagina is doorgestuurd.
-
-Elke Adwords-adverteerder krijgt een andere cookie toegewezen. Cookies zijn dan ook niet te traceren via de websites van Adwords-adverteerders. Wij verzamelen en verwerken geen persoonlijke gegevens door middel van bovengenoemde reclames. Wij ontvangen alleen statistische evaluaties van Google. Op basis van deze evaluaties kunnen we zien welke reclames meer of minder effectief zijn. Wij ontvangen geen verdere gegevens over het gebruik van reclamemateriaal; in het bijzonder kunnen wij gebruikers op basis van deze informatie niet identificeren.
-
-Dankzij de gebruikte marketingtools maakt je browser automatisch een directe verbinding met de server van Google. Wij hebben geen invloed het verdere gebruik van de gegevens die worden gegenereerd door het gebruik van deze tool door Google en informeren je daarom in overeenstemming met onze kennis: door de integratie van AdWords Conversion ontvangt Google de informatie dat je een specifiek delen van onze website hebt bezocht of op een advertentie heeft geklikt. Als je bent geregistreerd bij een dienst van Google, kan Google je bezoek aan je account koppelen. Ook als je niet bij Google geregistreerd bent of niet ingelogd bent, is het mogelijk dat de adverterende partij je IP-adres opslaat.
-
-Je kunt deelname aan dit traceringsproces op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen; in het bijzonder door het onderdrukken van cookies van derden voorkom je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link; deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van het aanbod van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-d) Google Remarketing
-
-Naast Adwords Conversion gebruiken we de applicatie Google Remarketing. Deze methode gebruiken we om opnieuw met je in contact te kunnen komen.
-
-Met deze toepassing kun je onze advertenties zien na een bezoek aan onze website wanneer je het internet blijft gebruiken. Dit gebeurt door middel van cookies die in je browser worden opgeslagen en die Google gebruikt om je gedrag bij het bezoek aan verschillende websites vast te leggen en te evalueren. Zo kan Google je vorige bezoek aan onze website bepalen.
-
-Volgens de verklaringen van Google voegt Google de in het kader van de remarketing verzamelde gegevens niet samen met persoonlijke gegevens die door Google kunnen worden opgeslagen. Volgens Google wordt speciaal voor remarketing een vorm van pseudonimisering toegepast.
-
-e) DoubleClick van Google
-
-Deze website maakt gebruik de onlinemarketingtool DoubleClick van Google. DoubleClick gebruikt cookies om advertenties te serveren die relevant zijn voor gebruikers, om rapporten over de campagneprestaties te verbeteren of om te voorkomen dat een gebruiker dezelfde advertenties meer dan eens ziet.
-
-Google gebruikt een cookie-ID om bij te houden welke advertenties in welke browser worden weergegeven en om te voorkomen dat deze meer dan eens worden weergegeven. Bovendien kan DoubleClick cookie-ID’s gebruiken om conversies met betrekking tot advertenties te verzamelen. Dit is bijvoorbeeld het geval wanneer een gebruiker een DoubleClick-advertentie ziet en later met dezelfde browser de website van de adverteerder bezoekt en daar iets koopt. Volgens Google bevatten DoubleClick-cookies geen persoonlijke gegevens.
-
-Dankzij de gebruikte marketingtools maakt je browser automatisch een directe verbinding met de server van Google. Wij hebben geen invloed op de omvang en het verdere gebruik van de door Google met behulp van deze tool verzamelde gegevens en informeren je daarom op basis van de bij ons beschikbare kennis: door de integratie van DoubleClick ontvangt Google informatie dat je actief bent op onze site of op een advertentie van ons hebt geklikt. Als je bent geregistreerd bij een Google-service, kan Google je bezoek aan je account koppelen. Ook als je niet bij Google geregistreerd bent of niet ingelogd bent, is het mogelijk dat adverteerder je IP-adres opslaat.
-
-Je kunt deelname aan dit traceringsproces op verschillende manieren voorkomen:
-
-door je browsersoftware hierop aan te passen; in het bijzonder door het onderdrukken van cookies van derden voorkomt je dat je advertenties van andere aanbieders ontvangt.
-
-door het deactiveren van de op interesses gebaseerde advertenties op Google via deze link. Deze instelling wordt overigens verwijderd, wanneer je je cookies verwijdert.
-
-door het deactiveren van de op interesses gebaseerde advertenties van de providers die deel uitmaken van de zelfreguleringscampagne “About Ads” via deze link. Deze instelling wordt verwijderd wanneer je je cookies verwijdert.
-
-door het permanent deactiveren van advertentie-instellingen in de browsers Firefox, Internet Explorer of Google Chrome via deze link. Houd er rekening mee dat je in dit geval mogelijk niet alle mogelijkheden van het aanbod van deze website kunt gebruiken.
-
-Voor meer informatie over het doel en de reikwijdte van het verzamelen en verwerken van gegevens, en om meer te weten te komen over je rechten en privacy keuzes, gelieve contact op te nemen met:
-
-Google Inc.
-
-1600 Amphitheatre Parkway
-
-Mountain View, CA, 94043
-
-Verenigde Staten
-
-Google heeft zich gecommitteerd aan het EU-VS Privacy Shield. Lees hier hun privacybeleid.
-
-9. Integratie en gebruik van social media plugins
-
-We gebruiken de volgende socialmediaplugins: Facebook, Twitter, LinkedIn.
-
-Wanneer een website wordt bezocht via een socialmediaplugin, staat de inhoud van de plugin ter beschikking van de beheerder van het desbetreffende socialmediaplatform.
-
-Wij hebben geen invloed op de verzamelde gegevens en de gegevensverwerkingsprocessen, noch zijn wij ons bewust van de volledige omvang van de gegevensverzameling, de doeleinden en de opslagtermijnen. De verzonden gegevens zijn (voor zover ons bekend is) de URL van de bezochte pagina en het door je gebruikte IP-adres en/of andere platform-afhankelijke identificatie.
-
-Als je tegelijkertijd bent ingelogd op het betreffende socialmediaplatform, kan de beheerder van het desbetreffende platform het bezoek van websites koppelen aan je gebruikersaccount.
-
-Via plugins bieden we je de mogelijkheid om te interacteren met sociale netwerken en andere gebruikers, zodat we ons aanbod kunnen verbeteren en interessanter kunnen maken voor je als gebruiker. De rechtsgrondslag voor het gebruik van de plug-ins is artikel 6, lid 1, eerste zin onder f), van AVG.
-
-Het doel en de omvang van de gegevensverzameling door de desbetreffende exploitant van het socialmediaplatform, de verdere verwerking en het gebruik van de gegevens door de exploitant, alsmede je rechten en instellingsmogelijkheden voor de bescherming van je privacy, vindt je bij de informatie over gegevensbescherming van de desbetreffende exploitant van het socialmediaplatform:
-
-Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; http://www.facebook.com/policy.php. Facebook voldoet aan het EU-US-Privacy-Shield.
-
-Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA; https://www.google.com/policies/privacy/partners/?hl=de. Google voldoet aan het EU-US-Privacy-Shield
-
-Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA ; https://twitter.com/de/privacy. Twitter voldoet aan het EU-US-Privacy-Shield.
-
-LinkedIn Headquarters 2029 Stierlin Ct. Ste. 200 Mountain View, CA 94043, USA; https://www.linkedin.com/legal/privacy-policy. LinkedIn voldoet aan het EU-US-Privacy-Shield.
-
-10. Ligatus
-
-Op onze website maken wij gebruik van de service van Ligatus. Ligatus wordt gebruikt om je advertenties en andere content te tonen die voor jouw interessant kan zijn op basis van je online activiteiten. Hiervoor wordt een cookie (zie ook “Cookies”) op je apparaat geplaatst wanneer je websites bezoekt, die vervolgens wordt herkend wanneer je onze website bezoekt en zo een weergave op basis van je eerdere activiteiten mogelijk maakt.
-
-Wij hebben geen invloed op de omvang en de methoden van gegevensverwerking, noch op de mate waarin de gegevens kunnen worden gerelateerd aan individuen. De rechtsgrondslag voor gegevensverwerking is artikel 6, lid 1, onder f), van de AVG.
-
-Indien je bezwaar wilt maken tegen gegevensverwerking door Ligatus, kun je dit doen via deze link. Meer informatie over het privacybeleid van Ligatus vind je hier.
-
-11. Hotjar
-
-Hotjar laat op basis van geaggregeerde data zien hoe bezoekers op de website navigeren. Deze gegevens kunnen voor analytische doeleinden worden gebruikt om de website te optimaliseren en bezoekers beter van dienst te zien. Hotjar geeft zelf aan grote waarde te hechten aan gegevensbescherming en privacy. Het bedrijf verkoopt naar eigen zeggen geen gegevens aan derden.
-
-Indien je bezwaar wilt maken tegen gegevensverwerking door Hotjar, kun je dit doen via deze link. Meer informatie over het privacybeleid van Hotjar vind je hier.
-
-12. Wijzigingen
-
-Wij behouden ons het recht voor om de privacyverklaring te allen tijde te wijzigen in overeenstemming met de van toepassing zijnde regelgeving op het gebied van gegevensbescherming.
-
-13. Intrekking van toestemming en bezwaar tegen gegevensverwerking
-
-Als je ons toestemming heeft gegeven voor de verwerking van gegevens, kun je deze toestemming te allen tijde herroepen voor toekomstige situaties.
-
-Bij het indienen van een bezwaar vragen wij je uit te leggen waarom wij je persoonsgegevens niet op de manier zouden moeten verwerken waarop wij dat hebben gedaan. In geval van een onderbouwd bezwaar zullen wij de situatie onderzoeken en ofwel de gegevensverwerking stopzetten of aanpassen, ofwel je wijzen op dwingende redenen op grond waarvan wij de verwerking zullen voortzetten.
-
-Je kunt te allen tijde bezwaar maken tegen de verwerking van je persoonsgegevens voor reclamedoeleinden en gegevensanalyse.
-
-Je kunt je bezwaar kenbaar maken door gebruikt te maken van de contactgegevens onder het kopje ‘Verantwoordelijke’ (15).
-
-14. Je rechten
-
-Je hebt de volgende rechten met betrekking tot je persoonsgegevens:
-
-Recht op informatie
-
-Recht op correctie of verwijdering
-
-Recht op beperking van de verwerking
-
-Recht van verzet tegen de verwerking
-
-Je hebt ook het recht om bij een toezichthoudende autoriteit voor gegevensbescherming een klacht in te dienen over de verwerking van je persoonsgegevens.
-
-Je rechten zijn vastgelegd in de artikelen 15 tot en met 22 van de Algemene verordening gegevensbescherming:
-
-je hebt het recht inzage te vragen in welke persoonsgegevens we van je verwerken;
-
-je kunt om rectificatie of wissing van je persoonsgegevens vragen;
-
-je hebt het recht om beperking te vragen van de verwerking van je persoonsgegevens;
-
-je hebt het recht tegen verwerking van je persoonsgegevens bezwaar te maken;
-
-je hebt het recht op overdraagbaarheid van je persoonsgegevens.
-
-Als je van deze rechten gebruik wilt maken kunt je daartoe een bericht met je naam en contactgegevens sturen aan Z24 Media B.V., Panamalaan 3b, (1019 AS) Amsterdam of een e-mail sturen aan privacy@z24.nl. In je verzoek moet je zoveel mogelijk te specificeren om welke persoonsgegevens het gaat. Wij zullen binnen vier weken op een verzoek tot inzage of correctie verzoek reageren.
-
-In geval van een verzoek tot verwijdering zullen wij de betreffende persoonsgegevens zo spoedig mogelijk verwijderen, tenzij, en voor zover, de wet ons verplicht om de betreffende persoonsgegevens te bewaren, of er andere dringende redenen zijn die zich tegen verwijdering verzetten. Wij sturen je na uitvoering van een verzoek tot verwijdering een bevestigingsbericht. Als we de betreffende persoonsgegevens (gedeeltelijk) niet hebben verwijderd, sturen we je een bericht waarin we toelichten waarom niet (volledig) aan je verzoek kon worden voldaan.
-
-Wij moeten je identiteit controleren om te voorkomen dat kwaadwillenden gegevens van anderen kunnen verkrijgen. Je moet dan ook een kopie van een identiteitsbewijs meesturen. Je moet dan (voor zover van toepassing) de MRZ (machine readable zone; de strook met nummers onderaan het paspoort), het paspoortnummer en het Burgerservicenummer (BSN) onherkenbaar maken.
-
-Als we niet of niet volledig kunnen vaststellen op welke persoonsgegevens je verzoek betrekking heeft, kunnen we je vragen om je verzoek nader te specificeren. We schorten dan de uitvoering van het verzoek op totdat je ons de nadere specificatie hebt verstrekt.
-
-Sommige persoonsgegevens moeten ondanks je verzoek tot verwijdering toch bewaard worden om wettelijke redenen.
-
-Je hebt altijd het recht een klacht over de verwerking van je persoonsgegevens in te dienen bij de Autoriteit Persoonsgegevens of bij de rechter. Meer informatie daarover vindt je hier.
-
-15. Verantwoordelijke
-
-Z24 Media BV, gevestigd aan de Panamalaan 3B in Amsterdam, zal optreden als verantwoordelijke in de zin van de Algemene verordening gegevensbescherming (AVG).
-
-Tel.: 020- 820 26 14
-
-E-mail: privacy@z24.nl
-
-Ons adres:
-
-Z24 Media BV
-
-Spaklerweg 53
-
-1114 AE Amsterdam
-
-Gebruik bovenstaande mail voor correspondentie
-
-KvK-nummer: 34287125
-
-Btw-nummer: NL8186.79.499 B01
-
-Meest recente aanpassing: 12.12.2018
-***************************************************************
-
+17.5.3 Where transfer is to a third party is located in a country not recognized by the EU Commission as ensuring an adequate level of protection, we will take appropriate steps to refrain from such transfer unless such transfer meets any exceptions set forth in the GDPR (such as EU/US Privacy Shield).
 

@@ -1,0 +1,73 @@
+Title: Privacy Policy
+URL: https://plos.org/privacy-policy/
+Date of publishing: None
+Keywords: personal, manuscript, provide, parties, privacy, research, plos, policy, review, information, disclose, peer
+
+Policy: HOW WE USE AND DISCLOSE YOUR INFORMATION
+
+Use by PLOS
+
+PLOS uses your personal information as described in the “INFORMATION WE COLLECT” section, to customize your experience on the PLOS Sites and facilitate our interactions with you.
+
+If you are an author, we use your personal information for the purpose of processing, reviewing, communicating about, facilitating editorial review and peer review, for publishing, and to facilitate payment of article processing charges.
+
+If you are an editor or reviewer, we use your personal information to contact you about your potential or actual role as an editor or reviewer, to request and facilitate your review and handling of manuscripts, and to update you on news and developments at PLOS as it may affect your work with us.
+
+If an author chooses to publish their peer review history, we make the manuscript review process available to the public when an article is published, including the contents of emails and other communications between reviewers, editors and authors via a PLOS Site.
+
+If you write a blog for the PLOS blog, your name and biography (as provided by you) will be made public.
+
+We may also use your personal information to assist with improving the peer review system and scientific communication, as part of PLOS’s ongoing research program on the processes we use in the course of manuscript handling.
+
+If you provide demographic information to PLOS as described in the “INFORMATION WE COLLECT” section above, then we usually collect and use this information on an anonymized basis so that you will not be identified from it unless we tell you otherwise. We will use that information only for internal diversity tracking purposes.
+
+If you simply visit PLOS Sites to read content, we will use information such as your URL and cookies to provide a good experience, as described in the “INFORMATION WE COLLECT” section.
+
+We may also collect your name, email, address and phone number at conferences or events.
+
+Disclosure to Third Parties
+
+If you submit a manuscript or other research content to us for possible publication, we will send the title and abstract of your manuscript, and your name, to one or more potential external/volunteer editors and reviewers to gauge their interest in reviewing your content. If they agree to review your content, we will send them your full manuscript and any revisions and relevant comments you have provided. If your manuscript is accepted for publication, we share information about you, your manuscript, or other research content as reasonably necessary with volunteer curators and channel managers. In addition to volunteer curators and channel managers, we may share the foregoing information with journalists prior to publication for the purpose of promoting your work.
+
+If you choose to publish your manuscript as a preprint, we send your manuscript to our preprint partner(s) for posting of your manuscript.
+
+If a paper is published or posted as a preprint, the following information appears as part of the paper: author’s name, role, email address, affiliation, ORCID iD, any competing interests, editor’s name, and affiliation. The foregoing information will also be included in the article XML and syndicated to third parties. If you are a reviewer that has voluntarily provided an ORCID iD to PLOS and choose to participate in the ORCID reviewer recognition, we will share general information about your review with your ORCID record, such as the year your review was completed and type of review.
+
+If an author chooses to publish their peer review history, then the contents of emails and other communications between reviewers, editors and authors via a PLOS Site will be made public. If you are a reviewer and provide us with your consent, we will disclose your name as part of the peer review history when an article is published and the author has chosen to publish the peer review history. To remove your name from the peer review history after disclosure to the public, you can email privacy@plos.org.
+
+We may also disclose personal information as reasonably necessary for the purposes described in this privacy policy to other third parties, as follows:
+
+Vendors, independent contractors, and consultants to enable us to provide products and services, such as financial institutions (for facilitating payment of fees owed), web and technical support providers (such as hosting providers and customer service and support providers), and third parties who provide syndication and preprints
+
+Other publishers
+
+Third parties authorized by you to receive such information, such as third parties that facilitate the automatic update of your ORCID record.
+
+To respond to claims asserted against us or comply with legal process (e.g., subpoenas or warrants), or lawful requests from government or law enforcement authorities (as required to meet national security or law enforcement requirements), and to enforce or comply with our agreements, terms of use, and this privacy policy
+
+Third parties that conduct research for PLOS to improve the peer review system and scientific communication
+
+To comply with applicable law, or as required or permitted by law
+
+Where it is in our legitimate interests, under relevant law, to run, grow and develop our organization in order to expand the impact of science and medicine
+
+If we sell any business or assets, we may disclose your personal information to the buyer of such business or assets
+
+If substantially all of our or any of our affiliates’ assets are acquired by a third party, in which case personal information held by us will be one of the transferred assets
+
+To protect the safety of any person or to prevent any illegal activity
+
+To protect the rights, property, or safety of PLOS, our staff, our users or other persons. This may include exchanging personal information with other organizations for the purposes of fraud protection and credit risk reduction
+
+To uphold the integrity of research in cases of suspected research integrity breaches
+
+In some cases, the applications or user interfaces you encounter while on our sites are managed by third parties, who may require that you provide your personal information. We are not responsible for the privacy practices of these third party services or applications. We recommend carefully reviewing the user terms and privacy statement of each third party service, website, and/or application prior to use.
+
+PLOS will never disclose demographic information, described in the “INFORMATION WE COLLECT” section above, to third parties, unless it has been anonymized or otherwise deidentified.
+
+No Sale or Leasing of Your Information
+
+Except as described in the “Disclosure to Third Parties” section of this privacy policy, we will not disclose your personal information to third parties without your consent. We will not sell or lease your personal information to any third party. We may disclose aggregate demographic and statistical information with our business partners; this information is not specific to the identification of you as an individual.
+***************************************************************
+
+

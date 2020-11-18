@@ -1,6 +1,9 @@
-Title: Amadeus.com Privacy Notice
+Title: 
 URL: https://amadeus.com/en/policies/privacy-policy
 Date of publishing: None
 Keywords: 
 
-Reduced Policy:  Under certain circumstances individuals can exercise rights under data protection laws. Individuals may exercise these rights relating to their own personal data or contact Amadeus for other data protection related questions by emailingdataprotection@amadeus.com,or write to our Chief Privacy Officer, via Amadeus IT Group, S.A. C/Salvador de Madariaga 1, 28027 Madrid, Spain. Amadeus will require authentication of the identity of the individual wishing to exercise their rights under data protection laws, and may require additional information to assist in responding to requests For the following rights please make a reference to the following in the request: Right to access: ‘Request for access to personal data’Right to object: ‘Object to processing of personal data for the purpose of analytics’Right to information about:‘Amadeus affiliates and third party service providers who process personal data on behalf of Amadeus’‘Transfers to third countries – information about data transfers outside EEA’  Amadeus intends to carefully address any request and/or claim from you, as well as carefully process personal data. You are entitled to file any claim or complaint before the relevant data protection authorities if the answer provided by Amadeus does not meet your expectations. 
+Policy: 
+***************************************************************
+
+

@@ -3,4 +3,178 @@ URL: https://www.axs.com/uk/about-privacy-policy_UK_v3.html
 Date of publishing: None
 Keywords: privacy, policy
 
-Reduced Policy:      Subject to the rights granted to other individuals, and our rights to limit or deny access/disclosure under applicable law, you have the following rights in your Personal Data. Note, we may require that you provide additional Personal Data to exercise these rights, e.g. information necessary to prove your identity. You may exercise your rights bycontacting us(re: data rights requests, except where noted):  Access:You may receive a list of your Personal Data that we process to the extent required and permitted by law.Rectification:You may correct any Personal Data that we hold about you to the extent required and permitted by law. For Registration Data, you may be able to make changes via your account settings menu.Erasure:To the extent required by applicable law, you may request that we delete your Personal Data from our systems.Data export:To the extent required by applicable law, we will send you a copy of your Personal Data in a common portable format of our choice.Direct marketing:You may request a list of Personal Data we have disclosed about you tothird partiesfor direct marketing purposes during the preceding calendar year. This request must be written, signed, and mailed to us.Regulator Contact:You have the right to contact or file a complaint with regulators about our processing of Personal Data. In the U.S., you can contact the Federal Trade Commission. In the EU and elsewhere, please contact your local data protection or consumer protection authority. 
+Policy:      
+PRIVACY POLICY
+Effective [05.05.2020]
+
+Welcome!
+We take your privacy seriously and know you do too. This Privacy Policy is here to help you understand how we collect, use, disclose, and process your personal data. We also describe your choices and rights with respect to how we process your personal data. Please read this policy carefully.
+
+Who we are
+This is the Privacy Policy AXS Europe Limited ("AXS UK"), a company registered in England and Wales with a registered office at AXS Europe Ltd., 7th Floor West, Cottons Centre, 47/49 Tooley Street SE1 2QN and AXS Group LLC ("AXS US"), a limited liability company incorporated in the State of Delaware (collectively, "AXS", "us", "our", or "we"), a Delaware limited liability company with offices at 425 W. 11th St, Los Angeles, CA. You can contact us here supportuk@axs.com.
+
+Applicability
+This Privacy Policy applies to our "Services", which include:
+
+AXS.com/UK and any other websites that link to/post this Privacy Policy (including any subdomains or mobile versions, the “Site(s)”);
+our mobile applications (the "Mobile App(s)""); and
+ticket kiosks and other web-enabled physical technologies (the "Internet and IoT Service(s)").
+Agreement
+This policy is incorporated into the Terms of Use governing your use of any of our Services. Any capitalized terms not defined in this Privacy Policy will have the definitions provided in our Terms of Use. Supplemental policies may also apply, such as our Terms of Use.
+
+Please read this Privacy Policy carefully to understand how we handle your personal information. Following notice to you or your acknowledgement of this Privacy Policy (including any updates), your continued use of any of our Services indicates your consent to the practices described in this Policy.
+
+Third parties
+This Privacy Policy does not apply to information collected by third parties, for example, when you visit a third party website or interact with online advertisements, unless and until we receive your information from those parties. Please review these third-parties' privacy policies before disclosing information to them.
+
+Collection and use of Personal Data
+Personal Data we collect
+We may collect and process information that relates to identified or identifiable individuals ("Personal Data"). We collect and process the following categories of Personal Data (note, specific Personal Data elements listed in each category are only examples and may change):
+
+Identity Data:	Personal Data about you and your identity, such as your name, ID number, photo, username, and other Personal Data you may provide on registration or purchase forms or as part of an account profile (e.g. biographical information).
+Transaction Data:	Personal Data we collect in connection with a transaction or purchase, such as the Right/ticket you purchased, the price, the delivery location, Post Code, and other similar information.
+Contact Data:	Personal Data used to contact an individual, e.g. email address(es), physical address(es), phone number(s), or social media or communications platform usernames/handles, as well as a name or other salutation.
+Financial Data:	Personal Data relating to financial accounts or services, e.g. a credit card or other financial account number, and other relevant information you provide in connection with a financial transaction, all of which will be handled compliant with payment card related regulations.
+Device Data:	Personal Data relating to your device, browser, or application e.g. IP addresses, MAC addresses, application ID/AdID/IDFA, identifiers from cookies, session navigation history and similar browsing metadata, and other data generated through applications and browsers, including cookies and similar technologies.
+Preferences Data:	Personal Data relating to your preferences, interests, personal demographics (e.g. location of residence, age group, gender, etc.), your "likes", and other information provided to us via social media services and advertising technologies.
+Location Data:	Personal Data relating to your precise location, such as information collected from your device's GPS, or through your interactions with a Bluetooth location beacon, RFID-enabled hardware/wearables, or other localization product.
+In addition, we may at times collect certain other Personal Data from you that is subject to additional restrictions. Where appropriate, the following categories of Personal Data may be subject to additional restrictions:
+
+Special Category Data:	Personal Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, biometric data, or health information.
+Processing of Personal Data
+
+Account registration
+Data:	You may be able to register and create an account for our Services. Registration is optional in most cases. If you choose to register, we will process Identity Data, Preferences Data and certain Contact Data. We may also process certain Financial Data if you choose, for example, to store payment information for future purchases.
+Uses:	We use the Identity Data and Contact Data as necessary to create, maintain, and provide you with important information about your account. This Financial Data will be used only as necessary to process transactions at your request. Subject to Your Rights and Choices, we may also use the Identity Data and Preferences Data as part of our efforts to improve our services and to create a personalized user experience, and we may process the Identity Data, Preferences Data and Contact Data to contact you about relevant products or services, and in connection with marketing communications and behavioral advertising.
+Purchases
+Data:	We process Transaction Data, Identity Data, Financial Data, Preferences Data and certain Contact Data when you complete a purchase on our Services, or for products/services available through our services. Note, we often handle purchases for products and services provided by third parties, and we may process your personal data on behalf of these third parties.
+Uses:	We use the Transaction, Identity and Contact Data as necessary to complete and provide you with important information regarding your transaction. Financial Data is used only as necessary to process your transaction, and we do not permanently store your Financial Data, except at your request. Subject to Your Rights and Choices, we may process the Transaction Data, Identity Data and Preferences Data as part of our efforts to improve our services and to create a personalized user experience, to contact you about relevant products or services, and in connection with marketing communications and behavioral advertising.
+Marketing communications
+Data:	We may process Identity Data, Device Data, Preferences Data and Contact Data when you are enrolled to receive, and when you open or interact with, our electronic marketing communications. Note, you may be enrolled with your consent or, where allowed, in connection with account registration or a purchase.
+Uses:	Subject to Your Rights and Choices, we may process the Contact Data and Preferences Data to contact you about relevant products or services, and the Identity Data, Device Data, Preferences Data and Contact Data as part of our efforts to improve our services and to create a personalized user experience, and in connection with marketing communications and behavioral advertising.
+Mobile Apps
+Data:	If you use our Mobile Apps, we may process Device Data, Preferences Data and, with your consent, Location Data. Note, you may also be able to complete purchases, register for an account, or enroll in marketing communications through our Mobile App.
+Uses:	We process the Device Data so that we can optimize the display and functionality of the Mobile App on your device. The Location Data is generally used in order to deliver location-specific content and information through the App. Subject to Your Rights and Choices, we may use the Device Data, Preferences Data and Location Data to improve our services and to create a personalized user experience and we may process this Device Data and Location Data in connection with marketing communications and behavioral advertising.
+Special programs and offers
+Data:	We may process Identity Data, Preferences Data and certain Contact Data if you choose to register for special promotions and offers such as discounts, sweepstakes or contests. Note, some special programs and offers are operated/controlled by us, and others are operated/controlled by our third party partners. We may receive this data from third parties to the extent allowed by the applicable partner; otherwise, this Privacy Policy will not apply.
+Uses:	We use this Identity Data and Contact Data as necessary to carry out the special programs and related transactions. Subject to Your Rights and Choices, we may also use this Identity Data and Preferences Data part of our efforts to improve our services and to create a personalized user experience, and we may process this Identity Data and Contact Data to contact you about relevant products or services, and in connection with marketing communications and behavioral advertising.
+Note:	If you win a Promotion, your acceptance of a prize may allow us to make certain Personal Information public, e.g. posting your name on a winner's page. See the special program agreement(s) for additional details and terms.
+Staffing data
+Data:	We may process Identity Data and Contact Data as well as certain Special Category Data in connection with your application to be a vendor, volunteer, employee, or otherwise join or support our team.
+Uses:	Staffing data processed under this Privacy Policy is used primarily in connection with the assessment and creation of the staffing relationship. Subject to Your Rights and Choices, we may also use your Contact Data as necessary to process your application, contact your regarding this or other future application/vendor/work opportunities, or similar matters.
+User content & social media
+Data:	We process Identity Data, Preferences Data, Contact Data and any other data in or relating to your User Content if you choose to submit User Content (e.g. comments, forum and social media posts, etc.) through our Services. If you use a social media service to post User Content that references our official accounts, your comment or content may appear on our Services. We may receive that data from a third party if and to the extent provided to us by a third party (e.g. social media platform).
+Uses:	We use Identity Data and Contact Data as necessary to carry out the special programs and related transactions. Subject to Your Rights and Choices, we may also use Identity Data and Preferences Data as part of our efforts to improve our services and to create a personalized user experience and we may process Identity Data and Contact Data to contact you about relevant products or services, and in connection with marketing communications and behavioral advertising.
+Note:	Any content you provide may be made public as soon as you post it on our Services. We do not screen comments or other postings for personal or inappropriate content.
+Cookies and similar technologies
+Data:	We, and certain third parties, may process Identity Data, Device Data, Contact Data, Preference Data, Location Data, and certain User Content when you interact with cookies and similar technologies. We may receive this data from third parties to the extent allowed by the applicable partner; otherwise, this Privacy Policy will not apply.
+Uses:	We use Device Data and Identity Data to enable you to register with and/or use certain features of these technologies. Subject to Your Rights and Choices, we may use Identity Data, Location Data, Device Data, and Contact Data as part of our efforts to improve our services and to create a personalized user experience and we may use Identity Data, Location Data, Device Data, and Contact Data to contact you about relevant products or services, and in connection with marketing communications and behavioral advertising.
+Note:	Some of these technologies can be used by us and/or our third party partners to identify you across platforms, devices, sites, and services. Third parties may engage in behavioral advertising using this data.
+Specific processing purposes
+
+Personalization
+Consistent with our legitimate business interests, we may personalize our Services. To do so, we may link together and analyze the Personal Data that we hold about you. Personal Data processed for personalization purposes, whether or not linked, may be augmented with Preferences Data. We may create Preferences Data, or obtain it from third parties, using Personal Data we hold about you. We process Preferences Data so that our communications and Services are more relevant to you. For example, we may greet you by name, provide better recommendations to you, tailor communications to your interests, and use the information to guide overall improvements to our products and services. We may also use Preferences Information in connection with behavioral advertising. See Your Rights and Choices for information about how you can limit or opt out of this processing.
+
+Direct marketing
+Consistent with our legitimate business interests, we (or if appropriate, our third party partners) may send you marketing and promotional communications if you sign up for such communications or purchase products or services from us. Where allowed, we may also send you these communications if you register on our Services or for a promotion, or in connection with your communications with, or submission of User Content to, us. These communications may be personalized. See Your Rights and Choices for information about how you can limit or opt out of this processing.
+
+Behavioral advertising
+We, and certain third parties operating on or through our Services, may engage in online behavioral advertising. This form of advertising uses Preferences Data, Device Data, Identity Data, and at times, Contact Data in order to deliver more relevant advertising to you. The parties that control the processing of Personal Data for behavioral advertising purposes may build a profile of you containing this information, and may be able to identify you across sites, devices, and over time. See Your Rights and Choices for information about how you can limit or opt out of this processing.
+
+Additional processing
+If we process Personal Data in connection with our Services in a way not described in this Privacy Policy, this Privacy Policy will still apply generally (e.g. with respect to Your Rights and Choices) unless otherwise stated when you provide it.
+
+Note that we may, without your consent, also process your Personal Data on certain public interest grounds. For example, we may process information as necessary to fulfil our legal obligations, to protect the vital interests of any individuals, or otherwise in the public interest. Please see the data sharing section for more information about how we disclose Personal Data in extraordinary circumstances.
+
+Data transfers
+
+Generally
+When granted consent, information we collect may be shared with a variety of parties, depending upon the purpose for and context in which that information was provided. We generally transfer data to the following categories of third party recipients:
+
+Service Providers:	In connection with our business, operations, product/service improvements, and other legitimate business interests, we may share your Personal Data with service providers who provide certain services or process data on our behalf.
+Affiliates:	In order to streamline certain business operations, improve personalization, and develop products and services that better meet the interests and needs of our customers, we may share your Personal Data with any of our current or future affiliated entities, subsidiaries, and parent companies.
+Promoters/Events:	We may share your Personal Data with promoters, venues, acts, and other data controllers on whose behalf we process personal data, for example, in connection with transactions for events, products, and services that are provided or promoted by that third party. These parties may engage in direct marketing or behavioral advertising or other purposes as specified in that party's privacy policy.
+Partners:	We may share your Personal Data with business or marketing partners in connection with promotions, events, products, and services that are promoted, managed, supported, or otherwise undertaken with that third party. If appropriate, these parties may engage in direct marketing or behavioral advertising.
+Marketers:	In order to improve personalization, deliver more relevant advertisements, and develop better products and services, we may share certain Personal Data with trusted third parties for marketing, advertising, or other commercial purposes, and we may occasionally allow third parties (such as Facebook) to operate on our Services and process data for behavioral advertising.
+Social media:	If you use any social media plugin, API, or other similar feature, use an event hashtag or similar link, or otherwise interact with us or our Services via social media, we may make your post available on our Services or to the general public. We may share, rebroadcast, or redisplay Personal Data or other information in the post the extent permitted by the relevant social media service.
+Corporate events:	Your Personal Data may be processed in the event that we go through a business transition, such as a merger, acquisition, liquidation, or sale of all or a portion of our assets. For example, Personal Data may be part of the assets transferred, or may be disclosed (subject to confidentiality restrictions) during the due diligence process for a potential transaction.
+Legal disclosures:	In limited circumstances, we may, without notice or your consent, access and disclose your Personal Data, any communications sent or received by you, and any other information that we may have about you to the extent we believe such disclosure is legally required, to prevent or respond to a crime, to investigate violations of our Terms of Use, or in the vital interests of us or any person. Note, these disclosures may be made to governments that do not ensure the same degree of protection of your Personal Data as your home jurisdiction. We may, in our sole discretion (but without any obligation), object to the disclosure of your Personal Data to such parties.
+International transfers
+We operate and use service providers located in the United States, so your Personal Data may be transferred to the U.S. The U.S. does not provide the same legal protections guaranteed to Personal Data in the European Union. Accordingly, your Personal Data may be transferred to the U.S. pursuant to the EU-U.S. Privacy Shield Framework, the Standard Contractual Clauses, or other adequacy mechanisms, or pursuant to exemptions provided under EU law.
+
+
+Your Rights & Choices
+
+Your Rights
+Subject to the rights granted to other individuals, and our rights to limit or deny access/disclosure under applicable law, you have the following rights in your Personal Data. Note, we may require that you provide additional Personal Data to exercise these rights, e.g. information necessary to prove your identity. You may exercise your rights by contacting us (re: data rights requests, except where noted):
+
+Access:	You may receive a list of your Personal Data that we process to the extent required and permitted by law.
+Rectification:	You may correct any Personal Data that we hold about you to the extent required and permitted by law. For Registration Data, you may be able to make changes via your account settings menu.
+Erasure:	To the extent required by applicable law, you may request that we delete your Personal Data from our systems.
+Data export:	To the extent required by applicable law, we will send you a copy of your Personal Data in a common portable format of our choice.
+Direct marketing:	You may request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year. This request must be written, signed, and mailed to us.
+Regulator Contact:	You have the right to contact or file a complaint with regulators about our processing of Personal Data. In the U.S., you can contact the Federal Trade Commission. In the EU and elsewhere, please contact your local data protection or consumer protection authority.
+Your Choices
+It is possible for you to use some of our Services without providing any Personal Data, but you may not be able to access certain features or view certain content. You have the following choices regarding the Personal Data we process:
+
+Consent:	If you consent to processing, you may withdraw your consent at any time, to the extent required by law.
+Direct marketing:	You have the choice to opt-out of or withdraw your consent to processing related to direct marketing communications. You may have a legal right not to receive such messages in certain circumstances, in which case, you will only receive direct marketing communications if you consent. You may exercise your choice via the links in our communications or by contacting us re: direct marketing.
+Location data:	You may control or limit Location Data that we collect using our Mobile App and Internet and IoT Services by changing your preferences in your device's location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Services. However, please note that use of RFID technologies may be necessary for the functioning of hardware you must use.
+Profiling & Personalization:	You may opt out of the creation or other processing of Preferences Data by automated means, and object to processing for personalization purposes, to the extent applicable law gives you the right to do so. To exercise this right, please contact us re: data rights requests. Note that we may not be required to cease processing based solely on an objection.
+Cookies & Similar Tech:	If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser's settings menu. You must opt out of third party services directly via the third party. For example, to opt-out of Google's analytic and marketing services, visit Google Analytics Terms of Use, the Google Privacy Policy, or Google Analytics Opt-out. Our Site does not respond to your browser's do-not-track request.
+Behavioral advertising:	You may opt out or withdraw your consent to behavioral advertising. You must opt out of third party services directly via the third party. For example, to opt out of Google's use of cookies, visit Google's Ads Settings, here. To learn more about how to opt out of DoubleClick's use of cookies, visit the DoubleClick opt-out page, here. To opt out from Facebook Custom Audience Pixel, visit their customer support page here. To learn more about how to opt out of Twitter's use of audience pixels, visit the Twitter help page here. If you wish to take steps to opt-out of tracking by certain online advertisers, you can visit the Digital Advertising Alliance's opt-out page at http://www.aboutads.info/choices or the Network Advertising Initiative at www.networkadvertising.org/optout_nonppii.asp.
+Other processing:	When we process Personal Data without your consent, and in a manner that is not necessary in context, (e.g. to carry out a transaction, meet a legal requirement, to protect a person's or our vital interests), you may have the right under applicable law to object to our processing of your Personal Data. You may do so by contacting us re: data rights requests. Note that we may not be required to cease processing based solely on an objection.
+Security
+We follow and implement reasonable security measures to safeguard the Personal Data you provide us. We do not have control over third parties' security processes, but we use commercially reasonable measures to ensure third parties we may share information with adequately protect Personal Data. Please note, we do not warrant perfect security and we do not provide any guarantee that your Personal Data or any other information you provide us will remain secure.
+
+When we process information, we may pseudonymize data (i.e. store or use personal data using only a non-identifying number) or anonymize data (i.e. store data in a form that is not linked to or reasonably able to identify you personally) in order to protect your Personal Data during processing.
+
+Data retention
+We retain information for so long as it, in our discretion, remains relevant to its purpose, and in any event, for so long as is required by law. We will review retention periods periodically, and may pseudonymize or anonymize data held for longer periods, if appropriate.
+
+Minors
+Our Services are neither directed at nor intended for use by minors under age 16. Further, we do not knowingly collect Personal Data from minors. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Services if you are 16 years old or younger unless you have the consent of your parent or guardian.
+
+EU-U.S. Privacy Shield
+AXS Group LLC and its subsidiary companies participate in and have certified compliance with the EU-U.S. Privacy Shield Framework. Our adherence to the Privacy Shield framework reflects our commitment to protect the privacy of our EU users when we collect, process, and transfer personal data collected from users in the EU. We adhere to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse/enforcement/liability. To learn more about the Privacy Shield Framework and view the list of Privacy Shield certified Companies here. AXS is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. AXS complies with the Privacy Shield Principles relating to onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, AXS is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, AXS may be required to disclose personal data in response to requests by public authorities, including to meet national security or law enforcement requirements.
+
+We encourage EU (and US) users to contact us if you have any concerns about our compliance with this Privacy Policy and the Privacy Shield Framework. Any questions or concerns may be sent to the address or email below. AXS will respond to Privacy Shield complaints from EU citizens within 45 days. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. If required by law, we will work with a panel of DPAs in the EU to resolve disputes. Please note, under certain conditions, more fully described on the Privacy Shield website , you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Changes to our Privacy Policy
+We may change this Privacy Policy from time to time. Changes will be posted on this page with the effective date, and we will notify of any material changes. Please visit this page regularly so that you are aware of our latest updates. Your use of the Services following notice of any changes indicates acceptance of any changes.
+
+Contact us
+Feel free to contact us with questions or concerns using the appropriate address below.
+
+General inquires:	supportuk@axs.com
+Marketing choices:	unsubscribe.eu@axs.com or visit the MyAXS preferences page
+Data rights requests:	unsubscribe.eu@axs.com
+Data Protection Officer:	Federico Zanetti
+DPO@axs.com
+Physical address:	
+If you live in the UK or EU:
+
+AXS Europe Ltd.
+
+7th Floor Wes
+
+Cottons Centre
+
+47/49 Tooley Street
+
+London SE1 2QN
+
+List of Third Parties
+We receive and disclose personal data to/from third parties when consent given. The following is a list of unaffiliated third parties with whom we may work in certain contexts:
+
+Data sources:	Facebook, Twitter, Instagram (social media and advertising interactions, personalization data)
+Data recipients:	
+Event concert sponsors/promoters e.g. AEG, AEG Presents, LiveNation, etc. (event specific)
+
+Event venues and facilities (event specific)
+
+Event artists/performers (event specific)
+
+Note:	This list may be incomplete, and is subject to change without notice. Additional or specific parties may be specified at the time of a transaction, or depend on the context of your transaction. Please contact us re: general inquiries for more details or if you have questions.

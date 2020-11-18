@@ -1,0 +1,19 @@
+Title: Plesk Lifecycle Policy
+URL: https://plesk.com/lifecycle-policy
+Date of publishing: 2019-09-25 00:03:31+02:00
+Keywords: lifecycle, version, server, security, automatic, users, support, monthly, policy, updates, plesk, stable
+
+Policy: With the launch of Obsidian, Plesk is ending the era of upgrades and introduces a monthly release cycle. Switching to monthly updates is imperative to always deliver a secure and stable version of Plesk with new features and improvements that Partners and Customers expect to get from an intelligent software solution.
+
+In the past, Plesk used to launch one major version per year and users were required to upgrade the Plesk server (e.g. 12.x > 17.x). With Plesk Obsidian, users are strongly recommended to allow automatic updates through Plesk Server settings so they will automatically be on the latest version including hotfixes, security patches, micro updates, and more. The dedicated blog article offers additional details about monthly updates and the changed approach.
+
+IMPORTANT NOTE:
+
+An up-to-date and supported Plesk installation with all the latest available updates installed is a prerequisite for technical support from Plesk. Security patches, security updates and/or hotfixes are NOT shipped when automatic updates are disabled.
+
+Disclaimer: In case automatic updates are disabled on a particular Plesk server, the owner of the server acknowledges and agrees to take full responsibility for any resulting potential security risks and/or hacker attacks to his server. Plesk specifically disclaims any liability or responsibility in these cases of disabled security settings.
+
+Plesk highly recommends to enable automatic updates if the user wants the Plesk server(s) to be stable and secure and have access to support.
+***************************************************************
+
+

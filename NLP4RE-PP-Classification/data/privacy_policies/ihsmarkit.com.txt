@@ -3,4 +3,58 @@ URL: https://ihsmarkit.com/Legal/privacy-policy.html
 Date of publishing: None
 Keywords: policies, policy, motor, ihs, collect, personal, vehicle, used, markit, privacy, information
 Policy: 
-Reduced Policy:  We strive to make sure that our information is reliable, accurate, and up-to-date. While personal information is maintained by IHS Markit, individuals in certain jurisdictions will have rights over how their personal information is processed. To find out what rights apply in your jurisdiction, please visitSection 11 (Additional Information for Certain Jurisdictions).To make a request regarding your personal information, please complete the form found on ourPrivacy Request Page. 
+IHS Markit Ltd. and its subsidiaries and affiliates (collectively "IHS Markit," "us," "we," or "our") are committed to protecting your privacy and providing you with a positive experience while using our websites, products, or services ("Platform").
+
+IHS Markit reserves the right, at any time, to modify this Privacy Policy. If we make revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy. If we make material changes to our Privacy Policy, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our Platform or sending you a notification. You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices. We will note the effective date of the latest version of our Privacy Policy at the end of this Privacy Policy.
+
+For IHS Markit’s advertising-related policies and consumer opt-out procedures, please see the Advertising Privacy Policy.
+
+The IHS Markit automotive business collects and compiles motor vehicle registration and title information to provide products and services to authorized entities pursuant to 18 U.S.C A. §2721 and similar state laws governing the use of such information. Consumer information from motor vehicle records is used in compliance with the governing laws and regulations and thus not used by IHS Markit or provided to other entities by IHS Markit for direct marketing purposes. To access or correct your motor vehicle registration and/or title information, contact your state's department of motor vehicles or other state agency that processes motor vehicle titles and registration. The American Association of Motor Vehicle Administrators maintains links to state motor vehicle agency websites, organized by AAMVA regions.
+
+1. Scope
+
+This Policy applies to IHS Markit’s Platform and provides you with guidance on your rights and obligations in relation to your personal information.
+
+IHS Markit's Privacy Policy (the "Privacy Policy") establishes and communicates the key principles that IHS Markit follows in protecting the personal information that we collect. Please note that some privacy rights and obligations may differ in certain locations based on local law, in which case IHS Markit will comply with the local legal requirements. To the extent a notice provided at the time of collection from a website or specific product conflicts with this Privacy Policy, such specific notice or supplemental privacy statement will control.
+
+2. Collection of Personal Information
+
+"Personal information" is any information that can be used to identify an individual or device, and may include things such as your name, physical address, email address, phone number, login information, marketing preferences, company affiliation, geographic location, or payment card information. IHS Markit may collect personal information that is necessary for legitimate business purposes, which will be disclosed to you at the time of collection. IHS Markit will use this information for the purposes for which it was collected. IHS Markit may also collect personal information from trusted third-party sources and engage third parties to collect personal information to assist us.
+
+One of the most common methods of collecting personal information is during the online form submission or registration process, including where a website user is requesting a free trial or a courtesy newsletter, registering for an event, or responding to similar offers such as sample reports, white papers, or further product information.
+
+In some instances, IHS Markit and the third parties we engage may automatically collect and aggregate data using cookies, weblogs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of our Platform and to help us tailor content or offers for you. Please read Section 8 (Cookies) below for more information.
+
+3. Purpose and Use of Personal Information
+
+IHS Markit may use your personal information for operational, legal, administrative, and other legitimate purposes permitted by applicable law. Some of the ways we may use personal information include:
+
+Providing you with requested products or services.
+
+Providing you with information regarding similar products or events.
+
+Analyzing and monitoring extent of use.
+
+Providing customized product and service information.
+
+Allowing users to participate voluntarily in mailings or other events.
+
+Providing product service updates, information, and alerts.
+
+Sending communications, including for marketing or other customer satisfaction purposes.
+
+Order processing and to provide transaction documents.
+
+To contact users for information verification purposes.
+
+Analyzing and monitoring extent of use and enhancing IHS Markit’s Platform.
+
+Conducting due diligence activities for financial institutions and other regulated companies.
+
+4. Your Rights
+
+We strive to make sure that our information is reliable, accurate, and up-to-date. While personal information is maintained by IHS Markit, individuals in certain jurisdictions will have rights over how their personal information is processed. To find out what rights apply in your jurisdiction, please visit Section 11 (Additional Information for Certain Jurisdictions).
+
+To make a request regarding your personal information, please complete the form found on our Privacy Request Page.
+
+

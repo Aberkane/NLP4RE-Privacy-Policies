@@ -1,0 +1,6 @@
+Title: Privacy Policy – Automattic
+URL: https://automattic.com/privacy/
+Date of publishing: 2006-03-24 20:26:35+00:00
+Keywords: example, provide, collect, site, privacy, services, users, account, policy, share, information, wordpresscom, automattic
+
+Reduced Policy:   If you are located in certain parts of the world, including California and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.   You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “How to Reach Us” to, well, find out how to reach us.  When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us. 

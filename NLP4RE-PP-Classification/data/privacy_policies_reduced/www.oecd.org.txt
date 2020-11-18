@@ -1,0 +1,49 @@
+Title: Privacy Policy
+URL: https://www.oecd.org/privacy/
+Date of publishing: None
+Keywords: websites, policy, protection, contact, data, personal, services, usa, provide, privacy, information, activity
+Policy: 
+Reduced Policy:   Under our data protectionrules, you have rights to access and rectify your personal data, as well as to object to its processing, request erasure, and obtain data portability in certain circumstances. To exercise these rights in connection with your use of this website please contactwebmaster@oecd.org.    If you have further queries or complaints related to the processing of your personal data, please contact theData Protection Officer[dpo@oecd.org]. If you need further assistance in resolving claims related to personal data protection you can contact theData Protection Commissioner[dpc@oecd.org].    Additional information about our approach to data protection is availablehere.    Last updated:7 July 2020  <div>
+   <form action="/terminalfour/eForms" method="post" enctype="multipart/form-data">
+    <input  type="hidden" name="sid" value="560" />
+    <input  type="hidden" name="t4_content_element_Name" value="Comment" />
+    <input  type="hidden" name="tid" value="115" />
+    <input  type="hidden" name="redirect" value="" />
+    <input  type="hidden" name="channel" value="7" />
+    <input  type="hidden" name="status" value="1" />
+    <input  type="hidden" name="el-name-prefix" value="t4_content_element_" />
+    <input  type="hidden" name="remove-non-alphanumeric" value="true" />
+    <table>
+     <tr>
+      <td valign="top" style="width: 25%;">Full Name</td>    
+      <td style="width: 75%;">
+        <div>
+         <input type="text" name="t4_content_element_FullName"  id="t4_content_element_FullName" />
+        </div>
+      </td>  
+     </tr>
+     <tr>
+      <td valign="top">Email Address</td>
+      <td>
+        <div >
+         <input type="text" name="t4_content_element_EmailAddress" id="t4_content_element_EmailAddress" />
+         <input type="hidden" />
+        </div>
+       </td>
+      </tr>
+      <tr>
+       <td valign="top">Comment</td>    
+       <td>
+         <div>
+          <textarea  name="t4_content_element_Comments" rows="5" cols="40" id="t4_content_element_Comments"></textarea>
+         </div>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" style="text-align: right;"><input type="submit" name="SendButton" value="Send Request" />
+        </td>  
+       </tr>
+      </table>
+     </form>
+    </div>  <h2>RSS Feed</h2>
+    <br /> 

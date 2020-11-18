@@ -1,0 +1,142 @@
+Title: Privacy and Cookie Statement
+URL: https://www.cyberark.com/privacy-policy/
+Date of publishing: None
+Keywords: cookie, contact, customer, data, web, services, personal, cookies, privacy, information, idaptive, statement, software
+Policy: 
+This Section covers the information practices of Idaptive Web sites, including: https://www.Idaptive.com, https://idaptive.app/ and other Web sites under the Idaptive.com and idaptive.app domain which are owned and operated us.
+
+We set out a summary of how we use, retain and share the categories of personal data we collect about you and related information in the table below:
+
+Use of Visitor information through our Web sites
+
+Personal data How and why we use it Who we share it with and why1 Lawful basis2 for visitors located in the EU How long we keep it for Contact information, such as name, company name, title, email address, mailing address and phone number To send you materials you request like whitepapers, details of our events and webinars and to send you other marketing materials by email, postal mail or telephone, for instance if you choose to trial our Software and Services. If you choose to set up an account, we use your contact information to provide you technical training for our Software and Services and to give you access to our online community forum. We also collect contact information from members of our partner programs (other companies who we have arrangements with under which they promote our Software and Services) where an individual expresses an interest in our Software and Services. Where that happens, we will use the information to send details of events, webinars, whitepapers and marketing materials as described above. We also use your contact data to measure our own marketing efforts and performance, analyzing all marketing contact with you, its timing and the extent of its success. With our customer relationship management software providers (Salesforce), marketing automation platform providers (Marketo), webinar software providers (WebEx, Zoom), email platforms (such as Marketo), Web site hosting providers (Microsoft Azure), our customer success software provider, our online community platform provider, our learning management system software provider, and members of our partner programs Our legitimate interests in promoting our business and assessing the success of our promotional activities You may opt-out of ongoing marketing communications by following the process here. Name, contact details and employment details if you send us a CV, resumé or other details of your employment history, qualifications and experience in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us To assess your application and communicate with you about to the position With our human resources information system provider (Workday) and our background check service providers Taking steps necessary prior to entering into a potential employment or consultancy agreement with you and our legitimate interests in properly assessing applicants for employment We keep information on unsuccessful applicants located in the EU for 6 months in case another relevant position arises and will contact you about it. If you prefer us not to, please let us know at [email protected] . Information on successful applicants will be used in our Human Resources systems and processes. Information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, internet service provider (ISP), operating system, date/time stamp, and clickstream data and the actions you take on the Company’s Web sites (such as the web pages viewed and the links clicked) We use this information for what is usually called “analytics” – essentially to understand how Visitors move around our Web sites, what content is popular and what is not – and (either alone or with information about the company you work for) to provide more personalized information about us. We hold this information against a Visitor’s IP address, unless a Visitor submits contact information to us, in which case we hold this information against the submitted contact information. We use this information to help improve our Web sites. Usage data is collected on our behalf and analyzed by third party analytics providers (Google Analytics) on our behalf.l Our legitimate interests in monitoring and improving our Web sites We keep usage data for analytics and product improvement purposes indefinitely because historical usage data is always relevant to the development of our technology. Please consult the policies of our third party analytics and tracking providers in our Cookies and other Tracking Technologies section or their retention and erasure policies. Personal testimonials of satisfied customers and other endorsements We publish testimonials on our Web site to promote our business. With our customer reference management software provider We use testimonials for our legitimate interests in promoting our business. You can request removal of your testimonials by contacting us at [email protected] . We retain testimonials until withdrawn on your request (where we are legally required to remove or otherwise choose to remove). Community forum content you upload If you choose to join one of our community forums, we will make what you upload available to other forum Visitors. With our hosting provider (currently Amazon Web Services), our online community platform provider and with Visitors to our community forums Our legitimate interests in encouraging the sharing of ideas and experiences between Idaptive End Users. You can request removal of your testimonials by contacting us at [email protected] We retain your community forum-posted content until withdrawn at your request (where we are legally required to remove or otherwise choose to remove). Account user name and password For Visitors to set up accounts so that they can interact with our Web site, such as interacting with our support functions, submitting content to our community forum or signing up for courses User names are shared with our online community platform provider and learning management system software provider. We do not share passwords. Our legitimate interests in receiving information from Web site Visitors and providing access to information (such as software downloads) that are only available to registered End Users We retain your user name and password until you request deactivation of your account (or until we are legally required to otherwise choose to deactivate your account).
+
+1 Specific vendors listed may change from time to time.
+
+2 Lawful basis refers to the need under EU privacy law to have a specific reason, recognized by law, for us to have and use your personal data.
+
+Use of Customer information in relation to our Software and Services
+
+Personal data How and why we use it Who we share it with and why1 Lawful basis2 for visitors located in the EU How long we keep it for Financial qualification and billing information, such as billing name and address, credit card number, and the number of users or systems within the organization that will be using Software and Services (“Billing Information”) To onboard a new client for invoicing and payment and use of the system With our payment processing providers (currently First Data and Amazon Web Services) and/or equivalent additional or replacement payment processors and our enterprise resource management software provider (NetSuite) Use is necessary for our legitimate interests in providing our Software and Services on a commercial basis We retain Billing Information for the duration of our contract with our Customer and thereafter an necessary for legal and audit purposes. You may request removal of your contact information by letting us know at [email protected] . Contact information, such as name, company name, title, email address, mailing address and phone number To provide customer support and training and to solicit feedback from our Customers With our customer success software provider, survey tool service providers, calendar scheduling tool providers and learning management system software provider Our legitimate interests in supporting our customers in their use of our Software and Services and improving our Software and Services We retain this information for the duration of our contract with our Customer and thereafter as an inactive account. You may request removal of your contact information by letting us know at [email protected] . Information in support cases may be retained indefinitely because historical data regarding customer issues is always relevant to the development of our Software and Services.
+
+3 Specific vendors listed may change from time to time.
+
+4 Lawful basis refers to the need under EU privacy law to have a specific reason, recognised by law, for us to have and use your personal data.
+
+Customer Data
+
+Idaptive Customers may electronically submit information through the Software and Services (‘Customer Data’). Idaptive will not share, distribute, or reference any such Customer Data except as provided in our software subscription, licensing or services agreements with out Customers, or as may be required by law. In accordance with our agreements with our Customers, Idaptive may access Customer Data (other than as expressly set out in this Section) only for the purpose of providing Software and Services, preventing or addressing service or technical problems, license enforcement and at a Customer’s request in connection with other customer support matters, professional services, or as may be required by law.
+
+Data Collected through the Idaptive Software and Services
+
+Idaptive collects and processes 3rd party personal data in addition to the personal data referred to in the table above under the direction of our Customers and only to provide the Software and Services our Customer has agreed to. This includes, for example:
+
+Personal data Why the Personal Data is used by the Software and Services Unique Device ID (UDID), a system generated unique user ID, and a device IP address To identify the device used End User login information in the form of a username and password To enable single sign on (SSO) functionality A storage of previously used passwords which are hashed. Hashing passwords is a security method where passwords are encrypted using a one-way algorithm (prior to storage into a database) to provide robust security for credential storage. To enforce the password policy A user display name, one-time passcodes and user security question/answer To determine whether to request more information for multi-factor authentication User location which is determined using geolocation technology together with third party databases To provide functionality such as locating lost or stolen devices. End Users who do not want their location used can turn off location services in their account settings or mobile phone settings.
+
+We have no ownership of this information or any direct relationship with individual End Users whose personal data may be processed as part of providing our Software and Services. If you are a customer or End User of one of our Customers and would no longer like to be contacted by one of our Customers that use our Services, please contact our Customer that you interact with directly. Idaptive may transfer personal data to companies that help us provide our Services. Transfers to subsequent third parties are covered by our software subscription, licensing and service agreements with our Customers.
+
+Idaptive acknowledges that End Users have the right to access their personal information and to request erasure, rectification and data portability. An individual who seeks access to or who seeks to correct, amend, or delete inaccurate data which Idaptive holds solely in order to provide its Software and Services should direct his/her query to the Idaptive Customer they interact with directly (the data controller). If a Idaptive Customer requests that we remove personal data on their behalf, we will respond to their request within one month. Our Customers’ right to receive their Customer Data is covered by the software subscription, licensing or services agreements with them.
+
+Customer Provided Content
+
+Some Services permit Customers to store customer content such as documents, images and other digital information (“Customer Content”). Idaptive processes and stores Customer Content that Customers choose to upload into the Services. Customer Content is accessible only by the Customer and Idaptive does not use Customer Content for any other purpose. Each Customer is solely responsible for its Customer Content including that Customer Content is not inappropriate or unlawful and that it does not contain any viruses or harmful content. If Idaptive determines in its sole discretion that any Customer Content may be inappropriate or unlawful or that it contains a virus or harmful content, Idaptive may remove the Customer Content from the Services.
+
+Google User Data
+
+Through Google Directory APIs, the Services access and store Google Directory user profiles and group membership information to allow the Services to implement federated identity across Google Directory. This provides Google Directory users with “single sign on” to the apps that are accessible through the Services portal. Idaptive does not share Google Directory user profiles and group information with third parties.
+
+Idaptive will retain personal data we process on behalf of our Customers for as long as needed to provide services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Anonymous Data Collected
+
+“Anonymous Data” is collected or generated by the Software and Services and is not associated or linked to Personal Data. Anonymous Data does not identify individual persons. Idaptive de-identifies by removing Personal Data and aggregates data so the data cannot be traced to End Users or their devices. Idaptive may share Anonymous Data with business partners for use for their business purposes.
+
+Security
+
+The security of our Customer’s personal data is important to us. Idaptive uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed over the Internet (from a browser or Idaptive supplied on-premises Software) Transport Layer Security (TLS) technology protects Customer Data using both server authentications for data-in-transit and data encryption of Customer Data stored at rest in Idaptive Services. These technologies are intended to ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access using unique encryption keys. Idaptive hosts its Services in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology designed to prevent interference or access from outside intruders. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, we cannot guarantee or warrant its absolute security. If you have any questions about security, you can contact us at [email protected]. Customers are responsible for maintaining the security and confidentiality of their End User usernames and passwords.
+
+Marketing Opt-Out
+
+If at any time after consenting to our sending you marketing communications, you change your mind about receiving information from us, please send us a request specifying your new choice. Simply send your request to [email protected]. Idaptive will respond to your request within at most one month from the date of your request.
+
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and will only contact you in relation to these items.
+
+Cookies and other Tracking Technologies
+
+Idaptive uses cookies and other tracking technologies such as beacons, tags and scripts, to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, Idaptive’s (or one of our third parties service provider’s) servers send a cookie to your computer. Cookies are pieces of information that a Web site transfers to your hard drive to store and sometimes track information about you. Most Web browsers automatically accept cookies, but if you prefer, you can change your browser settings to prevent that and your help screen or manual will tell you how to do this. However, you will not be able to take full advantage of our Web sites, Software or Services if you do so. Standing alone, cookies do not personally identify you in the “real world”; they merely recognize your Web browser. Unless you choose to identify yourself to Idaptive, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a ‘Contact Me’ or a ‘Idaptive Express Registration’ Web form), the Company is unable to identify you by name or other “real-world” information from the data collected through cookies.
+
+Idaptive uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. We use session cookies to make it easier for you to navigate our Web site. Users can control the use of cookies at the individual browser level. Please note that if you disable your Web browser’s ability to accept cookies, you will not be able to use the Company’s Support Portal (the knowledge base, case tracking and other features of the Online Support Portal require that you set your browser to accept cookies) and you will not be able to successfully use the Company’s Services. Persistent cookies remain on your computer after you close your browser or turn off your computer. We employ persistent cookies as explained below.
+
+We use the following types of cookies on our Web sites:
+
+Strictly necessary cookies. These are cookies that are required for the operation of our Web sites and under our terms with you. They include, for example, cookies that enable you to log into secure areas of our Web site.
+
+Analytical/performance cookies. They allow us to recognize and count the number of Visitors and to see how Visitors move around our Web sites when they are using it. This helps us for our legitimate purposes to improve the way our Web sites work, for example, by ensuring that users are finding what they are looking for easily.
+
+Functionality cookies. These are used to recognize you when you return to our Web sites. This enables us, subject to your choices and preferences, to personalize our content for you, greet you by name and remember your preferences (for example, your region).
+
+Targeting cookies. These cookies record your visit to our Web site, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our Web site and the advertising displayed on other Web sites you visit more relevant to your interests. We may also share this information with third parties for this purpose.
+
+Web Beacons
+
+We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our Visitors’ personal data.
+
+Behavioral Targeting / Re-Targeting
+
+Idaptive partners with third-party ad networks, including Google, Facebook, Bing, Twitter and LinkedIn, to manage our advertising on other sites. Our ad network partners uses cookies and Web beacons to collect data about your activities on this and other Web sites, which does not identify you “in the real world,” to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. The privacy policies of Google, Facebook, Bing, Twitter and LinkedIn are available at their respective Web sites.
+
+Community Forums
+
+Idaptive provides community forums on the Company’s Web sites. Any personal data you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Idaptive is not responsible for the personal data you choose to submit in these forums. To request removal of your personal data from our blog or community forum, contact us at [email protected]. In some cases, we may not be able to remove your personal data, in which case we will let you know if we are unable to do so and why.
+
+Sharing of Information Collected
+
+We will share your personal data with third parties only in the ways that are described in this Section. We do not sell your personal data to third parties.
+
+Service Providers
+
+Idaptive may share personal data about Visitors and Attendees with the Company’s contracted service providers so that these service providers can provide services on our behalf, such as administering email services. Idaptive may also share your personal data with the Company’s service providers to ensure the quality of information provided. These companies are authorized to use your personal data only as necessary to provide these services to us.
+
+Compelled Disclosure
+
+Idaptive reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights, protect your safety or the safety of others, investigate fraud and/or to comply with a judicial proceeding, court order, legal process or other governmental authority; provided, however, that unless prohibited by law, Idaptive will use its reasonable efforts to give you notice to enable you to seek a protective order or take other appropriate action.
+
+Communications Preferences
+
+Idaptive offers Visitors and Attendees who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the ‘unsubscribe’ link located on the bottom of the Company’s marketing emails and newsletters. Customers cannot opt out of receiving transactional emails related to their account associated with Software and Services purchased that are required for support and maintenance of these Idaptive products.
+
+Correcting and Updating Your Information
+
+Upon request Idaptive will let Visitors and Attendees know whether we hold any of your personal data. Individuals may update or change their registration information by editing their user profile. To update a user profile, please contact [email protected]. If you wish to have your user account deactivated, cancel your account and/or have your personal data removed from our system, please login (as described in the preceding sentence) and contact us by creating a support ticket, or contact us using the information below. Personal data and Billing Information may be updated, changed or removed; you can do so by contacting [email protected] or by regular mail addressed to:
+
+IDaptive, LLC
+
+Attn: Privacy
+
+3300 Tannery Way
+
+Santa Clara, CA 95054
+
+Idaptive will respond to your correction or update request within at most one month from the date of your request.
+
+Processing Data Outside of European Economic Area (“EEA”)
+
+Given that Idaptive is an international business, use of Idaptive Software and Services necessarily involves the transmission of data on an international basis (including the United States and countries outside the EEA). Idaptive may store, process and/or transfer personal data to countries outside of the EEA (including countries where the European Commission has not made a decision of an adequate level of protection of personal data), especially to servers in the United States. The transfer of such data will be in compliance with local legislation for the cross-border transfer of data, where applicable. If you do not agree to this procedure you should not use our Software and Services. By using Software and Services, you consent to Idaptive’s transferring your information to countries outside your own and the EEA, if necessary, for the business purposes as outlined above.
+
+You have a right to see the personal data held by Idaptive about you. If you wish to obtain a copy of particular information about you, or if you become aware the information we hold is incorrect and you would like to correct it, please send an e-mail to [email protected].
+
+Contacting Us
+
+Questions regarding this Section should be directed to [email protected].
+
+IDaptive, LLC
+
+Attn: Privacy
+
+3300 Tannery Way
+
+Santa Clara, CA 95054
+
++1 (669) 444-5200
+
+

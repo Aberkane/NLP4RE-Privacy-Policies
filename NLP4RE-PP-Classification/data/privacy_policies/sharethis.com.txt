@@ -3,4 +3,152 @@ URL: https://sharethis.com/privacy/
 Date of publishing: None
 Keywords: browser, website, cookie, information, profile, data, cookies, notice, sharethis, privacy, user, users
 Policy: 
-Reduced Policy:  If you are located in the European Economic Area (EEA), the General Data Protection Regulation (GDPR) applies to our processing of personal data. The GDPR grants those located in the EEA a set of clear privacy rights and imposes responsibilities on ShareThis as we process the personal data of data subjects located in the EEA. The ShareThis privacy policy outlines how and why ShareThis processes personal data. This EU privacy section is designed to provide more information on how ShareThis adheres to the GDPR and your rights as a data subject located in the EEA.  If you do not want to receive advertisements based on Usage Data and Profile Information collected by ShareThis on your current browser, you can change and manage your preferences in relation to the collection and processing of Usage Data and Profile Information by clicking the ShareThis opt-out button available on this privacy policy. When  data subjects opt-out, ShareThis will stop transferring data about their browser or device to third parties but does not otherwise treat those users differently. If you do not want to receive ads based on Usage Data collected by ShareThis whatever device or browser used, you must opt-out from our services for each device and each internet web browser. Opt-Out of Data Collection and Sharing Click below to “Limit Ad-Tracking” function on mobile devices: Instructions by Google for most Androids:Google Play Help Instructions by Apple for iOS version 6 and above:Apple Support Center  
+We have set out below the categories of data we process and why we process each category of data.
+
+1.Usage Data and Profile Information
+
+1.1 Usage Data
+
+We collect information about how internet users browse the internet and interact with online content and advertisements through our ShareThis Icon, the ShareThis Publisher Applications and user interactions with advertisements on the internet. We call this “Usage Data”.
+
+Usage Data includes:
+
+the unique IDs of the cookie(s) placed on your web browser (example: 37d387ca-f68a-11e5-b87d-0e58954c72b1)
+
+Information about the user’s browser and device
+
+User agent string
+
+Webpages viewed (including the URL addresses of such pages and search parameters, which may include search terms and key words) and the previous web pages that referred the user to that webpage
+
+Time when webpages are viewed
+
+Search queries from which users are directed to a webpage
+
+Navigation from page to page
+
+Time spent on each webpage
+
+Interactions with the webpage, including items clicked or selected and content highlighted or copied
+
+Ads viewed or displayed to the user and the user’s interactions with those ads
+
+Shares of content including what content is shared and where – for example, the relevant social media site (e.g., Twitter, Facebook)
+
+Geographic information such as country, city, state or postal code.
+
+IP addresses
+
+Device IDs
+
+Although the Usage Data listed above is not used by ShareThis to directly identify an actual person, it is considered to be personal data in many places.
+
+1.2 Profile Information
+
+We receive information about the content of the websites that you visit and information about the audience of those websites to enable us to infer and create groups of users who have similar characteristics, interests or behavioral patterns. We combine the Usage Data with data we receive from third party advertisers, analytics vendors and data partners to create categories of data that are helpful to advertisers seeking to deliver a more personalized advertising experience. For example, if a user regularly views or shares content about shopping for a car, our systems may infer that this user may be interested in purchasing an automobile. This practice is sometimes referred to as interest based advertising, and a segment titled “interested in automobile” is sometimes referred to as an audience segment or a “profile.” When we group this data into profiles, we refer to it as “Profile Information”.
+
+We can infer this Profile Information (by reference to browser identifiers, not actual names) using the information we obtain from third parties about the likely content and characteristics of the users and audiences of the websites which are visited. For example, users of a particular website may have an interest in cars and typically be within a certain age or income range. Where we are able to infer that two or more browsers or devices are the same user or household, we may use that information to bolster our Profile Information.
+
+The characteristics by which we group users relate to age ranges, income ranges, education, gender, ethnicity and family composition, on the basis of the typical audience of websites they visit and content viewed.
+
+If you would like to see a list of the types of Profile Information used by ShareThis, including any Profile Information that is health or political in nature (U.S. only), please click here. ShareThis does not create Profile Information based upon visits to adult entertainment websites.
+
+1.3 How we obtain Usage Data and Profile Information
+
+We collect Usage Data when your device visits our website, uses or interacts with our services (including sharing content with the ShareThis Icon), when your device visits Publishers’ websites that use ShareThis Publisher Applications, and when your device views or clicks advertisements that we serve or are served on our behalf. We do so by using cookies placed on your browser, pixel tags, and HTTP headers (or other communication protocols).
+
+Our use of Cookies and other Tracking Technologies
+
+Web Environment: (desktop, tablet, and smartphone browsers)
+
+ShareThis uses browser cookies to “tag” visitors on the websites that use ShareThis Publisher Applications. These users are given a technical identifier, such as C62414AY9324FB5671069928026P0067.
+
+This browser cookie tracks the user’s browsing data. Pixel tags are then used to transfer this browsing data to ShareThis and our customers and data partners.
+
+Cookies: Small text files that contain a string of characters and uniquely identify a browser. Cookies are installed on a browser by the publisher of a website as well by third parties who do not operate the website but whose JavaScript and/or pixel tags (described below) are found on the website. ShareThis cookies and cookies of our customers are installed in user browsers by the ShareThis Publisher Applications which are on Publishers’ websites. Many browsers are initially set up to accept cookies. However, you may be able to change your browser settings to refuse or otherwise restrict cookies. Check your browser’s “Help” files to learn more about handling cookies on your browser.
+
+Cookie Duration Purpose _stid 1 year ShareThis cookie ID _stidv 10 years ShareThis cookie ID version wordpress_test_cookie Session ShareThis cookie, tests if we have access to cookies pubconsent 13 months ShareThis cookie set to indicate user has made a declaration about GDPR data collection for IAB TCF v1 format st_optout 10 years ShareThis cookie set to indicate that user has opted out from data collection _ga 2 years Google Analytics cookie used by ShareThis to distinguish users _gat 1 day Google Analytics cookie used by ShareThis to throttle request rate _gid 1 day Google Analytics cookie used by ShareThis to distinguish users visopt_s 3 months VWO cookie to see the number of times the browser was closed and reopened _vis_opt_test_cookie Session VWO session cookie to see if the cookies are enabled on the browser of the user or not. Helps in tracking the number of browser sessions of a visitor. _vwo_uuid_v2 1 Year VWO cookie calculates uniques traffic on a website intercom-id-fe2c9dmj 10 months Intercom: Anonymous visitor identifier cookie for site visitors intercom-session-fe2c9dmj 7 days Intercom: Identifer for each unique browser session. Session cookie is refreshed on each successful logged-in ping, extending it to 1 week from that moment. User can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn’t intentionally terminated with ‘Intercom (’shutdown’), which usually happens on logout. pxcelBcnLcy session ShareThis Tag Management System cookie to track latency on reporting beacon. pxcelAcc3PC 1 day ShareThis Tag Management System cookie to check whether third party cookies are accepted by the browser. This is only set if there is no incoming cookie in the request. pxcelPage_c010
+
+and/or
+
+pxcelPage_c010_B
+
+and/or
+
+pxcelPage_c010_C
+
+and/or
+
+pxcelPage_c010_D 1 year ShareThis Tag Management System cookie to track status of pixel rotation loading. ShareThis uses a different cookie for different groups of sites within the ShareThis network. usprivacy n/a ShareThis reads if the usprivacy cookie is present in the publisher domain fpestid 13 months Fpestid is a ShareThis cookie ID set in the domain of the website operator
+
+Pixel tags: These are small blocks of code on a webpage which read and place cookies. When you visit a webpage, ShareThis’ pixel will see if your browser has a ShareThis cookie installed on it. If it doesn’t, the pixel will install the cookie. If it does, the pixel will “read” the cookie and will send us information such as the time you viewed a webpage, the type of browser used and your IP address. This is how we learn about your interests and enable our customers to deliver targeted advertising to you.
+
+HTTP headers: These are transmitted whenever a webpage is viewed, and contain technical information required to connect your browser to the webpage. This information may include information about the browser and the requested webpage. ShareThis collects this information.
+
+Other Environments: (Mobile applications)
+
+To serve ads in mobile applications identifiers may be used, such as Google Advertising ID or Apple IDFA, depending on the operating system of your mobile device. The advertiser identifier identifies your device but not you directly and can be reset by you. See your device manufacturer for more information or visit NAI Mobile opt-out page at https://www.networkadvertising.org/mobile-choice/.
+
+Linking Environments: (browsers and mobile apps used)
+
+To serve you personalized advertisements and provide a seamless online experience, third party data partners that we work with may link your identifiers on the different environments you use. We may enable the linking of our Usage Data through cookie syncing. We do not use plain text information that may be used by ShareThis to identify you such as your name or address to operate the linking. Our data partners may use exact linking methods by leveraging the pseudonymous data collected through our technology such as advertising partner identifiers.
+
+You can manage cookies, change consents or opt out of personalized ads using the mechanisms described in ‘User Choices’.
+
+1.4 How we use Usage Data and Profile Information
+
+We use Usage Data and Profile Information to enable the delivery of targeted advertising, to provide analytics, and for data modeling using cookies or similar tracking technologies described above. In addition, we may license portions of this data to our partners for their use for targeted advertising, analytics and modeling. Where allowed by law, our customers may use this data for other uses such as addressing fraud, enhancing their security efforts or understanding macro investment trends.
+
+Our customers who we share your data with may use this information to generate their own Profile Information. They may independently gain other demographical information about you through their own cookies or web beacons and combine it with the data we provide to them. The use of cookies and pixel tags by these third-party advertisers, publishers, and ad networks are subject to their own privacy policies. Please refer to the ‘Recipients of Your Data’ section of this Privacy Notice for more information about who we disclose your data to.
+
+2. Children
+
+ShareThis does not intentionally collect data from children and does not tailor any Profile Information to enable targeting of children under 16 years of age. If you are a parent or guardian and believe we may be processing data of children you are responsible for, please see the section on User Choices and Rights, or contact us directly.
+
+
+
+3. Emails from Users with ShareThis Icon
+
+When you share to email with the ShareThis Icon, you choose how to connect to email from your device. We will only know what content you shared, and that you did so by means of email. We do not receive any information about the email itself, for example, your email address, the email address of the recipient or the content of your email. We are not responsible for the information shared by users via the ShareThis Publisher Applications.
+
+4. Account Information
+
+“Account Information” means the information which Publishers and representatives of Publishers provide when they register for an account with us and when they use their account.
+
+Many of our services can be used without registering with us. However if you are a Publisher, or represent a Publisher, and want to use some of our enhanced features, you will need to register with us.
+
+If you choose to register with us, you must be and you affirm that you are 16 years of age or older. We do not sell or share registration information with third parties for direct marketing purposes.
+
+5. Business contacts data
+
+We may process your personal data if you are or your employer has a business relationship with us. You could be a customer, supplier, or a prospect (e.g. a Publisher, a data provider, a social media platform, an agency, an advertiser etc.). The personal data we hold about you refers to your professional life (name, email address, billing address, office address, phone numbers, title, company you work for). We would have collected that information from exchanging emails or business cards, meeting at industry meetings or client sessions etc. We may process that data for a number of legitimate business purposes, including: a) to communicate with you within the context of our business relationship; b) to provide our products or services; c) for billing and invoicing purposes; and d) for sales, marketing and product promotional purposes ((e.g., uploading emails into LinkedIn and similar platforms to advertise new services to current and prospective customers).
+
+This data may also be processed for the purposes set out in the section ‘General purposes which apply to all data.’
+
+6. Employee and Job Applicants’ data
+
+If you are an employee of ShareThis, or you apply for a role with ShareThis, in the US or in Europe, please refer to our HR Policy for information about how we process your data. These can be obtained from our HR department at HR@ShareThis.com.
+
+7. Data Collected on ShareThis.com
+
+This section sets out how we process data of visitors of our corporate website (ShareThis.com), apart from any ‘Usage Data and Profile Information’ and the ‘Account Information’ which relates only to Publishers who register with us.
+
+When you visit our website, you may choose to provide information to us voluntarily if you interact with ShareThis.com in certain ways, such as by applying for employment with ShareThis, or using one of our contact forms. This information is used only for the reasons for which it was collected, such as responding to your communication, and it is not shared with third parties other than trusted service providers who are contractually required to only use such data to fulfill the purpose for which it was collected.
+
+We use cookies and similar tracking technologies to collect data automatically when you visit ShareThis.com and use that information to help administer the website, to remember your preferences, to conduct website analytics and for security and fraud prevention purposes.
+
+This Privacy Notice does not apply to the privacy practices of other websites or of third parties who collect information on ShareThis.com. We encourage you to visit the applicable policies of those third parties, or visit www.aboutads.info to learn more about interest-based advertising and to see your opt-out choices from other participating companies that may be collecting and using data on ShareThis.com.
+
+
+
+8. General purposes which apply to all data
+
+There are a number of “general” reasons that ShareThis may process data on our systems. Many of them are required by applicable law and/or to help us ensure that the Internet remains a safe space. Some of them enable us to promote and grow our business. If you’d like additional information, please email privacy@sharethis.com.
+
+We may also process data for the following purposes: a) as required by applicable law; b) to cooperate with competent legal authorities such as data protection regulators, the police and the FBI; c) to enforce our terms and conditions, including by obtaining advice and conducting legal proceedings; d) to protect our operations, property and interests, and those of third parties; e) to sell and promote the sale of our business and/or assets.
+
+Finally, ShareThis may transfer information to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If ShareThis is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your information, as well as any choices you may have regarding your information.
+
+
+
+

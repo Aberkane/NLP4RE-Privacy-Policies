@@ -1,0 +1,65 @@
+Title: Privacy Policy for Sony.com Website
+URL: https://www.sony.com/en_us/sca/privacy-policy.html
+Date of publishing: None
+Keywords: website, personal, collect, sony, privacy, thirdparty, property, sonycom, policy, device, information, properties, cookies, content
+
+Policy: Information You Provide to Sony
+
+We may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, mailing address, telephone number, mobile phone number, last 4 digits of social security number (for Sony Card/PlayStation cardholders), photos of both people and objects, and videos) ("Personal Information"). If you choose not to provide this information, you may not be able to access parts of or otherwise participate in the Properties or a particular feature we offer. If you provide us with photos or videos, such images may include metadata which can indicate information about the images, including but not limited to, where and when the image was taken.
+
+We may also ask you to provide other information about yourself, such as demographic information (such as gender, zip code, age, etc.) or payment information or certain information about your preferences and interests. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information.
+
+Sony.com, the Sony Rewards Program and any other Properties are open only to individuals who are 16 years of age and older. We do not knowingly seek or collect information from persons younger than 16 years of age. If we learn that we have inadvertently collected Personal Information from a person younger than 16 years of age through the Properties, we will take reasonable measures to delete such information from our records.
+
+Information Sony Collects Automatically
+
+In addition to any information, including Personal Information, that you choose to submit to the Properties, whenever you visit or interact with the Properties, Sony, as well as any third-party analytics providers or other service providers, may use a variety of technologies that automatically or passively collect information about how the Properties are accessed and used ("Usage Information"). Usage Information may include, without limitation, browser type, operating system, the page served, time on the Properties, and the preceding page views. Usage Information is treated as Personal Information where required by law.
+
+Sony may also automatically collect your IP address or other unique identifiers ("Device Identifiers") for the computer, mobile device, technology or other device (collectively, "Devices") you use to access the Properties. A Device Identifier is a number that is automatically assigned to your Device when you access a property or its servers, and our computers identify your Device by its Device Identifier. Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the Properties.
+
+The technologies used on the Properties to collect Usage Information, including Device Identifiers, include:
+
+Cookies. "Cookies" (which may be html files, Flash files or other technology) are small text files that help store user preferences and activity. A Cookie is placed on a Device when that Device is used to access or visit the Properties. Cookies may be used for many purposes, such as remembering you and your preferences, tracking your visits to our Properties and customizing your experience on the Properties. You may configure your browser or Device to block the use of certain cookies. However, please note that if you choose to disable cookies on your Device, some features of our Properties and our online offerings may not function properly.
+
+Web Beacons. “Web beacons” (also known as image tags, pixel tags, clear GIFS or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. Web beacons or similar technologies may be used for various purposes, including, without limitation, to count visitors to the Properties, to monitor how users navigate the Properties, to count how many sent e-mails were actually opened or to determine whether content sent was actually viewed.
+
+Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Properties, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third-party service provider, is active only while you are connected to the Properties, and is deactivated or deleted thereafter.
+
+Please note that third parties may collect Personal Information about your online activities over time and across different websites when you visit or use the Properties or other online websites and services. For example, some third parties' embedded content or plugins on the Properties, such as social media sharing tools, allow their operators to learn that you have visited or interacted with our Properties, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
+
+Online Tracking. Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Properties do not respond to such signals, except where required by law.
+
+Ad Serving and Traffic Measurement Services We May Use
+
+Sony licenses technology to serve advertisements on its Properties and within its videos and other content as that content is served across the Internet. In addition, Sony may use third party network advertisers to serve advertisements on the Properties and third-party analytics service providers to evaluate and provide us with information about the use of the Properties and viewing of our content. We do not share the information that you provide to Sony, such as your name and/or email address with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, web beacons and embedded scripts on your Device from our Properties. These cookies, web beacons, and embedded scripts may collect Personal Information or other information about your use of the Properties over time and other third-party websites or applications and they may otherwise collect or have access to information about you, including Usage Information. Cookies and web beacons, including those set by third party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times, or conduct research regarding the usefulness of certain advertisements to you.
+
+To opt-out of such Cookies, please exercise choice below:
+
+To generally opt-out of interest-based advertising on mobile-optimized or desktop websites, please visit the Digital Advertising Alliance (DAA) or the Network Advertising Initiative (NAI). For our mobile application, please update your device settings. Please note that by opting out of such Cookies, you may still receive advertisements, but the network from which you opted out will no longer deliver ads tailored to your interests.
+
+In order to opt-out of Google Analytics, which is used to understand how visitors interact with our Properties, please visit: https://tools.google.com/dlpage/gaoptout.
+
+Please review your Internet browser settings, typically under the sections "Help" or "Internet Options," to exercise choices you have for certain Cookies that are not part of the DAA or NAI.
+
+For instructions on how to configure your browser settings to reject Cookies being served by companies that are not part of the DAA or NAI, click here or go to https://www.allaboutcookies.org/manage-cookies/. You can also delete all cookies that are already on your computer's hard drive by searching for and deleting files with "cookie" in it.
+
+Additional Opt-Out Choices: You may configure your browser or Device to block the use of certain Cookies.
+
+Please note that without certain Cookies, it may make it difficult for you to use certain features on the Properties.
+
+Information We Receive from Third Parties
+
+Sony may receive information about you from third parties, including service providers working on Sony’s behalf. For example, if you choose to apply for a Sony or PlayStation branded credit card or if you are a Sony or PlayStation branded credit card holder, we may receive information about you from the issuing bank (currently, Comenity Bank), which may include Personal Information as well as information regarding how you use the Sony or PlayStation branded credit card. In addition, if you are on another property and you opt-in to receive information from us, that property may forward to us your e-mail address and other information about you so that we may contact you as requested. We may also supplement the information we collect about you with outside records from third parties to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from these third parties with information we collect. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise.
+
+Social Media Applications
+
+Functionality on the Properties may permit interactions between the Properties and third-party properties, such as Facebook and Twitter. Such functionality enables you to “like” a product or online content, “share” content to other properties, and otherwise link the Properties with another third-party property. If you choose to “like” or “share” content or to otherwise post information from or via the Properties to a third-party property, that information may become public and the third-party property may have access to information about you and your use of the Properties.
+
+You may also choose to participate in a third-party application or feature (such as Facebook applications or a similar application or feature on a third-party property, or otherwise linking the Properties with another property) through which you allow us to collect (or the third party to share) information about you, including Personal Information. When you choose to participate, you may be opting to link your activity on our Properties with that third-party property, which may then collect information about your visits to our Properties and may publish that activity as you request to your "profile" or similar feature with that third party (such as if you choose to share content you find on one of our Properties with your "connections" on the third party's property). The information we collect is subject to this Privacy Policy. However, the information collected and stored by the third party remains subject to the third party's privacy practices, including whether the third party continues to share information with us or with other third parties, the types of information shared, and your choices regarding what is visible to others on that third party's property. The third party may allow you to remove an application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected in accordance with this Privacy Policy.
+
+Third Party Content, Links to Other Properties and Services, and Sony Content on Other Websites
+
+Certain content on the Properties may be hosted and served by third parties, which may include third party widgets (such as those that allow you to "like" or "share" content with third party websites and interactive services or to provide ratings and reviews). In addition, when you are on the Properties you may be directed to other websites that are operated and controlled by third parties that are beyond our control. This includes links from advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, Sony content and widgets may be included on web pages and websites that are not associated with us and over which we have no control. These other websites may send their own cookies to your Device, and they may independently collect data or solicit Personal Information. Sony is not responsible for the privacy practices of any third party.
+***************************************************************
+
+

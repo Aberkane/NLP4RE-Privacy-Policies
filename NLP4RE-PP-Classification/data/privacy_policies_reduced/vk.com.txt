@@ -1,0 +1,77 @@
+Title: Privacybeleid
+URL: http://vk.com/privacy/cookies
+Date of publishing: None
+Keywords: privacy, information, order, privacybeleid, services, including, provide, users, site, data, policy
+
+Policy: VK.COM PRIVACY POLICY
+
+1. Who we are
+
+This Privacy Policy sets out how we collect and use your personal information when you visit https://vk.com (including through mobile version m.vk.com or our mobile apps (including our iPhone, Android and WP apps) (hereinafter the Site) and the choices available to you in connection with our use of your personal information (the Privacy Policy). This Privacy Policy should be read alongside, and in addition to, our Site terms and conditions (accessible online at http://vk.com/terms ) (Terms) and our Cookie Policy (accessible online at http://vk.com/privacy/cookies ). In case of any contradictions between this Privacy Policy and the Terms, this Privacy Policy will prevail.
+
+1.1. We are LLC "V Kontakte" of 1-N, bld. 12-14, Lit. A, Khersonskaya st., St. Petersburg, Russia, 191024. We are represented, for the purposes of this policy, by MGL MY.COM (CYPRUS) LIMITED of 28 Oktovriou, 365 VASHIOTIS SEAFRONT, office 402 Neapoli, 3107, Limassol, Cyprus.
+
+2. This Privacy Policy
+
+2.3 This Privacy Policy applies only to the European Union-based users. If you are not a European Union-based user, please refer to the Privacy Policy applicable in the relevant jurisdiction.
+
+2.2 We do not check the user information received from you, except where such check is necessary in order for us to fulfill our obligations to you.
+
+By making available the Site and its services (hereinafter the Site Services) we, acting reasonably and in good faith, believe that you:
+
+(e) are aware of and accept this Privacy Policy.
+
+(d) understand that some types of information transferred by you to other Site users cannot be deleted by you or us;
+
+(c) understand that by the posting your personal information you have manifestly made this information public, and this information may become available to other Site users and internet users, be copied and disseminated by them;
+
+(b) provide true information about yourself to the extent necessary for use of the Site Services;
+
+(a) have all necessary rights to register on and use this Site;
+
+3. Information we collect about you
+
+3.2 We set out in more detail the information we collect when you use our Site Services, why we collect and process it and the legal bases below.
+
+3.1 In order to implement the agreement between you and us, and provide you with access to the use of the Site functionality, we will improve the Site Services, develop and implement new Site Services, and enhance available Site and services functionality. To achieve these objectives, and in compliance with applicable laws, we will collect, store, aggregate, organise, extract, compare, use, and supplement your data (hereinafter “processing”). We will also receive and pass this data, and our automatically processed analyses of this data to our affiliates and partners as set out in the table below and section 4 of this Privacy Policy.
+
+Information Collected Purpose Legal Basis
+
+1 Location Data We use your location data in order to generate recommendations and tailor and improve the adverts that are presented on the Site. We also use this information in order to provide you with recommendations, community groups we feel you may be interested in, updates and information on our and selected third parties' products and services we think you may be interested in. Consent
+
+Legitimate Interests
+
+2 Data you provide for registering on the Site including your name, surname, date of birth, gender, mobile phone number and/or email We use this information in order to manage and administer the Site including providing our services to you. We use this data to enable us to fulfill our obligations to you as part of the Site Services (e.g. in cases where you request restoration of your page that is not linked to a mobile phone number). See section 9.3 of this Privacy Policy for more information. We also use this information in order to provide you with recommendations, community groups we feel you may be interested in, updates and information on our and selected third parties' products and services we think you may be interested in. We use this information in order to generate recommendations and tailor and improve the adverts that are presented on the Site. Legitimate interests
+
+Performance of our contract with you
+
+3 Where necessary, a copy of your identity or another document containing your name, surname, photography and number of the principal identity document of you or your representative. We may take additional verification steps where we consider reasonable in order to verify your account. We use this data in order to verify your account and prevent abuse and infringements of your or other persons' rights. For example, we use this information to verify your identity if you lose your credentials and wish to access your account with us. Legitimate Interests.
+
+Performance of our contract with you
+
+4 Additional data you provide when you edit your page via http://vk.com/edit including your family status, native city, current city, family relations, home address, education and army details, career, etc. Additional data you provide when you edit your settings. We use this information in order to manage and administer the Site including providing our Site Services to you. We also use this information in order to provide you with recommendations, community groups we feel you may be interested in, updates and information on our and selected third parties' products and services we think you may be interested in. We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements. Legitimate interests.
+
+Performance of our contract with you
+
+5 Additional data received when you access the Site, including information regarding technical devices, technical interaction with the Site (your host IP-address, your operating system, type of a browser, geographic position, your installed apps, the Internet provider, contacts from your phonebook, data obtained accessing the camera, microphone and similar devices) and your browsing behaviour and further actions on the Site. We use your data for internal review in order to constantly improve the content of our web page, to understand any errors you may encounter when using the Site, to notify you of changes to the Site and to personalise the use of our Site. Information containing the Site activity history is available in the "Settings / Security" section of your page. We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements. Legitimate Interests
+
+6 Information that is automatically received at the time of access to the Site or the third parties’ websites with the use of cookies and such a technology as VK Ads Pixel and VK Widgets. Please see our cookies policy which sets out the types of cookies we use and what we use these cookies for. We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements and to provide you with the possibility of use the part of Site’s functionality on the third parties’ websites. Consent
+
+7 Information that is created by you on your page outside the page edit section http://vk.com/edit and the Site ((including statuses, entries, posted on the Site, including in the microblog (“Wall”), pictures, audio recordings, video recordings, comments, entries in the group discussions). We use this information in order to manage and administer the Site including providing our services to you. Legitimate interests, which inter alia, include the processing of manifestly made public by you data
+
+Performance of our contract with you
+
+8 Information that is created by you while placing requests to our Services support. We use this information in order to verify your identity and to fullfil your support request. We may also use this data in order to investigate any complaints on your behalf and to provide you with a more efficient service. Legitimate Interests
+
+Performance of our contract with you
+
+9 Information that is received as the result of your behavioral actions on the Site (in particular, joining / leaving a group, adding other users to the friends list, posting pictures, participation / refusal to participate in meetings, your call history, adding video recordings and liking posts). Your information can be available to all of the your friends and other users in accordance with your settings. We use this information in order to manage and administer the Site including providing our Site Services to you. We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements. We may also use this data in order to investigate any complaints on your behalf and to provide you with a more efficient service. Legitimate Interests
+
+10 Information that is received about you as the result of other users’ actions on the Site (in particular, notes made on the video recordings and pictures by other users). We use this information in order to manage and administer the Site including providing our Site Services to you. We also may use this data in order to tailor your use of the Site and your interaction with our Site Services. Legitimate Interests
+
+11 Information that is received as the result of your using payment functionality on the Site (e.g. first and last four digits of your card number that are needed for the option of matching these details with user’s id number). We use this information in order to manage and administer the Site including providing our Site Services to you. We may also use this data in order to investigate any complaints on your behalf and to provide you with a more efficient service. Legitimate Interests
+
+Performance of our contract with you
+***************************************************************
+
+

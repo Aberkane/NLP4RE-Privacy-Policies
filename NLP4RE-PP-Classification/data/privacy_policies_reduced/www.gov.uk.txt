@@ -1,0 +1,6 @@
+Title: Privacy notice
+URL: https://www.gov.uk/help/privacy-notice
+Date of publishing: None
+Keywords: notice, personal, example, processing, govuk, privacy, data, services, site, analytics, information
+
+Reduced Policy:   You have the right to request:  information about how your personal data is processeda copy of that personal datathat anything inaccurate in your personal data is corrected immediately  You can also:  raise an objection about how your personal data is processedrequest that your personal data is erased if there is no longer a justification for itask that the processing of your personal data is restricted in certain circumstances  If you have any of these requests, get in contact with our Privacy Team. 

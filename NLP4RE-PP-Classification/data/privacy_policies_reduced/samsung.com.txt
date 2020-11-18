@@ -1,0 +1,658 @@
+Title: Samsung NL
+URL: http://samsung.com/nl/info/privacy/
+Date of publishing: None
+Keywords: gegevens, nl, op, van, te, het, en, met, samsung, uw, die
+
+Policy: De Samsung Smart TV-dienst biedt diverse voorzieningen voor verrijkte video-inhoud, gepersonaliseerde tv-ervaringen, films, verbindingen met sociale netwerkdiensten en de mogelijkheid om met uw Smart TV te communiceren en deze te bedienen met spraakopdrachten. We verzamelen informatie via uw Smart TV en de apparaten die op uw Smart TV worden aangesloten en we gebruiken, delen en bewaren deze op de manieren die worden beschreven in het Privacybeleid van Samsung. In dit Supplement vindt u extra informatie over de privacypraktijken van bepaalde Smart TV-functies.
+
+
+
+De Smart TV is ontworpen om u de mogelijkheid te bieden gemakkelijk videoprogramma’s en andere inhoud te vinden en te gebruiken. Zo kunt u via doorzoekbare gidsen die op uw Smart TV worden weergegeven bijvoorbeeld informatie raadplegen over live programma’s die door uw kabel- of satellietbedrijf worden verdeeld en video-inhoud op aanvraag (video-on-demand) die door externe aanbieders wordt aangeboden.
+
+In het geval van live programma’s bepalen wij deels op basis van uw postcode welke inhoud er voor u beschikbaar is. Verder helpt de Smart TV u andere Smart TV-inhoud te vinden en ervaren die relevant voor u is door programma’s en inhoud te markeren die u waarschijnlijk interessant vindt of door extra diensten aan te bieden waarmee uw kijkervaring nog verder wordt verbeterd. Wij baseren deze aanbevelingen en extra diensten op:
+
+• Informatie over inhoud die u hebt bekeken, gekocht, gedownload of gestreamd via Samsung-toepassingen op uw Smart TV of andere apparaten (zie het gedeelte ‘Kijkinformatiediensten’ hieronder voor meer informatie over tv-kijkgegevens);
+
+• Informatie over toepassingen die u hebt gebruikt via de Smart TV;
+
+• Informatie over klikken op ‘Leuk’, ‘Niet leuk’, ‘Nu kijken’ en andere knoppen op uw Smart TV;
+
+• De zoektermen die u invoert in de zoekfuncties van de Smart TV, ook wanneer u zoekt naar specifieke video-inhoud;
+
+• Andere gebruiks- en apparaatgegevens van uw Smart TV, met inbegrip van, maar niet beperkt tot, IP-adres, logboekgegevens, informatie waarmee uw hardware- of softwareconfiguratie wordt geïdentificeerd, browserinformatie en de pagina(’s) die u opvraagt.
+
+
+
+Kijkinformatiediensten
+
+Deze privacykennisgeving dient te worden gelezen in samenhang met het Privacybeleid van Samsung, dat ook van toepassing is op uw gebruik van aangepaste ervaring van Smart TV die u kunt vinden op https://account.samsung.com/membership/pp.
+
+Teneinde u aangepaste en gepersonaliseerde Smart TV-ervaringen te bieden, zijn bepaalde functies en diensten afhankelijk van uw tv-kijkgeschiedenis en de gebruiksinformatie van uw Smart TV.
+
+Uw tv-kijkgeschiedenis omvat informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan.
+
+We kunnen gebruikmaken van automatische herkenning van inhoud (ACR) en andere technologieën om deze informatie te registreren. Uw Smart TV draagt informatie over videofragmenten of uw tv-tuner over om vast te stellen welke programma’s zijn bekeken.
+
+U kunt uw privacykeuze elk moment wijzigen door naar het instellingenmenu te gaan en de desbetreffende functie of dienst naar eigen inzicht uit te schakelen, waarna uw tv-kijkgeschiedenis niet meer wordt verzameld voor die functie of dienst.
+
+
+
+[Alleen voor inwoners van de Europese Economische Ruimte (EER)]
+
+
+
+Uw gebruik van de Diensten houdt in dat uw persoonlijke gegevens conform dit privacybeleid worden overgedragen, opgeslagen en verwerkt buiten uw land van vestiging, namelijk in Korea. Daarnaast kan uw gebruik van de Diensten ook de overdracht, opslag en verwerking van uw persoonlijke gegevens naar andere landen inhouden. Dergelijke landen omvatten, zonder beperking, landen in de Europese Economische Ruimte, de Verenigde Staten van Amerika en Canada. Houd er rekening mee dat de wetten inzake gegevensbescherming en andere wetten van landen buiten de Europese Economische Ruimte waarnaar uw informatie wordt overgedragen, mogelijk niet zo uitgebreid zijn als de wetten in uw eigen land. Wij zullen passende maatregelen nemen, in overeenstemming met de toepasselijke wetgeving, om ervoor te zorgen dat uw persoonlijke gegevens beschermd blijven. Dergelijke maatregelen omvatten het gebruik van modelcontractbepalingen om de overdracht van gegevens buiten de EER te beschermen. Neem voor meer informatie of om een kopie van de geldende contractuele overeenkomsten te verkrijgen, contact met ons op via onze Privacy Support pagina (https://www.samsung.com/request-desk).
+
+Denk eraan dat uw privacykeuze van invloed kan zijn op de beschikbaarheid of kwaliteit van de op kijkinformatie gebaseerde dienst.
+
+
+
+Op interesse gebaseerde reclamediensten
+
+De Interest-Based Advertisement Diensten (de “IBA-diensten”) zijn ontworpen om nuttige, interactieve en op interesse gebaseerde reclame te kunnen ontvangen en bekijken over producten en diensten die door Samsung en externe partijen worden aangeboden op uw Samsung Smart TV of op verschillende platformen of apparaten van Samsung en externe partijen. Dit geldt ook voor lineaire reclames, op het web, mobiele apparaten en tablets.
+
+
+
+Om de reclame op uw apparaten relevanter voor u te maken, vertrouwt de IBA-service op uw tv-kijkgeschiedenis (waaronder informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan), gebruiksinformatie van de Samsung Smart TV en andere statistische gegevens die zijn verkregen van vertrouwde externe gegevensbronnen. Wij kunnen automatische inhoudherkenning (ACR) en andere technieken gebruiken om uw tv-kijkgeschiedenis vast te leggen.
+
+
+
+Op basis van de bovenstaande informatie maken we groepen van mensen die Samsung Smart TV hebben en die dezelfde interesses delen. We gebruiken deze groepen voor de IBA-dienst. De bovenstaande informatie wordt gebruikt om de groepen te bepalen waaraan uw Samsung Smart TV is toegewezen en dus welke reclame uw apparaten ontvangen.
+
+
+
+U kunt de IBA-dienst op elk gewenst moment uitschakelen door naar het menu Instellingen op uw Samsung Smart TV te gaan.
+
+
+
+Uw privacykeuze voor de IBA-dienst heeft geen invloed op het ontvangen of aangeboden krijgen van andere soorten advertenties en marketing die niet specifiek gebaseerd zijn op uw tv-kijkgeschiedenis of de gebruiksinformatie van uw Samsung Smart TV. Die andere soorten reclame en marketing zijn op andere informatie gebaseerd, zoals globale locatie en andere geschatte of afgeleide gegevens. Deze kunnen minder relevant zijn, omdat ze niet op uw interesses zijn gebaseerd.
+
+
+
+Raadpleeg voor meer informatie over de IBA-diensten de Privacykennisgeving voor de IBA-diensten onderaan dit Supplement.
+
+
+
+PSID
+
+De kijkgeschiedenis en gebruiksinformatie van uw Smart TV die zijn verzameld om op interesse gebaseerde reclame aan te bieden, worden gekoppeld aan een gerandomiseerde, niet-permanente en opnieuw instelbare apparaat-id, de zogenaamde Personalised Service ID oftewel ‘PSID‘.
+
+U kunt de PSID op elk gewenst moment resetten in het menu Instellingen op uw Smart TV. Als u dit doet, worden uw Smart TV-kijkgeschiedenis en Smart TV-gebruiksinformatie met betrekking tot op interesse gebaseerde reclame losgekoppeld van de vorige PSID. Als u uw PSID reset, is de kwaliteit van aangepaste en op interesse gebaseerde reclame mogelijk niet meer zo nauwkeurig.
+
+
+
+Spraakherkenning
+
+U kunt uw Smart TV en veel van de bijbehorende functies bedienen met spraakopdrachten.
+
+Als u Spraakherkenning inschakelt, kunt u de Smart TV opdrachten geven met uw stem. Voor het gebruik van Spraakherkenning worden uw spraakopdrachten (alsook informatie over uw apparaat, inclusief de apparaat-id) naar ons verzonden. Wij converteren uw spraakopdrachten vervolgens naar tekst om de spraakherkenningsfuncties te kunnen aanbieden. Verder verzamelt Samsung mogelijk spraakopdrachten en hieraan gerelateerde teksten, zodat wij de functies kunnen evalueren en verbeteren. Samsung verzamelt uw spraakopdrachten alleen wanneer u een specifieke zoekopdracht voor de Smart TV opgeeft door op de activeringsknop op de afstandsbediening of op het scherm te klikken of door een activeringswoord in te spreken (bijvoorbeeld ‘Hi, Bixby’) en in de microfoon op de afstandsbediening of de Smart TV te spreken.
+
+Als u Spraakherkenning niet inschakelt, kunt u de spraakherkenningsfuncties ook niet gebruiken.
+
+U kunt het verzamelen van gegevens van Spraakherkenning altijd uitschakelen via het instellingenmenu. Als u dit doet, kunt u de spraakherkenningsfuncties echter niet gebruiken.
+
+
+
+Raadpleeg voor gedetailleerde informatie over Spraakherkenning de Privacykennisgeving voor Spraakherkenning onderaan dit Supplement.
+
+
+
+Externe partijen
+
+Wanneer u een video bekijkt of toepassingen of inhoud gebruikt die door een externe partij worden aangeboden, kan die aanbieder informatie verzamelen of ontvangen over uw Smart TV (zoals het IP-adres en de apparaat-id), de gevraagde transactie (zoals uw verzoek om de video te kopen of huren) en uw gebruik van de applicatie of dienst. Samsung is niet verantwoordelijk voor de privacy- of beveiligingspraktijken van deze aanbieders. Wees voorzichtig en lees de privacyverklaringen die van toepassing zijn op de externe websites en diensten die u gebruikt.
+
+
+
+Landspecifieke functies
+
+Houd er rekening mee dat een of meer van de beschreven functies in dit Smart TV-supplement mogelijk niet beschikbaar zijn, afhankelijk van waar u woont.
+
+
+
+PRIVACYKENNISGEVING SPRAAKHERKENNINGSSERVICE
+
+
+
+Ingangsdatum: 4 juni 2019
+
+
+
+Samsung Electronics en haar gelieerde ondernemingen respecteren uw zorgen omtrent privacy. Deze Privacykennisgeving is van toepassing op de persoonlijke gegevens die wij verzamelen via de Spraakherkenningsdienst (de “Spraakdienst”).
+
+
+
+De Spraakdienst is een diesnt die gebruikers de mogelijkheid biedt om met hun stem inhoud te zoeken en te bekijken en alles op hun Samsung-producten te beheren. De dienst is in staat natuurlijke taal te verwerken voor het zoeken naar inhoud, het bedienen van een Samsung Smart TV en voor internet, weersinformatie en andere diensten die gebruikers verwachten van hun Samsung Smart TV’s.
+
+
+
+Afhankelijk van de taal die u selecteert, kunt u mogelijk ook gebruikmaken van de uitgebreide spraakherkenningsfunctie Bixby. Wanneer Bixby is geactiveerd, kunt u dat herkennen aan pictogrammen, banners en andere merktekens op het scherm van uw Samsung Smart TV.
+
+
+
+Deze Privacykennisgeving biedt aanvullende, specifieke informatie over de wijze waarop uw persoonlijke gegevens worden gebruikt in verband met de Spraakdienst en dient te worden gelezen in samenhang met het Privacybeleid van Samsung dat ook van toepassing is op het verkrijgen van de Spraakdienst en dat u kunt vinden op https://account.samsung.com/membership/pp.
+
+
+
+In deze Privacykennisgeving beschrijven we welke soorten gegevens worden verzameld door middel van de Spraakdienst, hoe we de gegevens gebruiken en de keuzes die u hebt met betrekking tot ons gebruik van de gegevens. Samsung is de verwerkingsverantwoordelijke voor de persoonlijke gegevens.
+
+
+
+WELKE INFORMATIE VERZAMELEN WE?
+
+We verkrijgen mogelijk op verschillende manieren gegevens over u door middel van de Spraakdienst. We verkrijgen onder andere de volgende soorten persoonlijke gegevens:
+
+
+
+• Samsung Account gegevens (optioneel). Wanneer u inlogt met uw Samsung Account op uw Smart TV, verzamelen we mogelijk gegevens uit uw Samsung Account die worden gebruikt om toegang te krijgen tot de Spraakdienst, zoals uw naam, e-mailadres en uw Samsung Account-id.
+
+
+
+• Interactie met de Spraakdienst. We verzamelen mogelijk gegevens die u met de Spraakdienst uitwisselt door middel van uw interacties met de Diensten, met inbegrip van opnamen van uw gesproken opdrachten (zoals uw vragen, verzoeken en instructies), uw foto’s en andere input, en de informatie die u ontvangt van de Diensten (zoals reacties, antwoorden en inhoud). We kunnen ook andere gegevens verkrijgen in verband met uw gebruik van de Spraakdienst, met inbegrip van de gegevens (waaronder gegevens in verband met de apps die u gebruikt, de websites die u bezoekt, foto’s, muziek, agendavermeldingen, bladwijzers, en inhoud en gegevens van andere apps, websites en services van Samsung of van derden) die we ontvangen van apps en diensten van Samsung en van derden die door de Spraakdienst worden geraadpleegd of gebruikt om de Diensten aan u te leveren (zoals muziekstreaming en weerberichten).
+
+
+
+• Geolocatiegegevens. We ontvangen mogelijk geolocatiegegevens van uw apparaat en andere gegevens met betrekking tot uw locatie via postcodegegevens die zijn opgeslagen op de tv en die kunnen worden verkregen aan de hand van uw IP-adres of gegevens die u hebt ingevoerd voor bepaalde doeleinden, bijvoorbeeld om de Deinsten aan u te kunnen leveren.
+
+
+
+• Gegevens over apparaten en apps. We verzamelen mogelijk automatisch gegevens over uw apparaten waarop de Spraakdienst wordt gebruikt, zoals het model van het apparaat, de versie van het besturingssysteem, de configuratie en instellingen van het apparaat, het IP-adres en de apparaat-id of andere unieke id’s. Daarnaast verkrijgen we mogelijk gegevens over hoe, wanneer en hoe lang u gebruikmaakt van uw apparaten waarop de Spraakdienst wordt gebruikt, waaronder uw gebruik van de Spraakservice en apps en diensten van Samsung en van derden op de apparaten (zoals een lijst van de apps op uw apparaten, de muziek die wordt afgespeeld op uw apparaten, de websites die u bezoekt en de zoekopdrachten die u geeft).
+
+
+
+HOE GEBRUIKEN WIJ UW INFORMATIE?
+
+We kunnen de gegevens die we door middel van de Spraakdienst verkrijgen, gebruiken om:
+
+
+
+• de Diensten aan u te leveren, bijvoorbeeld door te reageren op de verzoeken, vragen en instructies die u aan de Spraakdienst richt;
+
+• u te identificeren en te verifiëren zodat u bepaalde Spraakdiensten kunt gebruiken;
+
+• uw ervaring met de Spraakdienst te verbeteren en aan te passen, bijvoorbeeld door het leveren van inhoud en reacties die zijn aangepast aan onze gebruikers en de wijze waarop ze de Spraakdienst gebruiken;
+
+• met uw afzonderlijke toesemming, u communicatieover onze producten en diensten, kennisgevingen, inhoud, meldingen, aanbiedingen, promoties, marketinginformatie, communicatie en advertenties te sturen;
+
+• te reageren op uw verzoeken en vragen;
+
+• onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten te ontwikkelen en onze producten en diensten uit te breiden en te verbeteren; onze communicatie te beheren; onze producten, ons klantenbestand en de diensten te analyseren; marktonderzoek uit te voeren; gegevensanalyse te verrichten; de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren);
+
+• u in staat te stellen te werken met en gebruik te maken van apps en diensten van derden;
+
+• bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s, en deze te herkennen en te voorkomen; en
+
+• toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze Privacykennisgeving en het Privacybeleid voor Samsung Account, na te leven en de handhaving daarvan af te dwingen.
+
+
+
+Door middel van de Spraakdienst kunnen we persoonlijke gegevens verzamelen over uw online activiteiten op apparaten waarop de Spraakdienst in de loop der tijd wordt gebruikt en in diverse apps en websites van derden en andere online diensten. We kunnen in onze Diensten gebruikmaken van analysediensten van derden. De leveranciers die deze analysediensten beheren, helpen ons bij het analyseren van uw gebruik van de Diensten en bij het verbeteren van onze Diensten. De gegevens die we verkrijgen, kunnen worden bekendgemaakt aan of rechtstreeks worden verzameld door deze leveranciers en andere relevante derden die de gegevens bijvoorbeeld gebruiken om de Diensten te evalueren, te helpen bij het leveren van de Diensten en technische problemen te onderzoeken.
+
+
+
+Samsung verwerkt persoonlijke gegevens voor de hierboven beschreven doeleinden. De wettelijke basis op grond waarvan Samsung persoonlijke gegevens verwerkt, omvat onder andere verwerking die: noodzakelijk is voor de uitvoering van het contract tussen u en Samsung (bijvoorbeeld om de Diensten aan u te leveren, u te identificeren en uw identiteit te verifiëren zodat u bepaalde Diensten kunt gebruiken); noodzakelijk is om te voldoen aan wettelijke vereisten (bijvoorbeeld om te voldoen aan de toepasselijke boekhoudkundige voorschriften en om verplichte bekendmakingen te doen aan autoriteiten); noodzakelijk zijn voor de legitieme belangen van Samsung (bijvoorbeeld om onze relatie met u te beheren en de Diensten te verbeteren); en is gebaseerd op toestemming van onze klanten (bijvoorbeeld om met u te communiceren over onze producten en services en u marketinginformatie te sturen) die vervolgens op enig moment kan worden ingetrokken, zoals beschreven in het gedeelte ‘Contact met ons opnemen’ van het Privacybeleid van Samsung, zonder gevolgen voor de wettigheid van de verwerking op grond van de toestemming alvorens deze werd ingetrokken.
+
+
+
+U bent verplicht, als voorwaarde om een overeenkomst aan te gaan, om ons persoonlijke gegevens te verstrekken voor verwerking, zoals hierboven beschreven. Indien u geen persoonlijke gegevens aan ons verstrekt, kunnen we niet alle voorzieningen aan u leveren die beschikbaar zijn via de Spraakdienst.
+
+
+
+UW OPTIES
+
+U kunt de Spraakdienst op elk gewenst moment uitschakelen door naar het menu Instellingen te gaan. Hierdoor kunt u de Spraakdienst mogelijk niet meer gebruiken.
+
+
+
+Daarnaast bieden we u bepaalde opties met betrekking tot de persoonlijke gegevens die we over u verkrijgen. U kunt uw voorkeuren bijwerken, de communicatie die u van ons ontvangt, beperken of een verzoek indienen door contact met ons op te nemen (zie het gedeelte ’Contact met ons opnemen’ in het Privacybeleid van Samsung).
+
+
+
+WIJZIGINGEN IN ONZE PRIVACYKENNISGEVING
+
+Deze Privacykennisgeving kan in het kader van de Diensten of wijzigingen in het toepasselijk recht zo nu en dan worden bijgewerkt in overeenstemming met onze praktijken met betrekking tot persoonlijke gegevens. We zullen een kennisgeving op onze website en/of op uw apparaat publiceren om u in kennis te stellen van alle materiele wijzigingen in onze Privacykennisgeving en bovenaan de kennisgeving aangeven wanneer deze voor het laatst is bijgewerkt.
+
+
+
+PRIVACYKENNISGEVING VAN OP INTERESSE GEBASEERDE RECLAMEDIENST
+
+
+
+Ingangsdatum: 4 juni 2019
+
+
+
+Samsung Electronics en haar gelieerde ondernemingen respecteren uw zorgen omtrent privacy. Deze Privacykennisgeving is van toepassing op de persoonlijke gegevens die wij verzamelen via de op interesse gebaseerde reclamediensten (de “IBA-dienst”).
+
+
+
+Deze Privacykennisgeving biedt aanvullende, specifieke informatie over de wijze waarop uw persoonlijke gegevens worden gebruikt in verband met de IBA-dienst en dient te worden gelezen in samenhang met het Privacybeleid van Samsung, dat ook van toepassing is op het verkrijgen van de IBA-dienst en dat u kunt vinden op https://account.samsung.com/membership/pp.
+
+
+
+In deze Privacykennisgeving beschrijven we welke soorten gegevens worden gebruikt door middel van op interesse gebaseerde reclame, hoe we deze gegevens mogelijk gebruiken en over welke opties u beschikt met betrekking tot ons gebruik van de gegevens en het uitoefenen van uw rechten. Samsung is de verwerkingsverantwoordelijke voor de persoonlijke gegevens.
+
+
+
+WAT IS DE IBA-DIENST?
+
+De IBA-dienst is ontworpen om nuttige, interactieve en op interesse gebaseerde reclame te kunnen ontvangen en bekijken over producten en diensten die door Samsung en derden worden aangeboden op uw Samsung Smart TV of op verschillende platformen of apparaten van Samsung en externe partijen. Dit geldt ook voor lineaire reclames, op het web, mobiele apparaten en tablets.
+
+
+
+Om de reclame op uw apparaten relevanter voor u te maken, vertrouwt de IBA-dienst op uw tv-kijkgeschiedenis (waaronder informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan), gebruiksinformatie van de Samsung Smart TV en andere statistische gegevens die zijn verkregen van vertrouwde externe gegevensbronnen. Wij kunnen automatische inhoudherkenning (ACR) en andere technieken gebruiken om uw tv-kijkgeschiedenis vast te leggen.
+
+
+
+Op basis van de bovenstaande informatie maken we groepen van mensen die Samsung Smart TV hebben en die dezelfde interesses delen. We gebruiken deze groepen voor de IBA-dienst. De bovenstaande informatie wordt gebruikt om de groepen te bepalen waaraan uw Samsung Smart TV is toegewezen en dus welke reclame uw apparaten ontvangen.
+
+
+
+PSID
+
+Informatie over het gebruik van uw apparaat die wordt verzameld om de IBA-dienst te kunnen leveren, wordt gekoppeld aan een gerandomiseerde, niet-permanente en opnieuw instelbare apparaat-id, de zogenaamde PSID. U kunt uw PSID resetten zoals wordt gespecificeerd in de paragraaf Uw opties van deze Privacykennisgeving.
+
+
+
+WELKE INFORMATIE VERZAMELEN WE?
+
+We verkrijgen op verschillende manieren gegevens over uw apparaten door middel van de IBA-dienst. We verkrijgen onder andere de volgende typen gegevens:
+
+• Apparaatgegevens. We verzamelen gegevens zoals uw apparaatmodel, versie van het besturingssysteem, apparaatconfiguraties en -instellingen, IP-adres, apparaat-id’s en andere identificatiegegevens.
+
+• Gegevens over apparaatgebruik en logboek. We verzamelen gegevens over hoe, wanneer en hoe lang u gebruikmaakt van uw apparaten, met inbegrip van uw interacties met de IBA-dienst en apps en diensten van Samsung en van derden op de apparaten (zoals een lijst van de apps op uw apparaten).
+
+• Kijkgegevens. Wij verzamelen uw tv-kijkgeschiedenis. Uw tv-kijkgeschiedenis omvat informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan. We kunnen ACR en andere technieken gebruiken om deze tv-kijkgeschiedenis vast te leggen.
+
+• Statistische gegevens. We kunnen statistische gegevens over u of uw apparaten gebruiken, zoals globale locatie en geschatte leeftijdsgroep. We verkrijgen deze statistische gegevens via commercieel beschikbare bronnen (die door de wet zijn toegestaan) zoals onze externe dienstverleners. We werken uitsluitend samen met externe dienstverleners die waarborgen dat deze gegevens zijn verkregen in overeenstemming met de toepasselijke wetgeving en aan ons kunnen worden verstrekt voor gebruik en bekendmaking.
+
+
+
+De servers van Samsung ontvangen gegevens wanneer u communiceert met de IBA-dienst, zoals gegevens over uw interacties met de IBA-dienst, uw geolocatie en de apparaten die u gebruikt om de IBA-dienst te ontvangen.
+
+
+
+HOE GEBRUIKEN WIJ UW INFORMATIE?
+
+We gebruiken de gegevens die we verkrijgen door middel van de IBA-diensten om:
+
+
+
+• u de IBA-diensten te leveren;
+
+• uw ervaring met de IBA-dienst te verbeteren en aan te passen;
+
+• met uw afzonderlijke toestemming, met u via e-mail en pushkennisgeving te communiceren over producten en diensten die door Samsung en derden worden aangeboden en zijn afgestemd op uw interesses;
+
+• te reageren op uw verzoeken en vragen;
+
+• onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten te ontwikkelen en onze producten en services uit te breiden en te verbeteren; onze communicatie te beheren; onze producten, ons klantenbestand en de services te analyseren; marktonderzoek uit te voeren; gegevensanalyse te verrichten; de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren);
+
+• bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s, en deze te herkennen en te voorkomen; en
+
+• toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze Privacykennisgeving en het Privacybeleid Samsung Account, na te leven en de handhaving daarvan af te dwingen.
+
+
+
+Samsung verwerkt persoonlijke gegevens voor de hierboven beschreven doeleinden. De wettelijke basis van Samsung om persoonlijke gegevens te verwerken, omvat verwerking die: noodzakelijk is voor de uitvoering van de overeenkomst tussen u en Samsung (bijvoorbeeld om u de IBA-dienst te verlenen en om u te identificeren en te verifiëren); noodzakelijk is om te voldoen aan de wettelijke vereisten (bijvoorbeeld om te voldoen aan toepasselijke boekhoudregels en om verplichte openbaarmakingen te doen om de wet af te dwingen); noodzakelijk is voor de legitieme belangen van Samsung (bijvoorbeeld om onze relatie met u te onderhouden en om de IBA-dienst te verbeteren); en op basis van toestemming door onze klanten (bijvoorbeeld om met u te communiceren over producten en diensten en om u marketinginformatie te verstrekken), die vervolgens op elk gewenst moment kan worden ingetrokken door naar het menu Instellingen te gaan, zoals gespecificeerd in het gedeelte Uw opties van deze Privacykennisgeving, zonder afbreuk te doen aan de rechtmatigheid van verwerking op basis van toestemming voorafgaand aan deze intrekking.
+
+
+
+U bent verplicht, als voorwaarde om de IBA-dienst te verkrijgen, om ons persoonlijke gegevens te verstrekken ter verwerking, zoals hierboven beschreven. Indien u geen persoonlijke gegevens aan ons verstrekt, kunnen we niet alle voorzieningen aan u leveren die beschikbaar zijn via de IBA-dienst.
+
+
+
+UW OPTIES
+
+U kunt uw PSID op elk gewenst moment resetten door naar het menu Instellingen te gaan. Zodra u uw PSID hebt gereset, worden uw tv-kijkgeschiedenis en gebruiksinformatie van de Smart TV losgekoppeld van deze vorige PSID. Denk eraan dat als u uw PSID reset, de kwaliteit van de IBA-dienst kan worden beïnvloed.
+
+
+
+Daarnaast kunt u de IBA-dienst op elk gewenst moment uitschakelen door naar het menu Instellingen op uw Samsung Smart TV te gaan.
+
+
+
+Uw privacykeuze voor de IBA-dienst heeft geen invloed op het ontvangen of aangeboden krijgen van andere soorten advertenties en marketing die niet specifiek gebaseerd zijn op uw tv-kijkgeschiedenis of de gebruiksinformatie van uw Samsung Smart TV. Die andere soorten reclame en marketing zijn op andere informatie gebaseerd, zoals globale locatie en andere geschatte of afgeleide gegevens. Deze kunnen minder relevant zijn, omdat ze niet op uw interesses zijn gebaseerd.
+
+
+
+WIJZIGINGEN IN ONZE PRIVACYKENNISGEVING
+
+Deze Privacykennisgeving kan in het kader van de IBA-dienst of wijzigingen in het toepasselijk recht zo nu en dan worden bijgewerkt in overeenstemming met onze praktijken met betrekking tot persoonlijke gegevens. We zullen een kennisgeving op onze website en/of op uw apparaat publiceren om u in kennis te stellen van alle aanzienlijke wijzigingen in onze Privacykennisgeving en bovenaan de kennisgeving aangeven wanneer deze voor het laatst is bijgewerkt.
+
+
+
+
+
+
+***************************************************************
+
+
+Title: Samsung NL
+URL: https://samsung.com/nl/info/privacy/
+Date of publishing: None
+Keywords: gegevens, nl, op, van, te, het, en, met, samsung, uw, die
+
+Policy: De Samsung Smart TV-dienst biedt diverse voorzieningen voor verrijkte video-inhoud, gepersonaliseerde tv-ervaringen, films, verbindingen met sociale netwerkdiensten en de mogelijkheid om met uw Smart TV te communiceren en deze te bedienen met spraakopdrachten. We verzamelen informatie via uw Smart TV en de apparaten die op uw Smart TV worden aangesloten en we gebruiken, delen en bewaren deze op de manieren die worden beschreven in het Privacybeleid van Samsung. In dit Supplement vindt u extra informatie over de privacypraktijken van bepaalde Smart TV-functies.
+
+
+
+De Smart TV is ontworpen om u de mogelijkheid te bieden gemakkelijk videoprogramma’s en andere inhoud te vinden en te gebruiken. Zo kunt u via doorzoekbare gidsen die op uw Smart TV worden weergegeven bijvoorbeeld informatie raadplegen over live programma’s die door uw kabel- of satellietbedrijf worden verdeeld en video-inhoud op aanvraag (video-on-demand) die door externe aanbieders wordt aangeboden.
+
+In het geval van live programma’s bepalen wij deels op basis van uw postcode welke inhoud er voor u beschikbaar is. Verder helpt de Smart TV u andere Smart TV-inhoud te vinden en ervaren die relevant voor u is door programma’s en inhoud te markeren die u waarschijnlijk interessant vindt of door extra diensten aan te bieden waarmee uw kijkervaring nog verder wordt verbeterd. Wij baseren deze aanbevelingen en extra diensten op:
+
+• Informatie over inhoud die u hebt bekeken, gekocht, gedownload of gestreamd via Samsung-toepassingen op uw Smart TV of andere apparaten (zie het gedeelte ‘Kijkinformatiediensten’ hieronder voor meer informatie over tv-kijkgegevens);
+
+• Informatie over toepassingen die u hebt gebruikt via de Smart TV;
+
+• Informatie over klikken op ‘Leuk’, ‘Niet leuk’, ‘Nu kijken’ en andere knoppen op uw Smart TV;
+
+• De zoektermen die u invoert in de zoekfuncties van de Smart TV, ook wanneer u zoekt naar specifieke video-inhoud;
+
+• Andere gebruiks- en apparaatgegevens van uw Smart TV, met inbegrip van, maar niet beperkt tot, IP-adres, logboekgegevens, informatie waarmee uw hardware- of softwareconfiguratie wordt geïdentificeerd, browserinformatie en de pagina(’s) die u opvraagt.
+
+
+
+Kijkinformatiediensten
+
+Deze privacykennisgeving dient te worden gelezen in samenhang met het Privacybeleid van Samsung, dat ook van toepassing is op uw gebruik van aangepaste ervaring van Smart TV die u kunt vinden op https://account.samsung.com/membership/pp.
+
+Teneinde u aangepaste en gepersonaliseerde Smart TV-ervaringen te bieden, zijn bepaalde functies en diensten afhankelijk van uw tv-kijkgeschiedenis en de gebruiksinformatie van uw Smart TV.
+
+Uw tv-kijkgeschiedenis omvat informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan.
+
+We kunnen gebruikmaken van automatische herkenning van inhoud (ACR) en andere technologieën om deze informatie te registreren. Uw Smart TV draagt informatie over videofragmenten of uw tv-tuner over om vast te stellen welke programma’s zijn bekeken.
+
+U kunt uw privacykeuze elk moment wijzigen door naar het instellingenmenu te gaan en de desbetreffende functie of dienst naar eigen inzicht uit te schakelen, waarna uw tv-kijkgeschiedenis niet meer wordt verzameld voor die functie of dienst.
+
+
+
+[Alleen voor inwoners van de Europese Economische Ruimte (EER)]
+
+
+
+Uw gebruik van de Diensten houdt in dat uw persoonlijke gegevens conform dit privacybeleid worden overgedragen, opgeslagen en verwerkt buiten uw land van vestiging, namelijk in Korea. Daarnaast kan uw gebruik van de Diensten ook de overdracht, opslag en verwerking van uw persoonlijke gegevens naar andere landen inhouden. Dergelijke landen omvatten, zonder beperking, landen in de Europese Economische Ruimte, de Verenigde Staten van Amerika en Canada. Houd er rekening mee dat de wetten inzake gegevensbescherming en andere wetten van landen buiten de Europese Economische Ruimte waarnaar uw informatie wordt overgedragen, mogelijk niet zo uitgebreid zijn als de wetten in uw eigen land. Wij zullen passende maatregelen nemen, in overeenstemming met de toepasselijke wetgeving, om ervoor te zorgen dat uw persoonlijke gegevens beschermd blijven. Dergelijke maatregelen omvatten het gebruik van modelcontractbepalingen om de overdracht van gegevens buiten de EER te beschermen. Neem voor meer informatie of om een kopie van de geldende contractuele overeenkomsten te verkrijgen, contact met ons op via onze Privacy Support pagina (https://www.samsung.com/request-desk).
+
+Denk eraan dat uw privacykeuze van invloed kan zijn op de beschikbaarheid of kwaliteit van de op kijkinformatie gebaseerde dienst.
+
+
+
+Op interesse gebaseerde reclamediensten
+
+De Interest-Based Advertisement Diensten (de “IBA-diensten”) zijn ontworpen om nuttige, interactieve en op interesse gebaseerde reclame te kunnen ontvangen en bekijken over producten en diensten die door Samsung en externe partijen worden aangeboden op uw Samsung Smart TV of op verschillende platformen of apparaten van Samsung en externe partijen. Dit geldt ook voor lineaire reclames, op het web, mobiele apparaten en tablets.
+
+
+
+Om de reclame op uw apparaten relevanter voor u te maken, vertrouwt de IBA-service op uw tv-kijkgeschiedenis (waaronder informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan), gebruiksinformatie van de Samsung Smart TV en andere statistische gegevens die zijn verkregen van vertrouwde externe gegevensbronnen. Wij kunnen automatische inhoudherkenning (ACR) en andere technieken gebruiken om uw tv-kijkgeschiedenis vast te leggen.
+
+
+
+Op basis van de bovenstaande informatie maken we groepen van mensen die Samsung Smart TV hebben en die dezelfde interesses delen. We gebruiken deze groepen voor de IBA-dienst. De bovenstaande informatie wordt gebruikt om de groepen te bepalen waaraan uw Samsung Smart TV is toegewezen en dus welke reclame uw apparaten ontvangen.
+
+
+
+U kunt de IBA-dienst op elk gewenst moment uitschakelen door naar het menu Instellingen op uw Samsung Smart TV te gaan.
+
+
+
+Uw privacykeuze voor de IBA-dienst heeft geen invloed op het ontvangen of aangeboden krijgen van andere soorten advertenties en marketing die niet specifiek gebaseerd zijn op uw tv-kijkgeschiedenis of de gebruiksinformatie van uw Samsung Smart TV. Die andere soorten reclame en marketing zijn op andere informatie gebaseerd, zoals globale locatie en andere geschatte of afgeleide gegevens. Deze kunnen minder relevant zijn, omdat ze niet op uw interesses zijn gebaseerd.
+
+
+
+Raadpleeg voor meer informatie over de IBA-diensten de Privacykennisgeving voor de IBA-diensten onderaan dit Supplement.
+
+
+
+PSID
+
+De kijkgeschiedenis en gebruiksinformatie van uw Smart TV die zijn verzameld om op interesse gebaseerde reclame aan te bieden, worden gekoppeld aan een gerandomiseerde, niet-permanente en opnieuw instelbare apparaat-id, de zogenaamde Personalised Service ID oftewel ‘PSID‘.
+
+U kunt de PSID op elk gewenst moment resetten in het menu Instellingen op uw Smart TV. Als u dit doet, worden uw Smart TV-kijkgeschiedenis en Smart TV-gebruiksinformatie met betrekking tot op interesse gebaseerde reclame losgekoppeld van de vorige PSID. Als u uw PSID reset, is de kwaliteit van aangepaste en op interesse gebaseerde reclame mogelijk niet meer zo nauwkeurig.
+
+
+
+Spraakherkenning
+
+U kunt uw Smart TV en veel van de bijbehorende functies bedienen met spraakopdrachten.
+
+Als u Spraakherkenning inschakelt, kunt u de Smart TV opdrachten geven met uw stem. Voor het gebruik van Spraakherkenning worden uw spraakopdrachten (alsook informatie over uw apparaat, inclusief de apparaat-id) naar ons verzonden. Wij converteren uw spraakopdrachten vervolgens naar tekst om de spraakherkenningsfuncties te kunnen aanbieden. Verder verzamelt Samsung mogelijk spraakopdrachten en hieraan gerelateerde teksten, zodat wij de functies kunnen evalueren en verbeteren. Samsung verzamelt uw spraakopdrachten alleen wanneer u een specifieke zoekopdracht voor de Smart TV opgeeft door op de activeringsknop op de afstandsbediening of op het scherm te klikken of door een activeringswoord in te spreken (bijvoorbeeld ‘Hi, Bixby’) en in de microfoon op de afstandsbediening of de Smart TV te spreken.
+
+Als u Spraakherkenning niet inschakelt, kunt u de spraakherkenningsfuncties ook niet gebruiken.
+
+U kunt het verzamelen van gegevens van Spraakherkenning altijd uitschakelen via het instellingenmenu. Als u dit doet, kunt u de spraakherkenningsfuncties echter niet gebruiken.
+
+
+
+Raadpleeg voor gedetailleerde informatie over Spraakherkenning de Privacykennisgeving voor Spraakherkenning onderaan dit Supplement.
+
+
+
+Externe partijen
+
+Wanneer u een video bekijkt of toepassingen of inhoud gebruikt die door een externe partij worden aangeboden, kan die aanbieder informatie verzamelen of ontvangen over uw Smart TV (zoals het IP-adres en de apparaat-id), de gevraagde transactie (zoals uw verzoek om de video te kopen of huren) en uw gebruik van de applicatie of dienst. Samsung is niet verantwoordelijk voor de privacy- of beveiligingspraktijken van deze aanbieders. Wees voorzichtig en lees de privacyverklaringen die van toepassing zijn op de externe websites en diensten die u gebruikt.
+
+
+
+Landspecifieke functies
+
+Houd er rekening mee dat een of meer van de beschreven functies in dit Smart TV-supplement mogelijk niet beschikbaar zijn, afhankelijk van waar u woont.
+
+
+
+PRIVACYKENNISGEVING SPRAAKHERKENNINGSSERVICE
+
+
+
+Ingangsdatum: 4 juni 2019
+
+
+
+Samsung Electronics en haar gelieerde ondernemingen respecteren uw zorgen omtrent privacy. Deze Privacykennisgeving is van toepassing op de persoonlijke gegevens die wij verzamelen via de Spraakherkenningsdienst (de “Spraakdienst”).
+
+
+
+De Spraakdienst is een diesnt die gebruikers de mogelijkheid biedt om met hun stem inhoud te zoeken en te bekijken en alles op hun Samsung-producten te beheren. De dienst is in staat natuurlijke taal te verwerken voor het zoeken naar inhoud, het bedienen van een Samsung Smart TV en voor internet, weersinformatie en andere diensten die gebruikers verwachten van hun Samsung Smart TV’s.
+
+
+
+Afhankelijk van de taal die u selecteert, kunt u mogelijk ook gebruikmaken van de uitgebreide spraakherkenningsfunctie Bixby. Wanneer Bixby is geactiveerd, kunt u dat herkennen aan pictogrammen, banners en andere merktekens op het scherm van uw Samsung Smart TV.
+
+
+
+Deze Privacykennisgeving biedt aanvullende, specifieke informatie over de wijze waarop uw persoonlijke gegevens worden gebruikt in verband met de Spraakdienst en dient te worden gelezen in samenhang met het Privacybeleid van Samsung dat ook van toepassing is op het verkrijgen van de Spraakdienst en dat u kunt vinden op https://account.samsung.com/membership/pp.
+
+
+
+In deze Privacykennisgeving beschrijven we welke soorten gegevens worden verzameld door middel van de Spraakdienst, hoe we de gegevens gebruiken en de keuzes die u hebt met betrekking tot ons gebruik van de gegevens. Samsung is de verwerkingsverantwoordelijke voor de persoonlijke gegevens.
+
+
+
+WELKE INFORMATIE VERZAMELEN WE?
+
+We verkrijgen mogelijk op verschillende manieren gegevens over u door middel van de Spraakdienst. We verkrijgen onder andere de volgende soorten persoonlijke gegevens:
+
+
+
+• Samsung Account gegevens (optioneel). Wanneer u inlogt met uw Samsung Account op uw Smart TV, verzamelen we mogelijk gegevens uit uw Samsung Account die worden gebruikt om toegang te krijgen tot de Spraakdienst, zoals uw naam, e-mailadres en uw Samsung Account-id.
+
+
+
+• Interactie met de Spraakdienst. We verzamelen mogelijk gegevens die u met de Spraakdienst uitwisselt door middel van uw interacties met de Diensten, met inbegrip van opnamen van uw gesproken opdrachten (zoals uw vragen, verzoeken en instructies), uw foto’s en andere input, en de informatie die u ontvangt van de Diensten (zoals reacties, antwoorden en inhoud). We kunnen ook andere gegevens verkrijgen in verband met uw gebruik van de Spraakdienst, met inbegrip van de gegevens (waaronder gegevens in verband met de apps die u gebruikt, de websites die u bezoekt, foto’s, muziek, agendavermeldingen, bladwijzers, en inhoud en gegevens van andere apps, websites en services van Samsung of van derden) die we ontvangen van apps en diensten van Samsung en van derden die door de Spraakdienst worden geraadpleegd of gebruikt om de Diensten aan u te leveren (zoals muziekstreaming en weerberichten).
+
+
+
+• Geolocatiegegevens. We ontvangen mogelijk geolocatiegegevens van uw apparaat en andere gegevens met betrekking tot uw locatie via postcodegegevens die zijn opgeslagen op de tv en die kunnen worden verkregen aan de hand van uw IP-adres of gegevens die u hebt ingevoerd voor bepaalde doeleinden, bijvoorbeeld om de Deinsten aan u te kunnen leveren.
+
+
+
+• Gegevens over apparaten en apps. We verzamelen mogelijk automatisch gegevens over uw apparaten waarop de Spraakdienst wordt gebruikt, zoals het model van het apparaat, de versie van het besturingssysteem, de configuratie en instellingen van het apparaat, het IP-adres en de apparaat-id of andere unieke id’s. Daarnaast verkrijgen we mogelijk gegevens over hoe, wanneer en hoe lang u gebruikmaakt van uw apparaten waarop de Spraakdienst wordt gebruikt, waaronder uw gebruik van de Spraakservice en apps en diensten van Samsung en van derden op de apparaten (zoals een lijst van de apps op uw apparaten, de muziek die wordt afgespeeld op uw apparaten, de websites die u bezoekt en de zoekopdrachten die u geeft).
+
+
+
+HOE GEBRUIKEN WIJ UW INFORMATIE?
+
+We kunnen de gegevens die we door middel van de Spraakdienst verkrijgen, gebruiken om:
+
+
+
+• de Diensten aan u te leveren, bijvoorbeeld door te reageren op de verzoeken, vragen en instructies die u aan de Spraakdienst richt;
+
+• u te identificeren en te verifiëren zodat u bepaalde Spraakdiensten kunt gebruiken;
+
+• uw ervaring met de Spraakdienst te verbeteren en aan te passen, bijvoorbeeld door het leveren van inhoud en reacties die zijn aangepast aan onze gebruikers en de wijze waarop ze de Spraakdienst gebruiken;
+
+• met uw afzonderlijke toesemming, u communicatieover onze producten en diensten, kennisgevingen, inhoud, meldingen, aanbiedingen, promoties, marketinginformatie, communicatie en advertenties te sturen;
+
+• te reageren op uw verzoeken en vragen;
+
+• onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten te ontwikkelen en onze producten en diensten uit te breiden en te verbeteren; onze communicatie te beheren; onze producten, ons klantenbestand en de diensten te analyseren; marktonderzoek uit te voeren; gegevensanalyse te verrichten; de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren);
+
+• u in staat te stellen te werken met en gebruik te maken van apps en diensten van derden;
+
+• bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s, en deze te herkennen en te voorkomen; en
+
+• toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze Privacykennisgeving en het Privacybeleid voor Samsung Account, na te leven en de handhaving daarvan af te dwingen.
+
+
+
+Door middel van de Spraakdienst kunnen we persoonlijke gegevens verzamelen over uw online activiteiten op apparaten waarop de Spraakdienst in de loop der tijd wordt gebruikt en in diverse apps en websites van derden en andere online diensten. We kunnen in onze Diensten gebruikmaken van analysediensten van derden. De leveranciers die deze analysediensten beheren, helpen ons bij het analyseren van uw gebruik van de Diensten en bij het verbeteren van onze Diensten. De gegevens die we verkrijgen, kunnen worden bekendgemaakt aan of rechtstreeks worden verzameld door deze leveranciers en andere relevante derden die de gegevens bijvoorbeeld gebruiken om de Diensten te evalueren, te helpen bij het leveren van de Diensten en technische problemen te onderzoeken.
+
+
+
+Samsung verwerkt persoonlijke gegevens voor de hierboven beschreven doeleinden. De wettelijke basis op grond waarvan Samsung persoonlijke gegevens verwerkt, omvat onder andere verwerking die: noodzakelijk is voor de uitvoering van het contract tussen u en Samsung (bijvoorbeeld om de Diensten aan u te leveren, u te identificeren en uw identiteit te verifiëren zodat u bepaalde Diensten kunt gebruiken); noodzakelijk is om te voldoen aan wettelijke vereisten (bijvoorbeeld om te voldoen aan de toepasselijke boekhoudkundige voorschriften en om verplichte bekendmakingen te doen aan autoriteiten); noodzakelijk zijn voor de legitieme belangen van Samsung (bijvoorbeeld om onze relatie met u te beheren en de Diensten te verbeteren); en is gebaseerd op toestemming van onze klanten (bijvoorbeeld om met u te communiceren over onze producten en services en u marketinginformatie te sturen) die vervolgens op enig moment kan worden ingetrokken, zoals beschreven in het gedeelte ‘Contact met ons opnemen’ van het Privacybeleid van Samsung, zonder gevolgen voor de wettigheid van de verwerking op grond van de toestemming alvorens deze werd ingetrokken.
+
+
+
+U bent verplicht, als voorwaarde om een overeenkomst aan te gaan, om ons persoonlijke gegevens te verstrekken voor verwerking, zoals hierboven beschreven. Indien u geen persoonlijke gegevens aan ons verstrekt, kunnen we niet alle voorzieningen aan u leveren die beschikbaar zijn via de Spraakdienst.
+
+
+
+UW OPTIES
+
+U kunt de Spraakdienst op elk gewenst moment uitschakelen door naar het menu Instellingen te gaan. Hierdoor kunt u de Spraakdienst mogelijk niet meer gebruiken.
+
+
+
+Daarnaast bieden we u bepaalde opties met betrekking tot de persoonlijke gegevens die we over u verkrijgen. U kunt uw voorkeuren bijwerken, de communicatie die u van ons ontvangt, beperken of een verzoek indienen door contact met ons op te nemen (zie het gedeelte ’Contact met ons opnemen’ in het Privacybeleid van Samsung).
+
+
+
+WIJZIGINGEN IN ONZE PRIVACYKENNISGEVING
+
+Deze Privacykennisgeving kan in het kader van de Diensten of wijzigingen in het toepasselijk recht zo nu en dan worden bijgewerkt in overeenstemming met onze praktijken met betrekking tot persoonlijke gegevens. We zullen een kennisgeving op onze website en/of op uw apparaat publiceren om u in kennis te stellen van alle materiele wijzigingen in onze Privacykennisgeving en bovenaan de kennisgeving aangeven wanneer deze voor het laatst is bijgewerkt.
+
+
+
+PRIVACYKENNISGEVING VAN OP INTERESSE GEBASEERDE RECLAMEDIENST
+
+
+
+Ingangsdatum: 4 juni 2019
+
+
+
+Samsung Electronics en haar gelieerde ondernemingen respecteren uw zorgen omtrent privacy. Deze Privacykennisgeving is van toepassing op de persoonlijke gegevens die wij verzamelen via de op interesse gebaseerde reclamediensten (de “IBA-dienst”).
+
+
+
+Deze Privacykennisgeving biedt aanvullende, specifieke informatie over de wijze waarop uw persoonlijke gegevens worden gebruikt in verband met de IBA-dienst en dient te worden gelezen in samenhang met het Privacybeleid van Samsung, dat ook van toepassing is op het verkrijgen van de IBA-dienst en dat u kunt vinden op https://account.samsung.com/membership/pp.
+
+
+
+In deze Privacykennisgeving beschrijven we welke soorten gegevens worden gebruikt door middel van op interesse gebaseerde reclame, hoe we deze gegevens mogelijk gebruiken en over welke opties u beschikt met betrekking tot ons gebruik van de gegevens en het uitoefenen van uw rechten. Samsung is de verwerkingsverantwoordelijke voor de persoonlijke gegevens.
+
+
+
+WAT IS DE IBA-DIENST?
+
+De IBA-dienst is ontworpen om nuttige, interactieve en op interesse gebaseerde reclame te kunnen ontvangen en bekijken over producten en diensten die door Samsung en derden worden aangeboden op uw Samsung Smart TV of op verschillende platformen of apparaten van Samsung en externe partijen. Dit geldt ook voor lineaire reclames, op het web, mobiele apparaten en tablets.
+
+
+
+Om de reclame op uw apparaten relevanter voor u te maken, vertrouwt de IBA-dienst op uw tv-kijkgeschiedenis (waaronder informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan), gebruiksinformatie van de Samsung Smart TV en andere statistische gegevens die zijn verkregen van vertrouwde externe gegevensbronnen. Wij kunnen automatische inhoudherkenning (ACR) en andere technieken gebruiken om uw tv-kijkgeschiedenis vast te leggen.
+
+
+
+Op basis van de bovenstaande informatie maken we groepen van mensen die Samsung Smart TV hebben en die dezelfde interesses delen. We gebruiken deze groepen voor de IBA-dienst. De bovenstaande informatie wordt gebruikt om de groepen te bepalen waaraan uw Samsung Smart TV is toegewezen en dus welke reclame uw apparaten ontvangen.
+
+
+
+PSID
+
+Informatie over het gebruik van uw apparaat die wordt verzameld om de IBA-dienst te kunnen leveren, wordt gekoppeld aan een gerandomiseerde, niet-permanente en opnieuw instelbare apparaat-id, de zogenaamde PSID. U kunt uw PSID resetten zoals wordt gespecificeerd in de paragraaf Uw opties van deze Privacykennisgeving.
+
+
+
+WELKE INFORMATIE VERZAMELEN WE?
+
+We verkrijgen op verschillende manieren gegevens over uw apparaten door middel van de IBA-dienst. We verkrijgen onder andere de volgende typen gegevens:
+
+• Apparaatgegevens. We verzamelen gegevens zoals uw apparaatmodel, versie van het besturingssysteem, apparaatconfiguraties en -instellingen, IP-adres, apparaat-id’s en andere identificatiegegevens.
+
+• Gegevens over apparaatgebruik en logboek. We verzamelen gegevens over hoe, wanneer en hoe lang u gebruikmaakt van uw apparaten, met inbegrip van uw interacties met de IBA-dienst en apps en diensten van Samsung en van derden op de apparaten (zoals een lijst van de apps op uw apparaten).
+
+• Kijkgegevens. Wij verzamelen uw tv-kijkgeschiedenis. Uw tv-kijkgeschiedenis omvat informatie over de netwerken, kanalen, bezochte websites en programma’s die u op uw Samsung Smart TV hebt bekeken en de hoeveelheid tijd die u hebt besteed aan het bekijken hiervan. We kunnen ACR en andere technieken gebruiken om deze tv-kijkgeschiedenis vast te leggen.
+
+• Statistische gegevens. We kunnen statistische gegevens over u of uw apparaten gebruiken, zoals globale locatie en geschatte leeftijdsgroep. We verkrijgen deze statistische gegevens via commercieel beschikbare bronnen (die door de wet zijn toegestaan) zoals onze externe dienstverleners. We werken uitsluitend samen met externe dienstverleners die waarborgen dat deze gegevens zijn verkregen in overeenstemming met de toepasselijke wetgeving en aan ons kunnen worden verstrekt voor gebruik en bekendmaking.
+
+
+
+De servers van Samsung ontvangen gegevens wanneer u communiceert met de IBA-dienst, zoals gegevens over uw interacties met de IBA-dienst, uw geolocatie en de apparaten die u gebruikt om de IBA-dienst te ontvangen.
+
+
+
+HOE GEBRUIKEN WIJ UW INFORMATIE?
+
+We gebruiken de gegevens die we verkrijgen door middel van de IBA-diensten om:
+
+
+
+• u de IBA-diensten te leveren;
+
+• uw ervaring met de IBA-dienst te verbeteren en aan te passen;
+
+• met uw afzonderlijke toestemming, met u via e-mail en pushkennisgeving te communiceren over producten en diensten die door Samsung en derden worden aangeboden en zijn afgestemd op uw interesses;
+
+• te reageren op uw verzoeken en vragen;
+
+• onze bedrijfsactiviteiten uit te voeren, te evalueren en te verbeteren (onder andere door nieuwe producten te ontwikkelen en onze producten en services uit te breiden en te verbeteren; onze communicatie te beheren; onze producten, ons klantenbestand en de services te analyseren; marktonderzoek uit te voeren; gegevensanalyse te verrichten; de administratie bij te houden en boekhoudkundige controles en andere interne functies uit te voeren);
+
+• bescherming te bieden tegen fraude en andere criminele activiteiten, claims en andere risico’s, en deze te herkennen en te voorkomen; en
+
+• toepasselijke wettelijke vereisten, relevante industrienormen en onze beleidsregels, met inbegrip van deze Privacykennisgeving en het Privacybeleid Samsung Account, na te leven en de handhaving daarvan af te dwingen.
+
+
+
+Samsung verwerkt persoonlijke gegevens voor de hierboven beschreven doeleinden. De wettelijke basis van Samsung om persoonlijke gegevens te verwerken, omvat verwerking die: noodzakelijk is voor de uitvoering van de overeenkomst tussen u en Samsung (bijvoorbeeld om u de IBA-dienst te verlenen en om u te identificeren en te verifiëren); noodzakelijk is om te voldoen aan de wettelijke vereisten (bijvoorbeeld om te voldoen aan toepasselijke boekhoudregels en om verplichte openbaarmakingen te doen om de wet af te dwingen); noodzakelijk is voor de legitieme belangen van Samsung (bijvoorbeeld om onze relatie met u te onderhouden en om de IBA-dienst te verbeteren); en op basis van toestemming door onze klanten (bijvoorbeeld om met u te communiceren over producten en diensten en om u marketinginformatie te verstrekken), die vervolgens op elk gewenst moment kan worden ingetrokken door naar het menu Instellingen te gaan, zoals gespecificeerd in het gedeelte Uw opties van deze Privacykennisgeving, zonder afbreuk te doen aan de rechtmatigheid van verwerking op basis van toestemming voorafgaand aan deze intrekking.
+
+
+
+U bent verplicht, als voorwaarde om de IBA-dienst te verkrijgen, om ons persoonlijke gegevens te verstrekken ter verwerking, zoals hierboven beschreven. Indien u geen persoonlijke gegevens aan ons verstrekt, kunnen we niet alle voorzieningen aan u leveren die beschikbaar zijn via de IBA-dienst.
+
+
+
+UW OPTIES
+
+U kunt uw PSID op elk gewenst moment resetten door naar het menu Instellingen te gaan. Zodra u uw PSID hebt gereset, worden uw tv-kijkgeschiedenis en gebruiksinformatie van de Smart TV losgekoppeld van deze vorige PSID. Denk eraan dat als u uw PSID reset, de kwaliteit van de IBA-dienst kan worden beïnvloed.
+
+
+
+Daarnaast kunt u de IBA-dienst op elk gewenst moment uitschakelen door naar het menu Instellingen op uw Samsung Smart TV te gaan.
+
+
+
+Uw privacykeuze voor de IBA-dienst heeft geen invloed op het ontvangen of aangeboden krijgen van andere soorten advertenties en marketing die niet specifiek gebaseerd zijn op uw tv-kijkgeschiedenis of de gebruiksinformatie van uw Samsung Smart TV. Die andere soorten reclame en marketing zijn op andere informatie gebaseerd, zoals globale locatie en andere geschatte of afgeleide gegevens. Deze kunnen minder relevant zijn, omdat ze niet op uw interesses zijn gebaseerd.
+
+
+
+WIJZIGINGEN IN ONZE PRIVACYKENNISGEVING
+
+Deze Privacykennisgeving kan in het kader van de IBA-dienst of wijzigingen in het toepasselijk recht zo nu en dan worden bijgewerkt in overeenstemming met onze praktijken met betrekking tot persoonlijke gegevens. We zullen een kennisgeving op onze website en/of op uw apparaat publiceren om u in kennis te stellen van alle aanzienlijke wijzigingen in onze Privacykennisgeving en bovenaan de kennisgeving aangeven wanneer deze voor het laatst is bijgewerkt.
+
+
+
+
+
+
+***************************************************************
+
+

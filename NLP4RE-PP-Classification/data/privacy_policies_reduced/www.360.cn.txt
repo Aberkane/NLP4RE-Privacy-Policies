@@ -1,0 +1,162 @@
+Title: Privacy Policy
+URL: https://smart.360.cn/cleanrobot/en/privacy.html
+Date of publishing: None
+Keywords: 360
+
+Policy: 
+Privacy Policy
+This Privacy Policy was last changed in May 2018.
+
+Who we are
+Qihoo 360 Technology Co., Ltd., (“we”) respects your privacy and values the trust you place in us when you share your personal data with us. This policy sets out how we, as data controller, collect and use your personal data, why we use it, with whom we share it, the rights to which you may be entitled and your choices about our use of your personal data.
+
+This policy covers our use of your personal data arising from use of 360 Robot Vacuum Cleaner, 360 Robot Vacuum Cleaner application (“APP”) and our official website (“www.360smartai.com & smart.360.cn/cleanrobot/en/”)
+
+If you have any questions or need any further clarity, please get in touch. Contact details are set out below.
+
+Your information
+We will collect and use your personal data to allow your access to and use of 360 Robot Vacuum Cleaner, the APP and Website and in accordance with the purposes set out in more detail in this section.
+
+What we collect	How we use it
+1.	
+Information provided as part of your account including:
+
+Your username;
+Your password;
+Your mobile phone number;
+Your email address;
+Your account settings;
+Your account preferences.
+We use this information, including to:
+
+Register an account for you and enable you to log in the account;
+Enable network-enabled features of 360 Robot Vacuum Cleaner and provide our services;
+Verify users’ identity and to prevent fraud;
+Identify how you'd like to use your account.
+2.	
+Information collected for associating your 360 Robot Vacuum Cleaner to your APP:
+
+IP address of your 360 Robot Vacuum Cleaner;
+Wi-Fi network information (including Wi-Fi account name and password);
+Serial number of your 360 Robot Vacuum Cleaner.
+We use this information to Associate 360 Robot Vacuum Cleaner with the APP.
+3.	
+Information automatically collected when you using 360 Robot Vacuum Cleaner:
+
+The areas you clean;
+Features 360 Robot Vacuum Cleaner you used and cleaning modes you chooses;
+Any faults of 360 Robot Vacuum Cleaner.
+We use this information, including to:
+
+Provide room cleaning service;
+Identify issues with 360 Robot Vacuum Cleaner and user's experience of it;
+Improve our service.
+4.	
+Information about the way you use our APP including:
+
+IP address of your mobile device;
+Device information such as Android ID, device type, operating system and its language, unique device identifiers, the mobile network system and its language, network/internet status;
+When and how you use our APP;
+The features of APP you used.
+We use this information, including to:
+
+Provide room cleaning service;
+Identify issues with 360 Robot Vacuum Cleaner and user's experience of it;
+Improve our service.
+5.	
+Information automatically collected through your use of our Website including:
+
+Date and time of requests;
+The requests you make;
+The pages you visit;
+IP address;
+Cleaning maps.
+We use this information, including to:
+
+Provide our services;
+Identify issues with the Website and user's experience of it;
+Monitor the way our website is browsed.
+6.	
+Information when you communicate with us whether in person, through our website or via email, over the phone, through social media or via any other medium, including:
+
+Your contact details (this may include your social media account if that's the way you communicate with us);
+The details of your communications with us;
+The details of our messages to you.
+We use this information, including to:
+
+Answer your questions;
+Monitor customer communications for service improvement and training purposes;
+Improve our services;
+Personalise our services
+Upgrade our products.
+Why we collect and how long we keep your information
+We collect and use your information for a variety of reasons. We need your information to enter into and perform our contract and realize the functions of 360 Robot Cleaner.
+
+Some information processing is required by law due to our anti-fraud screening obligations or in the public interest such as making sure we verify our users’ identities.
+
+Other information we collect because we have legitimate business interests, for example, in:
+
+Understanding how our users use 360 Robot Vacuum Cleaner, the APP and website;
+Delivering our services and communications to you as well as our other users and partners
+Understanding and responding to customer feedback;
+Researching and analysing the services our users want;
+Developing new services and improving our services;
+Understanding the type of products and services our users buy or use and how they use them;
+Providing security over our business and who we trade with.
+How long we keep your information
+We will keep your information for as long as it is reasonably necessary (except cloud video recording as stated above). It will depend on factors such as whether you have an account with us or have interacted with us. We will also routinely refresh our information to ensure we keep it up-to-date. Your accountinformation will be maintained permanently. Data like maps and cleaning history produced by 360 Robot Vacuum Cleaner will be maintained for two weeks.
+
+Uses for compliance with legal requirements
+Your personal data may also be processed if it is necessary on reasonable request by a law enforcement or regulatory authority, body or agency or in the defence of a legal claim. We will not delete personal data if relevant to an investigation or a dispute. It will continue to be stored until those issues are fully resolved.
+
+Information we share
+There are certain circumstances where we may transfer your personal data to employees, contractors and to other parties. We will not share your personal data with any unauthorized third parties.
+
+We may also share your information with certain contractors or service providers, for example, our database service providers. Our suppliers and service providers will be required to meet our standards on processing information and security. The information we provide them, including your information, will only be provided in connection with the performance of their function.
+
+Your personal data may be transferred to other third-party organisations in certain scenarios:
+
+If we're discussing selling or transferring part or all of our business – the information may be transferred to prospective purchasers under suitable terms as to confidentiality;
+If we are reorganised or sold, information may be transferred to a buyer who can continue to provide services to you;
+If we're required to by law, or under any regulatory code or practice we follow, or if we are asked by any public or regulatory authority – for example the Police;
+If we are defending a legal claim your information may be transferred as required in connection with defending such claim.
+360 Robot Vacuum Cleaner allows you to share the access to your robot by permitting other people to connect to your robot. These permitted users are able to access the robot and record videos from the robot until you withdraw your permission. We encourage you to exercise discretion and caution with respect to permitting others to access your robots because we do not control their actions and cannot stop them from sharing videos obtained from your robot with someone else.
+
+Where your information will be stored
+Some information we collect may be transferred to other countries, such as to our own servers or servers of our database providers in Frankfurt, Germany. Data of EU users is stored in EU server. These countries may not have equivalent data protection laws to those applicable in the European Union. We do, however, ensure an adequate data protection level by agreements with our data base provider and other arrangements. Please feel free to contact us for further details.
+
+Your rights
+You may have certain rights in relation to your information including a right to access or to correct the information we hold on you. We've listed the rights you have over your information and how you can use them below. These rights will only apply in certain circumstances. They will generally not be available if there are outstanding contracts between us, if we required are by law to keep the information or if the information is relevant to a legal dispute.
+
+You can ask us to confirm if we are processing your information.
+You access to and correct your account information by clicking your profile photo on the APP.
+You can disable Cloud Recording Feature through My Cloud Record in the APP.
+You can withdraw your consent to APP functions.
+You can ask us to restrict how we use your information.
+You can ask us to stop using your personal data, but only in certain cases.
+You have the right to complain to the relevant supervisory authority.
+Cookies
+We use cookies that identify your browser or device. A cookie is a small text file that is stored on a user’s computer or mobile device. We use cookies to record information about your activities on our Website to “remember” you when you return to the Website. You may set your browser setting to attempt to reject cookies and you may still use our Website.
+
+Security
+We are committed to keeping your personal data safe. We take reasonable and appropriate administrative, technical, organizational, and physical security and risk management measures in accordance with applicable laws to ensure that your personal data is adequately protected against accidental or unlawful destruction, damage, loss or alteration, unauthorized or unlawful access, disclosure or misuse, and all other unlawful forms of processing of your personal data in our possession.
+
+We are the first large-scale internet company which appoints the Chief Privacy Officer (“CPO”) in China. CPO is responsible for various affairs related to the users’ personal data that our software and hardware products and services may involve, including formulating privacy policies for various products and services, reviewing the terms of use for the products and services, and supervising implementation of the working principles and data processing mechanism of the products and services. In addition, we have established a department in charge of personal data protection and act under supervision of the public.
+We transfer and store personal data using encryption to ensure the privacy of such data. 360 Robot Vacuum Cleaner uses HTTPs between our APP and server with 2-way authentication interaction to protect your data. All the video stream uses private encryption protocol for anti-hacking and anti-peeping to ensure the security of data transmission.
+If you have a 360 account, we may analyse the login time, IP address, login times and other relevant information for our risk control and management. If our application adopts WebView technology, we conduct URL verification on all file agreements used in the WebView and restrict the access to the personal data and SD Card data to avoid the malicious misuse of any private documents and sensitive data of our products without special permission.
+We implement access control mechanism in our service end. We require our employees who may have access to your personal data to obey the principle of data minimization and examine the access list and access records on a regular basis.
+Our server systems used to store your personal data are equipped with strengthened safeguards. We conduct account audit and monitoring on the operation of our servers. Where any security problem of the server systems is reported, we will immediately complete security upgrades for the server systems to ensure the security of our server systems and applications.
+We conduct regular training on the relevant laws and regulations related to personal data protection to strengthen our employees’ awareness of privacy protection.
+If any destruction of our physical, technical or management safeguard measures occurs, we will launch our emergency plan in a timely manner to prevent the spreading effect of the security incident and will report the same to the competent authority in accordance with the relevant laws and regulations. We will also notify you, in a timely manner, of the security incident, potential impacts and the measures we have taken or will take to deal with the incident, in a reasonable and effective way such as pushing notifications and publishing announcements.
+Changes to the policy
+This policy will be changed from time to time.
+
+If we change anything important about this policy (the information we collect, how we use it or why) we will highlight those changes at the top of the policy and provide a prominent link to it for a reasonable length of time following the change.
+
+You can email the Data Protection Department for previous versions, you can get in touch at the following email address: privacy@360safe.com.
+
+How to contact us
+If you have any questions about this policy please contact our Data Protection Department: privacy@360safe.com
+***************************************************************
+
+

@@ -1,0 +1,6 @@
+Title: UserTesting Privacy Policy
+URL: https://www.usertesting.com/privacy-policy
+Date of publishing: None
+Keywords: policy, data, personal, services, platform, provide, site, privacy, information, customers, usertesting
+Policy: 
+Reduced Policy:  If you are an individual in the EEA or a California resident, please see the relevantGDRP NoticeandCCPA Noticewith respect to exercising your right to deletion. Data protection (aka privacy) law in certain jurisdictions, like the European Economic Area (EEA), differentiate between “controllers” and “processors” of personal information. A controller decides why and how to process personal information. A processor processes personal information on behalf of a controller based on the controller’s instructions. When UserTesting processes Visitor Data, Participant Data, and Customer Data, we generally act as a controller in most respects but may act as a processor in certain respects.

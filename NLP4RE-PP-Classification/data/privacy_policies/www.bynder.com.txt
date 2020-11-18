@@ -3,4 +3,166 @@ URL: https://www.bynder.com/en/legal/privacy-policy/
 Date of publishing: None
 Keywords: processed, global, policy, website, data, personal, email, products, privacy, information, purpose, bynder
 Policy: 
-Reduced Policy:   As a general matter, depending on local data protection laws, you have rights that may include: Clear information on our processing of your Personal Data;Access your Personal Data that we hold, together with the right to have inaccuracies corrected;To have your Personal Data delivered to you in a standard electronic format;To object to our processing of your Personal Data, and to prevent solely automated decision making or profiling; andTo restrict our processing of your Personal Data, or have your Personal Data deleted. 3.1 Exercising Your Rights  If you wish to exercise your rights with respect to your Personal Data, you can email your request to[email protected]or send postal mail to:  Bynder BVMax Euweplein 461017 MB AmsterdamThe NetherlandsAttn: Bynder Legal Team – Privacy  or  Bynder LLC321 Summer Street Suite 100Boston, MA 02210Attn: Bynder Legal Team – Privacy.  We will generally respond to your request within 30 days.  If you wish to unsubscribe from an email list, please click the “unsubscribe” link found at the bottom of our emails. If you work for one of Bynder’s customers, the best course is to ask the customer to delete your Personal Data. If you want to raise a complaint about the way we process your Personal Data or the way we have handled a request, please contact us. You may file a complaint with the data protection authority of any country where you live or work or where Bynder operates.  Product Users can withdraw consent by adjusting their User profile settings in the Products. Please note that the collection, processing, use, sharing, storage, and transfer of your Personal Data may be necessary for you to make use of our services and that Bynder customers and Users cannot unsubscribe from important User emails. 4. California Consumer Privacy Act (CCPA) Supplement  The CCPA is effective January 1, 2020. If you are a resident of California, this supplement to the Global Privacy Policy sets out additional rights and information for you.  Many obligations under the CCPA are addressed in other provisions of the Global Privacy Policy. This Supplement is meant to fill in the gaps for California residents and the terms used in this Supplement are either defined in the Global Privacy Policy or in the text of the CCPA.  CCPA Consumer Rights The right to access, and to know both the categories of personal information and the specific personal information we collect;The right to have your personal information deleted, subject to some legal limitations;The right to request disclosure of the personal information collected; andThe right to disclosure of information disclosed for valuable consideration.  Submitting Requests under CCPA  California residents may submit requests for information under the CCPA to Bynder by email to[email protected]or by calling our U.S.-based toll-free telephone number: 1 (877) 460-2314.  Please be as specific as possible when you exercise your rights under CCPA and submit a request regarding your personal information. Under the CCPA, we are obligated to verify your identify before we process your request.  No Discrimination  Bynder will not discriminate against you in pricing, user experience, or any other way for exercising any of your rights under the CCPA.  This Global Privacy Policy was last updated on: 31 December 2019.   If you wish to exercise your rights with respect to your Personal Data, you can email your request to[email protected]or send postal mail to:  Bynder BVMax Euweplein 461017 MB AmsterdamThe NetherlandsAttn: Bynder Legal Team – Privacy  or  Bynder LLC321 Summer Street Suite 100Boston, MA 02210Attn: Bynder Legal Team – Privacy.  We will generally respond to your request within 30 days.  If you wish to unsubscribe from an email list, please click the “unsubscribe” link found at the bottom of our emails. If you work for one of Bynder’s customers, the best course is to ask the customer to delete your Personal Data. If you want to raise a complaint about the way we process your Personal Data or the way we have handled a request, please contact us. You may file a complaint with the data protection authority of any country where you live or work or where Bynder operates.  Product Users can withdraw consent by adjusting their User profile settings in the Products. Please note that the collection, processing, use, sharing, storage, and transfer of your Personal Data may be necessary for you to make use of our services and that Bynder customers and Users cannot unsubscribe from important User emails. 4. California Consumer Privacy Act (CCPA) Supplement  The CCPA is effective January 1, 2020. If you are a resident of California, this supplement to the Global Privacy Policy sets out additional rights and information for you.  Many obligations under the CCPA are addressed in other provisions of the Global Privacy Policy. This Supplement is meant to fill in the gaps for California residents and the terms used in this Supplement are either defined in the Global Privacy Policy or in the text of the CCPA.  CCPA Consumer Rights The right to access, and to know both the categories of personal information and the specific personal information we collect;The right to have your personal information deleted, subject to some legal limitations;The right to request disclosure of the personal information collected; andThe right to disclosure of information disclosed for valuable consideration.  Submitting Requests under CCPA  California residents may submit requests for information under the CCPA to Bynder by email to[email protected]or by calling our U.S.-based toll-free telephone number: 1 (877) 460-2314.  Please be as specific as possible when you exercise your rights under CCPA and submit a request regarding your personal information. Under the CCPA, we are obligated to verify your identify before we process your request.  No Discrimination  Bynder will not discriminate against you in pricing, user experience, or any other way for exercising any of your rights under the CCPA.  This Global Privacy Policy was last updated on: 31 December 2019. 
+Bynder understands that visitors to our website (“the Website”), potential customers, and Users of Bynder products (“Products”) care about how their information is collected, used, processed, transferred, stored, and shared. This Global Privacy Policy describes Bynder’s commitment to protecting your privacy. It forms a part of our Website Terms of Use, Trial Terms of Use, and Standard Terms of Service, and all other documents incorporated therein (“Terms”). Any capitalized terms not defined in this Global Privacy Policy are defined as set out in the Terms.
+
+Please familiarize yourself with this Global Privacy Policy. This Global Privacy Policy is formally reviewed annually and is updated as often as necessary. Updates will be posted publicly on the Website. If we make substantive changes to the purposes and policies set out here, we will update this page and we will inform Product Users by email or in-application notification.
+
+This Global Privacy Policy provides information on how Bynder handles data as a data controller, meaning all data we process for our own purposes. Where Bynder is a processor or a sub-processor of data, that activity is generally governed by a Data Processing Agreement.
+
+1. What We Collect and How We Use It
+
+1.1 Website
+
+When you visit the Website, you are not required to actively provide any information, but we may collect some of your Personal Data and Navigation Information, as set out in Section 1.3 below. We collection some Personal Data, and we may collect some Navigation Information, when you contact us via the Website chat function, sign up to download or receive information from us, or sign up to use our Products. Some information is collected via the Website using cookies. See our Cookies Policy.
+
+1.2 Bynder Products
+
+We may collect Personal Data and Navigation Information from Users of our Products to help us provide, administer, and improve our Products. In order to use the Products, you will need to provide your full name and email address to us. To make changes to the permissions you give us, please visit your Bynder User profile.
+
+1.3 Collected Data
+
+“Personal Data” refers to any information that can be used to identify you personally. For our purposes, this may include your (first and last) name, email address, User ID, company name, address, phone number and information about you that is publicly available online via sites like Facebook, LinkedIn, Twitter, and Google, data you write in a contact form, your project role, your uploads, your preferences and your account settings.
+
+“Navigation Information” refers to information about your computer, device, visits to the Website, and use of the Products. For our purposes, this includes which website you visited prior to visiting us or which link or campaign you clicked on to reach our website, your IP address, geographical location (city and/or country), browser type and version, ISP information, referral source, length of visits, pages viewed, language preferences and heat mapping.
+
+In some cases Navigation Information may also be Personal Data.
+
+Generally, we may use your Personal Data and Navigation Information for the following purposes:
+
+Personalizing the Website for the legitimate purpose of improving your browsing experience. We retain Personal Data processed for this purpose until your browsing session with us has ended or until such time as you no longer have a profile with us;
+
+for the legitimate purpose of improving your browsing experience. We retain Personal Data processed for this purpose until your browsing session with us has ended or until such time as you no longer have a profile with us; Managing your Bynder account in performance of our agreement. We retain Personal Data processed for this purpose until we receive an actionable request to delete a User’s Personal Data, or in the case of termination or expiration of our agreement with a customer, we delete Personal Data as agreed in the Terms;
+
+in performance of our agreement. We retain Personal Data processed for this purpose until we receive an actionable request to delete a User’s Personal Data, or in the case of termination or expiration of our agreement with a customer, we delete Personal Data as agreed in the Terms; Understanding User preferences for the legitimate purpose of improving our Products. We may retain Personal Data processed for this purpose until you withdraw your consent;
+
+for the legitimate purpose of improving our Products. We may retain Personal Data processed for this purpose until you withdraw your consent; Linking your information to learn your preferences and those of people like you for the legitimate purpose of improving our offerings. We may retain Personal Data processed for this purpose until you withdraw your consent; and
+
+to learn your preferences and those of people like you for the legitimate purpose of improving our offerings. We may retain Personal Data processed for this purpose until you withdraw your consent; and Contacting you for direct marketing purposes. We may retain Personal Data processed for this purpose until you withdraw your consent.
+
+1.4 Supporting Suppliers
+
+The Website and Products integrate some services provided by third parties. We may share some of your information with these suppliers so they can provide their services, including payment processing, removing repetitive information from prospect lists, analyzing data, marketing support, customer and/or User profiling, business development, and customer service.
+
+To ensure that your Personal Data is collected, processed, used, stored, and transferred securely and in accordance with applicable law, Bynder uses third parties that provide sufficient guarantees to implement appropriate technical and organizational measures to protect your information. For such third parties that may transfer Personal Data outside the European Economic Area, Bynder confirms that it implements appropriate safeguards for such transfers (e.g. Privacy Shield certification, EU Standard Contractual Clauses, and binding corporate rules).
+
+Please note, the terms and privacy policies of such third parties may apply to you as well, in particular: Google Analytics, Drift, Google Optimize, Google Adwords, Google Tag Manager, Google Recaptcha, Walkme, Hotjar, Amplitude, Segment, Stripe, Appcues, Salesforce, Salesforce Pardot, Bizible, Clearbit, Rollworks, Mavenlink, Sisense, and Zendesk. Your acceptance of applicable third party terms is required to access the Website and Products.
+
+Disclaimer: This overview of supporting suppliers provides a current view. Bynder strives to keep this list as up to date as reasonably possible.
+
+1.5 Third-Party Websites
+
+The Website and Products may contain links to third party websites. Such links do not amount to an endorsement of such other websites. Bynder is not responsible for other websites.
+
+1.6 Social Media Buttons
+
+On our Website we use the social media plug-ins from Facebook, Twitter, LinkedIn, Vimeo, and YouTube, each marked with its logo. Plug-ins are also used for the embedded video players on our Website. We have implemented these plug-ins using a two-click solution. When you surf on our Website, no information is initially collected by social media plug-ins. if you click on one of the plug-ins or videos will your information be transmitted. When you activate a plug-in, data is automatically transmitted to that provider. These social media platforms have their own data privacy policies.
+
+
+
+1.7 Customer Testimonials
+
+We publish customer testimonials on the Website or in other marketing materials which may contain some Personal Data. Bynder obtains consent from the customer and the featured individuals prior to publication. This consent may be withdrawn by email to [email protected].
+
+1.8 Information of Children
+
+The Website and Products are for business use and are not intended for or targeted toward children under 16 (“Children”). We do not knowingly collect any information about Children. We encourage parents and legal guardians to monitor the internet usage of their Children and ensure they do not provide personal information to Bynder. If you believe that we have collected information about Children, please contact us at [email protected] so that we can delete the information.
+
+1.9 We Do Not Sell Personal Data
+
+We do not sell your Personal Data.
+
+2. Personal Data Retention and Security
+
+2.1 Retention of Personal Data
+
+We retain Personal Data for as long as we reasonably consider it to be necessary for the purposes for which it was collected, after which time we will delete the information. You can request deletion of your Personal Data as described in Section 3 below.
+
+2.2 Security of Personal Data
+
+Data security is a matter of critical importance. Bynder uses a wide range of security measures to safeguard your data against unauthorized access and disclosure and we continually evaluate our security program to ensure its effectiveness. Amazon Web Services provides our servers and maintains them in high-security controlled environments pursuant to the AWS Cloud Security policy.
+
+2.3 Transfer of Personal Data
+
+As an international company with customers and Users worldwide, we may transfer and access Personal Data around the world, including to and from the United States. To comply with applicable law, we maintain strong data protection and privacy controls to protect your Personal Data during cross-border and international transfers, as well as during periods of storage in foreign countries (e.g. Privacy Shield certification, EU Standard Contractual Clauses, and binding corporate rules). Please email [email protected] for a copy of these safeguards.
+
+We believe that your essential privacy rights are not contingent on your nationality or residency. While applicable law always governs data privacy matters, we intend for this Global Privacy Policy to apply generally to Users and their Personal Data around the world. Nevertheless, privacy law is a constantly changing landscape so we reserve the right to deviate from this Global Privacy Policy where applicable law provides for a different approach.
+
+2.4 Required Disclosure of Your Personal Data
+
+We may use or disclose your Personal Data if we reasonably determine that such use or disclosure is necessary to (a) protect our rights, operations, or Users; (b) comply with applicable laws, a valid court order, or other legal process; or (c) otherwise perform our contractual obligations with our customers.
+
+We may transfer the data we control, including Personal Data, in the event of a company reorganization, merger, or sale.
+
+3. Your Data and Your Rights
+
+As a general matter, depending on local data protection laws, you have rights that may include:
+
+Clear information on our processing of your Personal Data;
+
+Access your Personal Data that we hold, together with the right to have inaccuracies corrected;
+
+To have your Personal Data delivered to you in a standard electronic format;
+
+To object to our processing of your Personal Data, and to prevent solely automated decision making or profiling; and
+
+To restrict our processing of your Personal Data, or have your Personal Data deleted.
+
+3.1 Exercising Your Rights
+
+If you wish to exercise your rights with respect to your Personal Data, you can email your request to [email protected] or send postal mail to:
+
+Bynder BV
+
+Max Euweplein 46
+
+1017 MB Amsterdam
+
+The Netherlands
+
+Attn: Bynder Legal Team – Privacy
+
+or
+
+Bynder LLC
+
+321 Summer Street Suite 100
+
+Boston, MA 02210
+
+Attn: Bynder Legal Team – Privacy.
+
+We will generally respond to your request within 30 days.
+
+If you wish to unsubscribe from an email list, please click the “unsubscribe” link found at the bottom of our emails. If you work for one of Bynder’s customers, the best course is to ask the customer to delete your Personal Data. If you want to raise a complaint about the way we process your Personal Data or the way we have handled a request, please contact us. You may file a complaint with the data protection authority of any country where you live or work or where Bynder operates.
+
+Product Users can withdraw consent by adjusting their User profile settings in the Products. Please note that the collection, processing, use, sharing, storage, and transfer of your Personal Data may be necessary for you to make use of our services and that Bynder customers and Users cannot unsubscribe from important User emails.
+
+4. California Consumer Privacy Act (CCPA) Supplement
+
+The CCPA is effective January 1, 2020. If you are a resident of California, this supplement to the Global Privacy Policy sets out additional rights and information for you.
+
+Many obligations under the CCPA are addressed in other provisions of the Global Privacy Policy. This Supplement is meant to fill in the gaps for California residents and the terms used in this Supplement are either defined in the Global Privacy Policy or in the text of the CCPA.
+
+CCPA Consumer Rights
+
+The right to access, and to know both the categories of personal information and the specific personal information we collect;
+
+The right to have your personal information deleted, subject to some legal limitations;
+
+The right to request disclosure of the personal information collected; and
+
+The right to disclosure of information disclosed for valuable consideration.
+
+Submitting Requests under CCPA
+
+California residents may submit requests for information under the CCPA to Bynder by email to [email protected] or by calling our U.S.-based toll-free telephone number: 1 (877) 460-2314.
+
+Please be as specific as possible when you exercise your rights under CCPA and submit a request regarding your personal information. Under the CCPA, we are obligated to verify your identify before we process your request.
+
+No Discrimination
+
+Bynder will not discriminate against you in pricing, user experience, or any other way for exercising any of your rights under the CCPA.
+
+This Global Privacy Policy was last updated on: 31 December 2019.
+
+
